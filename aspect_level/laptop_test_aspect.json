@@ -1,0 +1,6058 @@
+﻿[
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لم يكن أمامي خيار سوى إيقاف تشغيل الكمبيوتر، وفصله، ثم توصيله مرة أخرى، ثم إعادة التشغيل.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "استغرق الأمر أسبوعًا أو نحو ذلك للتكيف معه، ولكنني أحبه الآن.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "البطارية لا تدوم طويلاً كما هو معلن عنها.",
+    "aspect": "البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جودة سيئة للغاية وغير ممتعة حقًا للاستخدام التطبيقات على playstore.",
+    "aspect": "NULL",
+    "category": "LAPTOP#QUALITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جودة سيئة للغاية وغير ممتعة حقًا للاستخدام التطبيقات على playstore.",
+    "aspect": "التطبيقات",
+    "category": "SOFTWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد كان قادرًا على التعامل مع كل ما أحتاجه لعملي.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذه القطعة من القرف لن تحمل إشارة واي فاي أو لديها إشارة ضعيفة حقًا.",
+    "aspect": "القرف",
+    "category": "LAPTOP#CONNECTIVITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "تعجبني فكرة أن لوحة المفاتيح تضيء وتحتوي على ميزة `` مهلة زمنية `` لإيقاف تشغيلها.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد اشتريت هذا للكلية للقيام بواجباتي المنزلية وأيضًا لدفع فواتيري.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب Chromebook الخاص بي.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع شاشة، صغير مظهر جانبي، خفيف الوزن، مدمج قلم، يمكنني الاستمرار في الحديث عن مدى روعة هذا الشيء.",
+    "aspect": "شاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع شاشة، صغير مظهر جانبي، خفيف الوزن، مدمج قلم، يمكنني الاستمرار في الحديث عن مدى روعة هذا الشيء.",
+    "aspect": "مظهر جانبي",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع شاشة، صغير مظهر جانبي، خفيف الوزن، مدمج قلم، يمكنني الاستمرار في الحديث عن مدى روعة هذا الشيء.",
+    "aspect": "مظهر جانبي",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع شاشة، صغير مظهر جانبي، خفيف الوزن، مدمج قلم، يمكنني الاستمرار في الحديث عن مدى روعة هذا الشيء.",
+    "aspect": "قلم",
+    "category": "HARDWARE#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- لوحة المفاتيح سيئة للغاية.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الصوت منخفض جدًا عند استخدام مكبر صوت / سماعة رأس aux.",
+    "aspect": "الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الصوت منخفض جدًا عند استخدام مكبر صوت / سماعة رأس aux.",
+    "aspect": "مكبر صوت / سماعة رأس aux",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الصوت غني وعالي بما فيه الكفاية، لكنه لن يحل محل نظام الموسيقى الخاص بك.",
+    "aspect": "الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الصوت غني وعالي بما فيه الكفاية، لكنه لن يحل محل نظام الموسيقى الخاص بك.",
+    "aspect": "الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "القرص الصلب الترقية متاحة",
+    "aspect": "القرص الصلب",
+    "category": "MEMORY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بشكل عام، يعمل بشكل جيد بما يكفي لتلبية احتياجاتي اليومية للإنترنت.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "قيمة رائعة لـ كمبيوتر محمول .",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- السعر مرتفع بعض الشيء بالنسبة لـ Chromebook",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه مثالي للمدرسة وتصفح الويب ومشاهدة مقاطع الفيديو.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "فهو راضٍ جدًا عنها وعن مميزاتها",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه سريع .",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "فهو مثالي لكل ما أحتاجه.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا الكمبيوتر المحمول لم يصل عمره حتى الآن إلى 30 يومًا.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كما يمكنك أن ترى من المراجعات، فقد نجح الأمر بشكل جيد بالنسبة لمعظم الناس.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا في الكلية الآن وأدرس تكنولوجيا المعلومات الجديدة وقد تمكنت من القيام بكل ما أحتاجه.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا تشتري هذا الكمبيوتر إذا كانت خطتك هي القيام بمهام متعددة، أو لعب لعبة من حين لآخر و/أو تشغيل الموسيقى أثناء البحث على الويب.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ماسح بصمات الأصابع نصف مكتوب وبالكاد يعمل.",
+    "aspect": "ماسح بصمات الأصابع",
+    "category": "HARDWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الماوس و إعدادات لوحة التتبع بسيطة للغاية، ولا توجد طريقة لتعديل مفاتيح الاختصار، و خيارات إدارة الطاقة بسيطة للغاية أيضًا.",
+    "aspect": "الماوس",
+    "category": "SOFTWARE#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الماوس و إعدادات لوحة التتبع بسيطة للغاية، ولا توجد طريقة لتعديل مفاتيح الاختصار، و خيارات إدارة الطاقة بسيطة للغاية أيضًا.",
+    "aspect": "إعدادات لوحة التتبع",
+    "category": "SOFTWARE#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الماوس و إعدادات لوحة التتبع بسيطة للغاية، ولا توجد طريقة لتعديل مفاتيح الاختصار، و خيارات إدارة الطاقة بسيطة للغاية أيضًا.",
+    "aspect": "خيارات إدارة الطاقة",
+    "category": "SOFTWARE#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد كان قادرًا حتى الآن على التعامل مع كل ما ألقيته عليه.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد اشتريت هذا المنتج المجدد ولم أواجه أي مشاكل.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ومتجر Google Play مليء بـالتطبيقات والألعاب الرائعة.",
+    "aspect": "متجر Google Play",
+    "category": "SOFTWARE#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ومتجر Google Play مليء بـالتطبيقات والألعاب الرائعة.",
+    "aspect": "التطبيقات",
+    "category": "SOFTWARE#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يعمل مثل السحر و شاشة شبكية العين رائعة للغاية.",
+    "aspect": "شاشة شبكية العين",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحد الأشياء التي تسعدني بشكل خاص: جهاز هادئ بدون مروحة لا يسخن كثيرًا!",
+    "aspect": "بدون مروحة",
+    "category": "FANS&COOLING#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحد الأشياء التي تسعدني بشكل خاص: جهاز هادئ بدون مروحة لا يسخن كثيرًا!",
+    "aspect": "بدون مروحة",
+    "category": "FANS&COOLING#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه يفعل كل ما أحتاجه وسريع بشكل مدهش.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يقال أن الشاشة الجميلة الشاشة مطابقة تمامًا لجهاز Pixelbook من حيث الحجم ونسبة العرض إلى الارتفاع والدقة.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أداء جيد الكمبيوتر .",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ثم أحضرته إلى المنزل، وعملت عليه لفترة، وأدركت مدى سهولة حدوث خلل في الإشعال ما لم تهبط الصواميل الميتة في منتصف المفتاح أثناء ضربتك.",
+    "aspect": "NULL",
+    "category": "KEYBOARD#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مفتاح الضغطات صلبة جدًا بحيث لا يمكن الضغط عليها.",
+    "aspect": "مفتاح",
+    "category": "KEYBOARD#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ثم في إحدى الليالي قمت بتوصيله واستيقظت على جهاز ميت Chromebook.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يوم واحد من الاستخدام والشاشة تقوم بإغلاق نفسها وتسجيل خروجك عندما تشعر بالحاجة إلى ذلك.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لكنني أتجه إلى التصوير الفوتوغرافي الآن، وهو أمر فظيع في تحميل الصور وتخزينها وتحريرها.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أجد أن العرض حاد و اللمس سريع الاستجابة ممتازان للغاية.",
+    "aspect": "العرض",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أجد أن العرض حاد و اللمس سريع الاستجابة ممتازان للغاية.",
+    "aspect": "اللمس",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أجد أن العرض حاد و اللمس سريع الاستجابة ممتازان للغاية.",
+    "aspect": "اللمس",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة الماوس مريحة جدًا للاستخدام.",
+    "aspect": "لوحة الماوس",
+    "category": "MOUSE#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "اشتريته لحفيدي في الكلية وهو يحبه.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع بشكل عام Chromebook .",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه سريع البطارية ويدوم لفترة طويلة ويفعل بالتأكيد ما أحتاج إليه (وهو تصفح الويب لعدة صفحات في نفس الوقت أثناء فتح عدد قليل من مستندات MS).",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه سريع البطارية ويدوم لفترة طويلة ويفعل بالتأكيد ما أحتاج إليه (وهو تصفح الويب لعدة صفحات في نفس الوقت أثناء فتح عدد قليل من مستندات MS).",
+    "aspect": "البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "hdmi لا يعمل بشكل صحيح.",
+    "aspect": "hdmi",
+    "category": "PORTS#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وصل لي غلاف الشاشة المعدني منحنيًا قليلاً، ويمكنني ثنيه بسهولة للخلف، ولست متأكدًا من متانة هذا الشيء على المدى الطويل.",
+    "aspect": "غلاف الشاشة المعدني",
+    "category": "DISPLAY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا تحتوي هذه الوحدة على غلاف جميل من الألومنيوم (وهو جذاب للغاية) فحسب، بل تحتوي أيضًا على لوحة مفاتيح لائقة ، مع خصائص لمسية أفضل بكثير من أي أجهزة Chromebook نظرت إليها في الماضي.",
+    "aspect": "من الألومنيوم",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا تحتوي هذه الوحدة على غلاف جميل من الألومنيوم (وهو جذاب للغاية) فحسب، بل تحتوي أيضًا على لوحة مفاتيح لائقة ، مع خصائص لمسية أفضل بكثير من أي أجهزة Chromebook نظرت إليها في الماضي.",
+    "aspect": "من الألومنيوم",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا تحتوي هذه الوحدة على غلاف جميل من الألومنيوم (وهو جذاب للغاية) فحسب، بل تحتوي أيضًا على لوحة مفاتيح لائقة ، مع خصائص لمسية أفضل بكثير من أي أجهزة Chromebook نظرت إليها في الماضي.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا تحتوي هذه الوحدة على غلاف جميل من الألومنيوم (وهو جذاب للغاية) فحسب، بل تحتوي أيضًا على لوحة مفاتيح لائقة ، مع خصائص لمسية أفضل بكثير من أي أجهزة Chromebook نظرت إليها في الماضي.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد حاولت إعادة ضبط المصنع بعد تحديث os، ولا يزال يستنزف 9٪ على مدار 8 ساعات.",
+    "aspect": "os",
+    "category": "OS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كنت مترددًا في البداية بسبب السعر، لكن يجب أن أقول إن هذه بصراحة آلة مذهلة آلة.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PRICE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كنت مترددًا في البداية بسبب السعر، لكن يجب أن أقول إن هذه بصراحة آلة مذهلة آلة.",
+    "aspect": "آلة",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول سريع جدًا مع 4 وحدات معالجة مركزية و8 وحدات معالجة رسومية على اللوحة.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشعور الأولي لهذا Chromebook رائع.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عمر البطارية جيد - أحصل على حوالي 5 - 6 ساعات من الكتابة دون توقف، مع فتح 3 متصفحات وتشغيل wifi دائمًا.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كـ كمبيوتر محمول، هذا هو الحجم الذي أحتاجه.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد قمت بتوصيل سماعات الرأس العادية (3) وكانت منخفضة بشكل رهيب - من غير الممتع الاستماع إلى الموسيقى بهذه الطريقة.",
+    "aspect": "سماعات الرأس",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد قمت بتوصيل سماعات الرأس العادية (3) وكانت منخفضة بشكل رهيب - من غير الممتع الاستماع إلى الموسيقى بهذه الطريقة.",
+    "aspect": "سماعات الرأس",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد قمت بتوصيل سماعات الرأس العادية (3) وكانت منخفضة بشكل رهيب - من غير الممتع الاستماع إلى الموسيقى بهذه الطريقة.",
+    "aspect": "سماعات الرأس",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا داعي للقول إن الرحلة رقم ثلاثة إلى Best Buy كانت عودة خالصة، حيث أن كونك 0/2 على جهاز باهظ الثمن جهاز يترك طعمًا سيئًا، هل تعلم؟",
+    "aspect": "جهاز",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "خفيف الوزن، عمر بطارية جيد ، شاشة حادة (3).",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "خفيف الوزن، عمر بطارية جيد ، شاشة حادة (3).",
+    "aspect": "بطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "خفيف الوزن، عمر بطارية جيد ، شاشة حادة (3).",
+    "aspect": "شاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وهذا يقودني إلى النقطة التالية، التعليقات المنتشرة في كل مكان حول \"هذا يبدو وكأنه جهاز كمبيوتر بقيمة 1000 دولار!\"",
+    "aspect": "NULL",
+    "category": "LAPTOP#PRICE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وهكذا، أدركت أنني أستطيع استخدام سطح مكتب الاستوديو أينما أريد، وفي أي وقت أريد.",
+    "aspect": "سطح مكتب الاستوديو",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا لا ألوم البائع، أنا ألوم نظام التشغيل Mac والخلل الذي فيه الخدمات.",
+    "aspect": "البائع",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا لا ألوم البائع، أنا ألوم نظام التشغيل Mac والخلل الذي فيه الخدمات.",
+    "aspect": "نظام التشغيل Mac",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا لا ألوم البائع، أنا ألوم نظام التشغيل Mac والخلل الذي فيه الخدمات.",
+    "aspect": "الخدمات",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "المشكلة الوحيدة التي أواجهها معه (ومن هنا تصنيف الأربع نجوم) هي عمر البطارية.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أبقيه متصلاً بالكهرباء دائمًا تقريبًا، لذلك لا يمكنني التعليق على عمر البطارية.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا الكمبيوتر سريع للغاية.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بعد استخدام نسبة العرض إلى الارتفاع 3: 2، أعتقد أنني أفضلها على النسبة العادية 16: 9، فيما يتعلق بأجهزة Chromebook.",
+    "aspect": "NULL",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عندما كنت أقارن هذا النموذج مع الشركات المصنعة / النماذج الأخرى، كان الشيء الوحيد الذي جعلني أتوقف هو عدم وجود قارئ / كاتب بطاقة.",
+    "aspect": "قارئ / كاتب بطاقة",
+    "category": "PORTS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد استخدمته لمدة أربعة أيام، وكان يعمل بشكل جيد.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كل شيء آخر جيد جدًا وأنا راضٍ",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كل شيء آخر جيد جدًا وأنا راضٍ",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- أقل من المتوسط شاشة السطوع حوالي 200 شمعة، المتوسط هو 250 - 275.",
+    "aspect": "شاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- الشاشة تتمتع بتباين رائع وهي لامعة وحادة",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- الشاشة تتمتع بتباين رائع وهي لامعة وحادة",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- الشاشة تتمتع بتباين رائع وهي لامعة وحادة",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه بطيئ قليلا .",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لن يتم الاتصال بـ wifi، والشاشة تومض عند التعديل أثناء التشغيل.",
+    "aspect": "wifi",
+    "category": "PORTS#CONNECTIVITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لن يتم الاتصال بـ wifi، والشاشة تومض عند التعديل أثناء التشغيل.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا مثالي .",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "mastercam في حد ذاته يعمل بشكل جيد.",
+    "aspect": "mastercam",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه خفيف بما يكفي لحمله في أي مكان تقريبًا.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PORTABILITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "صفحة الدعم الخاصة بهم مليئة بالأخطاء، وأفراد الدعم غير متعاونين.",
+    "aspect": "صفحة الدعم",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "صفحة الدعم الخاصة بهم مليئة بالأخطاء، وأفراد الدعم غير متعاونين.",
+    "aspect": "أفراد الدعم",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا جهاز كمبيوتر مذهل كمبيوتر اشتريته من cellelectronics.",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد كنت أستخدم هذا الكمبيوتر المحمول لمدة عام ولم أواجه أي مشاكل مع التسليم أو الكمبيوتر.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "تحديثات Apple سهلة.",
+    "aspect": "تحديثات Apple",
+    "category": "SOFTWARE#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب توزيع المنافذ وأشعر أنه يساعد في بيئة العمل الخاصة بك للاستخدام اليومي.",
+    "aspect": "المنافذ",
+    "category": "PORTS#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه بطيء في فعل كل شيء.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "* جيد جدًا عمر البطارية",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حظا سعيدا هذا دعم فني للعملاء و MSI ليس لديه أي فكرة على الإطلاق عن كيفية مساعدتك.",
+    "aspect": "دعم فني للعملاء",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حظا سعيدا هذا دعم فني للعملاء و MSI ليس لديه أي فكرة على الإطلاق عن كيفية مساعدتك.",
+    "aspect": "MSI",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "نأمل أن يتمكنوا من حل هذه المشكلة خلال عشر سنوات ولن تكون سيئة للغاية.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "نأمل أن يتمكنوا من حل هذه المشكلة خلال عشر سنوات ولن تكون سيئة للغاية.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول وصل متسخًا (قذرًا الشاشة وكان هناك شعر حيوان أليف حقيقي في فتحة التهوية).",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول وصل متسخًا (قذرًا الشاشة وكان هناك شعر حيوان أليف حقيقي في فتحة التهوية).",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول وصل متسخًا (قذرًا الشاشة وكان هناك شعر حيوان أليف حقيقي في فتحة التهوية).",
+    "aspect": "فتحة التهوية",
+    "category": "FANS&COOLING#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- واجهات المستخدم التي تتميز بالدقة والاستجابة",
+    "aspect": "واجهات المستخدم",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- واجهات المستخدم التي تتميز بالدقة والاستجابة",
+    "aspect": "واجهات المستخدم",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا مصمم جرافيكي / لاعب وبرمجياتي الإبداعية تعمل دون أي مشاكل وأستطيع تشغيل Sims 4 و World of Warcraft على إعدادات عالية جدًا دون أي مشاكل على الإطلاق.",
+    "aspect": "مصمم جرافيكي",
+    "category": "GRAPHICS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "نجمة أخرى خارج دعم تطبيقات Android، والتي ليست جاهزة للوقت المناسب.",
+    "aspect": "دعم تطبيقات Android",
+    "category": "SOFTWARE#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه أسرع، والشاشة أجمل بكثير، ويحتوي على ضعف الذاكرة وأربعة أضعاف مساحة القرص.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه أسرع، والشاشة أجمل بكثير، ويحتوي على ضعف الذاكرة وأربعة أضعاف مساحة القرص.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه أسرع، والشاشة أجمل بكثير، ويحتوي على ضعف الذاكرة وأربعة أضعاف مساحة القرص.",
+    "aspect": "الذاكرة",
+    "category": "MEMORY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه أسرع، والشاشة أجمل بكثير، ويحتوي على ضعف الذاكرة وأربعة أضعاف مساحة القرص.",
+    "aspect": "مساحة القرص",
+    "category": "HARD_DISC#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "في كل مكان كمبيوتر محمول asus الذي لا يحتوي على لوحة اللمس .",
+    "aspect": "كمبيوتر محمول asus",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "في كل مكان كمبيوتر محمول asus الذي لا يحتوي على لوحة اللمس .",
+    "aspect": "لوحة اللمس",
+    "category": "HARDWARE#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان الكمبيوتر المحمول رائعًا، وخفيف الوزن، وسريع التشغيل، وسهل الاستخدام.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان الكمبيوتر المحمول رائعًا، وخفيف الوزن، وسريع التشغيل، وسهل الاستخدام.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان الكمبيوتر المحمول رائعًا، وخفيف الوزن، وسريع التشغيل، وسهل الاستخدام.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان الكمبيوتر المحمول رائعًا، وخفيف الوزن، وسريع التشغيل، وسهل الاستخدام.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "قوة اللمس لوحة التتبع، رائعة جدًا.",
+    "aspect": "لوحة التتبع",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا تضيع وقتك في الاتصال بـ Apple لمعرفة ما إذا كان هناك أي شيء يمكنهم فعله حيال ذلك بعد عام واحد (ما لم تكن بالطبع ترغب في دفع المزيد من المال على 'Apple Care').",
+    "aspect": "Apple",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ثانياً، لوحة التتبع تبدو حساسة بعض الشيء.",
+    "aspect": "لوحة التتبع",
+    "category": "KEYBOARD#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ما لم يتم تصميم التطبيق  خصيصًا للوصول إلى ملفات Google Drive، فلن يكون لدى التطبيق  طريقة لقراءة الملفات وحفظها مباشرة في السحابة.",
+    "aspect": "NULL",
+    "category": "SOFTWARE#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ما لم يتم تصميم التطبيق  خصيصًا للوصول إلى ملفات Google Drive، فلن يكون لدى التطبيق  طريقة لقراءة الملفات وحفظها مباشرة في السحابة.",
+    "aspect": "NULL",
+    "category": "SOFTWARE#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد كان التبديل رائعًا.",
+    "aspect": "التبديل",
+    "category": "HARDWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ولكنه يعمل وهو مفيد.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "* جودة البناء * - أنا سعيد حقًا بالجودة الشاملة.",
+    "aspect": "جودة البناء",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "* جودة البناء * - أنا سعيد حقًا بالجودة الشاملة.",
+    "aspect": "NULL",
+    "category": "LAPTOP#QUALITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مستندات جوجل تعمل بشكل جيد.",
+    "aspect": "مستندات جوجل",
+    "category": "SOFTWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "في منتصف الاستخدام، أعيد تشغيله، ثم دخل في حلقة تمهيد لا نهاية لها، لذلك حاولت إعادة تعيينه إلى إعدادات المصنع الافتراضية، والآن يقول نظام التشغيل Chrome مفقود أو تالف.",
+    "aspect": "نظام التشغيل Chrome",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشيء الصغير الآخر هو أن مكبر الصوت ليس مرتفعًا.",
+    "aspect": "مكبر الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد كانت لدي آمال كبيرة في هذا الكمبيوتر اللوحي / الكمبيوتر بناءً على آراء العملاء.",
+    "aspect": "الكمبيوتر اللوحي / الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا هو بسهولة أفضل جهاز Chromebook في السوق حاليًا (أقل من 500 دولار).",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- عمر البطارية قوي، تقريبًا كما هو مُعلن - ربما من 7 إلى 10 ساعات اعتمادًا على متغيرات مثل سطوع الشاشة ومدى تطلبك لها.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "شاشة اللمس تعمل بشكل جيد.",
+    "aspect": "شاشة اللمس",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "المنتج رائع، لكن دعم العملاء سيئ للغاية.",
+    "aspect": "المنتج",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "المنتج رائع، لكن دعم العملاء سيئ للغاية.",
+    "aspect": "دعم العملاء",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "* تعمل المنافذ USB - C بشكل جيد، وقد اشتريت محولًا متعدد المنافذ، مما يمنحني منفذ USB عاديًا بالإضافة إلى منفذ HDMI ومنفذ USB - C آخر للشحن.",
+    "aspect": "USB - C",
+    "category": "PORTS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد قمت بإصلاح المنتجات لسنوات وكان من الواضح أن هذه كانت مشكلة في مصدر الطاقة.",
+    "aspect": "مشكلة في مصدر الطاقة",
+    "category": "POWER_SUPPLY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه يصدر صوتًا عاليًا جدًا عند الضغط على الزر.",
+    "aspect": "NULL",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب الوقت السريع بدء التشغيل مع ذاكرة Optane، وهو بديل جيد لـ SSD باهظ الثمن.",
+    "aspect": "بدء التشغيل",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب الوقت السريع بدء التشغيل مع ذاكرة Optane، وهو بديل جيد لـ SSD باهظ الثمن.",
+    "aspect": "ذاكرة Optane",
+    "category": "MEMORY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد دفعت 500 دولار مقابل جهاز كمبيوتر محمول مقاس 15 بوصة مزود بذاكرة وصول عشوائي (RAM) سعة 8 جيجابايت وأحدث معالج i5 - 8250u بوزن معقول 1 وقابل للتمديد تمامًا، وأنا سعيد بهذه الصفقة.",
+    "aspect": "1",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد دفعت 500 دولار مقابل جهاز كمبيوتر محمول مقاس 15 بوصة مزود بذاكرة وصول عشوائي (RAM) سعة 8 جيجابايت وأحدث معالج i5 - 8250u بوزن معقول 1 وقابل للتمديد تمامًا، وأنا سعيد بهذه الصفقة.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد دفعت 500 دولار مقابل جهاز كمبيوتر محمول مقاس 15 بوصة مزود بذاكرة وصول عشوائي (RAM) سعة 8 جيجابايت وأحدث معالج i5 - 8250u بوزن معقول 1 وقابل للتمديد تمامًا، وأنا سعيد بهذه الصفقة.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الذين يفعلون ذلك، لا يوجد لديهم لوحة الترقيم على الجانب الأيمن من لوحة المفاتيح وأنا بحاجة إلى ذلك.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه باهظ الثمن بعض الشيء بالنسبة لجهاز Chromebook ولكنه يستحق ذلك الآن.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PRICE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه باهظ الثمن بعض الشيء بالنسبة لجهاز Chromebook ولكنه يستحق ذلك الآن.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع الكمبيوتر، الإعداد كان سريعًا وسهلاً.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع الكمبيوتر، الإعداد كان سريعًا وسهلاً.",
+    "aspect": "الإعداد",
+    "category": "LAPTOP#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع الكمبيوتر، الإعداد كان سريعًا وسهلاً.",
+    "aspect": "الإعداد",
+    "category": "LAPTOP#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع كمبيوتر يمكنك لعب ألعاب 2015 وما دون على هذا كمبيوتر.",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الدعم الفني لن يساعدك إلا إذا كنت على استعداد للتخلي عن جهاز الكمبيوتر الخاص بك لعدة أشهر دون ضمان العودة.",
+    "aspect": "الدعم الفني",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جيد المتانة، أداء متميز وقابلية النقل.",
+    "aspect": "المتانة",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جيد المتانة، أداء متميز وقابلية النقل.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جيد المتانة، أداء متميز وقابلية النقل.",
+    "aspect": "قابلية النقل",
+    "category": "LAPTOP#PORTABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان كل شيء على ما يرام وخرجت لمدة ساعة.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه خفيف جدًا إذا كنت قادمًا من أي كمبيوتر محمول آخر.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PORTABILITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يجب علي أيضًا الضغط على لوحة التتبع بقوة شديدة للنقر بزر الماوس الأيسر (ولكن ليس بشكل سيء كما في الوحدة الأولى)، وفقدت وظيفة النقر بزر الماوس الأيمن على لوحة التتبع بعد يومين من رحلتي مع هذا الشيء.",
+    "aspect": "لوحة التتبع",
+    "category": "KEYBOARD#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- ddr4 ram قابلة للترقية .",
+    "aspect": "ddr4 ram",
+    "category": "MEMORY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مكبر الصوت جيد ولكن ليس مذهلاً، أنا أحب أنه مثبت على الجانبين حتى يعمل بشكل جيد في وضع الكمبيوتر المحمول أو الجهاز اللوحي بنفس القدر من الجودة.",
+    "aspect": "مكبر الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مكبر الصوت جيد ولكن ليس مذهلاً، أنا أحب أنه مثبت على الجانبين حتى يعمل بشكل جيد في وضع الكمبيوتر المحمول أو الجهاز اللوحي بنفس القدر من الجودة.",
+    "aspect": "مكبر الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هناك شيء خاطئ مع الكمبيوتر المحمول الخاص بي.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حتى الآن، قمت بتحميل عدد من الألعاب، وخزنة كلمات المرور الخاصة بي، والعديد من تطبيقات الإنتاجية، وSkype، وSpotify، وبعض عمليات مسح الشبكة تطبيقات Android وقد عملت جميعها بشكل جيد للغاية.",
+    "aspect": "NULL",
+    "category": "SOFTWARE#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حتى الآن، قمت بتحميل عدد من الألعاب، وخزنة كلمات المرور الخاصة بي، والعديد من تطبيقات الإنتاجية، وSkype، وSpotify، وبعض عمليات مسح الشبكة تطبيقات Android وقد عملت جميعها بشكل جيد للغاية.",
+    "aspect": "تطبيقات Android",
+    "category": "SOFTWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا الكمبيوتر المحمول لا يستحق الوقت وبالتأكيد ليس المال.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وأنا أؤمن حقًا بشركة Acer، ولكن في البداية واجهت الكثير من المشكلات في إعداد الكمبيوتر وبعد ساعات من مساعدة خدمة العملاء، لم تعمل لوحة اللمس حتى.",
+    "aspect": "لوحة اللمس",
+    "category": "KEYBOARD#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "في نهاية اليوم أعتقد أنه يستحق التكلفة الإضافية إذا كنت تبحث عن منتج متميز.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "Chromebook رائع بشكل عام.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مشرق بما يكفي لجميع الاستخدامات، و1080 بكسل مثالي - الصور حادة.",
+    "aspect": "1080 بكسل",
+    "category": "DISPLAY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مشرق بما يكفي لجميع الاستخدامات، و1080 بكسل مثالي - الصور حادة.",
+    "aspect": "1080 بكسل",
+    "category": "DISPLAY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه معطل، وبالكاد يمكن استخدامه.",
+    "aspect": "NULL",
+    "category": "HARDWARE#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه معطل، وبالكاد يمكن استخدامه.",
+    "aspect": "NULL",
+    "category": "HARDWARE#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا هو جهازي الثاني Chromebook وستكون عملية الشراء التالية لجهاز Chromebase ليحل محل جهاز الكمبيوتر المنزلي الخاص بي.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا تشتريه .",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه أنحف وأخف وزنا.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه أنحف وأخف وزنا.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عمر البطارية يقال أنه 10 ساعات ولكنني أجد أنه 7.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إعادة التشغيل الصعبة، إعادة الضبط، التحديث + الطاقة، ESC + التحديث + الطاقة، الشحن، تركه يستنزف، لا شيء أعاده إلى الحياة.",
+    "aspect": "NULL",
+    "category": "LAPTOP#USABILITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يحصل رباعي النواة celeron n3160 على درجة أوكتان محترمة تقترب من 8000.",
+    "aspect": "رباعي النواة celeron n3160",
+    "category": "CPU#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "تبلغ تكلفة الوحدة  275 دولارًا في البداية، لذا فهي لا تستحق الإصلاح.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PRICE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بسعر 500 دولار لـ Chromebook، كنت مترددًا بعض الشيء في الشراء، ولكن في هذه المرحلة أنا سعيد جدًا بـ الشراء وأعتقد أنه يستحق السعر.",
+    "aspect": "الشراء",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بسعر 500 دولار لـ Chromebook، كنت مترددًا بعض الشيء في الشراء، ولكن في هذه المرحلة أنا سعيد جدًا بـ الشراء وأعتقد أنه يستحق السعر.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد اضطررت إلى شراء ماوس لأن لوحة اللمس لزجة للغاية.",
+    "aspect": "لوحة اللمس",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد كنت أستخدمه لمدة 4 ساعات على الأقل منذ آخر شحنة، حيث تم استخدام 23% منه.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سهلة الاستخدام .",
+    "aspect": "NULL",
+    "category": "LAPTOP#USABILITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "قم بالركض مثل الجحيم من هذا الجهاز .",
+    "aspect": "الجهاز",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لكن مهندسي شركة آسوس صمموا العلبة و الكمبيوتر المحمول بحيث لا يمكن فتحهما من قبل المستخدمين.",
+    "aspect": "العلبة",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لكن مهندسي شركة آسوس صمموا العلبة و الكمبيوتر المحمول بحيث لا يمكن فتحهما من قبل المستخدمين.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مظهر جميل للغاية كمبيوتر محمول مقابل المال.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مظهر جميل للغاية كمبيوتر محمول مقابل المال.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الميكروفون لا يعمل مع مكبر الصوت العادي.",
+    "aspect": "الميكروفون",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الميكروفون لا يعمل مع مكبر الصوت العادي.",
+    "aspect": "مكبر الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "تومض الشاشة  لمدة ثانية كل 30 ثانية أو نحو ذلك.",
+    "aspect": "NULL",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بشكل عام، فإن الكمبيوتر المحمول يعطي إحساسًا بالصلابة.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أخيرًا حصلت على الضمان بعد ما يقرب من 6 أشهر.",
+    "aspect": "الضمان",
+    "category": "WARRANTY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- سعر رائع لـ شاشة تعمل باللمس Chromebook",
+    "aspect": "شاشة تعمل باللمس Chromebook",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مكبرات الصوت الموجودة في الجزء السفلي قد تستغرق بعض الوقت للتكيف معها، ولكن بعد ذلك سيكون كل شيء على ما يرام.",
+    "aspect": "مكبرات الصوت",
+    "category": "MULTIMEDIA_DEVICES#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- لائق جدًا عمر البطارية .",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لكن أعتقد أنه يحتوي على قدر كبير من الطاقة المتجهة إلى ذلك المعالج لذلك لا يمكنك الحصول عليه بالكامل.",
+    "aspect": "المعالج",
+    "category": "CPU#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاحن  معيب وبعد 45 يومًا من الاستخدام، يكون الشاحن  معطلاً.",
+    "aspect": "NULL",
+    "category": "POWER_SUPPLY#QUALITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إضاءة خلفية تسمح حتى للأشخاص ذوي الأيدي الكبيرة باستخدام هذا لوحة المفاتيح بشكل مريح في أي إضاءة.",
+    "aspect": "إضاءة خلفية",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إضاءة خلفية تسمح حتى للأشخاص ذوي الأيدي الكبيرة باستخدام هذا لوحة المفاتيح بشكل مريح في أي إضاءة.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "تدوم البطارية بطارية لمدة 8 - 9 ساعات على الأقل عند استخدامها لكتابة الملاحظات وتصفح الويب البسيط، مما يجعلها مثالية للطلاب.",
+    "aspect": "بطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "على سبيل المثال، لا يعمل تطبيق Android YouTube بشكل جيد على الإطلاق لأنه من غير الملائم للغاية عرض مقاطع الفيديو في وضع ملء الشاشة.",
+    "aspect": "Android YouTube",
+    "category": "SOFTWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "على سبيل المثال، لا يعمل تطبيق Android YouTube بشكل جيد على الإطلاق لأنه من غير الملائم للغاية عرض مقاطع الفيديو في وضع ملء الشاشة.",
+    "aspect": "Android YouTube",
+    "category": "SOFTWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يبدو أن هناك شيء ما في نظام التشغيل OS X الذي يعمل بدقة عالية شاشة يبدو أنيقًا بطريقة لا يمكن لجهاز كمبيوتر يعمل بنظام Windows أن يضاهيها أبدًا.",
+    "aspect": "نظام التشغيل OS X",
+    "category": "OS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يبدو أن هناك شيء ما في نظام التشغيل OS X الذي يعمل بدقة عالية شاشة يبدو أنيقًا بطريقة لا يمكن لجهاز كمبيوتر يعمل بنظام Windows أن يضاهيها أبدًا.",
+    "aspect": "شاشة",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "نادرًا ما أستخدم لوحة المفاتيح .",
+    "aspect": "NULL",
+    "category": "KEYBOARD#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بعد البحث عن جهاز كمبيوتر محمول عالي الجودة كمبيوتر محمول لا يكلف الكثير من المال، اخترت هذا الجهاز أخيرًا.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ثانياً، هذه آلة جميلة من الناحية الجمالية حقاً آلة.",
+    "aspect": "آلة",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مع كل هذه المميزات الرائعة المواصفات الأجهزة الموجودة في هذا الكمبيوتر المحمول، لماذا تضع محرك أقراص ثابت بسرعة 5400 دورة في الدقيقة محرك أقراص ثابت في هذه الوحدة؟",
+    "aspect": "المواصفات",
+    "category": "HARDWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مع كل هذه المميزات الرائعة المواصفات الأجهزة الموجودة في هذا الكمبيوتر المحمول، لماذا تضع محرك أقراص ثابت بسرعة 5400 دورة في الدقيقة محرك أقراص ثابت في هذه الوحدة؟",
+    "aspect": "الأجهزة",
+    "category": "HARDWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مع كل هذه المميزات الرائعة المواصفات الأجهزة الموجودة في هذا الكمبيوتر المحمول، لماذا تضع محرك أقراص ثابت بسرعة 5400 دورة في الدقيقة محرك أقراص ثابت في هذه الوحدة؟",
+    "aspect": "محرك أقراص ثابت",
+    "category": "HARD_DISC#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يتصل هذا Chromebook بالإنترنت على الفور.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#CONNECTIVITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عند الذهاب إلى متجر بقالة أو مركز للياقة البدنية، استغرقت الأجهزة اللوحية التي تعمل بنظام Android وقتًا طويلاً للاتصال لدرجة أنني أنهيت التسوق قبل أن يتم توصيلها بالإنترنت.",
+    "aspect": "الأجهزة اللوحية التي تعمل بنظام Android",
+    "category": "LAPTOP#CONNECTIVITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب الإضاءة الخلفية، فهي ليست ساطعة جدًا حتى لا تصيبك بالعمى في الليل.",
+    "aspect": "الإضاءة الخلفية",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "المنتج قوي، وخفيف الوزن، وسريع، ووقت تشغيل البطارية كان كما هو معلن عنه!",
+    "aspect": "المنتج",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "المنتج قوي، وخفيف الوزن، وسريع، ووقت تشغيل البطارية كان كما هو معلن عنه!",
+    "aspect": "المنتج",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "المنتج قوي، وخفيف الوزن، وسريع، ووقت تشغيل البطارية كان كما هو معلن عنه!",
+    "aspect": "المنتج",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "المنتج قوي، وخفيف الوزن، وسريع، ووقت تشغيل البطارية كان كما هو معلن عنه!",
+    "aspect": "وقت تشغيل البطارية",
+    "category": "BATTERY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "اتصلت الدعم للمرة الثانية بعد 10 دقائق من التحقق من بعض أنواع المعلومات، وأخبروني بالاتصال بـ Google دون محاولة المساعدة حتى.",
+    "aspect": "الدعم",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يبدو أن عمر البطارية هنا جيد.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "البطارية تدوم لفترة طويلة بشكل لا يصدق.",
+    "aspect": "البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "البطارية تدوم لفترة طويلة بشكل لا يصدق.",
+    "aspect": "البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "استخدم كما اشتريته، إنه جيد كمبيوتر محمول، ولكن ليس رائعًا (ربما قيمة 3 نجوم).",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "استخدم كما اشتريته، إنه جيد كمبيوتر محمول، ولكن ليس رائعًا (ربما قيمة 3 نجوم).",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بالنسبة لـ 99% من الأشخاص الذين يبحثون عن أجهزة Chromebook حاليًا للاستخدام الشخصي، فإن هذا Asus ربما يكون الخيار الأفضل في السوق.",
+    "aspect": "Asus",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها تحتوي على شاشة جميلة شاشة ساطعة للغاية وزاوية رؤية مناسبة وتباين جيد.",
+    "aspect": "شاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها تحتوي على شاشة جميلة شاشة ساطعة للغاية وزاوية رؤية مناسبة وتباين جيد.",
+    "aspect": "شاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها تحتوي على شاشة جميلة شاشة ساطعة للغاية وزاوية رؤية مناسبة وتباين جيد.",
+    "aspect": "شاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها تحتوي على شاشة جميلة شاشة ساطعة للغاية وزاوية رؤية مناسبة وتباين جيد.",
+    "aspect": "شاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ممتاز للاستخدام على الإنترنت.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا سعيد جدًا لأنني اشتريت هذا المنتج وسأشتريه مرة أخرى بالتأكيد.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لذا أنا سعيد جدًا ومطمئن لرؤية أنه يعمل بشكل ممتاز على c302.",
+    "aspect": "c302",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لذا أنا سعيد جدًا ومطمئن لرؤية أنه يعمل بشكل ممتاز على c302.",
+    "aspect": "c302",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد عمل بشكل جيد باستثناء مشكلة أولية عند تشغيله.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد تم قفله مرة أخرى.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد اضطررت إلى إعادة ضبط المصنع على هذه القطعة من القمامة 4 مرات وأنا أمتلكها منذ 4 أشهر فقط.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عندما يعمل فإنه يعمل بشكل رائع.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب مدى خفته وسرعته.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب مدى خفته وسرعته.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب مدى خفته وسرعته.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب مدى خفته وسرعته.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "واي فاي يتباطأ إلى الحد الأقصى ثم يعود إلى سرعته بشكل متقطع.",
+    "aspect": "واي فاي",
+    "category": "PORTS#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يمكن الترقية بسهولة إلى التخزين وذاكرة الوصول العشوائي.",
+    "aspect": "ذاكرة الوصول العشوائي",
+    "category": "MEMORY#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بسعر 300 دولار، يعد هذا شراءً رائعًا.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PRICE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كل شيء مثالي .",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشحن لا يدوم مثل الخمس ساعات المذكورة بل يدوم ثلاث ساعات.",
+    "aspect": "الشحن",
+    "category": "POWER_SUPPLY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد حققت Google وشركاؤها نجاحًا كبيرًا مع أجهزة Chromebook ولديهم الكثير من الميزات لاستيعابها.",
+    "aspect": "google and partners",
+    "category": "COMPANY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا الكمبيوتر المحمول واضح جدًا.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يعمل ألعاب إطلاق النار من منظور الشخص الأول بشكل جيد نسبيًا.",
+    "aspect": "ألعاب إطلاق النار من منظور الشخص الأول",
+    "category": "SOFTWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب هذا الكمبيوتر المحمول حرفيًا، إنه حجم لطيف 15.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا (نسبة الشاشة) يجعلها تبدو رائعة في وضع سطح المكتب.",
+    "aspect": "نسبة الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "قم بتوصيل cat5 و الجهاز يصرخ بسرعة عالية وهذا بالضبط ما كنت أتمناه.",
+    "aspect": "الجهاز",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد كانت جديدة تمامًا خارج العلبة، ولم أسقطها أبدًا.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا أزال أحتفظ بهذا كنسخة احتياطية أو إضافية كمبيوتر محمول بسبب سعره الرخيص.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بغض النظر عن عدد المرات التي قمت فيها بإعادة إدخال محول الشحن، كنت أستمر في تلقي هذه الرسالة.",
+    "aspect": "محول الشحن",
+    "category": "POWER_SUPPLY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بعد مكالمات عديدة، تلقيت تأكيدًا بأن الضمان  صالح، ولكن باعتباره \"مرة واحدة\" فقط.",
+    "aspect": "NULL",
+    "category": "WARRANTY#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد اعتدت كثيرًا على اختصارات الأصابع المتعددة على لوحة اللمس عند التنقل في Chrome.",
+    "aspect": "لوحة اللمس",
+    "category": "KEYBOARD#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بشكل عام، جيد جدًا أشياء.",
+    "aspect": "أشياء",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حجم لطيف لوحة مفاتيح، ويعمل بشكل رائع كجهاز لوحي (حتى أنه يقوم بإيقاف تشغيل ( لوحة المفاتيح) في وضع لوحي).",
+    "aspect": "لوحة مفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حجم لطيف لوحة مفاتيح، ويعمل بشكل رائع كجهاز لوحي (حتى أنه يقوم بإيقاف تشغيل ( لوحة المفاتيح) في وضع لوحي).",
+    "aspect": "لوحي",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سوف تنكسر، حتى لو عملت في البداية.",
+    "aspect": "NULL",
+    "category": "LAPTOP#QUALITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح تحتاج إلى إعادة تصميم بالكامل.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا يمكنني أن أكون أكثر سعادة بهذا المنتج!",
+    "aspect": "المنتج",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الإضاءة الخلفية قابلة للمقارنة، ولكن ميجا بايت تصبح أكثر سطوعًا.",
+    "aspect": "الإضاءة الخلفية",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الإضاءة الخلفية قابلة للمقارنة، ولكن ميجا بايت تصبح أكثر سطوعًا.",
+    "aspect": "ميجا بايت",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "السبب الذي يجعلني أعطي هذا الكمبيوتر المحمول نجمتين هو لأنني أعتقد أن جودته جيدة بشكل عام خاصة بالنسبة للسعر.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "السبب الذي يجعلني أعطي هذا الكمبيوتر المحمول نجمتين هو لأنني أعتقد أن جودته جيدة بشكل عام خاصة بالنسبة للسعر.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يعمل بشكل جيد ولكن المروحة تعمل بشكل متكرر، وذلك للحفاظ على برودة الكمبيوتر المحمول ولكن الصوت مزعج.",
+    "aspect": "المروحة",
+    "category": "FANS&COOLING#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يعمل بشكل جيد ولكن المروحة تعمل بشكل متكرر، وذلك للحفاظ على برودة الكمبيوتر المحمول ولكن الصوت مزعج.",
+    "aspect": "الصوت",
+    "category": "FANS&COOLING#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "اتصال واي فاي قوي ومتسق في تجربتي.",
+    "aspect": "اتصال واي فاي",
+    "category": "PORTS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "اتصال واي فاي قوي ومتسق في تجربتي.",
+    "aspect": "اتصال واي فاي",
+    "category": "PORTS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حتى مكبرات الصوت أفضل بكثير مما كنت أتوقعه من جهاز 2 في 1 في هذه النقطة السعرية.",
+    "aspect": "مكبرات الصوت",
+    "category": "MULTIMEDIA_DEVICES#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد انكسرت الشاشة الخاصة بي عندما وضعت كتابًا مدرسيًا عليها.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عمر البطارية جيد.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وضع الجهاز اللوحي متكامل بشكل فظيع مع نظام التشغيل والتطبيقات.",
+    "aspect": "وضع الجهاز اللوحي",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وضع الجهاز اللوحي متكامل بشكل فظيع مع نظام التشغيل والتطبيقات.",
+    "aspect": "نظام التشغيل",
+    "category": "OS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وضع الجهاز اللوحي متكامل بشكل فظيع مع نظام التشغيل والتطبيقات.",
+    "aspect": "التطبيقات",
+    "category": "SOFTWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بطاقة gaphics mx150 سيئة جدًا أيضًا.",
+    "aspect": "بطاقة gaphics mx150",
+    "category": "GRAPHICS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول تعطل وتوقف عن العمل بعد 3 أشهر فقط.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وجدت أن العرض نابض بالحياة للغاية، مع كثافة بكسل ممتازة.",
+    "aspect": "العرض",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وجدت أن العرض نابض بالحياة للغاية، مع كثافة بكسل ممتازة.",
+    "aspect": "العرض",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة العرض على الجهاز الذي تلقيته مشوهة.",
+    "aspect": "لوحة العرض على",
+    "category": "DISPLAY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "القرص الصلب يجعل هذا الكمبيوتر المحمول بطيئًا جدًا.",
+    "aspect": "القرص الصلب",
+    "category": "HARD_DISC#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "القرص الصلب يجعل هذا الكمبيوتر المحمول بطيئًا جدًا.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "انظر، لا تشتريه.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد بذلوا الكثير من التفكير والعمل للتأكد من أن الأجهزة و البرامج يعملان معًا بشكل جيد.",
+    "aspect": "NULL",
+    "category": "COMPANY#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد بذلوا الكثير من التفكير والعمل للتأكد من أن الأجهزة و البرامج يعملان معًا بشكل جيد.",
+    "aspect": "الأجهزة",
+    "category": "HARDWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد بذلوا الكثير من التفكير والعمل للتأكد من أن الأجهزة و البرامج يعملان معًا بشكل جيد.",
+    "aspect": "البرامج",
+    "category": "SOFTWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول يعمل بشكل مثالي، ولكنني حصلت على شاحن مستعمل لم يستمر سوى أسبوع واحد.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول يعمل بشكل مثالي، ولكنني حصلت على شاحن مستعمل لم يستمر سوى أسبوع واحد.",
+    "aspect": "شاحن",
+    "category": "POWER_SUPPLY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "شاشة اللمس دقيقة حقًا، وميزة (التقليب 360) سهلة حقًا - يمكنني التبديل إلى وضع الكمبيوتر اللوحي في أي وقت، على الرغم من أنني أستخدم هذا الوضع كثيرًا كجهاز كمبيوتر محمول.",
+    "aspect": "360 flip",
+    "category": "Out_Of_Scope#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أما بالنسبة للبرمجيات، ChromeOS هو نظام تشغيل عميل رفيع المستوى جيد يمكنه القيام بأكثر مما يعتقد معظم الناس.",
+    "aspect": "ChromeOS",
+    "category": "OS#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة التتبع و شاشة اللمس كلاهما ممتازان.",
+    "aspect": "لوحة التتبع",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة التتبع و شاشة اللمس كلاهما ممتازان.",
+    "aspect": "شاشة اللمس",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لم أقوم بتثبيت أي برنامج عليه حتى الآن، ولكنه يقوم بتحديث شيء ما كل يوم ويريد إعادة التشغيل.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بحلول الوقت الذي كنت أرجعه فيه، كان النظام  في حالة سيئة للغاية من MSI.",
+    "aspect": "NULL",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "2 وهذا كمبيوتر محمول هو قوة ملحمية لأقل من 700 دولار.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا قريب جدًا من إعادته وعدم شراء منتج آخر منتج Acer مرة أخرى أبدًا.",
+    "aspect": "منتج Acer",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حصلت على الكمبيوتر المحمول الثاني، وتوفي في غضون شهر ونفس الشيء.",
+    "aspect": "الكمبيوتر المحمول الثاني",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الرسومات رائعة .",
+    "aspect": "الرسومات",
+    "category": "GRAPHICS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- تبدو الشاشة  جيدة جدًا، إلا عند عرض أي شيء مظلم.",
+    "aspect": "NULL",
+    "category": "DISPLAY#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "شعور رائع بـ لوحة المفاتيح أيضًا.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا يدعم الاتصال السلكي.",
+    "aspect": "NULL",
+    "category": "LAPTOP#CONNECTIVITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا جعلني أعتقد أنه على الرغم من أنني اشتريت منتجًا \"جديدًا\" منتج، فقد أرسلوا لي منتجًا مجددًا بدلاً من ذلك.",
+    "aspect": "منتج",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الآن أتركه يشحن فقط حتى يمتلئ بالكامل ولكن الوقت البطارية لا يزال يتناقص.",
+    "aspect": "البطارية",
+    "category": "BATTERY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا هو جهازي الثالث Samsung Chromebook وسأستمر في استخدام هذا العلامة التجارية.",
+    "aspect": "Samsung Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا هو جهازي الثالث Samsung Chromebook وسأستمر في استخدام هذا العلامة التجارية.",
+    "aspect": "العلامة التجارية",
+    "category": "COMPANY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا يحتوي على لوحة مفاتيح ذات إضاءة خلفية: (الكتابة في الإضاءة المنخفضة أمر مؤلم للغاية.",
+    "aspect": "لوحة مفاتيح ذات إضاءة خلفية",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لذا، أود أن أتجنب هذا الأمر، وأنا أتجنب إلى حد كبير محرك Optane الذي ربما كان جزءًا من المشكلة.",
+    "aspect": "محرك Optane",
+    "category": "GRAPHICS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد كنت متحمسًا حقًا للحصول على هذا الكمبيوتر المحمول!",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يقوم Chromebook بمعظم ما أحتاج إليه، باستثناء اللعب.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "خدمة عملاء آسوس سيئة للغاية.",
+    "aspect": "خدمة عملاء آسوس",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كما قال الآخرون، العيب الوحيد هو بطء سرعة دوران القرص الصلب 5400 دورة في الدقيقة وسعة 1 تيرابايت.",
+    "aspect": "5400 دورة في الدقيقة",
+    "category": "HARD_DISC#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة لائقة، ليست رائعة، فهي غير لامعة.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة لائقة، ليست رائعة، فهي غير لامعة.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "اخترت شراء Samsung Chromebook هذه المرة فقط لتجربة شركة مختلفة ولأنها كانت غير مكلفة (دفعت 189 دولارًا).",
+    "aspect": "Samsung Chromebook",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يمكنها بث الموسيقى أو مقاطع الفيديو، أو القيام بواجباتها المدرسية، وما إلى ذلك، لذلك نحن جميعًا سعداء بعملية الشراء التي قمنا بها.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أشعر بخيبة أمل كبيرة مع هذا الكمبيوتر المحمول.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ممتاز لابتوب وبسعر معقول .",
+    "aspect": "لابتوب",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ممتاز لابتوب وبسعر معقول .",
+    "aspect": "لابتوب",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "دقة الشاشة جيدة جدًا أيضًا عند مشاهدة الأفلام أو عرض الصور.",
+    "aspect": "دقة الشاشة",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب تمامًا البرامج التي تأتي معه ؛ كيفية عمل جهاز Mac نفسه ، ومظهر وجودة جهاز Mac.",
+    "aspect": "البرامج",
+    "category": "SOFTWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه خفيف الوزن للغاية لكنه يبدو متينًا وقويًا للغاية.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه خفيف الوزن للغاية لكنه يبدو متينًا وقويًا للغاية.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه خفيف الوزن للغاية لكنه يبدو متينًا وقويًا للغاية.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وأيضًا، أنا أكره لوحة المفاتيح - أشعر أنها رخيصة حقًا.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وأيضًا، أنا أكره لوحة المفاتيح - أشعر أنها رخيصة حقًا.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا حقا أحب كيف أنها ليست ضخمة.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا توجد شكاوى هنا .",
+    "aspect": "NULL",
+    "category": "BATTERY#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أشعر بخيبة أمل كبيرة بسبب مدى بطئه.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أشعر بخيبة أمل كبيرة بسبب مدى بطئه.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا أمر مجنون بالنسبة لقسط باهظ الثمن المنتج.",
+    "aspect": "المنتج",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا أمر مجنون بالنسبة لقسط باهظ الثمن المنتج.",
+    "aspect": "المنتج",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "العيب الوحيد في الجهاز حتى الآن هو أنه ليس مريحًا بشكل خاص للاستخدام في وضع الكمبيوتر اللوحي؛ حواف الإطار حادة قليلاً بحيث لا تريح راحة يدك بشكل مريح وبمسافة 2.5 سم.",
+    "aspect": "حواف الإطار",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عمر البطارية قصير، لكن توصيله بالكهرباء يعمل.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إذا كان هذا في الواقع شيئًا متعلقًا بالبرمجيات وتم إصلاحه، فإنني أوصي بشدة بهذا الجهاز.",
+    "aspect": "الجهاز",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد تلقيت أسئلة وأجوبة حول هذا Chromebook تسأل عما إذا كان سيتم تنزيل MS Office.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بحلول يونيو 2018، توقف لوحة المفاتيح عن العمل، واضطررت إلى فصل الجهاز وإعادة تشغيله.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إدخال متعدد اللمس يعمل بشكل رائع.",
+    "aspect": "إدخال متعدد اللمس",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إن القدرة على استخدام تطبيقات متجر Play كانت بمثابة ميزة كبيرة وأنا الآن مرتاح جدًا مع مستندات Google، لقد نسيت بالفعل أنني أمتلك جهاز كمبيوتر محمولًا يعمل بنظام Windows.",
+    "aspect": "مستندات Google",
+    "category": "SOFTWARE#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عندما أعادته إلى acer لإصلاحه، زعموا ببساطة أنه تعرض للتلف بسبب الماء ولم يتمكنوا من إصلاحه.",
+    "aspect": "acer",
+    "category": "SUPPORT#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "استغرقت عملية تحويل الفيديو باستخدام نفس ملف الفيديو 25 دقيقة فقط مع asus vivobook f510ua.",
+    "aspect": "asus vivobook f510ua",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عمر البطارية مذهل ويتم شحنه من 0٪ إلى 100٪ في حوالي ساعة ونصف أثناء الاستخدام.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها آلة نظيفة، متوسطة، نحيفة، آلة.",
+    "aspect": "آلة",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها آلة نظيفة، متوسطة، نحيفة، آلة.",
+    "aspect": "آلة",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها آلة نظيفة، متوسطة، نحيفة، آلة.",
+    "aspect": "آلة",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا الكمبيوتر مذهل!",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كما أنه ليس محرك أقراص SSD حقيقيًا SSD ولكنه EMMC، مما يحدث فرقًا.",
+    "aspect": "SSD",
+    "category": "HARD_DISC#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ورغم كل المنافسة الجديدة التي تضرب السوق بأسعار أعلى، فإن C302 لا يزال يقدم أفضل تجربة متميزة Chrome OS بسعر محترم.",
+    "aspect": "C302",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ورغم كل المنافسة الجديدة التي تضرب السوق بأسعار أعلى، فإن C302 لا يزال يقدم أفضل تجربة متميزة Chrome OS بسعر محترم.",
+    "aspect": "Chrome OS",
+    "category": "OS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ورغم كل المنافسة الجديدة التي تضرب السوق بأسعار أعلى، فإن C302 لا يزال يقدم أفضل تجربة متميزة Chrome OS بسعر محترم.",
+    "aspect": "Chrome OS",
+    "category": "OS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سأقدم لهم الدعائم لـ جودة البناء.",
+    "aspect": "جودة البناء",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سعر رائع لكتاب جيد كتاب يستخدمه طلاب الجامعات الذين يحملونه طوال اليوم",
+    "aspect": "كتاب",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سعر رائع لكتاب جيد كتاب يستخدمه طلاب الجامعات الذين يحملونه طوال اليوم",
+    "aspect": "كتاب",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد طلبت MacBook Pro 13 بوصة 256 جيجابايت من هذا البائع وباستثناء زر الطاقة، لم يكن لوحة المفاتيح ولوحة التتبع يعملان.",
+    "aspect": "MacBook Pro",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد طلبت MacBook Pro 13 بوصة 256 جيجابايت من هذا البائع وباستثناء زر الطاقة، لم يكن لوحة المفاتيح ولوحة التتبع يعملان.",
+    "aspect": "زر الطاقة",
+    "category": "HARDWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد طلبت MacBook Pro 13 بوصة 256 جيجابايت من هذا البائع وباستثناء زر الطاقة، لم يكن لوحة المفاتيح ولوحة التتبع يعملان.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد طلبت MacBook Pro 13 بوصة 256 جيجابايت من هذا البائع وباستثناء زر الطاقة، لم يكن لوحة المفاتيح ولوحة التتبع يعملان.",
+    "aspect": "لوحة التتبع",
+    "category": "HARDWARE#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مفصلة الشاشة تبدو ضعيفة.",
+    "aspect": "مفصلة الشاشة",
+    "category": "HARDWARE#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أستمتع بسرعة معالجة هذا النموذج.",
+    "aspect": "النموذج",
+    "category": "CPU#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحبه !",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب محرك الحالة الصلبة، حيث تقول المراجعات أو الإعلانات أنه يمكنك تشغيل الجهاز والاتصال بالإنترنت في غضون 10 إلى 15 ثانية.",
+    "aspect": "محرك الحالة الصلبة",
+    "category": "HARD_DISC#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عندما طلبت من ASUS مفتاح بديل، قالوا إنني سأضطر إلى إعادته إليهم، وهو ما كان سيجعلني بدون جهاز كمبيوتر لمدة أسبوعين.",
+    "aspect": "ASUS",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بعد أن كنت على الهاتف مع الدعم الفني ودعم Windows لمدة 10 ساعات مجتمعة، قيل لي أن الأجهزة معيبة ويجب استبدالها.",
+    "aspect": "الأجهزة",
+    "category": "HARDWARE#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة تبدو رائعة.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة واضحة ومشرقة والنظام لا يتأخر إلا إذا كان لدي عدد كبير من علامات التبويب المفتوحة.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة واضحة ومشرقة والنظام لا يتأخر إلا إذا كان لدي عدد كبير من علامات التبويب المفتوحة.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة واضحة ومشرقة والنظام لا يتأخر إلا إذا كان لدي عدد كبير من علامات التبويب المفتوحة.",
+    "aspect": "النظام",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سأشتريه بالتأكيد مرة أخرى إذا كنت بحاجة إلى ذلك.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "المتحدث : جيد مكبرات الصوت ولكن ليس الأعلى صوتًا.",
+    "aspect": "مكبرات الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "المتحدث : جيد مكبرات الصوت ولكن ليس الأعلى صوتًا.",
+    "aspect": "NULL",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- جديد معالج i5 للجوال .",
+    "aspect": "معالج i5 للجوال",
+    "category": "CPU#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بالتأكيد يمكنني القول أن هذا هو أفضل كمبيوتر محمول امتلكته على الإطلاق (ولكن من ناحية أخرى، لم أمتلك سوى 3، وكنت أتوقع أن تتحسن هذه الأشياء بمرور الوقت، أليس كذلك).",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد اشتريت هذا دفتر ملاحظات في شهر يوليو وكنت سعيدًا في البداية بعملية الشراء.",
+    "aspect": "دفتر ملاحظات",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- لا يوجد منفذ إيثرنت (ليس أنني استخدمت أو احتجت إلى واحد يمكنني تذكره)",
+    "aspect": "منفذ إيثرنت",
+    "category": "PORTS#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "دمج هذه العناصر معًا وأصبح هذا العنصر محبطًا للغاية.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة متوسط حسب معايير 2017.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة واضحة ومشرقة، الإعداد يستغرق حرفيًا أقل من دقيقة، وهو سريع، ورخيص، ويتم شحنه بسرعة، ويدوم إلى الأبد.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة واضحة ومشرقة، الإعداد يستغرق حرفيًا أقل من دقيقة، وهو سريع، ورخيص، ويتم شحنه بسرعة، ويدوم إلى الأبد.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة واضحة ومشرقة، الإعداد يستغرق حرفيًا أقل من دقيقة، وهو سريع، ورخيص، ويتم شحنه بسرعة، ويدوم إلى الأبد.",
+    "aspect": "الإعداد",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة واضحة ومشرقة، الإعداد يستغرق حرفيًا أقل من دقيقة، وهو سريع، ورخيص، ويتم شحنه بسرعة، ويدوم إلى الأبد.",
+    "aspect": "الإعداد",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة واضحة ومشرقة، الإعداد يستغرق حرفيًا أقل من دقيقة، وهو سريع، ورخيص، ويتم شحنه بسرعة، ويدوم إلى الأبد.",
+    "aspect": "NULL",
+    "category": "POWER_SUPPLY#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سريع الشحن، المنتج تمامًا كما هو موضح، Apple أصلية، جديدة، مغلقة من المصنع في الصندوق.",
+    "aspect": "الشحن",
+    "category": "SHIPPING#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سريع الشحن، المنتج تمامًا كما هو موضح، Apple أصلية، جديدة، مغلقة من المصنع في الصندوق.",
+    "aspect": "المنتج",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا أعرف ما إذا كان هذا هو الوضع المعتاد في ChromeOS، أو ربما هناك خطأ ما في الأجهزة، ولكن هذا أمر مزعج للغاية.",
+    "aspect": "الأجهزة",
+    "category": "HARDWARE#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بقدر ما أحب الكمبيوتر، وكل ماك بوك لجميع أصدقائي، بالنسبة لي، يتوقف الأمر هنا والآن.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بقدر ما أحب الكمبيوتر، وكل ماك بوك لجميع أصدقائي، بالنسبة لي، يتوقف الأمر هنا والآن.",
+    "aspect": "ماك بوك",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "التعديل  مرت 8 أشهر وكل شيء يعمل بشكل رائع.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشيء الوحيد الذي لم يعجبني هو أن الشاشة ليست ساطعة بدرجة كافية و مكبرات الصوت ليست أعلى صوتًا.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشيء الوحيد الذي لم يعجبني هو أن الشاشة ليست ساطعة بدرجة كافية و مكبرات الصوت ليست أعلى صوتًا.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشيء الوحيد الذي لم يعجبني هو أن الشاشة ليست ساطعة بدرجة كافية و مكبرات الصوت ليست أعلى صوتًا.",
+    "aspect": "مكبرات الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا لا يهم حقًا بالنسبة لي لأن mx150 يكفي لاحتياجاتي.",
+    "aspect": "mx150",
+    "category": "GRAPHICS#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد قمنا بتشغيل World of Tank Blitz (باستخدام وحدة تحكم اللعبة) و Roblocks على إعدادات الدقة المنخفضة وشهدنا مظهرًا رائعًا وقدرة رائعة على اللعب.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "من الواضح أنه رائع الكمبيوتر",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يتيح معالج Core M3 لجهاز C302 أن يكون بدون مروحة أيضًا، مما يضيف إلى التصميم الأنيق .",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد طلبت واحدة، لوحة اللمس فشلت في العمل بشكل متسق.",
+    "aspect": "لوحة اللمس",
+    "category": "HARDWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عمر البطارية رائع وأنا أحب ميزة الشاشة التي تعمل باللمس / التقليب.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عمر البطارية رائع وأنا أحب ميزة الشاشة التي تعمل باللمس / التقليب.",
+    "aspect": "NULL",
+    "category": "DISPLAY#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بعد شهر من الاستخدام، يعمل القرص (c:) بنسبة 100% طوال الوقت.",
+    "aspect": "NULL",
+    "category": "HARD_DISC#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "التحديث: هذا هو الأسوأ على الإطلاق كمبيوتر قمت بشرائه على الإطلاق.",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا ماك بوك هو نعمة كبيرة وسوف أشعر بالضياع إلى حد ما بدونه.",
+    "aspect": "ماك بوك",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب لوحة المفاتيح و لوحة التتبع - وأخيرًا أفهم الآن سبب حصول كل منهما على تقييمات رائعة.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب لوحة المفاتيح و لوحة التتبع - وأخيرًا أفهم الآن سبب حصول كل منهما على تقييمات رائعة.",
+    "aspect": "لوحة التتبع",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الصوت فظيع حقًا ورقيق.",
+    "aspect": "الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الصوت فظيع حقًا ورقيق.",
+    "aspect": "الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- يمكن أن تدوم البطارية الفردية شحن البطارية لمدة 13 - 9 ساعات حسب الطلب على شبكة wifi / الفيديو / التطبيق",
+    "aspect": "شحن البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا أستخدمه كثيرًا في وضع الجهاز اللوحي كما كنت أعتقد لأنه ثقيل بعض الشيء في هذا التكوين.",
+    "aspect": "وضع الجهاز اللوحي",
+    "category": "LAPTOP#PORTABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان هذا المنتج رائعًا - رائعًا جودة التصنيع، دقة الشاشة، لوحة المفاتيح - حتى توقف في أحد الأيام عن التشغيل.",
+    "aspect": "المنتج",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان هذا المنتج رائعًا - رائعًا جودة التصنيع، دقة الشاشة، لوحة المفاتيح - حتى توقف في أحد الأيام عن التشغيل.",
+    "aspect": "جودة التصنيع",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان هذا المنتج رائعًا - رائعًا جودة التصنيع، دقة الشاشة، لوحة المفاتيح - حتى توقف في أحد الأيام عن التشغيل.",
+    "aspect": "دقة الشاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان هذا المنتج رائعًا - رائعًا جودة التصنيع، دقة الشاشة، لوحة المفاتيح - حتى توقف في أحد الأيام عن التشغيل.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان هذا المنتج رائعًا - رائعًا جودة التصنيع، دقة الشاشة، لوحة المفاتيح - حتى توقف في أحد الأيام عن التشغيل.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد عملت لعبة The Sims 4 بسلاسة تامة على النظام العادي الرسومات.",
+    "aspect": "الرسومات",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ssd مشكلة في الأجهزة",
+    "aspect": "ssd",
+    "category": "HARD_DISC#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "+ جيد جدًا لوحة IPS غير لامعة FHD، انعكاسات صفرية، تسرب الضوء يكاد يكون معدومًا، سطوع متوسط.",
+    "aspect": "لوحة IPS غير لامعة FHD",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا تهتم حتى بالاتصال دعم العملاء، في تجربتي، فإنهم لن يقدموا لك أي فائدة.",
+    "aspect": "دعم العملاء",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لطيف كمبيوتر لطفل المدرسة الابتدائية المسؤول.",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح جميلة جدًا وسريعة الاستجابة.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح جميلة جدًا وسريعة الاستجابة.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إجراء الإرجاع معقد للغاية لدرجة أنني قد أقرر كتابة هذا الشراء كخطأ كبير.",
+    "aspect": "إجراء الإرجاع",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ومع ذلك، فإنه يأتي مع 100 جيجابايت من التخزين المجاني جوجل درايف على الإنترنت.",
+    "aspect": "جوجل درايف على الإنترنت",
+    "category": "HARD_DISC#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مفتاح المسافة لا يقبل الإدخال دائمًا",
+    "aspect": "مفتاح المسافة",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا أعتقد أنك ستجد جهازًا أفضل كمبيوتر محمول بهذا السعر.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أعجبني إضافة زر تعزيز التبريد، ولكن في معظم الأحيان لا أضطر إلى استخدامه لأن لدي لوحة تبريد الكمبيوتر المحمول الأوتوماتيكية Thermaltake التي تراقب السطح السفلي للكمبيوتر المحمول الخاص بي.",
+    "aspect": "لوحة تبريد الكمبيوتر المحمول الأوتوماتيكية Thermaltake",
+    "category": "FANS&COOLING#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مصنوع من البلاستيك الرخيص ولكن الأداء يستحق المقايضة بجهاز كمبيوتر محمول بقيمة 500 دولار.",
+    "aspect": "NULL",
+    "category": "LAPTOP#QUALITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مصنوع من البلاستيك الرخيص ولكن الأداء يستحق المقايضة بجهاز كمبيوتر محمول بقيمة 500 دولار.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مصنوع من البلاستيك الرخيص ولكن الأداء يستحق المقايضة بجهاز كمبيوتر محمول بقيمة 500 دولار.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذه أول مرة أستخدم فيها Chromebook، وهذا هو جهازي المفضل الكمبيوتر المحمول على الإطلاق.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد بدأت للتو، لذا قد تتطور هذه المراجعة بمرور الوقت، ولكن بعد عدة أيام، أشعر بالرضا الشديد عن هذا المنتج الشراء وسأعرضه على أصدقائي في المستقبل المنظور.",
+    "aspect": "الشراء",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع كمبيوتر محمول!",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سعر رائع وأداء رائع ولكن سيئ البطارية.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PRICE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سعر رائع وأداء رائع ولكن سيئ البطارية.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سعر رائع وأداء رائع ولكن سيئ البطارية.",
+    "aspect": "البطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا جميل جدًا كمبيوتر محمول.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "تعمل الشاشة التي تعمل باللمس بشكل جيد للغاية، وتطبيقات Android تعمل بشكل صحيح الآن إذا كنت تستخدم القناة التجريبية لنظام التشغيل Chrome OS.",
+    "aspect": "تطبيقات Android",
+    "category": "SOFTWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح و لوحة الماوس تبدو جيدة، ولكن بشكل عام تبدو بطيئة بشكل غريب.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح و لوحة الماوس تبدو جيدة، ولكن بشكل عام تبدو بطيئة بشكل غريب.",
+    "aspect": "لوحة الماوس",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح و لوحة الماوس تبدو جيدة، ولكن بشكل عام تبدو بطيئة بشكل غريب.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كنت أفكر في شراء منتج من شركة Apple ولكنني أكثر سعادة بهذا المنتج!",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- مجموعة مختارة سخية من المنافذ (هذا في إشارة إلى الطراز الأحدث)",
+    "aspect": "المنافذ",
+    "category": "PORTS#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الصوت من المستحيل تقريبا سماعه.",
+    "aspect": "الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح نفسها ربما تكون هي النقطة الضعيفة المادية الوحيدة.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إن العديد من ملحقاتي ملحقات Chrome لا تعمل بشكل جيد ويجب تعطيلها تمامًا مما يؤدي إلى تدهور تجربة إنتاج العمل الخاصة بي.",
+    "aspect": "ملحقات Chrome",
+    "category": "SOFTWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مثل هذا تمامًا الكمبيوتر المحمول حتى الآن، لقد كتبت هذه المراجعة في وقت مبكر جدًا من امتلاكه حتى تلقي ذلك الجميل سماعة رأس MSI.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مثل هذا تمامًا الكمبيوتر المحمول حتى الآن، لقد كتبت هذه المراجعة في وقت مبكر جدًا من امتلاكه حتى تلقي ذلك الجميل سماعة رأس MSI.",
+    "aspect": "سماعة رأس MSI",
+    "category": "MULTIMEDIA_DEVICES#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "خفيف الوزن .",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "التحديث: يبدو أن الكمبيوتر المحمول الذي تم بيعه لي كان يفتقد 5 براغي من الداخل والتي تعمل في الواقع على تثبيت كل شيء معًا.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد أرسلته إلى ضمان ASUS والآن بعد أسبوع يرسلونه مرة أخرى قائلين أنه لم يتم العثور على أي مشكلة.",
+    "aspect": "ضمان ASUS",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا حقًا أستمتع بمظهر الجهاز 2 - 1 وأحب حقًا كيف أنه عند طيه في وضع الكمبيوتر اللوحي، لا توجد أي أخاديد غريبة على الجانبين.",
+    "aspect": "وضع الكمبيوتر اللوحي",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا الشيء سريع وفعال .",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا الشيء سريع وفعال .",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يتم تحميل صفحات الويب بسرعة.",
+    "aspect": "NULL",
+    "category": "SOFTWARE#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الرسومات جيدة لمستوى هذا الكمبيوتر المحمول.",
+    "aspect": "الرسومات",
+    "category": "GRAPHICS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يعمل chormebook كما هو موضح من قبل البائع.",
+    "aspect": "chormebook",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا ليس جهازًا قويًا، لم أضغط عليه مطلقًا، it ربما لن يتعامل مع أكثر من 20 علامة تبويب عبر نوافذ / أسطح مكتب متعددة اعتدت عليها في Chrome على سطح المكتب، ولكن بالنسبة لـ 99٪ من \"الأشخاص العاديين\"، فهذا جهاز كمبيوتر محمول جيد بشكل لا يصدق.",
+    "aspect": "it",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا هو الانطباع الأول، اليوم الأول لاستخدامه",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لن أشتري أبدًا منتجًا آخر منتج asus.",
+    "aspect": "منتج asus",
+    "category": "COMPANY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا Chromebook هو أحد أفضل أجهزة الكمبيوتر التي استخدمتها على الإطلاق.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا Chromebook هو أحد أفضل أجهزة الكمبيوتر التي استخدمتها على الإطلاق.",
+    "aspect": "أجهزة الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه بعيد كل البعد عن تلبية توقعاتي.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه حقًا سلس وسهل التحرك ذهابًا وإيابًا ويجعل التجربة باستخدام تكوينات Linux و البيئات المختلفة أمرًا سهلاً.",
+    "aspect": "تكوينات Linux",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه حقًا سلس وسهل التحرك ذهابًا وإيابًا ويجعل التجربة باستخدام تكوينات Linux و البيئات المختلفة أمرًا سهلاً.",
+    "aspect": "تكوينات Linux",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه حقًا سلس وسهل التحرك ذهابًا وإيابًا ويجعل التجربة باستخدام تكوينات Linux و البيئات المختلفة أمرًا سهلاً.",
+    "aspect": "تكوينات Linux",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه حقًا سلس وسهل التحرك ذهابًا وإيابًا ويجعل التجربة باستخدام تكوينات Linux و البيئات المختلفة أمرًا سهلاً.",
+    "aspect": "البيئات",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه حقًا سلس وسهل التحرك ذهابًا وإيابًا ويجعل التجربة باستخدام تكوينات Linux و البيئات المختلفة أمرًا سهلاً.",
+    "aspect": "البيئات",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه حقًا سلس وسهل التحرك ذهابًا وإيابًا ويجعل التجربة باستخدام تكوينات Linux و البيئات المختلفة أمرًا سهلاً.",
+    "aspect": "البيئات",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يتم اكتشاف Audio Quest Dragonfly تلقائيًا ويعمل بشكل مثالي عند توصيله بأحد المنافذ USB - C.",
+    "aspect": "USB - C",
+    "category": "PORTS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ومع ذلك، لا يزال 5 نجوم لأنك تحصل على ما تدفعه مقابله: رخيص الثمن، وقوي إلى حد ما، وخفيف الوزن كمبيوتر محمول للتنقل به والعبث به.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ومع ذلك، لا يزال 5 نجوم لأنك تحصل على ما تدفعه مقابله: رخيص الثمن، وقوي إلى حد ما، وخفيف الوزن كمبيوتر محمول للتنقل به والعبث به.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ومع ذلك، لا يزال 5 نجوم لأنك تحصل على ما تدفعه مقابله: رخيص الثمن، وقوي إلى حد ما، وخفيف الوزن كمبيوتر محمول للتنقل به والعبث به.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لن تشعر بخيبة أمل مع هذا الجهاز الصغير الرائع آلة بغض النظر عن الطريقة التي ستستخدمه بها، وهذا التنوع هو ما يجعل هذا آلة ممتعًا وقيمًا كمبيوتر.",
+    "aspect": "آلة",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لن تشعر بخيبة أمل مع هذا الجهاز الصغير الرائع آلة بغض النظر عن الطريقة التي ستستخدمه بها، وهذا التنوع هو ما يجعل هذا آلة ممتعًا وقيمًا كمبيوتر.",
+    "aspect": "آلة",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لن تشعر بخيبة أمل مع هذا الجهاز الصغير الرائع آلة بغض النظر عن الطريقة التي ستستخدمه بها، وهذا التنوع هو ما يجعل هذا آلة ممتعًا وقيمًا كمبيوتر.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لن تشعر بخيبة أمل مع هذا الجهاز الصغير الرائع آلة بغض النظر عن الطريقة التي ستستخدمه بها، وهذا التنوع هو ما يجعل هذا آلة ممتعًا وقيمًا كمبيوتر.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لن تشعر بخيبة أمل مع هذا الجهاز الصغير الرائع آلة بغض النظر عن الطريقة التي ستستخدمه بها، وهذا التنوع هو ما يجعل هذا آلة ممتعًا وقيمًا كمبيوتر.",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لن تشعر بخيبة أمل مع هذا الجهاز الصغير الرائع آلة بغض النظر عن الطريقة التي ستستخدمه بها، وهذا التنوع هو ما يجعل هذا آلة ممتعًا وقيمًا كمبيوتر.",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "في نصف الوقت لا يريد التشغيل ويومض فقط.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه لا يزال جهازًا وظيفيًا بشكل أساسي كمبيوتر، ولكن استخدامه ليس الأفضل على الإطلاق.",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه لا يزال جهازًا وظيفيًا بشكل أساسي كمبيوتر، ولكن استخدامه ليس الأفضل على الإطلاق.",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا مذهل Chromebook .",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا خارج منا، أنا أعيش في كولومبيا، وربما لا أستطيع إرجاع هذه الكمبيوتر المحمول.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "+ كمية مناسبة من المنافذ المتاحة (2)",
+    "aspect": "المنافذ",
+    "category": "PORTS#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "+ كمية مناسبة من المنافذ المتاحة (2)",
+    "aspect": "المنافذ",
+    "category": "PORTS#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "من الرائع حقًا أن يكون لديك شاشة تعمل باللمس عند استخدام التطبيقات ويمكنني الانتقال بسلاسة إلى استخدام لوحة التتبع / لوحة المفاتيح اعتمادًا على ما أفعله.",
+    "aspect": "شاشة تعمل باللمس",
+    "category": "DISPLAY#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر في حد ذاته ليس سيئًا، والدوران 360 وشاشة اللمس تبدو جيدة.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر في حد ذاته ليس سيئًا، والدوران 360 وشاشة اللمس تبدو جيدة.",
+    "aspect": "الدوران 360",
+    "category": "HARDWARE#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر في حد ذاته ليس سيئًا، والدوران 360 وشاشة اللمس تبدو جيدة.",
+    "aspect": "شاشة اللمس",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أعلم أن الأمر لا يستغرق سوى بضع ثوانٍ، ولكن لا ينبغي لجهاز جديد جهاز أن يفعل هذا الأمر، مما يجعلني أتساءل عما إذا كان الأمر سيصبح أسوأ في المستقبل.",
+    "aspect": "جهاز",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جيد بشكل عام كمبيوتر محمول .",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "في الواقع كان الأمر أقرب إلى 1h45m وكان هذا أيضًا بعد تحسين البطارية.",
+    "aspect": "البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لذا ذهبت لتثبيت تطبيقي المفضل تطبيق كتابة السيناريو، Trelby، فقط لأكتشف أنه غير متاح.",
+    "aspect": "تطبيق كتابة السيناريو",
+    "category": "SOFTWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سأوصي بهذا بشدة!",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سأوصي بهذا بشدة!",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "اشتريت هذا العام الماضي في يوليو.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ممتاز الأجهزة، ومع ذلك واجهت بعض المشاكل السيئة بعد التحديث Windows 10.",
+    "aspect": "الأجهزة",
+    "category": "HARDWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ممتاز الأجهزة، ومع ذلك واجهت بعض المشاكل السيئة بعد التحديث Windows 10.",
+    "aspect": "Windows 10",
+    "category": "OS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة اللمس تعمل بشكل جيد.",
+    "aspect": "لوحة اللمس",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة تبقى في أي وضع تضعها فيه بثبات كافٍ لاستخدام اللمس الشاشة.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بخلاف ذلك، فهو أمر رائع.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ماك رائع بالإضافة إلى شريحة أسفل لوحة الماوس.",
+    "aspect": "ماك",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ماك رائع بالإضافة إلى شريحة أسفل لوحة الماوس.",
+    "aspect": "شريحة",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مرحبًا، هذا الجهاز قابل للاستخدام للغاية وعملي.",
+    "aspect": "الجهاز",
+    "category": "LAPTOP#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مرحبًا، هذا الجهاز قابل للاستخدام للغاية وعملي.",
+    "aspect": "الجهاز",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حكمي النهائي - إنه قوي إلى حد ما باعتباره (جهازًا واحدًا) الآن بعد مرور 6 أشهر من التحديثات والتأخيرات.",
+    "aspect": "جهازًا",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- مكبرات الصوت صغيرة بعض الشيء (على الرغم من أن مستوى الصوت رائع) ومن غير الممكن تخصيص المعادل على Chrome OS الآن: (",
+    "aspect": "مكبرات الصوت",
+    "category": "MULTIMEDIA_DEVICES#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- مكبرات الصوت صغيرة بعض الشيء (على الرغم من أن مستوى الصوت رائع) ومن غير الممكن تخصيص المعادل على Chrome OS الآن: (",
+    "aspect": "مكبرات الصوت",
+    "category": "MULTIMEDIA_DEVICES#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- مكبرات الصوت صغيرة بعض الشيء (على الرغم من أن مستوى الصوت رائع) ومن غير الممكن تخصيص المعادل على Chrome OS الآن: (",
+    "aspect": "Chrome OS",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- شاشة اللمس ليست دقيقة كما أتمنى، في حالات مثل النقر على أشياء صغيرة حول الحواف.",
+    "aspect": "شاشة اللمس",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "Chromebook يبدو وكأنه نوع الجهاز الذي تراجعه بعد بضعة أسابيع، وبحلول الوقت الذي يحدث فيه أي شيء يؤثر على الاستخدام، سيكون البديل بنفس القدر أو أرخص، وأقوى مرتين، ويأتي مع لعبة `` angry birds `` مثبتة بشكل افتراضي.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لم يتم ذكر ذلك في أي مكان.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب هذا Chromebook .",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب هذا Chromebook .",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب هذا Chromebook .",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ومع ذلك،  مكبرات الصوت على هذا الشيء فظيعة.",
+    "aspect": "مكبرات الصوت",
+    "category": "MULTIMEDIA_DEVICES#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أعتقد أنه ليس من الصحي استخدام هذا لوحة المفاتيح لفترة طويلة.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#MISCELLANEOUS",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "محرك الأقراص الصلبة ss لديه تأخير قريب من الصفر مقارنة بمحركات الأقراص التقليدية.",
+    "aspect": "محرك الأقراص الصلبة ss",
+    "category": "HARD_DISC#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب الشاشة على هذا الجهاز، الصور نظيفة ونقية، وأستمتع بـ 4 غيغابايت من ذاكرة الوصول العشوائي التي تسمح لي بفتح بضعة علامات تبويب إضافية.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب الشاشة على هذا الجهاز، الصور نظيفة ونقية، وأستمتع بـ 4 غيغابايت من ذاكرة الوصول العشوائي التي تسمح لي بفتح بضعة علامات تبويب إضافية.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب الشاشة على هذا الجهاز، الصور نظيفة ونقية، وأستمتع بـ 4 غيغابايت من ذاكرة الوصول العشوائي التي تسمح لي بفتح بضعة علامات تبويب إضافية.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب الشاشة على هذا الجهاز، الصور نظيفة ونقية، وأستمتع بـ 4 غيغابايت من ذاكرة الوصول العشوائي التي تسمح لي بفتح بضعة علامات تبويب إضافية.",
+    "aspect": "ذاكرة الوصول العشوائي",
+    "category": "MEMORY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا يمكن إزالة البطارية .",
+    "aspect": "البطارية",
+    "category": "BATTERY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الآن يجب أن أتعامل مع أشياء الضمان وإرسالها مرة أخرى وما إلى ذلك.",
+    "aspect": "أشياء الضمان",
+    "category": "WARRANTY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان جهاز الكمبيوتر المحمول الموثوق لدي يعمل بنظام التشغيل Windows 7 على وشك الانتهاء واخترت تجربة شيء جديد.",
+    "aspect": "يعمل بنظام التشغيل Windows 7",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ما يفتقرون إليه في الحجم، يعوضونه بالسرعة الخام، والمتانة، وكفاءة الطاقة.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ما يفتقرون إليه في الحجم، يعوضونه بالسرعة الخام، والمتانة، وكفاءة الطاقة.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "العرض يتوقف عن العمل خلال شهرين.",
+    "aspect": "العرض",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب ذلك حقا .",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أعجبني الحجم والمميزات .",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "6 `` الشاشة كبيرة بما يكفي للقراءة بسهولة، ومع ذلك فإن العنصر نفسه خفيف بما يكفي لحمله في الاجتماعات.",
+    "aspect": "NULL",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "6 `` الشاشة كبيرة بما يكفي للقراءة بسهولة، ومع ذلك فإن العنصر نفسه خفيف بما يكفي لحمله في الاجتماعات.",
+    "aspect": "NULL",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "6 `` الشاشة كبيرة بما يكفي للقراءة بسهولة، ومع ذلك فإن العنصر نفسه خفيف بما يكفي لحمله في الاجتماعات.",
+    "aspect": "العنصر",
+    "category": "LAPTOP#PORTABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ماسح بصمة الإصبع لا يعمل على الإطلاق.",
+    "aspect": "ماسح بصمة الإصبع",
+    "category": "HARDWARE#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بالنسبة لنا، كان مثاليا.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "فظيع المنتج .",
+    "aspect": "المنتج",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "دقة الشاشة رائعة.",
+    "aspect": "دقة الشاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سريع المعالج .",
+    "aspect": "المعالج",
+    "category": "CPU#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد أعجبت كثيرًا بجهازي الأول Chromebook.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها ليست فاخرة، ولكنها ذات قيمة جيدة وسريعة وخالية من المتاعب.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها ليست فاخرة، ولكنها ذات قيمة جيدة وسريعة وخالية من المتاعب.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها ليست فاخرة، ولكنها ذات قيمة جيدة وسريعة وخالية من المتاعب.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنها ليست فاخرة، ولكنها ذات قيمة جيدة وسريعة وخالية من المتاعب.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "على ما يبدو أن التفاحة لم تعد تحاول بعد الآن.",
+    "aspect": "التفاحة",
+    "category": "COMPANY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الآن أشعر بالسوء لشراء هذا لطفلي، حيث يبدو أن هذا الكمبيوتر المحمول يتمتع بتقييم قوي في أماكن أخرى.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الآن أشعر بالسوء لشراء هذا لطفلي، حيث يبدو أن هذا الكمبيوتر المحمول يتمتع بتقييم قوي في أماكن أخرى.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ومع ذلك، كانت لدي بعض المشكلات البسيطة معه، ولكن مقابل السعر الذي تم إطلاقه به وهو 250 دولارًا، فقد كان يستحق ذلك تمامًا.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PRICE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بسبب سياسة الإرجاع الممتازة على Prime قررت شراء هذا.",
+    "aspect": "سياسة الإرجاع",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ممتاز لـ الرسومات، ليس معقدًا للغاية ولكنه قادر على إنجاز المهمة",
+    "aspect": "الرسومات",
+    "category": "GRAPHICS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أمنيتي الوحيدة هي أن يكون أسرع قليلاً / أقل تأخيرًا نظرًا لأنه جهاز Chromebook - ولكن بالنسبة لنقطة السعر فهو شراء رائع.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PRICE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بشكل عام فإن الكمبيوتر المحمول رخيص وهش.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بشكل عام فإن الكمبيوتر المحمول رخيص وهش.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كانت سرعات النقل (LAN إلى NAS) بطيئة للغاية (10 - 30 ميجابايت في الثانية).",
+    "aspect": "NULL",
+    "category": "PORTS#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أداء رائع وهادئ وبارد معالج.",
+    "aspect": "معالج",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أداء رائع وهادئ وبارد معالج.",
+    "aspect": "معالج",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أداء رائع وهادئ وبارد معالج.",
+    "aspect": "معالج",
+    "category": "CPU#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- شاشة تعمل باللمس تستجيب بشكل كافي للألعاب.",
+    "aspect": "شاشة تعمل باللمس",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه لا يستحق ذلك .",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "احب لوحة المفاتيح .",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "قد يتم رفض هذه المراجعة لأنني أفتقد الطابع ` ` عملية شراء تم التحقق منها ` ` ، وهو أمر عادل.",
+    "aspect": "عملية شراء تم التحقق منها",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول تم تشغيله مباشرة وكان الإعداد سهلاً للغاية.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول تم تشغيله مباشرة وكان الإعداد سهلاً للغاية.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "خفيف بالنسبة لحجمه، ولا يحتوي على الكثير من المرونة في الجسم.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب أن يكون حجمه كبيرًا فقط بقدر ما يجب أن يكون به حجم كامل لوحة مفاتيح (ليس مع لوحة أرقام، ولكن مفاتيح بالحجم الكامل).",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب أن يكون حجمه كبيرًا فقط بقدر ما يجب أن يكون به حجم كامل لوحة مفاتيح (ليس مع لوحة أرقام، ولكن مفاتيح بالحجم الكامل).",
+    "aspect": "لوحة مفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كما هو الحال دائمًا أمازون كان رائعًا بشأن إرجاعه.",
+    "aspect": "أمازون",
+    "category": "SUPPORT#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "• رائع عمر البطارية .",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "2/28/18 - قبل يومين قمت بتحديث Chrome OS.",
+    "aspect": "Chrome OS",
+    "category": "OS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "في شكل الكمبيوتر المحمول، فهو متوسط في أفضل الأحوال.",
+    "aspect": "شكل الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "شاشة حافة النانو جميلة .",
+    "aspect": "شاشة حافة النانو",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد عمل جهاز acer aspire e 15 الخاص بي بشكل رائع لمدة يوم، ثم توقف عن العمل تلقائيًا.",
+    "aspect": "acer aspire",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد عمل جهاز acer aspire e 15 الخاص بي بشكل رائع لمدة يوم، ثم توقف عن العمل تلقائيًا.",
+    "aspect": "acer aspire",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مثالية الحجم للاستخدام في السرير وجميلة ومشرقة.",
+    "aspect": "الحجم",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مثالية الحجم للاستخدام في السرير وجميلة ومشرقة.",
+    "aspect": "الحجم",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مثالية الحجم للاستخدام في السرير وجميلة ومشرقة.",
+    "aspect": "الحجم",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أعتقد أنه إذا قمت بإلغاء تثبيت / تثبيت برامج التشغيل بالترتيب الصحيح تمامًا و / أو قمت بتثبيت Windows 10 نظيف بنفسك، فيجب أن يعمل هذا الكمبيوتر المحمول جيدًا مقابل السعر.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا يوجد شيء `` احترافي `` في هذا الكمبيوتر اللوحي.",
+    "aspect": "الكمبيوتر اللوحي",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مشغل DVD هو لمسة لطيفة حقًا، لم أكن أعتقد أنني سأستخدمه ولكنني بالتأكيد سأفعله في المستقبل!",
+    "aspect": "مشغل DVD",
+    "category": "OPTICAL_DRIVES#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يجب أن أقول، كنت مترددًا إلى حد ما في شراء هذا Chromebook بشكل أساسي بسبب بعض المراجعات.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "2 منافذ USB و 2 منافذ Thunderbolt على كمبيوتر محمول بقيمة 4500 دولار نيوزيلندي؟",
+    "aspect": "منافذ USB",
+    "category": "PORTS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "2 منافذ USB و 2 منافذ Thunderbolt على كمبيوتر محمول بقيمة 4500 دولار نيوزيلندي؟",
+    "aspect": "منافذ Thunderbolt",
+    "category": "PORTS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إذا كنت تفكر في الحصول على هذا macbook، فاستمر بثقة.",
+    "aspect": "macbook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "العيب الوحيد هو أنه لا يقوم بتشغيل إصدارات Android الأصلية Microsoft Office، ويجب عليهم تحذيرك بشأن ذلك.",
+    "aspect": "Microsoft Office",
+    "category": "SOFTWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ومع ذلك، إذا كنت تريد جهازًا سريعًا حقًا Chromebook، فهو رائع.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ومع ذلك، إذا كنت تريد جهازًا سريعًا حقًا Chromebook، فهو رائع.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا يمكن للمستخدم استبدال ` ` محرك أقراص SSD ` `.",
+    "aspect": "محرك أقراص SSD ` `",
+    "category": "HARD_DISC#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب هذا Chromebook!",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عظيم الكمبيوتر!",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بعد عام واحد بالضبط من الاستخدام توقف هذا الكمبيوتر عن العمل تمامًا.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا Chromebook هو حقًا أحد أفضل الأجهزة التي يمكنك امتلاكها، وفي رأيي أحد أفضل أجهزة الكمبيوتر المحمولة بشكل عام!",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا Chromebook هو حقًا أحد أفضل الأجهزة التي يمكنك امتلاكها، وفي رأيي أحد أفضل أجهزة الكمبيوتر المحمولة بشكل عام!",
+    "aspect": "أجهزة الكمبيوتر المحمولة",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الرد ممتاز .",
+    "aspect": "الرد",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بعد قضاء بعض الوقت معها، يمكن أن تكون الميزة  مفيدة حقًا.",
+    "aspect": "NULL",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه محمول للغاية والبطارية يجب أن تدوم يومًا كاملاً من الاستخدام العادي.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PORTABILITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه محمول للغاية والبطارية يجب أن تدوم يومًا كاملاً من الاستخدام العادي.",
+    "aspect": "البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع الكمبيوتر .",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أوقف ما تفعله الآن وأحصل على هذا الكمبيوتر!",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- عمر البطارية يبدو ممتازًا",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول لن يتم تشغيله أبدًا، حتى بعد شحنه لمدة 24 ساعة.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "POWER_SUPPLY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لم أشتري من أمازون ولكن لا أستطيع أن أصدق أن هذه أجهزة الكمبيوتر المحمولة حصلت على 5 نجوم.",
+    "aspect": "أمازون",
+    "category": "COMPANY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لم أشتري من أمازون ولكن لا أستطيع أن أصدق أن هذه أجهزة الكمبيوتر المحمولة حصلت على 5 نجوم.",
+    "aspect": "أجهزة الكمبيوتر المحمولة",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أولاً، حالة الاستخدام: أكتب كثيرًا من أجل العمل وأستخدم Chromebook كجهازي اليومي للملاحظات ومعالجة الكلمات وجداول البيانات وما إلى ذلك.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "النقطة الضعيفة الوحيدة في الكمبيوتر المحمول هي القرص الصلب الذي يأتي معه، ولكن لحسن الحظ هذا الكمبيوتر المحمول قابل للتوسعة - فتحتان لذاكرة الوصول العشوائي وفتحة واحدة م.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "النقطة الضعيفة الوحيدة في الكمبيوتر المحمول هي القرص الصلب الذي يأتي معه، ولكن لحسن الحظ هذا الكمبيوتر المحمول قابل للتوسعة - فتحتان لذاكرة الوصول العشوائي وفتحة واحدة م.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جودة رائعة كمبيوتر .",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة اللمس دقيقة.",
+    "aspect": "لوحة اللمس",
+    "category": "HARDWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أول وحدة تلقيتها ماتت بعد ساعات قليلة من الاستخدام.",
+    "aspect": "وحدة",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- شعور استثنائي لوحة المفاتيح ولوحة اللمس",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- شعور استثنائي لوحة المفاتيح ولوحة اللمس",
+    "aspect": "لوحة اللمس",
+    "category": "HARDWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "المقابس جيدة وسيئة.",
+    "aspect": "المقابس",
+    "category": "PORTS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الحجم مثالي، فمن السهل وضعه في حقيبتي المدرسية أو حقيبة الظهر مع كتابي المدرسي ودفاتر الملاحظات والحصول على مساحة كبيرة.",
+    "aspect": "size",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الحجم مثالي، فمن السهل وضعه في حقيبتي المدرسية أو حقيبة الظهر مع كتابي المدرسي ودفاتر الملاحظات والحصول على مساحة كبيرة.",
+    "aspect": "NULL",
+    "category": "LAPTOP#PORTABILITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ram الترقية متاحة",
+    "aspect": "ram",
+    "category": "HARDWARE#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "اتصلت بخدمة العملاء ، في البداية جادلوني وقالوا إن هناك ضررًا للعميل، ثم حاولوا تهدئتي فقالوا إن لديهم خطة حماية من الأضرار العرضية من ADP لمرة واحدة لمدة عام.",
+    "aspect": "خدمة العملاء",
+    "category": "SUPPORT#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "تم تصميم وهندسة هذا الكمبيوتر المحمول بشكل جيد.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "توقف لوحة التتبع عن العمل بعد أربعة أسابيع من استخدامه.",
+    "aspect": "لوحة التتبع",
+    "category": "HARDWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح و لوحة التتبع تم دفعهما إلى اليسار.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح و لوحة التتبع تم دفعهما إلى اليسار.",
+    "aspect": "لوحة التتبع",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "* البطارية * - عمر البطارية رائع.",
+    "aspect": "بطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "* البطارية * - عمر البطارية رائع.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "في كل الأحوال، ابتعد .",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مع (4: os، فإن (4: os راقية وأنيقة للغاية.",
+    "aspect": "(4: os",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مع (4: os، فإن (4: os راقية وأنيقة للغاية.",
+    "aspect": "(4: os",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مع (4: os، فإن (4: os راقية وأنيقة للغاية.",
+    "aspect": "os",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مع (4: os، فإن (4: os راقية وأنيقة للغاية.",
+    "aspect": "os",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "البطارية جيدة .",
+    "aspect": "البطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "منافذ HDMI و USB على الجانب الأيسر، والجزء الخلفي لا يحتوي على أي منافذ على الإطلاق، وبؤس!",
+    "aspect": "منافذ HDMI و USB",
+    "category": "PORTS#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ولا تشتري أي منتج asus مرة أخرى",
+    "aspect": "asus",
+    "category": "COMPANY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الثالث جيد ولكن به بكسل ميت.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- لطيفة ومشرقة الشاشة ( تعمل باللمس الشاشة، أيضًا! )",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- لطيفة ومشرقة الشاشة ( تعمل باللمس الشاشة، أيضًا! )",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- لطيفة ومشرقة الشاشة ( تعمل باللمس الشاشة، أيضًا! )",
+    "aspect": "تعمل باللمس الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- لطيفة ومشرقة الشاشة ( تعمل باللمس الشاشة، أيضًا! )",
+    "aspect": "تعمل باللمس الشاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح كانت مربكة بعض الشيء.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع كمبيوتر، خاصة بالنسبة للسعر.",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "رائع كمبيوتر، خاصة بالنسبة للسعر.",
+    "aspect": "كمبيوتر",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جهاز رائع Chromebook، لكنه توقف عن الشحن في 3 أشهر.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جهاز رائع Chromebook، لكنه توقف عن الشحن في 3 أشهر.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه لائق .",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الأحدث معالج Core i5 من الجيل الثامن",
+    "aspect": "معالج Core i5 من الجيل الثامن",
+    "category": "CPU#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "موظفي خدمة عملاء آسوس وقحون وليس لديهم إجابات.",
+    "aspect": "موظفي خدمة عملاء آسوس",
+    "category": "SUPPORT#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد اشتريت هذا الكمبيوتر لأنه جاء بتقييم عالي من قبل تقارير المستهلك ومجلة الكمبيوتر وغيرها من التقييمات.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا هو أخيرًا Chromebook الذي كنت أنتظره، وهو ليس بكسل بقيمة 1300 دولار.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لاحظت أن البطارية انخفضت إلى 67٪ بدون سبب.",
+    "aspect": "البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أعني، إذا كنت تريد جهازًا لوحيًا حقيقيًا، فاشترِ جهازًا لوحيًا حقيقيًا - هذا في الحقيقة منعني من الاستثمار في جهاز Kindle كما كنت أخطط.",
+    "aspect": "NULL",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ثم في يوم من الأيام، توقف عن التشغيل.",
+    "aspect": "NULL",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح تهتز بصوت عالٍ عند الكتابة على الجانب الأيسر.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يعمل بشكل لا تشوبه شائبة وعمر بطارية لائق بطارية.",
+    "aspect": "بطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يعمل بشكل لا تشوبه شائبة وعمر بطارية لائق بطارية.",
+    "aspect": "NULL",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر جيد ولكن مكبرات الصوت انكسرت بعد أسبوع واحد من الاستخدام.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر جيد ولكن مكبرات الصوت انكسرت بعد أسبوع واحد من الاستخدام.",
+    "aspect": "مكبرات الصوت",
+    "category": "MULTIMEDIA_DEVICES#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد تم إيقاف تشغيله للتو ولن يتم تشغيله مرة أخرى.",
+    "aspect": "NULL",
+    "category": "LAPTOP#QUALITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح كانت سريعة الاستجابة وكان حجمها جيدًا.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح كانت سريعة الاستجابة وكان حجمها جيدًا.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب الشاشة الحادة العرض ولوحة التتبع .",
+    "aspect": "العرض",
+    "category": "DISPLAY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب الشاشة الحادة العرض ولوحة التتبع .",
+    "aspect": "NULL",
+    "category": "KEYBOARD#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ملاحظة: دعم أمازون يجعل الأمر جيدًا وأرسل لي على الفور ملصق الإرجاع، اشتريت من خلال طرف ثالث ولكنني سأستعيد أموالي، الحمد لله خدمة عملاء أمازون",
+    "aspect": "دعم أمازون",
+    "category": "SUPPORT#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ملاحظة: دعم أمازون يجعل الأمر جيدًا وأرسل لي على الفور ملصق الإرجاع، اشتريت من خلال طرف ثالث ولكنني سأستعيد أموالي، الحمد لله خدمة عملاء أمازون",
+    "aspect": "خدمة عملاء أمازون",
+    "category": "SUPPORT#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا هو جهاز الكمبيوتر المفضل لدي الكمبيوتر من بين كل الأجهزة التي امتلكتها على الإطلاق.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الصوت جيد بالنسبة لي ولكن ليس جيدًا مثل مكبرات الصوت الخارجية.",
+    "aspect": "الصوت",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الصوت جيد بالنسبة لي ولكن ليس جيدًا مثل مكبرات الصوت الخارجية.",
+    "aspect": "مكبرات الصوت الخارجية",
+    "category": "MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد كنت أستخدم هذا لمدة 3 أشهر فقط.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد امتلكنا الكمبيوتر لمدة 5 أسابيع، واستخدمناه لمدة إجمالية تقل عن 20 ساعة، وسوف يختفي الآن لمدة 3 أسابيع.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد امتلكنا الكمبيوتر لمدة 5 أسابيع، واستخدمناه لمدة إجمالية تقل عن 20 ساعة، وسوف يختفي الآن لمدة 3 أسابيع.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أفهم أن هذا من المفترض أن يخزن كل شيء في السحابة، لذا لا ينبغي أن يكون الأمر مشكلة كبيرة، ولكن عندما تحاول إنجاز العمل حيث لا يوجد وصول إلى الإنترنت (نظرًا لأن مستندات Google تعمل في وضع عدم الاتصال بالإنترنت)، فإنه يكون عديم الفائدة عمليًا عندما يتعين عليه إعادة ضبط نفسه إلى إعدادات المصنع بعد تشغيله مباشرةً.",
+    "aspect": "NULL",
+    "category": "OS#DESIGN_FEATURES",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "1080 شاشة يجعل الخطوط صغيرة جدًا لهذا الحجم شاشة.",
+    "aspect": "شاشة",
+    "category": "DISPLAY#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "شاشة اللمس تعمل بشكل رائع.",
+    "aspect": "شاشة اللمس",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "البطارية يمكن أن تدوم معي لمدة 5 أو 6 ساعات تقريبًا عند استخدام الإنترنت فقط مع علامات تبويب متعددة.",
+    "aspect": "البطارية",
+    "category": "BATTERY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إنه يوفر الوقت حقًا، بصراحة.",
+    "aspect": "NULL",
+    "category": "DISPLAY#USABILITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جودة الصورة جيدة جدًا والكتاب نفسه سريع الاستجابة.",
+    "aspect": "جودة الصورة",
+    "category": "DISPLAY#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جودة الصورة جيدة جدًا والكتاب نفسه سريع الاستجابة.",
+    "aspect": "الكتاب",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "جودة الصورة جيدة جدًا والكتاب نفسه سريع الاستجابة.",
+    "aspect": "الكتاب",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أتخيل تمامًا أن تطبيقات Chrome تتزايد بشكل كبير من حيث الجودة والكمية الآن، حيث يبدو أن نظام التشغيل Chrome OS أصبح قادرًا حقًا على تحقيق نجاحه هذا العام.",
+    "aspect": "تطبيقات Chrome",
+    "category": "SOFTWARE#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "منافذ Thunderbolt هي شيء لطيف أن يكون على mbp.",
+    "aspect": "منافذ Thunderbolt",
+    "category": "PORTS#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "بعد 3 أشهر من الاستخدام، لن يتم شحن (الوحدة).",
+    "aspect": "الوحدة",
+    "category": "POWER_SUPPLY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول يعمل بشكل رائع وتم تسليم الحزمة في الوقت المحدد.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر المحمول يعمل بشكل رائع وتم تسليم الحزمة في الوقت المحدد.",
+    "aspect": "الحزمة",
+    "category": "SHIPPING#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا معجب جدًا بهذا النظام.",
+    "aspect": "النظام",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "معالج amd a12 سريع جدًا عند تحميل كل شيء من SSD.",
+    "aspect": "معالج amd a12",
+    "category": "CPU#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشاشة مناسبة تمامًا.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عندما تجمع كل هذه القوى وتقدمها بسعر 299 دولارًا، فإنك تحصل على عرض قيمة مثير للإعجاب إلى حد ما هنا مع هذا Chromebook.",
+    "aspect": "Chromebook",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يعمل بشكل جيد كـ جهاز لوحي .",
+    "aspect": "جهاز لوحي",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "والآن، يقول الكمبيوتر أنه متصل ولكنه لا يشحن.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر جيد بالنسبة للسعر، ولكن منفذ HDMI مكسور بالفعل.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الكمبيوتر جيد بالنسبة للسعر، ولكن منفذ HDMI مكسور بالفعل.",
+    "aspect": "منفذ HDMI",
+    "category": "PORTS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "من الواضح أن الأشخاص الذين يشكون من أن أجهزة Chromebook عديمة الفائدة بدون الوصول إلى الإنترنت ضيقو الأفق ولا يفكرون خارج الصندوق.",
+    "aspect": "الوصول إلى الإنترنت",
+    "category": "PORTS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان الانتقال من acer 15 إلى acer 11 صعبًا، حيث يبدو أن 11 بوصة صغير جدًا بالنسبة لي.",
+    "aspect": "acer 11",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان الانتقال من acer 15 إلى acer 11 صعبًا، حيث يبدو أن 11 بوصة صغير جدًا بالنسبة لي.",
+    "aspect": "acer 11",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد أحببت هذا حقًا الكمبيوتر المحمول .",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "مع المعالج البطيء سيليرون، لا يبدو التصفح سريعًا.",
+    "aspect": "سيليرون",
+    "category": "CPU#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "asus chromebook flip 302ca سلس وسريع ومصمم بشكل جيد بشكل لا يصدق.",
+    "aspect": "asus chromebook flip 302ca",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "asus chromebook flip 302ca سلس وسريع ومصمم بشكل جيد بشكل لا يصدق.",
+    "aspect": "asus chromebook flip 302ca",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "asus chromebook flip 302ca سلس وسريع ومصمم بشكل جيد بشكل لا يصدق.",
+    "aspect": "asus chromebook flip 302ca",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "asus chromebook flip 302ca سلس وسريع ومصمم بشكل جيد بشكل لا يصدق.",
+    "aspect": "asus chromebook flip 302ca",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "ربما يكون هذا الشيء سيئًا بدون اتصال بالإنترنت.",
+    "aspect": "NULL",
+    "category": "LAPTOP#CONNECTIVITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "فتحته ابنتي في عيد الميلاد ولم يبقى عليه.",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "البطارية يبدو أنها جيدة جدًا.",
+    "aspect": "البطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "فظيع كمبيوتر محمول!",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لوحة المفاتيح ذات الإضاءة الخلفية رائعة في الليل.",
+    "aspect": "لوحة المفاتيح ذات الإضاءة الخلفية",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا الكمبيوتر هو أفضل شيء يمكنك الحصول عليه بأقل من 400 دولار.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب السرعة، المعالج ووحدات التخزين الهجينة (128SSD و1 تيرا)، ولكن كاميرا الويب سيئة للغاية، الدقة ضعيفة حقًا ولوحة المفاتيح لا تحتوي على الجزء الرقمي وCaps Lock أو Num Lock لا يحتويان على أي ضوء أو دليل لمساعدتك.",
+    "aspect": "المعالج",
+    "category": "CPU#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب السرعة، المعالج ووحدات التخزين الهجينة (128SSD و1 تيرا)، ولكن كاميرا الويب سيئة للغاية، الدقة ضعيفة حقًا ولوحة المفاتيح لا تحتوي على الجزء الرقمي وCaps Lock أو Num Lock لا يحتويان على أي ضوء أو دليل لمساعدتك.",
+    "aspect": "وحدات التخزين الهجينة",
+    "category": "MEMORY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب السرعة، المعالج ووحدات التخزين الهجينة (128SSD و1 تيرا)، ولكن كاميرا الويب سيئة للغاية، الدقة ضعيفة حقًا ولوحة المفاتيح لا تحتوي على الجزء الرقمي وCaps Lock أو Num Lock لا يحتويان على أي ضوء أو دليل لمساعدتك.",
+    "aspect": "كاميرا الويب",
+    "category": "HARDWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب السرعة، المعالج ووحدات التخزين الهجينة (128SSD و1 تيرا)، ولكن كاميرا الويب سيئة للغاية، الدقة ضعيفة حقًا ولوحة المفاتيح لا تحتوي على الجزء الرقمي وCaps Lock أو Num Lock لا يحتويان على أي ضوء أو دليل لمساعدتك.",
+    "aspect": "كاميرا الويب",
+    "category": "HARDWARE#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب السرعة، المعالج ووحدات التخزين الهجينة (128SSD و1 تيرا)، ولكن كاميرا الويب سيئة للغاية، الدقة ضعيفة حقًا ولوحة المفاتيح لا تحتوي على الجزء الرقمي وCaps Lock أو Num Lock لا يحتويان على أي ضوء أو دليل لمساعدتك.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب السرعة، المعالج ووحدات التخزين الهجينة (128SSD و1 تيرا)، ولكن كاميرا الويب سيئة للغاية، الدقة ضعيفة حقًا ولوحة المفاتيح لا تحتوي على الجزء الرقمي وCaps Lock أو Num Lock لا يحتويان على أي ضوء أو دليل لمساعدتك.",
+    "aspect": "Caps Lock",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحب السرعة، المعالج ووحدات التخزين الهجينة (128SSD و1 تيرا)، ولكن كاميرا الويب سيئة للغاية، الدقة ضعيفة حقًا ولوحة المفاتيح لا تحتوي على الجزء الرقمي وCaps Lock أو Num Lock لا يحتويان على أي ضوء أو دليل لمساعدتك.",
+    "aspect": "Num Lock",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يبدأ التشغيل، ويعمل دون مشاكل.",
+    "aspect": "يبدأ التشغيل",
+    "category": "OS#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان الشحن سريعًا وكان البائع رائعًا",
+    "aspect": "الشحن",
+    "category": "SHIPPING#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كان الشحن سريعًا وكان البائع رائعًا",
+    "aspect": "البائع",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا يوجد إضاءة خلفية لوحة المفاتيح .",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "هذا ليس أكثر من مجرد جهاز كمبيوتر محمول كمبيوتر محمول مناسب لمساعدتك في أداء أنشطة العمل الأساسية.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنا أحب هذا الجهاز كثيرًا.",
+    "aspect": "الجهاز",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حادة جدًا شاشة وزوايا رؤية جيدة.",
+    "aspect": "شاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "حادة جدًا شاشة وزوايا رؤية جيدة.",
+    "aspect": "شاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أفضل كمبيوتر محمول امتلكته .",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "عمر البطارية مذهل.",
+    "aspect": "عمر البطارية",
+    "category": "BATTERY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "إذا كنت تبحث عن كمبيوتر محمول للتحقق من رسائل البريد الإلكتروني ومشاهدة الأفلام والتسوق والوثائق الأساسية، فهذا هو الجهاز المثالي.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشحن كان سريعًا و المنتج جاء كما هو موضح.",
+    "aspect": "الشحن",
+    "category": "SHIPPING#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الشحن كان سريعًا و المنتج جاء كما هو موضح.",
+    "aspect": "المنتج",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "الآن نظرًا لأنه بدون هذه المشكلة فهي جميلة كمبيوتر محمول.",
+    "aspect": "كمبيوتر محمول",
+    "category": "LAPTOP#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- جديد مدمج مكبرات صوت.",
+    "aspect": "مكبرات صوت",
+    "category": "MULTIMEDIA_DEVICES#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لذا، أعتقد أنني في ورطة، لأنه بعد مرور 6 أشهر الآن لم يعد جهاز TPM يعمل وأصبح جهاز الكمبيوتر بأكمله عديم الفائدة.",
+    "aspect": "TPM",
+    "category": "HARD_DISC#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لذا، أعتقد أنني في ورطة، لأنه بعد مرور 6 أشهر الآن لم يعد جهاز TPM يعمل وأصبح جهاز الكمبيوتر بأكمله عديم الفائدة.",
+    "aspect": "الكمبيوتر",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد أحببت دائمًا MSI لأدائها وسعرها المناسب إلى حد ما.",
+    "aspect": "MSI",
+    "category": "LAPTOP#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد أحببت دائمًا MSI لأدائها وسعرها المناسب إلى حد ما.",
+    "aspect": "MSI",
+    "category": "LAPTOP#PRICE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "يمكنك الشعور بانحناء البلاستيك إذا قمت بحمل الكمبيوتر المحمول بيد واحدة.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "وصف البائع هو أنه تم \"اختباره\" وكان يعمل بشكل كامل \" ولم يكن كذلك.",
+    "aspect": "وصف البائع",
+    "category": "SUPPORT#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لا أزال مندهشًا تمامًا من كيفية امتلاك Apple، الشركة المفترض أنها رائدة في الصناعة، مثل هذه الوظائف الرهيبة.",
+    "aspect": "Apple",
+    "category": "COMPANY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أحبها",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كنت في البداية متوترًا بعض الشيء لأن النظام كان به بعض الخلل خلال الأسبوعين الأولين، ويبدو أن المشكلة كانت في نظام التشغيل Chrome OS وتم إصلاحها في التحديث التالي.",
+    "aspect": "النظام",
+    "category": "OS#USABILITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "كنت في البداية متوترًا بعض الشيء لأن النظام كان به بعض الخلل خلال الأسبوعين الأولين، ويبدو أن المشكلة كانت في نظام التشغيل Chrome OS وتم إصلاحها في التحديث التالي.",
+    "aspect": "نظام التشغيل Chrome OS",
+    "category": "OS#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "استمر هذا في إزعاج الكمبيوتر المحمول مع تراكم المزيد من المشكلات بما في ذلك أخطاء الشاشة الزرقاء المختلفة التي تنطوي في الغالب على الأجهزة.",
+    "aspect": "الأجهزة",
+    "category": "HARDWARE#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "استمر هذا في إزعاج الكمبيوتر المحمول مع تراكم المزيد من المشكلات بما في ذلك أخطاء الشاشة الزرقاء المختلفة التي تنطوي في الغالب على الأجهزة.",
+    "aspect": "الكمبيوتر المحمول",
+    "category": "LAPTOP#QUALITY",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لقد لاحظت بعد ذلك بكسلًا ميتًا على الشاشة .",
+    "aspect": "NULL",
+    "category": "DISPLAY#QUALITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "-إنه ساخن!",
+    "aspect": "NULL",
+    "category": "LAPTOP#QUALITY",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "أنيق تصميم.",
+    "aspect": "تصميم",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "- كما ذكر آخرون، يتم إيقاف تشغيل الإضاءة الخلفية للوحة المفاتيح بعد ثوانٍ قليلة من عدم الكتابة، وهو أمر مزعج ولا يبدو أن هناك طريقة لتغيير ذلك.",
+    "aspect": "الإضاءة الخلفية للوحة المفاتيح",
+    "category": "KEYBOARD#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "asus لها سمعة سيئة.",
+    "aspect": "asus",
+    "category": "COMPANY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "سأوصي به لأي شخص .",
+    "aspect": "NULL",
+    "category": "LAPTOP#GENERAL",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "شاشة عرض ساطعة ولها رسومات ممتازة.",
+    "aspect": "شاشة عرض",
+    "category": "DISPLAY#OPERATION_PERFORMANCE",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "شاشة عرض ساطعة ولها رسومات ممتازة.",
+    "aspect": "رسومات",
+    "category": "GRAPHICS#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لكن هذه الشاشة جيدة حقًا و لوحة المفاتيح و عامل الشكل أفضل بكثير.",
+    "aspect": "الشاشة",
+    "category": "DISPLAY#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لكن هذه الشاشة جيدة حقًا و لوحة المفاتيح و عامل الشكل أفضل بكثير.",
+    "aspect": "لوحة المفاتيح",
+    "category": "KEYBOARD#GENERAL",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "laptop",
+    "sentence": "لكن هذه الشاشة جيدة حقًا و لوحة المفاتيح و عامل الشكل أفضل بكثير.",
+    "aspect": "عامل الشكل",
+    "category": "LAPTOP#DESIGN_FEATURES",
+    "type": "explicit"
+  }
+]

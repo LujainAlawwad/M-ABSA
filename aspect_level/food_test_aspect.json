@@ -1,0 +1,5938 @@
+﻿[
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تحتوي على كمية مناسبة من النكهة والرائحة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك، لاحظت أنه لم يعد موجودًا في المخزون وأتمنى أن يكون هذا وضعًا مؤقتًا.",
+    "aspect": "NULL",
+    "category": "amazon availability",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصيت به بشدة؛ لقد أعجبني كثيرًا لدرجة أنني طلبته في الموعد المحدد للتسليم.",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصيت به بشدة؛ لقد أعجبني كثيرًا لدرجة أنني طلبته في الموعد المحدد للتسليم.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا سعيد حقًا لأنني وجدت هذه المنتجات.",
+    "aspect": "المنتجات",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طعمه رائع ولا يوجد أي انهيار لاحقًا، فأنا أخبرك أن هذه هي الطريقة التي يجب أن تسلكها.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طعمه رائع ولا يوجد أي انهيار لاحقًا، فأنا أخبرك أن هذه هي الطريقة التي يجب أن تسلكها.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حتى مع الحاويات الصغيرة، فإنهم لا يملؤونها.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها ذات نكهة رائعة وأعطتني في الواقع طاقة إضافية.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها ذات نكهة رائعة وأعطتني في الواقع طاقة إضافية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحب الإسبريسو بالإضافة إلى معظم النكهات الأخرى.",
+    "aspect": "الإسبريسو",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بمفردي، أجد هذا زهريًا بعض الشيء، ولكن مختلطًا ... مثاليًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بمفردي، أجد هذا زهريًا بعض الشيء، ولكن مختلطًا ... مثاليًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها بالتأكيد تحتوي على قدر كبير جدًا من \"السعرات الحرارية من الدهون\" ولكنها تبقيني ممتلئًا لفترة أطول بكثير من شريط الحبوب العادي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها بالتأكيد تحتوي على قدر كبير جدًا من \"السعرات الحرارية من الدهون\" ولكنها تبقيني ممتلئًا لفترة أطول بكثير من شريط الحبوب العادي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وأخيرا مصاصة خالية من شراب الذرة والمواد الكيميائية والألوان والنكهات الاصطناعية!",
+    "aspect": "مصاصة",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا لا أقول أنها سيئة منتج، فقط أن ابني البالغ من العمر 8 سنوات لا يحبها.",
+    "aspect": "منتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا لا أقول أنها سيئة منتج، فقط أن ابني البالغ من العمر 8 سنوات لا يحبها.",
+    "aspect": "منتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه هي واحدة من الكرنب الشيدر الخام المفضلة لدي رقائق.",
+    "aspect": "رقائق",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إمسك وافتح وأفرغ .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يحب بوسطن تيرير الخاص بنا هذه العظام - نقدمها لها كمكافأة أو لإبقائها مشغولة عندما يكون لدينا شركة.",
+    "aspect": "العظام",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "واوو !!!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه يأكله بشكل يومي - وهو أمر رائع لأنه كان منقذًا وكان يتناول طعامًا بشريًا سابقًا وكنت أعاني من مشكلة الغذاء لسنوات قبل العثور على هذا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا أزال أحب هذه مربعات الشوفان Quaker وهي لا تزال رائعة لأي وقت من اليوم.",
+    "aspect": "مربعات الشوفان Quaker",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا أزال أحب هذه مربعات الشوفان Quaker وهي لا تزال رائعة لأي وقت من اليوم.",
+    "aspect": "مربعات الشوفان Quaker",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه شيء مختلف والجميع يحب طعمه.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه شيء مختلف والجميع يحب طعمه.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا لا أحب الشاي (أو لم أحبه) أنا مدمن عليه تمامًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لذا احذر من الأفواه الرقيقة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا هنا اليوم لأقول أن المشروب رائع!",
+    "aspect": "المشروب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد طلبت أربعة من Natural Calm ولم أتلق سوى واحد فقط. لقد كنت أتصل بخصوص هذا الطلب وليس لدي حل لهذا الموقف.",
+    "aspect": "Natural Calm",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أتمنى فقط أن لا تكون باهظة الثمن إلى هذا الحد!",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نستخدمها منثورة فوق السلطات أو الخضار المطبوخة أو أحيانًا أضعها في جهاز VitaMix مع التوفو الصلب الإضافي لخلطها في عجينة ناعمة كقاعدة لميلك شيك / عصير فواكه مختلط ضخم للإفطار.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يختلط جيدًا وله طعم جيد بالنسبة لي!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا منتج رائع .",
+    "aspect": "منتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تقدم الدجاج وهو سهل وسريع الصنع.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تقدم الدجاج وهو سهل وسريع الصنع.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حتى الآن كان الأمر يعمل بشكل جيد بالنسبة لي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا تزال النكهة غير السارة موجودة بكامل قوتها. أشك في أنني سأكون قادرًا على حفظها في هذه المرحلة ولكنني سأستمر في المحاولة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد اشتريت هذا المنتج على وجه الخصوص علكة إكسيليتول ولكن لم أتساءل أبدًا عن مكان صنعه.",
+    "aspect": "علكة إكسيليتول",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت من محبي الشوكولاتة القهوة الذين يستمتعون بكوب ساخن من القهوة في الصباح، فقد يكون هذا هو القهوة المثالي لك - نكهة الشوكولاتة التي توقظك، وتمنحك بداية قوية!",
+    "aspect": "القهوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت من محبي الشوكولاتة القهوة الذين يستمتعون بكوب ساخن من القهوة في الصباح، فقد يكون هذا هو القهوة المثالي لك - نكهة الشوكولاتة التي توقظك، وتمنحك بداية قوية!",
+    "aspect": "القهوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت من محبي الشوكولاتة القهوة الذين يستمتعون بكوب ساخن من القهوة في الصباح، فقد يكون هذا هو القهوة المثالي لك - نكهة الشوكولاتة التي توقظك، وتمنحك بداية قوية!",
+    "aspect": "القهوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تحتوي على مادة الجلوتامات أحادية الصوديوم ونتريت الصوديوم وكمية كبيرة من الصوديوم).",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه مناسب تمامًا لذوقي - غني ولكن ليس مريرًا - وسأطلبه مرة أخرى بالتأكيد.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه مناسب تمامًا لذوقي - غني ولكن ليس مريرًا - وسأطلبه مرة أخرى بالتأكيد.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لم أعد أستطيع العثور عليه في المتاجر وطلبته من Amazon.com دون مشكلة.",
+    "aspect": "Amazon.com",
+    "category": "amazon availability",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نجد أن العرض طازج دائمًا عندما نطلب.",
+    "aspect": "العرض",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "و بدون الشعور بالذنب .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "و بدون الشعور بالذنب .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يمكن الحصول على اختبار أفضل المنتجات الأيرلندية في أي مكان آخر في الولايات المتحدة.",
+    "aspect": "المنتجات الأيرلندية",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوووه!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب الأطعمة الحارة والجريئة، ولكن التوابل هنا طاغية ولها نكهة غير سارة!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب الأطعمة الحارة والجريئة، ولكن التوابل هنا طاغية ولها نكهة غير سارة!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد استخدمت الأرز في وصفات مختلفة - من البرياني إلى الحساء إلى المسلوق بسرعة أو المطهو على البخار.",
+    "aspect": "الأرز",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك، فهذه أشياء جيدة وناعمة ولا تحتوي على أي من الطعم المر الذي يوجد في الكثير من الأشياء الرخيصة التي تباع في متجر البقالة المحلي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك، فهذه أشياء جيدة وناعمة ولا تحتوي على أي من الطعم المر الذي يوجد في الكثير من الأشياء الرخيصة التي تباع في متجر البقالة المحلي.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك، فهذه أشياء جيدة وناعمة ولا تحتوي على أي من الطعم المر الذي يوجد في الكثير من الأشياء الرخيصة التي تباع في متجر البقالة المحلي.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ويتم الاحتفاظ بالباقي بعيدًا للحفاظ عليه، في تلك الأيام التي تكون فيها الحاجة إلى العلاج الشخصي من نوع الشوكولاتة الداكنة مطلوبة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "رائع العلامة التجارية!",
+    "aspect": "العلامة التجارية",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كنت متحمسًا جدًا للعثور على عصير التفاح أرخص.",
+    "aspect": "عصير التفاح",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كنت متحمسًا جدًا للعثور على عصير التفاح أرخص.",
+    "aspect": "عصير التفاح",
+    "category": "food prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من المحتمل جدًا أن يكون هذا هو الأفضل شاي النعناع الذي وجدناه.",
+    "aspect": "شاي النعناع",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد جعلت التونة لذيذة، لدرجة أنني أكلت العلبة كاملة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا عمومًا لست انتقائيًا عندما يتعلق الأمر ببدائل السكر - فأنا أفهم أنه لا يوجد شيء يتطابق تمامًا مع السكر في الذوق.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد وصف واضح على الصندوق ولا تعليمات، ولكنه في الأساس كيس شاي مكتوب عليه هذا الجانب لأسفل.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد وصف واضح على الصندوق ولا تعليمات، ولكنه في الأساس كيس شاي مكتوب عليه هذا الجانب لأسفل.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد وصف واضح على الصندوق ولا تعليمات، ولكنه في الأساس كيس شاي مكتوب عليه هذا الجانب لأسفل.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "والحجم مناسب وكذلك السعر.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "والحجم مناسب وكذلك السعر.",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك، لا تفكر حتى في الحصول عليها إذا كان لديك أطقم أسنان لأنها أيضًا صلبة للغاية ولا تحتوي على أي حشوات.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لم أتلق منتجي، ولم أتلق أي رد من الشركات المصنعة، ولم أتمكن من العثور على رقم أو أي شيء يمكنني من الاتصال بهم وأريد هذا المنتج لأخي في عيد الميلاد.",
+    "aspect": "NULL",
+    "category": "shipment delivery",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا هو المُحلي الجديد المفضل لدي للمشروبات والطبخ والخبز - حتى الكعك.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الآن أستطيع الاستمتاع بنفس النكهة لكن مع نصف الدهون.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أقوم في كثير من الأحيان بشراء منتجات مماثلة من Trader Joes وتلك، في رأيي، أفضل بكثير وتكلف أقل بكثير.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أقوم في كثير من الأحيان بشراء منتجات مماثلة من Trader Joes وتلك، في رأيي، أفضل بكثير وتكلف أقل بكثير.",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب النكهة والركلة!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها ستأكل الأشياء العامة الموجودة في وول مارت ولكن لسبب ما فهي لا تحب هذا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا هو نموذجي لوجبات العشاء الأخرى في مقلاة كرافت.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الأسوأ مذاقًا ماء جوز الهند مقارنةً بـ One و Naked و VitaCoco.",
+    "aspect": "ماء جوز الهند",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الطعم رائع؛ ليس قويًا جدًا ولا حارًا جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الطعم رائع؛ ليس قويًا جدًا ولا حارًا جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الطعم رائع؛ ليس قويًا جدًا ولا حارًا جدًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت بحاجة إلى منتج لإبقاء كلبك مشغولاً، فإن Lickity Stik سوف يعمل، ولكن يبدو أنه لا يفعل أي شيء سوى تشجيع كلبك على اللعق.",
+    "aspect": "Lickity Stik",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه مطاطي ولذيذ.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "التفاح الحامض طعمه سام.",
+    "aspect": "التفاح الحامض",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "صغير رائع بار .",
+    "aspect": "بار",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه الكوكيز رائعة حقًا.",
+    "aspect": "الكوكيز",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الشاي ليس له طعم سيئ، وهو صالح للغرض الذي خصص له.",
+    "aspect": "الشاي",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الشاي ليس له طعم سيئ، وهو صالح للغرض الذي خصص له.",
+    "aspect": "الشاي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب الراحة والأجزاء الصغيرة التي تجعلها دسمة ومرضية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب الراحة والأجزاء الصغيرة التي تجعلها دسمة ومرضية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب الراحة والأجزاء الصغيرة التي تجعلها دسمة ومرضية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب الراحة والأجزاء الصغيرة التي تجعلها دسمة ومرضية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد أعجبت كثيرًا بالنكهات والروائح القوية لدرجة أنني بحثت عن خط منتجاتهم واشتريت عدة صناديق أكبر (100 كيس لكل صندوق).",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد أعجبت كثيرًا بالنكهات والروائح القوية لدرجة أنني بحثت عن خط منتجاتهم واشتريت عدة صناديق أكبر (100 كيس لكل صندوق).",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هناك العديد من الطرق لاستخدامها .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "منذ أن أصبحت خاليًا من الغلوتين، جربت علامات تجارية أخرى، لكنني أفضل هذه حقًا.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "منذ أن أصبحت خاليًا من الغلوتين، جربت علامات تجارية أخرى، لكنني أفضل هذه حقًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تتمتع بطعم القهوة اللذيذ ولا يبدو أنها جاءت من علبة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تتمتع بطعم القهوة اللذيذ ولا يبدو أنها جاءت من علبة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من المحزن أن من الصعب جدًا العثور على هذه الأيام ولكنني أحب جهاز Senseo الخاص بي.",
+    "aspect": "NULL",
+    "category": "amazon availability",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من المحزن أن من الصعب جدًا العثور على هذه الأيام ولكنني أحب جهاز Senseo الخاص بي.",
+    "aspect": "جهاز Senseo",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا أستطيع التعليق على المنتج نفسه بخلاف القول إنه يساعد الكلب حقًا.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "مذاقها مثل البلاستيك ولا يشبه ماء جوز الهند على الإطلاق.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لماذا كانت لي ذكريات قوية عن روائح المستشفيات في الخمسينيات؟",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد تركت النكهة شيئًا مما هو مرغوب فيه، حيث كان لها طعم كيميائي مدخن بالنسبة لي والذي لم يكن ممتعًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا، هذا بالتأكيد ليس ' الحلوى التي أكلتها عندما كنت طفلاً. '",
+    "aspect": "الحلوى",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عائلتنا كلها تحب هذه البسكويت .",
+    "aspect": "البسكويت",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يوركشاير الخاص بي يحب Greenies Chews كثيرًا.",
+    "aspect": "Greenies Chews",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحب هذا القهوة!",
+    "aspect": "القهوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد تم تعبئتها بشكل جيد  ووصلت في الوقت المحدد.",
+    "aspect": "تم تعبئته",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد تم تعبئتها بشكل جيد  ووصلت في الوقت المحدد.",
+    "aspect": "تم تعبئته",
+    "category": "shipment delivery",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أعجبني مزيج المكونات.",
+    "aspect": "مزيج المكونات",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يمكن أن يكون (المكعب 2) نفسه صاخبًا جدًا ولكن هذا لا يزعجني والكلب يحبه.",
+    "aspect": "المكعب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يمكن أن يكون (المكعب 2) نفسه صاخبًا جدًا ولكن هذا لا يزعجني والكلب يحبه.",
+    "aspect": "المكعب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يصل في الوقت المناسب .",
+    "aspect": "NULL",
+    "category": "shipment delivery",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا وزوجي نحب هذا القهوة .",
+    "aspect": "القهوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب Popchips .",
+    "aspect": "Popchips",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حسنًا، لا أزال لا أملك الحقيبة في منزلي، بسبب سياسات بعض الدول فيما يتعلق باستيراد أغذية الحيوانات على أي حال، فأنا دائمًا أشتري هذه العلامة التجارية لقطتي وهي تحبها كثيرًا مع الخضراوات الخضراء للقطط، فهي كل ما تحتاجه.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سلطاتي  هي دائمًا حديث الحفل - الجميع يريد أن يعرف نوع الصلصة التي استخدمتها!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سلطاتي  هي دائمًا حديث الحفل - الجميع يريد أن يعرف نوع الصلصة التي استخدمتها!",
+    "aspect": "سلطاتي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من المريح جدًا وضعه في حقيبة الحفاضات.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "مع ذلك، لن أشتريها مرة أخرى أبدًا؛ سألتزم بالدببة الصمغية وعلكة النبيذ في حلوياتي النادرة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا العنصر هو عنصر غذائي وإذا انتهت صلاحية تاريخ الصلاحية، فلا ينبغي إرساله إلى العملاء.",
+    "aspect": "عنصر غذائي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا الخيار التغليف يخفف من الشعور بالذنب قليلاً.",
+    "aspect": "التغليف",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كانت لدينا مشكلة مع التسليم وعندما اتصلنا، كانت الشركة مهذبة وأرسلت لنا بسرعة صندوقًا آخر.",
+    "aspect": "التسليم",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ثم أحثك على تجربة هذا .",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أعني أنها صحية ومريحة وقابلة للأكل، ولكن إذا كنت تحب المضغ والاستمتاع حقًا بطعامك، فسيكون الأمر مخيبا للآمال.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أعني أنها صحية ومريحة وقابلة للأكل، ولكن إذا كنت تحب المضغ والاستمتاع حقًا بطعامك، فسيكون الأمر مخيبا للآمال.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أعني أنها صحية ومريحة وقابلة للأكل، ولكن إذا كنت تحب المضغ والاستمتاع حقًا بطعامك، فسيكون الأمر مخيبا للآمال.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أعني أنها صحية ومريحة وقابلة للأكل، ولكن إذا كنت تحب المضغ والاستمتاع حقًا بطعامك، فسيكون الأمر مخيبا للآمال.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد تلقيت (طلبي رقم 1) بأن تاريخ صلاحيته قد انتهى.",
+    "aspect": "طلبي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد طلبت من Tommy Moloneys في عدد من المناسبات والجودة والخدمة ممتازة تمامًا.",
+    "aspect": "Tommy Moloneys",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد طلبت من Tommy Moloneys في عدد من المناسبات والجودة والخدمة ممتازة تمامًا.",
+    "aspect": "Tommy Moloneys",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد جعلتني ابنة أختي مدمنًا على Via .",
+    "aspect": "Via",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا أعتقد أن هناك منتجًا أفضل منتج في السوق وفي أمازون، فهو رائع سعر.",
+    "aspect": "منتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا أعتقد أن هناك منتجًا أفضل منتج في السوق وفي أمازون، فهو رائع سعر.",
+    "aspect": "سعر",
+    "category": "food prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كنت نباتيًا لمدة عام الآن وهذه ملفات تعريف الارتباط رائعة! ! ! خاصة مع حليب الصويا في وقت فراغك.",
+    "aspect": "ملفات تعريف الارتباط",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "مذاقها تمامًا مثل النسخة التي تحتوي على الكافيين، ولكن يمكنك شرب كوب بعد كوب لأنها خالية من الكافيين!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "صديقات ابنتي يطلبن منها دائمًا إحضار بعض منها إلى المدرسة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "على أية حال فإن الكوكيز طعمها رائع كقشرة كعكة الجبن الخالية من الغلوتين والجميع يعطونها مجاملات ؛ - )",
+    "aspect": "الكوكيز",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا عضو في Weight Watchers ويمكنني الاستمتاع بـ 23 شريحة مقابل 3 نقاط فقط، وهذا أمر مرضي للغاية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا عضو في Weight Watchers ويمكنني الاستمتاع بـ 23 شريحة مقابل 3 نقاط فقط، وهذا أمر مرضي للغاية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد حصلت على هذا الأشياء لها بسبب الفوائد العضوية الخام.",
+    "aspect": "الأشياء",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لكن طعمها اصطناعي إلى حد ما، والملمس ليس له أي مضغ.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لكن طعمها اصطناعي إلى حد ما، والملمس ليس له أي مضغ.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نكهته هي بالضبط كما قد تتوقع مع لمحات من الليمون والنعناع.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ولكن لسوء الحظ، كان الأمر بالنسبة لي غير مستساغ حقًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "اشتريت الحزمة المكونة من أربعة قطع. وسأستمر في شراء هذه المجموعة لفترة طويلة! ~",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بالنسبة للحقائب الأكبر أكياس، يمكنني الانتهاء منها في جلسة واحدة!",
+    "aspect": "أكياس",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وهذه فكرة هدية عظيمة أيضًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد انتهينا للتو من الصندوق الأخير ويريد أطفالي أن يعرفوا ما هي النكهة التي سنطلبها بعد ذلك.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد انتهينا للتو من الصندوق الأخير ويريد أطفالي أن يعرفوا ما هي النكهة التي سنطلبها بعد ذلك.",
+    "aspect": "الصندوق الأخير",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحصل على \" إصلاح الرقائق \" دون لحاف من كل تلك السعرات الحرارية.",
+    "aspect": "إصلاح الرقائق",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يعاني شيواوا الخاص بي الذي يبلغ وزنه عشرة أرطال من حساسية الجلد، لذا فقد جربت أطعمة منتج خالية من الحبوب والدجاج وهو يحب هذا منتج.",
+    "aspect": "منتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لكنها دقيقة .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا سعيد لأنني حصلت على هذا، بحثت على الويب عن أفضل طعام للكلاب التي تعاني من مشاكل في المعدة، وبراز رخو، ما حصلت عليه من الطبيب البيطري لم يساعد، بعد قراءة العديد من المراجعات حصلت على هذا وأنا أحبه لأنه",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا سعيد لأنني حصلت على هذا، بحثت على الويب عن أفضل طعام للكلاب التي تعاني من مشاكل في المعدة، وبراز رخو، ما حصلت عليه من الطبيب البيطري لم يساعد، بعد قراءة العديد من المراجعات حصلت على هذا وأنا أحبه لأنه",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا عجب أن أطفالي لن يأكلوه.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تاريخ انتهاء الصلاحية المنتج هو مارس 2013، وهو تاريخ جيد من أبريل 2012.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جاء قبل أن تقول!",
+    "aspect": "NULL",
+    "category": "shipment delivery",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا بديل رائع .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا ببساطة أحب هذا خلع الملابس.",
+    "aspect": "خلع الملابس",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أتفق مع المراجع السابق. الحبوب والفاصوليا والعدس تبدو وكأنها مزيج غير عادي بالنسبة لي، ولكن هذا مزيج الحساء جيد حقًا!",
+    "aspect": "مزيج الحساء",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أتفق مع المراجع السابق. الحبوب والفاصوليا والعدس تبدو وكأنها مزيج غير عادي بالنسبة لي، ولكن هذا مزيج الحساء جيد حقًا!",
+    "aspect": "مزيج الحساء",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كان هذا (المنتج 1) رائعًا في TetraPak.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جميع شاي الزنجبيل سيكون لها القليل من القسوة التي تحدد الزنجبيل، ولكن هذا شاي الزنجبيل كان مليئًا بالقسوة والمرارة غير الطبيعية التي يبدو أنها لا يمكن إنتاجها إلا من استخدام بعض الزنجبيل المتحور منخفض الجودة (إذا كان الزنجبيل الحقيقي على الإطلاق).",
+    "aspect": "شاي الزنجبيل",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جميع شاي الزنجبيل سيكون لها القليل من القسوة التي تحدد الزنجبيل، ولكن هذا شاي الزنجبيل كان مليئًا بالقسوة والمرارة غير الطبيعية التي يبدو أنها لا يمكن إنتاجها إلا من استخدام بعض الزنجبيل المتحور منخفض الجودة (إذا كان الزنجبيل الحقيقي على الإطلاق).",
+    "aspect": "شاي الزنجبيل",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جميع شاي الزنجبيل سيكون لها القليل من القسوة التي تحدد الزنجبيل، ولكن هذا شاي الزنجبيل كان مليئًا بالقسوة والمرارة غير الطبيعية التي يبدو أنها لا يمكن إنتاجها إلا من استخدام بعض الزنجبيل المتحور منخفض الجودة (إذا كان الزنجبيل الحقيقي على الإطلاق).",
+    "aspect": "شاي الزنجبيل",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جميع شاي الزنجبيل سيكون لها القليل من القسوة التي تحدد الزنجبيل، ولكن هذا شاي الزنجبيل كان مليئًا بالقسوة والمرارة غير الطبيعية التي يبدو أنها لا يمكن إنتاجها إلا من استخدام بعض الزنجبيل المتحور منخفض الجودة (إذا كان الزنجبيل الحقيقي على الإطلاق).",
+    "aspect": "شاي الزنجبيل",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "العديد من أنواع شاي التوابل (التي أشربها سادة بدون حليب أو محليات إضافية) تسبب لي الغثيان، ولكن هذا الشاي لم يفعل ذلك - لقد أحببته!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "العديد من أنواع شاي التوابل (التي أشربها سادة بدون حليب أو محليات إضافية) تسبب لي الغثيان، ولكن هذا الشاي لم يفعل ذلك - لقد أحببته!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "المشكلة الوحيدة هي أن بعضها كانت مكسورة عند وصولها.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وبالطبع، الشاي الأخضر مليء بمضادات الأكسدة.",
+    "aspect": "الشاي الأخضر",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد أحببنا هذا حقًا دقيق الشوفان.",
+    "aspect": "دقيق الشوفان",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد صنعت كوبًا واحدًا وألقيته في سلة المهملات، كان مخيبا للآمال للغاية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد صنعت كوبًا واحدًا وألقيته في سلة المهملات، كان مخيبا للآمال للغاية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا النوع إيرل جراي ذو نكهة دافئة.",
+    "aspect": "إيرل جراي",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا النوع إيرل جراي ذو نكهة دافئة.",
+    "aspect": "إيرل جراي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كان الاختيار رائعًا وجعل مشروب موكا الشوكولاتة البيضاء الخاص بي مثاليًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كان الاختيار رائعًا وجعل مشروب موكا الشوكولاتة البيضاء الخاص بي مثاليًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نوصي به بشدة!",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كانت الخدمة رائعة، والآن أعلم أنني أستطيع تناولها عندما أشعر بالرغبة الشديدة في تناولها حساء السلطعون!",
+    "aspect": "حساء السلطعون",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "قططي تحب الخضراوات أيضًا، الصنف المخصص للقطط.",
+    "aspect": "الخضراوات",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عظيم .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أستمتع بتناول التوت والكرز المارياني.",
+    "aspect": "التوت والكرز المارياني",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الطعام الوحيد الطعام الجاف الذي ستأكله قطتي الملكة.",
+    "aspect": "الطعام الجاف",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طلبت ثلاث حزم .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لم أمتلك المكعب  إلا لبضعة أسابيع قبل أن يسقط وتمضغه.",
+    "aspect": "المكعب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد جاءوا في صندوق عطلة (لم أكن أعرف هذا حتى فتحت صندوق أمازون الخاص بي)، والذي كان سيكون رائعًا لو كنت أعطيتهم كهدية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد جاءوا في صندوق عطلة (لم أكن أعرف هذا حتى فتحت صندوق أمازون الخاص بي)، والذي كان سيكون رائعًا لو كنت أعطيتهم كهدية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حتى مع تكلفة الشحن، هذه (24 حزمة) هي أفضل صفقة رأيتها.",
+    "aspect": "24 حزمة",
+    "category": "shipment prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "في الواقع، إنها الأفضل بين كل العلامات التجارية الأوروبية التي جربناها خلال السنوات الخمس الماضية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب نكهة الحمضيات والتوت في Ricochet Sours.",
+    "aspect": "Ricochet Sours",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تعتقد أن \"العضوي\" يعني \"طعمه مثل التراب\"، فهذه النعناع تناسبك.",
+    "aspect": "النعناع",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نكهة رائعة، قوية ولكن ليست مرة، كوب جيد الجسم من قهوة جو. يبدو أن محبي القهوة لديهم الأفضل 5 أكواب هناك.",
+    "aspect": "5 أكواب",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نكهة رائعة، قوية ولكن ليست مرة، كوب جيد الجسم من قهوة جو. يبدو أن محبي القهوة لديهم الأفضل 5 أكواب هناك.",
+    "aspect": "5 أكواب",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نكهة رائعة، قوية ولكن ليست مرة، كوب جيد الجسم من قهوة جو. يبدو أن محبي القهوة لديهم الأفضل 5 أكواب هناك.",
+    "aspect": "5 أكواب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نكهة رائعة، قوية ولكن ليست مرة، كوب جيد الجسم من قهوة جو. يبدو أن محبي القهوة لديهم الأفضل 5 أكواب هناك.",
+    "aspect": "5 أكواب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كانوا في قطع ويبدو أنهم أصبحوا فاسدين.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طعمه رائع مع حليب الأرز أو الماء العادي!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب هذا الشاي، ولكن فقط عندما أخلطه مع غيره من \"العادي\" الشاي.",
+    "aspect": "الشاي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لم تكن لدي توقعات كبيرة لهذا المنتج، ولكن عندما وصل، فوجئت برؤية مدى صغر حجم كرات العلكة، وعندما تم مضغها أصبحت صغيرة جدًا في الفم.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لم تكن لدي توقعات كبيرة لهذا المنتج، ولكن عندما وصل، فوجئت برؤية مدى صغر حجم كرات العلكة، وعندما تم مضغها أصبحت صغيرة جدًا في الفم.",
+    "aspect": "كرات العلكة",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لم تكن لدي توقعات كبيرة لهذا المنتج، ولكن عندما وصل، فوجئت برؤية مدى صغر حجم كرات العلكة، وعندما تم مضغها أصبحت صغيرة جدًا في الفم.",
+    "aspect": "كرات العلكة",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طعم لذيذ، مهدئ للعقل والروح والمعدة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طعم لذيذ، مهدئ للعقل والروح والمعدة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إن الطلب حسب الحالة يوفر المال بالفعل مقارنة بالمتجر.",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لكن بالنسبة للآخرين، أنصحك بتجربة لو هان أولاً قبل الطلب.",
+    "aspect": "لو هان",
+    "category": "food recommendation",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "التغليف جميل وتأكد من أنك ستستمتع به.",
+    "aspect": "التغليف",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحب هذه .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا أستطيع أن أرى أي سبب لوضعه في آلة صنع القهوة. إهدار كامل للكهرباء.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سوف نطلب منهم مرة أخرى بالتأكيد .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك فهو غذاء قليل الدهون وعالي البروتين ولذيذ جدًا.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك فهو غذاء قليل الدهون وعالي البروتين ولذيذ جدًا.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك فهو غذاء قليل الدهون وعالي البروتين ولذيذ جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد سوى كمية صغيرة من الشوكولاتة الداكنة (وهو ما أحبه، سعرات حرارية أقل وكمية كافيين أكبر) وحبوب الإسبريسو لها طعم رائع حيث تذوب الحبوب في فمك.",
+    "aspect": "حبوب الإسبريسو",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد سوى كمية صغيرة من الشوكولاتة الداكنة (وهو ما أحبه، سعرات حرارية أقل وكمية كافيين أكبر) وحبوب الإسبريسو لها طعم رائع حيث تذوب الحبوب في فمك.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد سوى كمية صغيرة من الشوكولاتة الداكنة (وهو ما أحبه، سعرات حرارية أقل وكمية كافيين أكبر) وحبوب الإسبريسو لها طعم رائع حيث تذوب الحبوب في فمك.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا حقا أحب مسحوق بروتين الفانيليا والقنب.",
+    "aspect": "مسحوق بروتين الفانيليا والقنب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "النمر الأسود طعمه في الواقع مثل القهوة.",
+    "aspect": "النمر الأسود",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يزال هذا رقم 1 في قائمتي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لها طعم النعناع لطيف جداً.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الماء يبدو \"سميكًا\" ولكنه حريري عند بلعه.",
+    "aspect": "الماء",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الماء يبدو \"سميكًا\" ولكنه حريري عند بلعه.",
+    "aspect": "الماء",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طعم صنف القرفة يشبه إلى حد كبير طعم السكر البني مربعات الشوفان بالنسبة لي.",
+    "aspect": "مربعات الشوفان",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد استلمت أول شحنة مكونة من ثلاث أكياس من منتجات باميلا المذهلة، مزيج الخبز الخالي من القمح والغلوتين، أكياس تزن 4 أرطال (عبوة من 3 قطع) اليوم.",
+    "aspect": "شحنة",
+    "category": "shipment delivery",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وأعتقد أنني وجدت هذه الجوهرة الصغيرة أثناء البحث عن موسيقى عيد الميلاد المفضلة لدي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنصح بشرائه بهذه الطريقة .",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "رائع المنتج!",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هدفي ليس إيجاد سبب، بل عدم شراء آخر.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جيد التغليف .",
+    "aspect": "التغليف",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنهم جيدون بالنسبة له لذلك أنا سعيد جدًا لأنه يحبهم كثيرًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنهم جيدون بالنسبة له لذلك أنا سعيد جدًا لأنه يحبهم كثيرًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب التفاح والقرفة والجوز البقان.",
+    "aspect": "التفاح والقرفة والجوز البقان",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا حقا أحب هذا ميسو الفوري.",
+    "aspect": "ميسو الفوري",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يتراوح الحجم من كبير جدًا (ربما 15٪) إلى صغير (معظمها غير مفتوح).",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ملمس لطيف، طعم رائع!",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ملمس لطيف، طعم رائع!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لم أقدم مراجعة سيئة من قبل ولكن هذه الزيتون فظيعة للغاية",
+    "aspect": "الزيتون",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد اشتريتها لتساعدني على إيقاف رغبتي الشديدة في تناول الحلويات في فترة ما بعد الظهيرة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي به بالتأكيد!",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "خطوة واحدة في كل مرة إذا فعل كل منا شيئًا واحدًا مثل الوقوع في حب هذا المنتج العضوي سهل الاستخدام القهوة الذي سيسعد براعم التذوق لديك بلطف دون التغلب عليها.",
+    "aspect": "القهوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "خطوة واحدة في كل مرة إذا فعل كل منا شيئًا واحدًا مثل الوقوع في حب هذا المنتج العضوي سهل الاستخدام القهوة الذي سيسعد براعم التذوق لديك بلطف دون التغلب عليها.",
+    "aspect": "القهوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لن تندم على ذلك .",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من الجيد أن نعرف أن الذرة عضوية، ولكنني غاضبة قليلاً من نفسي لشرائي إمداد لمدة 10 سنوات! ؛ )",
+    "aspect": "الذرة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كان كل شيء لذيذًا حتى أضفت الطماطم المهروسة.",
+    "aspect": "الطماطم المهروسة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "علبة مشروب قهوة إيلي إيسيمو كافيه هي علبة صغيرة وفي البداية اعتقدت أنها صغيرة جدًا، لكنني كنت مخطئًا !!",
+    "aspect": "مشروب قهوة إيلي إيسيمو كافيه",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "علبة مشروب قهوة إيلي إيسيمو كافيه هي علبة صغيرة وفي البداية اعتقدت أنها صغيرة جدًا، لكنني كنت مخطئًا !!",
+    "aspect": "مشروب قهوة إيلي إيسيمو كافيه",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي بهذا المنتج لكل من يحب نكهة لاتيه الجيدة!",
+    "aspect": "المنتج",
+    "category": "food recommendation",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي بهذا المنتج لكل من يحب نكهة لاتيه الجيدة!",
+    "aspect": "لاتيه",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي بهذا المنتج لكل من يحب نكهة لاتيه الجيدة!",
+    "aspect": "لاتيه",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "المكونات العضوية ونكهات الفاكهة والألوان الطبيعية هي ما أبحث عنه.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "المكونات العضوية ونكهات الفاكهة والألوان الطبيعية هي ما أبحث عنه.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "المكونات العضوية ونكهات الفاكهة والألوان الطبيعية هي ما أبحث عنه.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تفضل عائلتي التي لا تتبع نظامًا غذائيًا خاليًا من الغلوتين بريتزل الجلوتينو على البريتزل العادي (السام).",
+    "aspect": "بريتزل الجلوتينو",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي الجميع بـ بارات KIND لأنها لذيذة جدًا.",
+    "aspect": "بارات KIND",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي الجميع بـ بارات KIND لأنها لذيذة جدًا.",
+    "aspect": "بارات KIND",
+    "category": "food recommendation",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "زيادة اليقظة لمدة 5 ساعات تقريبًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أظن أن هذا قد يكون قمامة مصنوعة في الصين لأن سعرها منخفض للغاية، وهي علامة واضحة على أنها مصنوعة في الصين.",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تتماشى بشكل رائع مع الحساء والجبن والحمص.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد جربت بذور Nutiva hemp مرة واحدة وأحببتها بدرجة كافية لدرجة أنني لا أرى سببًا لتجربة علامة تجارية أخرى و Amazon لديه أفضل سعر من الأماكن التي قارنتها.",
+    "aspect": "Nutiva hemp",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد جربت بذور Nutiva hemp مرة واحدة وأحببتها بدرجة كافية لدرجة أنني لا أرى سببًا لتجربة علامة تجارية أخرى و Amazon لديه أفضل سعر من الأماكن التي قارنتها.",
+    "aspect": "Amazon",
+    "category": "amazon prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جربها وسوف تصبح مدمنًا عليها.",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تحب القهوة القوية والجريئة القهوة، فهذا هو المناسب لك.",
+    "aspect": "القهوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تحب القهوة القوية والجريئة القهوة، فهذا هو المناسب لك.",
+    "aspect": "القهوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تحب القهوة القوية والجريئة القهوة، فهذا هو المناسب لك.",
+    "aspect": "القهوة",
+    "category": "food recommendation",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "رهيبة سريعة القياس مسبقًا عبوات.",
+    "aspect": "عبوات",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يا لها من خيبة أمل!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ليس مثل تلك التي من لوندبيرج التي أحصل عليها في سوق WF.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أفضل شيء هو أن طعمها رائع أيضًا!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "مُستَحسَن .",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد فوجئت بسرور عندما اكتشفت أنني كنت مخطئًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ثم اكتشفت أن الخبز الخالي من الجلوتين له عجينة مختلفة تمامًا عن خبز دقيق القمح.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لدي حزمة واحدة كل يوم .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "اعتقدت أنها ستكون واحدة من تلك الأشياء الجيدة جدًا لدرجة يصعب تصديقها ولكنني كنت مخطئًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد جئت إلى هنا لأرى ما إذا اشتريت بكميات كبيرة، والسعر سيكون أفضل من متجر البقالة المحلي الخاص بي.",
+    "aspect": "NULL",
+    "category": "amazon prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه حامض جدًا، لذلك لا تأكله خارج الحاوية.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها سميكة ومقرمشة.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها سميكة ومقرمشة.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جربه، قد ينجح معك.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جربه، قد ينجح معك.",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سنشتري المزيد منها!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لكن يا إلهي، لو هان لا يناسبني.",
+    "aspect": "لو هان",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كنت أنا وزوجي نشرب هذا المشروب اللذيذ الشاي على مدى العامين الماضيين، وحتى أننا نأخذه معنا عندما نذهب في إجازة.",
+    "aspect": "الشاي",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كنت أنا وزوجي نشرب هذا المشروب اللذيذ الشاي على مدى العامين الماضيين، وحتى أننا نأخذه معنا عندما نذهب في إجازة.",
+    "aspect": "الشاي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "موصى به بشدة .",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نظرًا لأن هذه الحلوى تحتوي على نفس المكونات تقريبًا مثل حلوى العلكة بالنبيذ المفضلة لدي، كنت أتمنى أن تكون لذيذة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه رقائق خالية من الجلوتين.",
+    "aspect": "رقائق",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ياااي إكسيليتول!",
+    "aspect": "إكسيليتول",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا أستطيع حتى العثور عليه في أي من المسارح المحلية بعد الآن.",
+    "aspect": "NULL",
+    "category": "amazon availability",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سأطلب مرة أخرى .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "Lindt قد يبدو أن نسبة الكاكاو 99٪ هي شوكولاتة بيكر ذات طعم مرير للغاية ولكنها ليست كذلك.",
+    "aspect": "Lindt",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "Lindt قد يبدو أن نسبة الكاكاو 99٪ هي شوكولاتة بيكر ذات طعم مرير للغاية ولكنها ليست كذلك.",
+    "aspect": "Lindt",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا داعي لإضافة أي شيء إلى هذا قهوة منكهة، إذا كنت تبحث عن طعم يعزز نكهة القهوة دون أن يطغى عليها ويجعل مذاقها مثل شيء آخر.",
+    "aspect": "قهوة منكهة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا داعي لإضافة أي شيء إلى هذا قهوة منكهة، إذا كنت تبحث عن طعم يعزز نكهة القهوة دون أن يطغى عليها ويجعل مذاقها مثل شيء آخر.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يتساقط القفل المركزي بسهولة مما يجعل من السهل على الكلب مضغه.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يتساقط القفل المركزي بسهولة مما يجعل من السهل على الكلب مضغه.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه شركة رائعة لأنه عندما تذهب إلى متجر البقالة تكون التوابل باهظة الثمن وهذه الشركة أرخص بكثير وأكثر نضارة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه شركة رائعة لأنه عندما تذهب إلى متجر البقالة تكون التوابل باهظة الثمن وهذه الشركة أرخص بكثير وأكثر نضارة.",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه شركة رائعة لأنه عندما تذهب إلى متجر البقالة تكون التوابل باهظة الثمن وهذه الشركة أرخص بكثير وأكثر نضارة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لسوء الحظ، خرجت القطرات بسرعة كبيرة وتحولت اللعبة إلى اللون البني الغريب.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "على الرغم من أنني وجدت اختيارات محدودة في أحد المتاجر الكبرى، إلا أن الخيارات المتاحة عبر الإنترنت كانت أوسع بكثير.",
+    "aspect": "NULL",
+    "category": "amazon availability",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وأنا أيضًا أتفق مع الشخص الذي قال إنه طعمه مثل قهوة محطة الوقود، ولكن يجب أن يكون لدينا محطات وقود مختلفة لأن الجميع (بما في ذلك أنا) يحبون الكابتشينو في محطة الوقود الخاصة بي!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تم خبز الخبز بشكل مثالي وكان طعمه رائعًا. كان له نسيج مختلف عن الخبز العادي، لكنه كان لا يزال لذيذًا جدًا.",
+    "aspect": "الخبز",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تم خبز الخبز بشكل مثالي وكان طعمه رائعًا. كان له نسيج مختلف عن الخبز العادي، لكنه كان لا يزال لذيذًا جدًا.",
+    "aspect": "الخبز",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تم خبز الخبز بشكل مثالي وكان طعمه رائعًا. كان له نسيج مختلف عن الخبز العادي، لكنه كان لا يزال لذيذًا جدًا.",
+    "aspect": "الخبز",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تم خبز الخبز بشكل مثالي وكان طعمه رائعًا. كان له نسيج مختلف عن الخبز العادي، لكنه كان لا يزال لذيذًا جدًا.",
+    "aspect": "الخبز",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "فقط لكي نكون واضحين، هذه ليست مجموعة من القضبان كما في الصورة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أفضل من الفشار المسرحي ويمكنني تحضيره طازجًا في أي وقت أريد.",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أفضل من الفشار المسرحي ويمكنني تحضيره طازجًا في أي وقت أريد.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الآن تخيل أنني أتحدث بلكنة هندية \"كيكومان، أنت تصنع كاري سيئًا جدًا، سيئًا جدًا بالفعل.\"",
+    "aspect": "كيكومان",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لذا، وبصرف النظر عن الكلمات المراوغة الموجودة في الملصق، فإن المنتج جيد",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لذا، وبصرف النظر عن الكلمات المراوغة الموجودة في الملصق، فإن المنتج جيد",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تحب جوز الهند، يجب عليك تجربة هذه الوصفة.",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا نادرًا ما أشرب الشاي الأسود، ولكن بالنسبة لأولئك الذين يحبونه، فإن هذا (المنتج 1) سوف يخدمهم جيدًا.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سأرسل له ملصقًا لإعادته.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سعيد أن وجدته مرة أخرى .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أجد هذا \"ممزقًا\".",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي بهذا (المنتج 3) مع الأخذ في الاعتبار الفوائد الصحية للأرز البني ومذاقه.",
+    "aspect": "المنتج",
+    "category": "food recommendation",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي بهذا (المنتج 3) مع الأخذ في الاعتبار الفوائد الصحية للأرز البني ومذاقه.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي بهذا (المنتج 3) مع الأخذ في الاعتبار الفوائد الصحية للأرز البني ومذاقه.",
+    "aspect": "المنتج",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أفضل تسليم من الألياف والمواد المغذية التي تناولتها على الإطلاق.",
+    "aspect": "تسليم",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كان هذا هو الأفضل على الإطلاق ولكن هذا هو الوصيف القريب.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك ذهب كلبي إلى المدينة ولعق اللعبة لمدة 10 دقائق جيدة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "في الختام، كان هذا (المنتج 1) أسوأ بكثير من العلامات التجارية للبقالة الأكثر شيوعًا.",
+    "aspect": "product",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بالنسبة لكلبة تزن 16 رطلاً، فهي تمضغ بقوة، وتستمر هذه التمارين معها لعدة ساعات، مع فترات راحة للتحقق مما إذا كانت تفتقد أي شيء!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كلبي يحب جيوب الحبوب كثيرًا.",
+    "aspect": "جيوب الحبوب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "في الصباح عندما يتعين علي أن أكون في الوقت المحدد وأخرج من المنزل على عجل، أستخدم Via ويكون مذاقه مثل القهوة المخمرة تمامًا.",
+    "aspect": "Via",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كان من الممكن أن يقتل صلصة كيكومان أي أمل لها في تجربة الكاري مرة أخرى.",
+    "aspect": "صلصة كيكومان",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا لا أكون بدونها أبدًا .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تسبب الإدمان، ومن الصعب أن نتخيل تناول الفشار بدونها.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تسبب الإدمان، ومن الصعب أن نتخيل تناول الفشار بدونها.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يبدو أن هذا المنتج هو 3.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كان الصيف أو الجو حارًا في منطقتك فلا تطلبها !!",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "قد يكون طعمًا مكتسبًا، لكنني أشعر أنه أفضل من المخبوز وأكثر صحة من المقلي.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "قد يكون طعمًا مكتسبًا، لكنني أشعر أنه أفضل من المخبوز وأكثر صحة من المقلي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "قد يكون طعمًا مكتسبًا، لكنني أشعر أنه أفضل من المخبوز وأكثر صحة من المقلي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه أكثر صلابة قليلاً من بعض العلكة لذلك أحب أن أجمعه مع Wrigley's Doublemint.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه أكثر صلابة قليلاً من بعض العلكة لذلك أحب أن أجمعه مع Wrigley's Doublemint.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بطريقة ما، هناك ما يكفي من الحلاوة لجعل هذا الشريط لذيذًا بشكل مدهش وربما يكون الأفضل للحصول على الفوائد الصحية النقية للشوكولاتة الداكنة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بطريقة ما، هناك ما يكفي من الحلاوة لجعل هذا الشريط لذيذًا بشكل مدهش وربما يكون الأفضل للحصول على الفوائد الصحية النقية للشوكولاتة الداكنة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بطريقة ما، هناك ما يكفي من الحلاوة لجعل هذا الشريط لذيذًا بشكل مدهش وربما يكون الأفضل للحصول على الفوائد الصحية النقية للشوكولاتة الداكنة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا هو الأفضل بلا شك كوب ك هناك.",
+    "aspect": "كوب ك",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يبدو أنه مشبع بالإلكتروليتات وله عامل حموضة 9.5.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نحن عائلة نحب الفلفل في طعامنا وهذا مزيج يلبي احتياجاتنا من اللحوم والخضروات والسلطات.",
+    "aspect": "مزيج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كوكيز الشوكولاتة أفضل من أي كوكيز نباتي أو منتجات ألبان تذوقتها على الإطلاق.",
+    "aspect": "كوكيز الشوكولاتة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كما قال الآخرون، إذا كنت تبحث عن صلصة تضيف نكهة رائعة مع لمسة من الحرارة التي تأتي من صلصة ساخنة تقليدية، فهذا يستحق المحاولة.",
+    "aspect": "صلصة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سيدني، مزيجنا الأسترالي عادة ما يواجه صعوبة عندما نغير طعامه، ولكن لم يكن هذا هو الحال عندما تحولنا إلى حيوية، فهي تحب هذا الطعام.",
+    "aspect": "حيوية",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كنت مخطئا جدا .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وأنا أحب أيضًا أنها ليست عبوة زجاجية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا لا أعيش تحت أي نوع من الوهم بأنها صحية للغاية أو أي شيء من هذا القبيل، ولكنني أشعر بتحسن بشأن حقيقة أنها عضوية ولا تحتوي على مجموعة من المكونات التي لم أسمع بها من قبل.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يجب على الجميع تجربته - سوف تصاب بالإدمان.",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحب هذا البروتين!",
+    "aspect": "البروتين",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا تزال مقرمشة من الداخل حتى لو كان الجزء الخارجي رطبًا بعض الشيء ولا تزال جيدة لك أيضًا، ولكنها ليست المفضلة لدي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا تزال مقرمشة من الداخل حتى لو كان الجزء الخارجي رطبًا بعض الشيء ولا تزال جيدة لك أيضًا، ولكنها ليست المفضلة لدي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا تزال مقرمشة من الداخل حتى لو كان الجزء الخارجي رطبًا بعض الشيء ولا تزال جيدة لك أيضًا، ولكنها ليست المفضلة لدي.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا جعل المعكرونة طرية بدرجة كافية، ولكنها لا تزال غير طرية.",
+    "aspect": "المعكرونة",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا جعل المعكرونة طرية بدرجة كافية، ولكنها لا تزال غير طرية.",
+    "aspect": "المعكرونة",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عظيم !",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طريقة رائعة لبدء الصباح .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جرب كلاهما لمعرفة أيهما المفضل لديك ؛ لا أعتقد أنك يمكن أن تخطئ مع أي من هذه اللذيذة التوابل!",
+    "aspect": "التوابل",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تريد نوعية جيدة أوراق الشاي السائبة لا تشتري هذا.",
+    "aspect": "أوراق الشاي السائبة",
+    "category": "food recommendation",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تريد نوعية جيدة أوراق الشاي السائبة لا تشتري هذا.",
+    "aspect": "أوراق الشاي السائبة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كانت قديمة، وأنا أحبها جوز البرازيل وكان هذا مضيعة كاملة للمال. عادةً ما أستمتع بجميع مشترياتي من أمازون، لكنني شعرت بخيبة أمل شديدة في هذا الشراء",
+    "aspect": "جوز البرازيل",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كانت قديمة، وأنا أحبها جوز البرازيل وكان هذا مضيعة كاملة للمال. عادةً ما أستمتع بجميع مشترياتي من أمازون، لكنني شعرت بخيبة أمل شديدة في هذا الشراء",
+    "aspect": "جوز البرازيل",
+    "category": "food prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كانت قديمة، وأنا أحبها جوز البرازيل وكان هذا مضيعة كاملة للمال. عادةً ما أستمتع بجميع مشترياتي من أمازون، لكنني شعرت بخيبة أمل شديدة في هذا الشراء",
+    "aspect": "جوز البرازيل",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا أستطيع أن أجد شيئًا جيدًا لأقوله عنهم.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "انتبه لهذا !!!!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هل تبحث عن شاي الزنجبيل المتوازن، السلس، ذو النكهة اللطيفة؟",
+    "aspect": "شاي الزنجبيل",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هل تبحث عن شاي الزنجبيل المتوازن، السلس، ذو النكهة اللطيفة؟",
+    "aspect": "شاي الزنجبيل",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هل تبحث عن شاي الزنجبيل المتوازن، السلس، ذو النكهة اللطيفة؟",
+    "aspect": "شاي الزنجبيل",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا خردل مطحون بالحجر رائع جدًا على الساندويتش أو في الوصفات التي تتطلب الخردل حيث لا يتم مزجه تمامًا مع المكونات الأخرى ولكنه لا يزال مرئيًا بمفرده.",
+    "aspect": "خردل مطحون بالحجر",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حتى الآن هو المفضل لدي على الإطلاق رقائق البطاطس.",
+    "aspect": "رقائق البطاطس",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا وزوجي نحب أيضًا تناول هذه الكوكيز مع البودنج من Kozy Shack، وهو أيضًا خالي من الغلوتين.",
+    "aspect": "الكوكيز",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي بهذه ملفات تعريف الارتباط وهذه الشركة بشدة.",
+    "aspect": "ملفات تعريف الارتباط",
+    "category": "food recommendation",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "معجون التمر الهندي من ماركة تاميكون مركّز ويُحفظ لمدة تصل إلى 6 أشهر في الثلاجة بعد الفتح، مما يجعله صفقة جيدة هنا على أمازون.",
+    "aspect": "معجون التمر الهندي من ماركة تاميكون",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يساعد على منع كرات الشعر.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يبدو أنه صحي وجبة خفيفة.",
+    "aspect": "وجبة خفيفة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد نشأت على تناول المعكرونة طوال حياتي، وكنت أبحث عن منتج معكرونة يحتوي على نسبة منخفضة من الكربوهيدرات ولا طعمه مثل الكرتون.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد نشأت على تناول المعكرونة طوال حياتي، وكنت أبحث عن منتج معكرونة يحتوي على نسبة منخفضة من الكربوهيدرات ولا طعمه مثل الكرتون.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أطلب هذا المنتج كل 6 أشهر، ولكن قد أقوم بتغيير ذلك قريبًا إلى 3 أشهر.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لسروري الكبير، فقط علبة واحدة من أصل 36 علبة بها خدش صغير، لذا يبدو أن المشكلة قد تم حلها، على الأقل فيما يتعلق بشحنتي.",
+    "aspect": "شحنة",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كنت أعتقد حتى تذوقت هذا المنتج أن آلة كيوريج غير قادرة على تحضير كوب لائق من القهوة، ولكن بفضل بلاك تايجر أصبح لدي الآن شيء أتطلع إليه عندما أريد تناول كوب من القهوة في العمل.",
+    "aspect": "بلاك تايجر",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سوف أطلب مرة أخرى!",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه جيد، ولكن ليس جيدًا مثل شاي Twinings Earl Grey العادي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه جيد، ولكن ليس جيدًا مثل شاي Twinings Earl Grey العادي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "في الواقع، وصلت العبوة لزجة مع عسل سائل يتساقط من كل عبوة حلوى مغلفة بالبلاستيك، مما جعل فتح كل قطعة أمرًا مقززًا.",
+    "aspect": "package",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "في الواقع، وصلت العبوة لزجة مع عسل سائل يتساقط من كل عبوة حلوى مغلفة بالبلاستيك، مما جعل فتح كل قطعة أمرًا مقززًا.",
+    "aspect": "حلوى مغلفة بالبلاستيك",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بخلاف تكلفة الشحن جيد جدًا صفقة.",
+    "aspect": "صفقة",
+    "category": "food prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بخلاف تكلفة الشحن جيد جدًا صفقة.",
+    "aspect": "تكلفة الشحن",
+    "category": "shipment prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بشكل عام، إنه طعام إفطار جيد.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حبات الفلفل لها نكهة رائعة، ويتم طحنها جيدًا، كما أنها جذابة على المائدة.",
+    "aspect": "حبات الفلفل",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حبات الفلفل لها نكهة رائعة، ويتم طحنها جيدًا، كما أنها جذابة على المائدة.",
+    "aspect": "حبات الفلفل",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حبات الفلفل لها نكهة رائعة، ويتم طحنها جيدًا، كما أنها جذابة على المائدة.",
+    "aspect": "حبات الفلفل",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الفشار يظهر مع كمية قليلة من الذرة \"غير المنبثقه\".",
+    "aspect": "الفشار",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تبحث عن قهوة لذيذة وناعمة ومحمصة متوسطة وممزوجة بجرعة جيدة من نكهة الشوكولاتة، فقد يكون هذا قهوة جيفاليا هو الخيار الأمثل لك!",
+    "aspect": "قهوة جيفاليا",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تبحث عن قهوة لذيذة وناعمة ومحمصة متوسطة وممزوجة بجرعة جيدة من نكهة الشوكولاتة، فقد يكون هذا قهوة جيفاليا هو الخيار الأمثل لك!",
+    "aspect": "قهوة جيفاليا",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تبحث عن قهوة لذيذة وناعمة ومحمصة متوسطة وممزوجة بجرعة جيدة من نكهة الشوكولاتة، فقد يكون هذا قهوة جيفاليا هو الخيار الأمثل لك!",
+    "aspect": "قهوة جيفاليا",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد طلبت هذا لحم بقري مجفف لوالدي كهدية عيد الأب.",
+    "aspect": "لحم بقري مجفف",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جيد التغليف .",
+    "aspect": "التغليف",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك فإن ربع الجوز على الأقل لم يكن مفتوحًا وكان من الصعب جدًا محاولة فتحه بحيث كان من الأسهل التخلص منه.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد شعرت بخيبة أمل كبيرة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أرخص بكثير وأفضل منتج من تلك الشركات الكبرى.",
+    "aspect": "منتج",
+    "category": "food prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أرخص بكثير وأفضل منتج من تلك الشركات الكبرى.",
+    "aspect": "منتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كنا مسرورين للغاية عندما جربنا هذه!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كانت طازجة ونظيفة ولذيذة المذاق.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كانت طازجة ونظيفة ولذيذة المذاق.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كانت طازجة ونظيفة ولذيذة المذاق.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ZiwiPeak هو منتج ممتاز.",
+    "aspect": "ZiwiPeak",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحمله مع الكوب معي وأضيف إليه الماء الساخن أو البارد، حسب حالتي المزاجية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كانت العجينة  أكثر رطوبة بكثير من الخبز العادي (أشبه بالعجين السميك)، وفي البداية اعتقدت أنني ربما ارتكبت خطأ عندما قمت بقياس المكونات الأخرى.",
+    "aspect": "dough",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ماذا يمكن أن يكون أفضل؟",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "نعم، إنه مشتق من القمح أو الذرة، ولكن نكهة الطعام المصنعة للغاية هذه ليست ما قد يفكر فيه معظم الناس عندما نسمع \"كلها طبيعية ولا نكهات مزيفة\" - بالطبع هم يقولون الحقيقة من الناحية الفنية، إنها مجرد مصدر طبيعي - معالجة للغاية، مُحلي من النشا ومصدر للكربوهيدرات.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سأخرج الحقيبة من الوديعة وأنا متأكد من أنها ستحبها أيضًا",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا فوضى ولا قياس.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا حليب جوز الهند لذيذ ويعتبر صفقة حقيقية للعضوية! ! !",
+    "aspect": "حليب جوز الهند",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا حليب جوز الهند لذيذ ويعتبر صفقة حقيقية للعضوية! ! !",
+    "aspect": "حليب جوز الهند",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا طعام رائع ومكوناته عالية الجودة ولذيذ على ما يبدو.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا طعام رائع ومكوناته عالية الجودة ولذيذ على ما يبدو.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا طعام رائع ومكوناته عالية الجودة ولذيذ على ما يبدو.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها في الواقع تركيبة غريبة، لكنها تعمل بشكل جيد للغاية.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها في الواقع تركيبة غريبة، لكنها تعمل بشكل جيد للغاية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "مضيعة كاملة للمال .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طعام صحي وكامل يشبع جوعي لفترة طويلة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طعام صحي وكامل يشبع جوعي لفترة طويلة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها قابلة للاسترداد قليلاً إذا تركتها مفتوحة لبضعة أسابيع، لذلك أعطيتها نجمتين.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها قابلة للاسترداد قليلاً إذا تركتها مفتوحة لبضعة أسابيع، لذلك أعطيتها نجمتين.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لها نكهة شراب القيقب الرائعة، ويتم طهيها بسرعة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لها نكهة شراب القيقب الرائعة، ويتم طهيها بسرعة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لم أستطع حقًا تذوق البرغموت في هذا الشاي.",
+    "aspect": "الشاي",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لن أشتري أي معكرونة أخرى غير هذه .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أفضل نكهة من بين كل ما جربته. وجربتهم جميعًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد اشتريت هذا الحجم ليتناسب مع جهاز West Bend 2.5 أونصة.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "شكرًا لك على جعل الأمر سهلاً للغاية الشراء!",
+    "aspect": "الشراء",
+    "category": "amazon availability",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يسعدني أيضًا رؤية مجموعة متنوعة من المعكرونة التي يصنعونها.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أفضل ما يعجبني في هذه القضبان هو أنها ليست سكرية للغاية ولديها الكمية المناسبة من السكر لإزالة مذاق المكسرات.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أفضل ما يعجبني في هذه القضبان هو أنها ليست سكرية للغاية ولديها الكمية المناسبة من السكر لإزالة مذاق المكسرات.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أستخدم كمية أقل بقليل من كوب واحد من هذا المنتج لصنع ثلاثة أرغفة من خبز العجين المخمر مرتين في الأسبوع تقريبًا، لذا فهو يدوم معي لفترة من الوقت، ولكنني سأقوم بإنهائه وطلب عبوة أخرى بحلول الشهر السادس، لذلك سيظل طازجًا إلى حد معقول.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تتمتع بنفس طعم الذرة اللذيذ مثل حبوب الذرة ولكنها أخف بكثير وأسهل على الأسنان.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تتمتع بنفس طعم الذرة اللذيذ مثل حبوب الذرة ولكنها أخف بكثير وأسهل على الأسنان.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تتمتع بنفس طعم الذرة اللذيذ مثل حبوب الذرة ولكنها أخف بكثير وأسهل على الأسنان.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من السهل جدًا استخراج الحزمة بأكملها.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها محبطة حقا",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تأتي هذه زجاجة ماء في حاوية بلاستيكية قابلة لإعادة التدوير.",
+    "aspect": "زجاجة ماء",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "Paragon Dental Chews منتج رائع.",
+    "aspect": "Paragon Dental Chews",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا القهوة قوي - لذلك إذا كنت تحب القهوة الهادئة، فجرب مزيجًا مختلفًا من Coffee People.",
+    "aspect": "القهوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا القهوة قوي - لذلك إذا كنت تحب القهوة الهادئة، فجرب مزيجًا مختلفًا من Coffee People.",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "المنتج  جيد وأوصي به مع تحذير واحد.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "المنتج  جيد وأوصي به مع تحذير واحد.",
+    "aspect": "المنتج",
+    "category": "food recommendation",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بالمناسبة أنا أحب لحم الخنزير المقدد، ولكن هذا لم يكن لحم خنزير مقدد.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بالتأكيد، طعم المشروب جيد بدونها، ولكن هذا يصل إلى آفاق جديدة بمجرد موافقتك على إضافة بعض التوابل إليه.",
+    "aspect": "المشروب",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا هو الأفضل على الإطلاق المعكرونة الذي يمكنك الحصول عليه.",
+    "aspect": "المعكرونة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه النكهة هي المفضلة لدي، لأنها ليست سميكة مثل معظم مشروبات البروتين، وأنا أحب أي شيء بنكهة القهوة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه النكهة هي المفضلة لدي، لأنها ليست سميكة مثل معظم مشروبات البروتين، وأنا أحب أي شيء بنكهة القهوة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه النكهة هي المفضلة لدي، لأنها ليست سميكة مثل معظم مشروبات البروتين، وأنا أحب أي شيء بنكهة القهوة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "المعكرونة كانت خيوط منفصلة (غير طرية) ولم يكن الطعم مختلفًا عن الشعيرية الأرزية العادية.",
+    "aspect": "المعكرونة",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "المعكرونة كانت خيوط منفصلة (غير طرية) ولم يكن الطعم مختلفًا عن الشعيرية الأرزية العادية.",
+    "aspect": "المعكرونة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ربما يكون هذا هو أفضل إنتاج ضخم لحم البقر المجفف في السوق.",
+    "aspect": "لحم البقر المجفف",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها مثالية (حجم 1) لكلبي، وهي تلتهمها!",
+    "aspect": "حجم",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها مثالية (حجم 1) لكلبي، وهي تلتهمها!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الألوان لم تعد مشرقة كما كانت في السابق.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد وصلوا أيضًا في اليوم التالي بحالة ممتازة وغير مكسورة.",
+    "aspect": "NULL",
+    "category": "shipment quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد وصلوا أيضًا في اليوم التالي بحالة ممتازة وغير مكسورة.",
+    "aspect": "NULL",
+    "category": "shipment quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد وصلوا أيضًا في اليوم التالي بحالة ممتازة وغير مكسورة.",
+    "aspect": "NULL",
+    "category": "shipment delivery",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سأشتري المزيد بالتأكيد.",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا مدمن تمامًا على هذا المشروب اللذيذ الشراب.",
+    "aspect": "الشراب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا مدمن تمامًا على هذا المشروب اللذيذ الشراب.",
+    "aspect": "الشراب",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تم التوصية به من قبل صديق يبيع طعام الحيوانات الأليفة.",
+    "aspect": "طعام الحيوانات الأليفة",
+    "category": "food recommendation",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الشيء الوحيد الذي لا يعجبني هو أنه يخفض أيضًا الكوليسترول الجيد - HDL وإذا توقفت لفترة قصيرة يرتفع LDL. ما الذي يمكنك التوصية به لهذا التأثير؟",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لحسن الحظ أن أحد زملائي في الغرفة استمتع بها لذا لم تكن خسارة كاملة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لحسن الحظ أن أحد زملائي في الغرفة استمتع بها لذا لم تكن خسارة كاملة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا لست متأكدًا مما إذا كان هذا صندوقًا سيئًا أو دفعة سيئة من المنتج ، لكننا نستمر في استخدام ماكينة التخمير الخاصة بنا على جميع العلامات التجارية الأخرى دون أي مشاكل.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا لست متأكدًا مما إذا كان هذا صندوقًا سيئًا أو دفعة سيئة من المنتج ، لكننا نستمر في استخدام ماكينة التخمير الخاصة بنا على جميع العلامات التجارية الأخرى دون أي مشاكل.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "واو ... يبدو أن هذا النوع من المنتج يعتمد فقط على الرائحة وأقل قدر ممكن على الذوق.",
+    "aspect": "المنتج",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "واو ... يبدو أن هذا النوع من المنتج يعتمد فقط على الرائحة وأقل قدر ممكن على الذوق.",
+    "aspect": "المنتج",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أستخدم صلصة التفاح بدلاً من السمن حتى أحصل على مكافآت صحية.",
+    "aspect": "صلصة التفاح",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "مُستَحسَن .",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد اضطررت في الواقع إلى تنظيم حصصهم لأن الكلاب لم تتوقف عن أكلها.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بالنسبة إلى كلب الهاسكي السيبيري، لا يمكن التغلب على هذا الطعام!",
+    "aspect": "الطعام",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وجاء بسرعة كبيرة أيضا!",
+    "aspect": "NULL",
+    "category": "shipment delivery",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كنت أتوقع حبيبات أكبر سكر وأشعر بخيبة أمل في هذا منتج.",
+    "aspect": "منتج",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كنت أتوقع حبيبات أكبر سكر وأشعر بخيبة أمل في هذا منتج.",
+    "aspect": "سكر",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أستخدم علبتين أو ثلاث علب أسبوعيًا من حليب جوز الهند العضوي لأنني أستخدمه في العصائر وأحب شربه أيضًا عاديًا أو صبه فوق الحبوب.",
+    "aspect": "حليب جوز الهند العضوي",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كل واحد من أطفالي الأربعة يحبها ويطلبها يوميًا، على الرغم من أنني أحاول الاحتفاظ بها للهدايا الخاصة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "شاي المريمية أوصى به الكثيرون كوسيلة للحد من الهبات الساخنة، مقابل تناول الأدوية التي يمكن أن ترتبط بالسرطان.",
+    "aspect": "شاي المريمية",
+    "category": "food recommendation",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه نوع الشوكولاتة الذي لا تشتريه كهدية فحسب، بل قد ترغب أيضًا في شرائه والاحتفاظ به كوجبة خفيفة.",
+    "aspect": "الشوكولاتة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه نوع الشوكولاتة الذي لا تشتريه كهدية فحسب، بل قد ترغب أيضًا في شرائه والاحتفاظ به كوجبة خفيفة.",
+    "aspect": "الشوكولاتة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها كلبة كوكير سبانيل وقد تمكنت من إنجاز المهمة بسرعة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بغض النظر عن مدى جهدي، لم أتمكن من خلطه مع الحليب بشكل كافٍ.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا رائع توابل إذا كنت تحب طعامك لذيذًا وحارًا.",
+    "aspect": "توابل",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد أخبرت بالفعل ثلاثة من أصدقائي الذين كانوا سعداء جدًا بمشترياتهم أيضًا.",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد أخبرت بالفعل ثلاثة من أصدقائي الذين كانوا سعداء جدًا بمشترياتهم أيضًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جميل جداً التغليف مع أوصاف لكل \"نكهة\".",
+    "aspect": "التغليف",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا لست متأكدًا ما إذا كان الشاي يتراكم في نظامك ويتوقف عن العمل أم أنه يحدث لي فقط.",
+    "aspect": "الشاي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كانت هذه رقائق البطاطا الحلوة لذيذة وكان اعتراضي الحقيقي الوحيد هو مالتوديكسترين الذي لا يعد \"طبيعيًا تمامًا ولا شيء مزيفًا أو مزيفًا\" كما هو معلن.",
+    "aspect": "رقائق البطاطا الحلوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كانت هذه رقائق البطاطا الحلوة لذيذة وكان اعتراضي الحقيقي الوحيد هو مالتوديكسترين الذي لا يعد \"طبيعيًا تمامًا ولا شيء مزيفًا أو مزيفًا\" كما هو معلن.",
+    "aspect": "رقائق البطاطا الحلوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وأنا سعيد حقًا بوجود حزمة تجريبية - كل منها بحجم جيد  وتساعد في تغييرها عند تحضير الأرز مع العشاء.",
+    "aspect": "حزمة تجريبية",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وأنا سعيد حقًا بوجود حزمة تجريبية - كل منها بحجم جيد  وتساعد في تغييرها عند تحضير الأرز مع العشاء.",
+    "aspect": "حجم",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وأنا سعيد حقًا بوجود حزمة تجريبية - كل منها بحجم جيد  وتساعد في تغييرها عند تحضير الأرز مع العشاء.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الآن أصبح الأمر فظيعًا تمامًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يتميز بطعم حلو جيد وجودة جيدة وسعر جيد.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يتميز بطعم حلو جيد وجودة جيدة وسعر جيد.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يتميز بطعم حلو جيد وجودة جيدة وسعر جيد.",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد قلق من القهوة .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تريد تلك الرائحة والمذاق القوي القهوة، فلن تخطئ هنا.",
+    "aspect": "القهوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه رائعة الشاي .",
+    "aspect": "الشاي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "اشتريت أوراق الشاي السائبة معتقدًا أن العلامة التجارية Twinings ستكون ذات جودة جيدة.",
+    "aspect": "أوراق الشاي السائبة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هل يوجد بعض المكونات الغريبة باهظة الثمن مثل الذهب موجودة في تلك المربعات الصغيرة؟",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هل يوجد بعض المكونات الغريبة باهظة الثمن مثل الذهب موجودة في تلك المربعات الصغيرة؟",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يا لها من ضربة حظ؛ توابلهم جيدة مثل موسيقاهم!",
+    "aspect": "توابلهم",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طلبت هذا كهدية في الغالب. طلبت أربع أكياس. أكلت واحدة وأرسلت الثلاثة الأخرى كهدية. هذه حلوى لذيذة جدًا وقطعها بحجم جيد. تلتصق بأسنانك قليلاً، ولكن بشكل عام سأعطيها إبهامًا.",
+    "aspect": "حلوى",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طلبت هذا كهدية في الغالب. طلبت أربع أكياس. أكلت واحدة وأرسلت الثلاثة الأخرى كهدية. هذه حلوى لذيذة جدًا وقطعها بحجم جيد. تلتصق بأسنانك قليلاً، ولكن بشكل عام سأعطيها إبهامًا.",
+    "aspect": "حلوى",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طلبت هذا كهدية في الغالب. طلبت أربع أكياس. أكلت واحدة وأرسلت الثلاثة الأخرى كهدية. هذه حلوى لذيذة جدًا وقطعها بحجم جيد. تلتصق بأسنانك قليلاً، ولكن بشكل عام سأعطيها إبهامًا.",
+    "aspect": "حلوى",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "طلبت هذا كهدية في الغالب. طلبت أربع أكياس. أكلت واحدة وأرسلت الثلاثة الأخرى كهدية. هذه حلوى لذيذة جدًا وقطعها بحجم جيد. تلتصق بأسنانك قليلاً، ولكن بشكل عام سأعطيها إبهامًا.",
+    "aspect": "حلوى",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أعجبني وسأستمر في شرائه .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أعجبني وسأستمر في شرائه .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الآن أستطيع أن أستمر في رحلتي لتناول الطعام الصحي بمساعدة هذه الصلصة اللذيذة الصلصة.",
+    "aspect": "الصلصة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كان له طعم قشر البرتقال الطفيف.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا الشاي له مظهر وقوام القهوة الفورية وليس أوراق الشاي السائبة الشاي.",
+    "aspect": "الشاي",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا الشاي له مظهر وقوام القهوة الفورية وليس أوراق الشاي السائبة الشاي.",
+    "aspect": "الشاي",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا الشاي له مظهر وقوام القهوة الفورية وليس أوراق الشاي السائبة الشاي.",
+    "aspect": "الشاي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ناتشو شيدر و شيدر أبيض هي النكهات المفضلة لدينا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سيكون هذا في الدوران الموسمي الخاص بي لأنه كوب مُرضي من قهوة بنكهة اليقطين الحارة التي لا تطغى على الحنك ولا تتذوق بشكل مصطنع كما كنت أخشى.",
+    "aspect": "قهوة بنكهة اليقطين الحارة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سيكون هذا في الدوران الموسمي الخاص بي لأنه كوب مُرضي من قهوة بنكهة اليقطين الحارة التي لا تطغى على الحنك ولا تتذوق بشكل مصطنع كما كنت أخشى.",
+    "aspect": "قهوة بنكهة اليقطين الحارة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سيكون هذا في الدوران الموسمي الخاص بي لأنه كوب مُرضي من قهوة بنكهة اليقطين الحارة التي لا تطغى على الحنك ولا تتذوق بشكل مصطنع كما كنت أخشى.",
+    "aspect": "قهوة بنكهة اليقطين الحارة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تشبه شكل حلوى Smarties، ولكنها أكثر تفتتًا بعض الشيء.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تشبه شكل حلوى Smarties، ولكنها أكثر تفتتًا بعض الشيء.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يقول بعض الناس أنها مقززة لأنها قهوة فورية وتستخدم زيتًا مهدرجًا ولكنها رائعة للغاية - بالإضافة إلى أنك توفر المال على الكريمة والسكر!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يقول بعض الناس أنها مقززة لأنها قهوة فورية وتستخدم زيتًا مهدرجًا ولكنها رائعة للغاية - بالإضافة إلى أنك توفر المال على الكريمة والسكر!",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عندما وصل الطلب كان الشحن وكل شيء التغليف مثاليًا دون أي ضرر لأي جزء من الطلب.",
+    "aspect": "الطلب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عندما وصل الطلب كان الشحن وكل شيء التغليف مثاليًا دون أي ضرر لأي جزء من الطلب.",
+    "aspect": "الشحن",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عندما وصل الطلب كان الشحن وكل شيء التغليف مثاليًا دون أي ضرر لأي جزء من الطلب.",
+    "aspect": "التغليف",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تحتوي على كمية مناسبة من الأزمة وتحتوي على 10 جرام من البروتين.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "النصف الآخر مني ليس من محبي الثوم ولم ينزعج من كمية الثوم الموجودة في المنتج.",
+    "aspect": "المنتج",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد قامت زوجتي بتحضير طبق تقليدي باستخدام هذه المكونات الشعيرية المصنوعة من الأرز البني، وقد كانت النتيجة جيدة جدًا.",
+    "aspect": "الشعيرية المصنوعة من الأرز البني",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أستخدمها حصريًا في البيتزا الخاصة بي وكذلك في جميع وصفات الصلصات الخاصة بي تقريبًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أصبحت القطع أكبر حجمًا، ربما للتعويض عن افتقارها إلى الذوق (؟).",
+    "aspect": "القطع",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أصبحت القطع أكبر حجمًا، ربما للتعويض عن افتقارها إلى الذوق (؟).",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ربما كنت أتوقع مستوى نكهة Altoids. حتى نصف ذلك سيكون مقبولاً) لاحظت أن لديهم نفس عدد السعرات الحرارية مثل Altoids.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عندما يبرد، يصبح لطيفًا وسميكًا مرة أخرى!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عندما يبرد، يصبح لطيفًا وسميكًا مرة أخرى!",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لدى بعض الأشخاص في عائلتي ردود فعل غريبة تجاه مادة الجلوتامات أحادية الصوديوم (MSG)، وأتمنى أن أتمكن من الحصول على الحساء بدونها.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لدى بعض الأشخاص في عائلتي ردود فعل غريبة تجاه مادة الجلوتامات أحادية الصوديوم (MSG)، وأتمنى أن أتمكن من الحصول على الحساء بدونها.",
+    "aspect": "الحساء",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كلبي لا يمضغ هذا ولن يمضغه.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد نكهة بروتينية ثقيلة ولا يجعلني أشعر بالمرض بعد شربه.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد نكهة بروتينية ثقيلة ولا يجعلني أشعر بالمرض بعد شربه.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا هو أفضل مشروب بروتيني تذوقته على الإطلاق.",
+    "aspect": "مشروب بروتيني",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد اكتسبت نصف وزنها في غضون أسبوعين وتحسنت حالة معطفها ومستويات طاقتها.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد اكتسبت نصف وزنها في غضون أسبوعين وتحسنت حالة معطفها ومستويات طاقتها.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "التغليف ليس هو نفسه .",
+    "aspect": "التغليف",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب هذه الطماطم !! !",
+    "aspect": "الطماطم",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد رقاقة للمقارنة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الكستناء من هوا رو مشهورة في الصين.",
+    "aspect": "الكستناء من هوا رو",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "توقف متجر البقالة الخاص بي عن حمله ولكن أمازون سيرسله إلي.",
+    "aspect": "أمازون",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "Black Tiger هي أفضل قهوة تذوقتها على الإطلاق (لأجهزة Keurig).",
+    "aspect": "Black Tiger",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": ". سوف أشتري مرة أخرى :)",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كان السعر أمازون حافزًا كبيرًا - وسنشتري مرة أخرى عندما ينفد!",
+    "aspect": "أمازون",
+    "category": "amazon prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كان السعر أمازون حافزًا كبيرًا - وسنشتري مرة أخرى عندما ينفد!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أضف موزة أو بعض الفاكهة واستمتع!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إن رائحتهم طيبة حتى بالنسبة لي.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد تلقيت مؤخرًا سلطة جراد البحر من ولاية ماين، كاملة مع لفائف منقسمة من الأعلى أصلية (تمامًا مثل النوع الذي تناولته عندما كنت طفلاً نشأت في نيو إنجلاند).",
+    "aspect": "سلطة جراد البحر من ولاية ماين",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد تلقيت مؤخرًا سلطة جراد البحر من ولاية ماين، كاملة مع لفائف منقسمة من الأعلى أصلية (تمامًا مثل النوع الذي تناولته عندما كنت طفلاً نشأت في نيو إنجلاند).",
+    "aspect": "لفائف منقسمة من الأعلى",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حتى أنني أحب أن يكون لدي حالة للنسخ الاحتياطي.",
+    "aspect": "حالة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "شكواي الوحيدة هي الجلوتامات أحادية الصوديوم والكمية الكبيرة من الصوديوم.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "شكواي الوحيدة هي الجلوتامات أحادية الصوديوم والكمية الكبيرة من الصوديوم.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حتى بعد الطهي لبضع ساعات، لا يزال طعمها ورائحتها مثل الجزء الداخلي من العلبة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حتى بعد الطهي لبضع ساعات، لا يزال طعمها ورائحتها مثل الجزء الداخلي من العلبة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عندما تتبع نظامًا غذائيًا منخفض الكربوهيدرات، فهذه هي الخيار المقرمش الجيد.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عندما تتبع نظامًا غذائيًا منخفض الكربوهيدرات، فهذه هي الخيار المقرمش الجيد.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أقول هذا لأنني جربت بعضًا من الحبوب حيث تكون الحبوب مثل أكل اللحاء أو بعضها يحتوي على الكثير من الشوكولاتة التي تغطيها بالكاد يمكنك العثور على الحبوب بحيث تشعر بالغثيان قبل أن تحصل على التحفيز المطلوب من الكافيين، لذلك يعد هذا تغييرًا منعشًا حيث أن نسبة الحبوب إلى الشوكولاتة مثالية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أقول هذا لأنني جربت بعضًا من الحبوب حيث تكون الحبوب مثل أكل اللحاء أو بعضها يحتوي على الكثير من الشوكولاتة التي تغطيها بالكاد يمكنك العثور على الحبوب بحيث تشعر بالغثيان قبل أن تحصل على التحفيز المطلوب من الكافيين، لذلك يعد هذا تغييرًا منعشًا حيث أن نسبة الحبوب إلى الشوكولاتة مثالية.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من الصعب قليلاً في البداية أن أتعود على الطعم ولكن الآن أحبه.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من الصعب قليلاً في البداية أن أتعود على الطعم ولكن الآن أحبه.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لدينا آلة كيوريج في العمل وبلاك تايجر هي النكهة الوحيدة التي سأشربها الآن بعد أن طلبناها بالصدفة عندما لم يعد يتم صنع نكهة قديمة.",
+    "aspect": "بلاك تايجر",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لم يكن الأمر جيدًا فقط مثل ما تناولته هناك في الغالب، بل كان أفضل.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه رقائق هي الأفضل رقائق على الإطلاق.",
+    "aspect": "رقائق",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لن أعود أبدًا إلى السوبر ماركت يا عزيزتي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد صادفت هذا oil في أحد الأيام في أحد الأسواق وقررت تجربته. إنه أحد أفضل ما تناولته. رأيت لاحقًا أن باتالي يستخدمه في برنامجه. هذا رائع نوعًا ما. إنه oil رائع وله نكهة طازجة رائعة تناسب أي شيء، وحتى بمفرده.",
+    "aspect": "oil",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد صادفت هذا oil في أحد الأيام في أحد الأسواق وقررت تجربته. إنه أحد أفضل ما تناولته. رأيت لاحقًا أن باتالي يستخدمه في برنامجه. هذا رائع نوعًا ما. إنه oil رائع وله نكهة طازجة رائعة تناسب أي شيء، وحتى بمفرده.",
+    "aspect": "oil",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد صادفت هذا oil في أحد الأيام في أحد الأسواق وقررت تجربته. إنه أحد أفضل ما تناولته. رأيت لاحقًا أن باتالي يستخدمه في برنامجه. هذا رائع نوعًا ما. إنه oil رائع وله نكهة طازجة رائعة تناسب أي شيء، وحتى بمفرده.",
+    "aspect": "oil",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد صادفت هذا oil في أحد الأيام في أحد الأسواق وقررت تجربته. إنه أحد أفضل ما تناولته. رأيت لاحقًا أن باتالي يستخدمه في برنامجه. هذا رائع نوعًا ما. إنه oil رائع وله نكهة طازجة رائعة تناسب أي شيء، وحتى بمفرده.",
+    "aspect": "oil",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ليس حارًا جدًا، فقط نكهة الجودة الجيدة لحم بقري خالي من الدهون ومدخن.",
+    "aspect": "لحم بقري خالي من الدهون ومدخن",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ليس حارًا جدًا، فقط نكهة الجودة الجيدة لحم بقري خالي من الدهون ومدخن.",
+    "aspect": "لحم بقري خالي من الدهون ومدخن",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أطعمهم أقل، ويتبرزون أقل، وأدفع المزيد من المال مقدمًا ولكن التكلفة أقل على المدى الطويل، كما أحصل على توصيل الطعام لهم، وهو ما يمكن أن يكون أفضل، لا أستطيع أن أقول ما يكفي من الأشياء الجيدة، أحبك canidae",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أطعمهم أقل، ويتبرزون أقل، وأدفع المزيد من المال مقدمًا ولكن التكلفة أقل على المدى الطويل، كما أحصل على توصيل الطعام لهم، وهو ما يمكن أن يكون أفضل، لا أستطيع أن أقول ما يكفي من الأشياء الجيدة، أحبك canidae",
+    "aspect": "NULL",
+    "category": "shipment delivery",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أطعمهم أقل، ويتبرزون أقل، وأدفع المزيد من المال مقدمًا ولكن التكلفة أقل على المدى الطويل، كما أحصل على توصيل الطعام لهم، وهو ما يمكن أن يكون أفضل، لا أستطيع أن أقول ما يكفي من الأشياء الجيدة، أحبك canidae",
+    "aspect": "canidae",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كان هذا أفضل شيء بالنسبة لي أثناء حملي وأثناء الرضاعة أيضًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تظل الطبقة السفلية الحبيبية المتكتلة موجودة دائمًا حتى آخر أونصة، ومن المؤكد أنها لم تعزز النكهة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أمازون كان مكانًا جيدًا لشراء هذا.",
+    "aspect": "أمازون",
+    "category": "amazon prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "اتركها تنقع في ماء ساخن جدًا لمدة 5 دقائق ثم اعصرها جيدًا وستكون لديك وجبة فردية سهلة التحضير قهوة.",
+    "aspect": "قهوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحب هذه أكياس حليب الجوز .",
+    "aspect": "أكياس حليب الجوز",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "التغليف جذاب للغاية وعندما أنتهي من الشاي أستخدم العلب الفارغة لتخزين لوازم الفن المتنامية لابنتي.",
+    "aspect": "التغليف",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي بهم بشدة!",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أتناوله على الخبز المحمص، والفطائر، واستخدمه لتحلية القهوة والشاي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب هذا المنتج الطبيعي الغني بالبروتين بار - فهو يحتوي على 16 جرامًا من البروتين في 160 سعرًا حراريًا.",
+    "aspect": "بار",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب هذه حبوب الإفطار ألواح. المكسرات المختلطة مع البروتين ألواح هي المفضلة لدي.",
+    "aspect": "حبوب الإفطار (2: ألواح",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب هذه حبوب الإفطار ألواح. المكسرات المختلطة مع البروتين ألواح هي المفضلة لدي.",
+    "aspect": "ألواح",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "اكتشفت أنه يجب عليك شطفهم جيدًا أولاً للتخلص من الرائحة الغريبة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إن وجود مثل هذه الكمية الفائضة يسمح لنا بأن نكون سخيين في الكمية المستخدمة لكل كوب والطعم رائع.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أعتقد أنه استنشقهم لذلك يبدو أنهم ممتازون.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها جيدة جدًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب الطبخ مع الصبار!",
+    "aspect": "الصبار",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جرب صندوقًا واحدًا وسوف تصبح مدمنًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه العلب الصغيرة مملوءة بأقل من النصف وبالسعر الذي يتم دفعه يبدو الأمر وكأنه عملية احتيال.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه العلب الصغيرة مملوءة بأقل من النصف وبالسعر الذي يتم دفعه يبدو الأمر وكأنه عملية احتيال.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه العلب الصغيرة مملوءة بأقل من النصف وبالسعر الذي يتم دفعه يبدو الأمر وكأنه عملية احتيال.",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحب استخدامه لتتبيل الدقيق لقلي أو تحميص الدجاج والأسماك والخضروات، مثل القرع الصيفي.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد طلبت عدة حالات وكانت تصلني دائمًا بسرعة.",
+    "aspect": "NULL",
+    "category": "shipment delivery",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه أرخص من الموجود في متجر البقالة المحلي الخاص بي ولا يتعين علي أن أحمله إلى المنزل.",
+    "aspect": "NULL",
+    "category": "amazon prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه أرخص من الموجود في متجر البقالة المحلي الخاص بي ولا يتعين علي أن أحمله إلى المنزل.",
+    "aspect": "NULL",
+    "category": "shipment delivery",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كيس واحد تم تقسيمه مع بضعة أكواب من الدقيق في جميع أنحاء الجزء الداخلي من صندوق الشحن.",
+    "aspect": "كيس واحد",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كيس واحد تم تقسيمه مع بضعة أكواب من الدقيق في جميع أنحاء الجزء الداخلي من صندوق الشحن.",
+    "aspect": "الدقيق",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "مع مضادات الأكسدة الطبيعية والإنزيمات والفيتامينات والمنشطات التي يوفرها النحل من خلال العسل [ [ B003SO9QZA : RAW ] ]، فمن المشكوك فيه لماذا تم تسخين هذا الطعام المعالج مع مواد مضافة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "قررت أن أجرب Jet Fuel بدلاً من ذلك، ولم أشعر بخيبة أمل - رائحته غنية، مذاقه رائع.",
+    "aspect": "Jet Fuel",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "قررت أن أجرب Jet Fuel بدلاً من ذلك، ولم أشعر بخيبة أمل - رائحته غنية، مذاقه رائع.",
+    "aspect": "Jet Fuel",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "قررت أن أجرب Jet Fuel بدلاً من ذلك، ولم أشعر بخيبة أمل - رائحته غنية، مذاقه رائع.",
+    "aspect": "Jet Fuel",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وقود الطائرات مشابه جدًا، لكنه ليس جيدًا مثل هذا الوقود >",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أوصي به بشدة .",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كما أنها تأتي بنكهات فريدة لا توجد عادة في المصاصات أو الحلوى الصلبة، مثل المانجو والبطيخ والرمان والتوت الأزرق.",
+    "aspect": "المصاصات أو الحلوى الصلبة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا أعلم إن كان الأمر متعلقًا بمكونات مختلفة أو بذاكرتي الخاطئة، ولكن هذا المنتج مخيب للآمال للغاية ومثير للاشمئزاز إلى حد ما.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا أعلم إن كان الأمر متعلقًا بمكونات مختلفة أو بذاكرتي الخاطئة، ولكن هذا المنتج مخيب للآمال للغاية ومثير للاشمئزاز إلى حد ما.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أو ماذا عن خدعة الحبوب، فقد تم ملؤها في المصنع ولكن تم توطينها في وسائل النقل.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تميل إلى الوخز والكشط لأنها صلبة وصلبة وعندما تعضها لا تنكسر بالتساوي أو تنهار.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تميل إلى الوخز والكشط لأنها صلبة وصلبة وعندما تعضها لا تنكسر بالتساوي أو تنهار.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تميل إلى الوخز والكشط لأنها صلبة وصلبة وعندما تعضها لا تنكسر بالتساوي أو تنهار.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه يعمل بشكل جيد مع كل شيء من الأسماك إلى الدجاج.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا ليس خردل على طراز ديجون ولا يوجد به أي تلميح للفجل.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا ليس خردل على طراز ديجون ولا يوجد به أي تلميح للفجل.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من المؤكد أنها لا تتناسب مع وصفي لـ \"صنفرة\" السكر.",
+    "aspect": "وصفي",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إذا كنت تحب القهوة داكنة وقوية بما يكفي لوضع حدوة الحصان فيها بشكل مستقيم، فقد يكون هذا مملًا للغاية بالنسبة لك.",
+    "aspect": "القهوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يوجد \"كل الأنواع\" في هذه كل الأنواع.",
+    "aspect": "كل الأنواع",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك، لقد شاركناها مع العديد من الأصدقاء ولن نتردد في طلبها مرة أخرى.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أتمنى أن أطلب المزيد في المرة الأولى لأن هذه الكمية ذهبت بسرعة كبيرة!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لم يكن علي أن أحاول كثيرًا باستخدام هذه القاعدة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عائلتي بأكملها تحب هذه الطماطم !! !",
+    "aspect": "الطماطم",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه القهوة لها رائحة وطعم رائعين ولن نغيرها أبدًا القهوة.",
+    "aspect": "القهوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه القهوة لها رائحة وطعم رائعين ولن نغيرها أبدًا القهوة.",
+    "aspect": "القهوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كنت سعيدًا جدًا لأنني تمكنت من طلب حالة من خلال Amazon.",
+    "aspect": "Amazon",
+    "category": "amazon availability",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "... والطعم الأول رائع... حتى تمضغه قليلاً، وكل ما تتذوقه هو نكهة مسحوق بروتين الصويا الطباشيري.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "... والطعم الأول رائع... حتى تمضغه قليلاً، وكل ما تتذوقه هو نكهة مسحوق بروتين الصويا الطباشيري.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "رائع القهوة وسعر رائع!",
+    "aspect": "القهوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "رائع القهوة وسعر رائع!",
+    "aspect": "القهوة",
+    "category": "food prices",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "قال أنها كانت صلبة كالصخر. مثل جلد الحذاء.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحيانًا أعثر على مربع يحتوي على قرفة أكثر من الباقي، ولكن يجب أن أقول إنني شعرت بخيبة أمل قليلاً مع هذه المربعات نظرًا لمدى استمتاعي بالنوع ذي الصندوق الأزرق.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه المكارون مذهلة.",
+    "aspect": "المكارون",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها لذيذة جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يستحق الإرجاع ولن أشتريه مرة أخرى.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يستحق الإرجاع ولن أشتريه مرة أخرى.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "شكرا على المنتج الرائع المنتج .",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا طعم له سيئا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من الأفضل أن تكون مستعدًا للتأوه من المتعة عندما تتذوق هذه العصي المدخنة للغاية أعواد لحم البقر.",
+    "aspect": "أعواد لحم البقر",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "من الأفضل أن تكون مستعدًا للتأوه من المتعة عندما تتذوق هذه العصي المدخنة للغاية أعواد لحم البقر.",
+    "aspect": "أعواد لحم البقر",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أشرب منتجات Crystal Light كبديل للمشروبات التي تحتوي على السكر، وعلى الرغم من أن نكهة Mojito هذه تحتوي على مجموعة من المحليات الصناعية، إلا أن طعمها جيد جدًا!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد اشتريت ثلاث حالات حتى الآن وأحببتهم كثيرًا!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "حتى أنه ينتج رغوة خفيفة.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها خالية تمامًا من المنتجات الحيوانية، وهو ما أحبه، لأنه من الصعب العثور على عظام مضغ ذات فوائد للأسنان وصديقة للنباتيين.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحب أن أكون قادرًا على صنع القهوة أثناء التنقل - وأنا سعيد جدًا بـ K - Cups.",
+    "aspect": "K - Cups",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "آمل أن تظل متاحة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها باهظة الثمن قليلاً ولكنها تستحق ذلك بالتأكيد !!",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها باهظة الثمن قليلاً ولكنها تستحق ذلك بالتأكيد !!",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذه اللوز والمشمش تشبه حلوى اللوز، ولكن بدون الشوكولاتة.",
+    "aspect": "اللوز والمشمش",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الطعم رائع، لكنه باهظ الثمن.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "الطعم رائع، لكنه باهظ الثمن.",
+    "aspect": "NULL",
+    "category": "food prices",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه لذيذ، وله رائحة قوية من الشوكولاتة، ومذاقه مرضي أيضًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه لذيذ، وله رائحة قوية من الشوكولاتة، ومذاقه مرضي أيضًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه لذيذ، وله رائحة قوية من الشوكولاتة، ومذاقه مرضي أيضًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "رطلين من الشاي هي كمية كبيرة بشكل مذهل.",
+    "aspect": "الشاي",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أنا أحب علكة Wrigley's Spearment.",
+    "aspect": "NULL",
+    "category": null,
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لسوء الحظ لم أكن أدرك أن المنتج تم تحليته بشكل صناعي.",
+    "aspect": "المنتج",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحب أنها مفيدة لأسناني.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يتم بيع هذا الحلوى حصريًا تقريبًا في دور السينما - ليس لدي أي فكرة عن السبب.",
+    "aspect": "الحلوى",
+    "category": "amazon availability",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إن كلبنا الصغير يستمتع بهذه الأشياء حقًا باعتبارها علاجًا.",
+    "aspect": "علاجًا",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أجد أنه يمنحني النوع المناسب من الطاقة ويمكنه حتى أن يسيطر على جوعي بين الوجبات.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أجد أنه يمنحني النوع المناسب من الطاقة ويمكنه حتى أن يسيطر على جوعي بين الوجبات.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تتمتع بنكهة الفاكهة اللذيذة، وطعمها قليل جدًا بعد تناولها.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها تتمتع بنكهة الفاكهة اللذيذة، وطعمها قليل جدًا بعد تناولها.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يساعد على تقوية الرحم .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أستخدم ملعقة أو ملعقتين كبيرتين من معجون التمر الهندي في الأطباق الهندية والتايلاندية - فهو يضيف نكهة حامضة مميزة للأطباق الآسيوية.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها طريقة جيدة جدًا لإضافة ليس فقط أوميغا 3 ولكن أيضًا البروتين الإضافي إلى الوجبة، وعلى الرغم من أن طعمها معتدل جدًا، إلا أنها جيدة جدًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها طريقة جيدة جدًا لإضافة ليس فقط أوميغا 3 ولكن أيضًا البروتين الإضافي إلى الوجبة، وعلى الرغم من أن طعمها معتدل جدًا، إلا أنها جيدة جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها طريقة جيدة جدًا لإضافة ليس فقط أوميغا 3 ولكن أيضًا البروتين الإضافي إلى الوجبة، وعلى الرغم من أن طعمها معتدل جدًا، إلا أنها جيدة جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه ليس قاسيًا جدًا أو جافًا مثل العلامات التجارية الأرخص، كما أنه ليس حلوًا جدًا أو حارًا أيضًا.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه ليس قاسيًا جدًا أو جافًا مثل العلامات التجارية الأرخص، كما أنه ليس حلوًا جدًا أو حارًا أيضًا.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه ليس قاسيًا جدًا أو جافًا مثل العلامات التجارية الأرخص، كما أنه ليس حلوًا جدًا أو حارًا أيضًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنه ليس قاسيًا جدًا أو جافًا مثل العلامات التجارية الأرخص، كما أنه ليس حلوًا جدًا أو حارًا أيضًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "موصى به للغاية!",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد طلبنا منتج. كلبنا يحبهم. ولكن لا أحد يهتم إذا كانت درجة الحرارة في الخارج 100 درجة. تم استلامها في كرة ذائبة كبيرة. اعتقدنا أنهم سيشحنونها في ثلج جاف.",
+    "aspect": "منتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد طلبنا منتج. كلبنا يحبهم. ولكن لا أحد يهتم إذا كانت درجة الحرارة في الخارج 100 درجة. تم استلامها في كرة ذائبة كبيرة. اعتقدنا أنهم سيشحنونها في ثلج جاف.",
+    "aspect": "منتج",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "بعد قراءة المراجعات اخترت شراب توراني .",
+    "aspect": "شراب توراني",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لدي كلب آخر يأكل اليقطين (لقد ساعدها حقًا في علاج مرض التهاب الأمعاء) ولم أتمكن من العثور على المعلبات محليًا.",
+    "aspect": "NULL",
+    "category": "amazon availability",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يوك .",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يحتوي على طعم الفانيليا القوي جدًا، لكنه يساعد في إخفاء النكهة الجوزية الفائقة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لا يحتوي على طعم الفانيليا القوي جدًا، لكنه يساعد في إخفاء النكهة الجوزية الفائقة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هل يمكن للمصنعين أن يكونوا صادقين في تعاملاتهم؟",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد قمت بتحضير هذا في آلة الخبز الخاصة بي وخرج مثاليًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "فيتامين سكويز كان بمثابة فتح عين جيد في الصباح، وجعلني أشعر بالرضا لمعرفتي أنني أحصل على كل هذه الفيتامينات!",
+    "aspect": "فيتامين سكويز",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يعتبر هذا رائعًا على البيض والخضروات وأي نوع آخر من اللحوم.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كنت سعيدًا جدًا بالعثور عليهم على أمازون بعد كل هذه السنوات.",
+    "aspect": "أمازون",
+    "category": "amazon availability",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أعتقد أنهم حلوين ولذيذين جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أعتقد أنهم حلوين ولذيذين جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كان هذا طعام الكلاب محبوبًا جدًا من قبل الكلاب لدرجة أنهم لم يتوقفوا عن الأكل.",
+    "aspect": "طعام الكلاب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "كان هذا طعام الكلاب محبوبًا جدًا من قبل الكلاب لدرجة أنهم لم يتوقفوا عن الأكل.",
+    "aspect": "طعام الكلاب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "ومع ذلك، بعد قراءة المكونات - حيث يأتي العسل في المرتبة الثالثة بعد السكر وشراب الذرة - قررنا إعادة تدوير هذا علاج مع الحشرات الخارجية الودودة لدينا في الفناء.",
+    "aspect": "علاج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "هذا مشروب لذيذ .",
+    "aspect": "مشروب",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد استخدمت هذا الشاي في 2 من حالات الحمل الثلاثة الخاصة بي.",
+    "aspect": "الشاي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "القهوة خفيفة وناعمة، وأود أن أسميها محمصة متوسطة.",
+    "aspect": "القهوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "القهوة خفيفة وناعمة، وأود أن أسميها محمصة متوسطة.",
+    "aspect": "القهوة",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إبهام كبير للاختيار الأكثر ذكاءً التغليف!",
+    "aspect": "التغليف",
+    "category": "shipment quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يتدفق بسهولة وطعمه رائع.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يتدفق بسهولة وطعمه رائع.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "5 رطل من التعبئة والتغليف ونصف رطل من المنتج: 2 كيس صغير من الفاصوليا المجففة، واحد من الكينونا، واثنين من عناصر براج.",
+    "aspect": "NULL",
+    "category": "shipment quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد كنت أستخدم نودلز شيراتاكي منذ حوالي شهر الآن، وأنا أحبها.",
+    "aspect": "نودلز شيراتاكي",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تتمتع هذه النعناع الصغيرة البشعة (4) بطعم ساحق من السكر القديم، مع القليل من النعناع.",
+    "aspect": "نعناع",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تتمتع هذه النعناع الصغيرة البشعة (4) بطعم ساحق من السكر القديم، مع القليل من النعناع.",
+    "aspect": "نعناع",
+    "category": "food style_options",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تتمتع هذه النعناع الصغيرة البشعة (4) بطعم ساحق من السكر القديم، مع القليل من النعناع.",
+    "aspect": "نعناع",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "تتمتع هذه النعناع الصغيرة البشعة (4) بطعم ساحق من السكر القديم، مع القليل من النعناع.",
+    "aspect": "نعناع",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عندما قمت بالتحقق من أمازون ووجدت نفس العلامة التجارية كنت سعيدًا جدًا.",
+    "aspect": "أمازون",
+    "category": "amazon availability",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "اشتريهم الآن!",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "فقط ما يكفي .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سأشجعهم على الشراء مرة أخرى لأن تاريخ انتهاء صلاحيته كان 12 مارس 2012 وكان مذاقه تمامًا كما أتذكره من طفولتي.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "سأشجعهم على الشراء مرة أخرى لأن تاريخ انتهاء صلاحيته كان 12 مارس 2012 وكان مذاقه تمامًا كما أتذكره من طفولتي.",
+    "aspect": "NULL",
+    "category": "food recommendation",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد طرحت نجمة واحدة من المراجعة بسبب نص الإعلان المتظاهر بشكل سخيف على الصندوق.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد طرحت نجمة واحدة من المراجعة بسبب نص الإعلان المتظاهر بشكل سخيف على الصندوق.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وصل كل شيء باردًا ورائعًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "وصل كل شيء باردًا ورائعًا.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عسل كولورادو خفيف وغير حلو جدًا.",
+    "aspect": "عسل كولورادو",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عسل كولورادو خفيف وغير حلو جدًا.",
+    "aspect": "عسل كولورادو",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أتركها حيث تستطيع رؤيتها، لقد غسلتها في حالة عدم إعجابها بالرائحة، لكنها لن تتقبلها على الإطلاق.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "عميل مخلص، CGF",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحبها ! ! !",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحب هذا القهوة خاصة لأنني لا أحتاج إلى فعل أي شيء به!",
+    "aspect": "القهوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "أحب هذا القهوة خاصة لأنني لا أحتاج إلى فعل أي شيء به!",
+    "aspect": "القهوة",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها رائعة للعناية بأسنان كلابي، وهم يحبون مضغها كنوع من أنواع المكافأة أثناء ممارسة الأنشطة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "إنها رائعة للعناية بأسنان كلابي، وهم يحبون مضغها كنوع من أنواع المكافأة أثناء ممارسة الأنشطة.",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "يمكنك أن تفعل ما هو أسوأ .",
+    "aspect": "NULL",
+    "category": "food general",
+    "type": "implicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد أعجبني هذا مشروب - كان منعشًا وإذا كنت تحب القهوة، فهذا صيف لطيف مشروب.",
+    "aspect": "مشروب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد أعجبني هذا مشروب - كان منعشًا وإذا كنت تحب القهوة، فهذا صيف لطيف مشروب.",
+    "aspect": "مشروب",
+    "category": "food quality",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "لقد أعجبني هذا مشروب - كان منعشًا وإذا كنت تحب القهوة، فهذا صيف لطيف مشروب.",
+    "aspect": "مشروب",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "جيد المنتج ، خدمة جيدة.",
+    "aspect": "المنتج",
+    "category": "food general",
+    "type": "explicit"
+  },
+  {
+    "split": "test",
+    "domain": "food",
+    "sentence": "استلمته بسرعة .",
+    "aspect": "NULL",
+    "category": "shipment delivery",
+    "type": "implicit"
+  }
+]
