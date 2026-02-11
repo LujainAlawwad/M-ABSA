@@ -1,0 +1,5343 @@
+﻿[
+  {
+    "sentence": "راضٍ جدًا عن الهاتف الجديد. شكرًا جزيلاً على ذلك",
+    "aspect": [
+      "الهاتف الجديد"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هاتف عالي الجودة مقابل سعره، و250 جيجابايت، إنه مثل امتلاك كمبيوتر محمول صغير الحجم",
+    "aspect": [
+      "هاتف عالي الجودة مقابل سعره"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يبدو أن خدمة Fast الشحن. المنتج تعمل بشكل جيد حتى الآن. نأمل ألا تتأثر بتحديثات البرامج.",
+    "aspect": [
+      "الشحن",
+      "المنتج"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أحب هذا الهاتف. الكثير من التخزين، سريع وسهل الاستخدام، يبدو رائعًا وأنا معجب حقًا بمدى سهولة استخدام قارئ بصمات الأصابع... لمسة واحدة ويفتح، على عكس سامسونج. الآن بعد أن اتخذت الخطوة وتركت \"العلامات التجارية الكبرى\"، فلن أعود. أفضل (5: هاتف) اشتريته.",
+    "aspect": [
+      "الهاتف",
+      "التخزين",
+      "قارئ بصمات الأصابع",
+      "قارئ بصمات الأصابع",
+      "الهاتف",
+      "سريع وسهل الاستخدام",
+      "يبدو رائعًا"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Product Configuration#Memory",
+      "System#Lock Screen Design",
+      "System#Lock Screen Design",
+      "Overall#Overall",
+      "Ease of Use#Easy to Use",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أنا سعيد حقًا بهذا الهاتف كبديل. يعمل مثل الجديد الهاتف ورائع الخدمة.",
+    "aspect": [
+      "الهاتف",
+      "الخدمة",
+      "الهاتف"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Seller Service#Attitude",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يمكن استخدامه في بعض مناطق نيجيريا. النقطة الرئيسية هي: قبل الشراء، يرجى التحقق مما إذا كان نطاق تردد شركة الاتصالات الخاصة بك متوافقًا مع هاتفنا المحمول. GSM: B2/3/5/8 WCDMA: B1/8 FDD: B1/3/7/8/19/20 يرجى ملاحظة أن المقابس لدينا هي مقابس بريطانية. أفضل صديق",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "\"مرحبًا Kartikey، يأتي Galaxy M32 مزودًا بمقياس تسارع، ومستشعر بصمة الإصبع، ومستشعر جيروسكوب، ومستشعر جيومغناطيسي، ومستشعر ضوء RGB، واستشعار القرب الافتراضي. آمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India\" جميع المستشعرات متوفرة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لا فائدة منه على الإطلاق بالنسبة لمتحدث متقاعد عديم الفائدة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "في حالة مواجهة أي مشكلات مع هاتفك، نوصيك بالتحدث إلى فريق دعم العملاء لدينا حتى يتمكنوا من مناقشة جميع الخيارات المتاحة معك. يمكنك العثور على تفاصيل جميع الطرق المختلفة للتواصل معنا على موقعنا الإلكتروني. نأمل أن يساعدك هذا! ^DB في دعم Samsung",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج بحالة جيدة ولكنه وصل باللون الخطأ اللون......",
+    "aspect": [
+      "اللون",
+      "تم استلام المنتج"
+    ],
+    "category": [
+      "Appearance Design#Color",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وصلت جميع العناصر في غضون أسبوعين. بالنسبة للسعر إنه رائع.",
+    "aspect": [
+      "وصلت جميع العناصر",
+      "بالنسبة للسعر"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Price#Value for Money"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد استلمت هاتفي المحمول في 10/6/2021. أود أن أشكر موظفي التوصيل على لطفه وسرعته التوصيل. pterlim",
+    "aspect": [
+      "التوصيل",
+      "موظفي التوصيل"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Logistics#general"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلامه ذاتيًا من المتجر دون أي مشاكل. الموظفون صبورون وودودون وجديرون بالثقة. تم إغلاق هاتفي وهو بالتأكيد منتج جديد. لقد استخدمت هاتف Mi 11 لمدة أسبوع تقريبًا وهذا هو الإصدار المحلي في سنغافورة لذا فإن NFC / Google Pay / خرائط Google و الخدمات كلها تعمل بشكل جيد. موصى به!",
+    "aspect": [
+      "مشاكل",
+      "الموظفون",
+      "هاتفي",
+      "الخدمات",
+      "خرائط Google",
+      "NFC",
+      "Google Pay",
+      "موصى به"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Seller Service#Attitude",
+      "Overall#Overall",
+      "System#Application",
+      "System#Application",
+      "System#NFC",
+      "System#Application",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعم، كان الهاتف الذي اشتريته مفتوحًا ويبدو أنه جديد تمامًا نعم، iPhone مفتوح وهو أحد أفضل مشترياتنا على الإطلاق. نعم، كان هاتفي مفتوحًا، فقط أدخل شريحة SIM الخاصة بك وانطلق، فأنت بحاجة إلى شريحة Nano SIM والتي سيرسلها لك مزود الخدمة مجانًا إذا لم يكن لديك واحدة نعم، إنه مفتوح لجميع الشبكات نعم نعم نعم. لقد مر عام تقريبًا على امتلاكي له وكان ممتازًا شراء.",
+    "aspect": [
+      "iPhone",
+      "شراء"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Buyer Attitude#Shopping Experiences"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كنت أتصفح Shopee لشراء Samsung S21 وقمت أيضًا بمراجعة العديد من بائع تجزئة. وجدت هذا بائع تجزئة، والذي كان منخفض المستوى للغاية، والأكثر موثوقية. شكرًا للبائع",
+    "aspect": [
+      "بائع تجزئة",
+      "بائع تجزئة"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Seller Service#Attitude"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم يعجبني أمي، ولا أعتقد أنه رائع أيضًا ويأتي فقط مع شاحن كابل USB، وشاحن لهاتف Honor 8X وHonor 9X يناسب هذا الهاتف ويعمل على تشغيله. لم يعجبني الجودة، ولن أستخدمه أمي. إهدار للمال.",
+    "aspect": [
+      "شاحن كابل USB",
+      "الجودة",
+      "أمي",
+      "إهدار للمال"
+    ],
+    "category": [
+      "Product Accessories#Charger",
+      "Product Quality#General",
+      "Ease of Use#Audience Groups",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم الاستلام للتو وسريع التسليم والسائق جيد وودود وجيد البائع أيضًا",
+    "aspect": [
+      "البائع",
+      "البائع",
+      "التسليم"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Seller Service#Attitude",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع هاتف لكنه لا يقرأ بطاقة الذاكرة التي هي أيضًا من إنتاج سامسونج وجديد تمامًا. أنا محبط للغاية من ذلك.",
+    "aspect": [
+      "هاتف",
+      "هاتف",
+      "من"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Overall#Overall",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه ممتاز منتج من حيث قيمة مقابل المال، ميزات في هذا الهاتف المحمول ويناسب بشكل عام متطلباتي لهاتف 5G بدون شريحة اتصال مع متانة ممتازة متانة.",
+    "aspect": [
+      "منتج",
+      "متانة",
+      "ميزات",
+      "قيمة مقابل المال"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Product Quality#General",
+      "Overall#Overall",
+      "Price#Value for Money"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع تسليم، طلبت في 4.4 و استلمت سماعات Buds Pro في 7 أبريل. إنها بحالة جيدة!",
+    "aspect": [
+      "تسليم",
+      "استلمت"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع هاتف صغير، إذا كنت قد امتلكت هاتف Pixel من قبل، فسوف ينبهرك هذا هاتف صغير، إنه ليس هاتفًا للألعاب ولكنه يتمتع بالكثير طاقة للاستخدام اليومي وبطارية يبدو معقولاً. كل ما يهم هو تجربة نظام التشغيل Android والكاميرا، وهو صفقة رائعة مقابل السعر.",
+    "aspect": [
+      "هاتف صغير",
+      "بطارية",
+      "طاقة",
+      "هاتف صغير"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Battery/Longevity#General",
+      "Battery/Longevity#General",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "القطعة اليمنى تنخفض بسرعة كبيرة، حتى مع شحنها لفترة طويلة لا تزال كما هي",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أحب هذا الهاتف. فهو يحتوي على كل ما تحتاجه.",
+    "aspect": [
+      "الهاتف"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم شراؤها لـ قريب مسن، وهي سعيدة بها.",
+    "aspect": [
+      "قريب مسن"
+    ],
+    "category": [
+      "Ease of Use#Audience Groups"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "منتج جيد جدًا منتج. لا يوجد الكثير مما يدعو للشكوى. إنه كما في الصورة.",
+    "aspect": [
+      "منتج"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الشحن استغرق وقتًا طويلاً، أكثر من أسبوعين، ولكن البائع كان متجاوبًا للغاية في الغالب، وقد قدم ضمان إضافي لمدة نصف عام بالإضافة إلى هدية مجانية للتأخير مجموعة هاتف من Tmobile، وكل شيء يعمل بشكل جيد للغاية حتى الآن. لا توجد شكاوى حتى الآن.",
+    "aspect": [
+      "الشحن",
+      "البائع",
+      "هدية مجانية",
+      "مجموعة هاتف من Tmobile",
+      "ضمان إضافي لمدة نصف عام"
+    ],
+    "category": [
+      "Seller Service#Shipping",
+      "Seller Service#Timeliness of Seller Service",
+      "Branding/Marketing#Promotional Giveaways",
+      "Overall#Overall",
+      "After-sales Service#Exchange/Warranty/Return"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وفقًا لاستخدامي لمدة 7-8 ساعات من الاستخدام المستمر، هل النقطة الإيجابية هي يتم شحنه بالكامل في غضون ساعة واحدة سريعًا جدًا الشحن؟؟",
+    "aspect": [
+      "يتم شحنه بالكامل",
+      "الشحن"
+    ],
+    "category": [
+      "Battery/Longevity#Charging Speed",
+      "Battery/Longevity#Charging Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "خطأ المقاس. ليس نفس ما طلبته في المرة السابقة. المرة الأولى التي طلبت فيها انكسرت أيضًا. رائع مخيب للآمال. يرجى استرداد المبلغ.",
+    "aspect": [
+      "المقاس",
+      "مخيب للآمال"
+    ],
+    "category": [
+      "Appearance Design#Fuselage Size",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد شراء يستحق السعر! ولكن التغليف يأتي مع غلاف فقاعي وبلاستيك بوليميل فقط وليس صندوق.",
+    "aspect": [
+      "شراء يستحق السعر",
+      "غلاف فقاعي وبلاستيك بوليميل"
+    ],
+    "category": [
+      "Price#Value for Money",
+      "Product Packaging#Packaging Materials"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مرحبًا، هاتفي S21 لم يأتي مع شاحن، فقط كابل شحن.",
+    "aspect": [
+      "شاحن",
+      "كابل شحن"
+    ],
+    "category": [
+      "Product Accessories#Charger",
+      "Product Accessories#Charging Cable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مرحبًا، بصراحة لا أعلم، ربما سنة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان هذا العنصر مزيفًا، وكان لا بد من إرجاعه!",
+    "aspect": [
+      "مزيفًا"
+    ],
+    "category": [
+      "Product Quality#Genuine Product"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تحقق من وجود مركز خدمة Mi في جوجل في منطقتك أو اتصل بدعم عملاء Mi للحصول على المساعدة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أسوأ جودة الكاميرا، هاتفي القديم يلتقط هاتف Mi A2 صورًا أفضل من تلك التي تلتقطها هذه الأدوات الغبية، عار على Redmi أن تعلن عن مواصفات خاطئة فيما يتعلق بـ الكاميرا الأمامية و الكاميرا الخلفية 108 ميجابكسل لهذا المنتج",
+    "aspect": [
+      "جودة الكاميرا",
+      "يلتقط هاتف Mi A2",
+      "الكاميرا الأمامية",
+      "الكاميرا الخلفية"
+    ],
+    "category": [
+      "Camera#General",
+      "Shooting Functions#General",
+      "Camera#Front Camera",
+      "Camera#Rear Camera"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعم، هذا الهاتف لا يحتوي على مؤشر LED للإشعارات، ولكن في إعدادات السمات، يمكنك ضبط الشاشة لتضيء عند وصول الإشعارات.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مجموعة أصلية مختومة من ماليزيا في العبوة الأصلية العبوة. لذا فإن الكابلات والمقبس جيدان بالنسبة لسنغافورة. تم استلامها من المتجر. متجاوب للغاية البائع. الأفضل السعر. شكرًا لك!",
+    "aspect": [
+      "العبوة",
+      "البائع",
+      "السعر"
+    ],
+    "category": [
+      "Product Packaging#Packaging Grade",
+      "Seller Service#Timeliness of Seller Service",
+      "Price#Price"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ودود ومتعاون البائع سريع الاستجابة الرد ويقوم بترتيب طلبي. ممتاز خدمة العملاء؟ موضع تقدير",
+    "aspect": [
+      "خدمة العملاء",
+      "الرد",
+      "البائع"
+    ],
+    "category": [
+      "Seller Service#Timeliness of Seller Service",
+      "Seller Service#Timeliness of Seller Service",
+      "Seller Service#Attitude"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الهاتف خالٍ من بطاقة SIM. إذا كانت بطاقة SIM الحالية مناسبة للهاتف، فيجب نقل جهات الاتصال إليها. نعم، إنه نفس إعداد جهاز جديد تمامًا! على iPhone، الأمر بسيط للغاية  ويمكنك نقل جميع البيانات من جهازك القديم إلى هذا الجهاز بسهولة شديدة! آمل أن يساعدك هذا! Mobile Reborn Ltd أنا أعرف Apple فقط. إذا كانت Apple، فكل ما عليك فعله هو إدخال تفاصيل تسجيل الدخول إلى Apple وسيتم نقل كل شيء من هاتفك القديم. عادةً بمجرد القيام بذلك، سيسألك هل تريد نقل كل شيء. يمكنك بعد ذلك اختيار ما تريده أو النقر فوق نعم للجميع. آمل أن يكون هذا مفيدًا؟ نعم نعم أعتقد ذلك!",
+    "aspect": [
+      "بسيط"
+    ],
+    "category": [
+      "Ease of Use#Easy to Use"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "??? ??? ?????? ?????? ?????? ??? مرحبًا Yogesh، يُرجى التحقق مع Amazon فيما يتعلق بخيارات الدفع. مع تحياتي، Samsung India",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الصور رائعة من حيث المعايير، ولا توجد مشكلات، وكل شيء يعمل على ما يرام. يسعدني أن أعرف أنه يحتوي على معالج Snapdragon 888.",
+    "aspect": [
+      "الصور",
+      "الصور",
+      "يعمل",
+      "Snapdragon 888"
+    ],
+    "category": [
+      "Shooting Functions#General",
+      "Shooting Functions#General",
+      "Overall#Overall",
+      "Product Configuration#CPU"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الشراء الثاني، سريع التسليم، تواصل جيد من البائع. سأشتري بالتأكيد مرة أخرى",
+    "aspect": [
+      "التسليم",
+      "الشراء الثاني",
+      "سأشتري بالتأكيد مرة أخرى"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Buyer Attitude#Loyalty",
+      "Buyer Attitude#Repurchase and Churn Tendency"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كل ما هو جيد لدينا المنتج هو و الكاميرا الأمامية ليس واضحًا أيهما يجب أن يكون جيدًا في هذا المعدل و الفلاش الأمامي ليس جيدًا أيضًا ويجب أن يكون هذا المعدل أكثر من 50 فولتًا ، المشكلة الرئيسية لهذا المنتج الشحن بطيء جدًا.",
+    "aspect": [
+      "المنتج",
+      "الكاميرا الأمامية",
+      "الفلاش الأمامي",
+      "الشحن"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Camera#Front Camera",
+      "Camera#Fill light",
+      "Battery/Longevity#Charging Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد تجربة شراء وصبور جدًا البائع. سأطلب مرة أخرى إذا قمت بتغيير الهاتف المحمول في المرة القادمة!",
+    "aspect": [
+      "البائع",
+      "تجربة شراء",
+      "سأطلب مرة أخرى"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Buyer Attitude#Shopping Experiences",
+      "Buyer Attitude#Repurchase and Churn Tendency"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع الهاتف، ولكن أفضل شيء هو البطارية، التي تدوم لأكثر من يومين قبل الحاجة إلى إعادة الشحن. وهذا بدون تشغيل وضع توفير الطاقة.",
+    "aspect": [
+      "الهاتف",
+      "البطارية",
+      "البطارية"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Battery/Longevity#General",
+      "Battery/Longevity#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يبدو سهل الاستخدام؛ لم أستخدم العديد من الوظائف بعد ولكنني آمل أن أتمكن من ذلك في المستقبل القريب. يجب طباعة الدليل بخط أكبر: بالكاد يمكن للمرء قراءة الحروف الصغيرة جدًا في الدليل.",
+    "aspect": [
+      "الدليل",
+      "سهل الاستخدام"
+    ],
+    "category": [
+      "Product Packaging#Instruction Manual",
+      "Ease of Use#Easy to Use"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "التسليم سريع جدًا والبائع قدم أيضًا هدية لطيفة جدًا مجانية",
+    "aspect": [
+      "مجانية",
+      "التسليم"
+    ],
+    "category": [
+      "Branding/Marketing#Promotional Giveaways",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أحدث إصدار من نظام التشغيل iOS حصلت على إصدار iOS 14.3 وهو 14.4. 14.4",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سامسونج نوت 9، 512 جيجابايت، اللون أسود، قلم S-Pen أسود، الحالة 9/10، جاء مع واقي زجاجي مقوى، ممتاز البائع",
+    "aspect": [
+      "واقي زجاجي مقوى",
+      "البائع",
+      "512 جيجابايت"
+    ],
+    "category": [
+      "Product Accessories#Cell Phone Film",
+      "Seller Service#Attitude",
+      "Product Configuration#Memory"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع بالنسبة لجدتي 94 عامًا حيث يمكنها استخدامه دون أي مشكلة",
+    "aspect": [
+      "94 عامًا",
+      "94 عامًا"
+    ],
+    "category": [
+      "Ease of Use#Audience Groups",
+      "Ease of Use#Audience Groups"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وصل بسرعة كبيرة، تم التسليم في اليوم التالي تقريبًا. تم التعبئة والتغليف بشكل جيد، وكان رجل التوصيل متجاوبًا أيضًا.",
+    "aspect": [
+      "تم التسليم",
+      "تم التعبئة والتغليف"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Packaging#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "اشتريته بسعر معقول السعر. طلبته يوم الثلاثاء، واستلمته بنفسي من متجر البائع في اليوم التالي. إنه طقم جديد تمامًا ومختوم لمنطقة ماليزيا. إنه طقم تصدير وأعطاني البائع ضمان محلي لمدة شهر واحد. لا توجد مشكلة. شكرًا لك البائع :)",
+    "aspect": [
+      "السعر",
+      "ضمان محلي لمدة شهر واحد"
+    ],
+    "category": [
+      "Price#Price",
+      "After-sales Service#Exchange/Warranty/Return"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قياسات Note 9/10X 4G 162.3 مم × 72.2 مم × 8.9 مم (6.39 بوصة × 2.84 بوصة × 0.35 بوصة) ويزن 199 جرامًا (7.0 أونصة) وهو أثقل من المعتاد بالنسبة لهاتف مقاس 6.53 بوصة. إنه كبير نوعًا ما هاتف ولكنه يناسب اليد بشكل جيد. التعرف على الوجه والرفع للتشغيل يعملان بشكل جيد.",
+    "aspect": [
+      "قياسات Note 9/10X 4G",
+      "قياسات Note 9/10X 4G",
+      "يزن 199 جرامًا",
+      "هاتف",
+      "التعرف على الوجه",
+      "6.53 inch phone"
+    ],
+    "category": [
+      "Appearance Design#Fuselage Size",
+      "Appearance Design#Fuselage Size",
+      "Appearance Design#Weight",
+      "Appearance Design#Fuselage Size",
+      "System#Lock Screen Design",
+      "Appearance Design#Fuselage Size"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ودود للغاية البائع الذي رد على جميع أسئلتي. كان الهاتف جيدًا العبوة وسريعًا الاستلام. شكرًا لك.",
+    "aspect": [
+      "البائع",
+      "الاستلام",
+      "العبوة"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Logistics#Speed",
+      "Product Packaging#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "استمر مكبر الصوت لمدة شهر سماعات الرأس لم تعمل",
+    "aspect": [
+      "سماعات الرأس"
+    ],
+    "category": [
+      "Product Accessories#Headphones"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "توفر ذاكرة الوصول العشوائي LPDDR4X. LPDDR4X",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع الهاتف، وأفضل السعر! تم الترقية من S7، لا يمكنني أن أكون أكثر سعادة. كان التسليم خلال يومين التسليم مكافأة غير متوقعة.",
+    "aspect": [
+      "الهاتف",
+      "السعر",
+      "التسليم",
+      "تم الترقية من S7"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Price#Price",
+      "Logistics#Speed",
+      "System#System Upgrade"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "في حالتي لا تزيد عن 2/3 ساعات، بضع ساعات كحد أقصى. حسب حالة الشحن.",
+    "aspect": [
+      "الشحن"
+    ],
+    "category": [
+      "Battery/Longevity#Charging Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "البائع متجاوب وودود. ذهبنا إلى المتجر لاستلام البضائع بأنفسنا. ساعدنا في فتح الصندوق الجديد للتحقق منه. شكرًا",
+    "aspect": [
+      "البائع",
+      "متجاوب"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Seller Service#Timeliness of Seller Service"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "خيبة الأمل الحزمة لم تشمل القابس. مجرد كابل. لأي سبب؟",
+    "aspect": [
+      "الحزمة لم تشمل القابس"
+    ],
+    "category": [
+      "Product Packaging#Completeness of Accessories"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع التوصيل والمنتج جيد التعبئة والتغليف. يعمل جيد جدًا. جيد الجودة.",
+    "aspect": [
+      "الجودة",
+      "يعمل",
+      "التعبئة والتغليف",
+      "التوصيل"
+    ],
+    "category": [
+      "Product Quality#General",
+      "Overall#Overall",
+      "Product Packaging#General",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع جدًا التوصيل. أجاب البائع على أسئلتي على الفور. بالإضافة إلى أن الحامل مرن وقوي للغاية.. الشيء الوحيد هو أنه يحتاج إلى القليل من القوة للانحناء. شكرًا جزيلاً لك أيها البائع؟",
+    "aspect": [
+      "التوصيل",
+      "أجاب البائع على أسئلتي"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Seller Service#Timeliness of Seller Service"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جودة الكاميرا جيدة فقط وليست مثالية ... مشبعة أكثر من اللازم",
+    "aspect": [
+      "جودة الكاميرا",
+      "جودة الكاميرا"
+    ],
+    "category": [
+      "Camera#General",
+      "Camera#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعم، جيد جدًا بالنسبة لـ 12.5 ألفًا. يمكنك الاعتماد عليه تمامًا. نعم",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سأوصيك بشراء هذا لأنه يحتوي على معالج أفضل بكثير وستحصل على شاشة Super AMOLED بمعدل تحديث 120 هرتز. تحتوي الكاميرا الأمامية والخلفية على بعض التحسينات. هذا هو السبب سأوصيك بشراء هذا الجهاز ولا تذهب إلى note 9 Pro Max.",
+    "aspect": [
+      "سأوصيك بشراء هذا"
+    ],
+    "category": [
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أود أنصح بهذا الهاتف فهو يشبه إلى حد كبير امتلاك هاتف سامسونج",
+    "aspect": [
+      "أنصح بهذا الهاتف"
+    ],
+    "category": [
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أنا لست متأكدًا بنسبة 100% من أن المشترين الأيرلنديين من أمازون (المملكة المتحدة) يمكن أن يكونوا من أمازون آخر داخل الاتحاد الأوروبي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جيد جودة المنتج ممتاز الخدمة المقدمة من البائع البائع يساعد في اتخاذ خيار جيد!",
+    "aspect": [
+      "جودة المنتج",
+      "الخدمة المقدمة من البائع"
+    ],
+    "category": [
+      "Product Quality#General",
+      "Seller Service#Attitude"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع البائع. هذه هي المرة الثانية التي أشتري منه. شكرًا لك، وسأراك مرة أخرى قريبًا.",
+    "aspect": [
+      "البائع"
+    ],
+    "category": [
+      "Seller Service#Attitude"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام حافظة الهاتف عبر البريد بحالة جيدة. اللون يختلف قليلاً عن الصورة ولكنه اللون الذي يعجبني وليس باهظ الثمن. أحبه. موصى به. شكرًا جزيلاً أيها البائع.",
+    "aspect": [
+      "تم استلام حافظة الهاتف",
+      "اللون",
+      "اللون",
+      "باهظ الثمن",
+      "أحبه",
+      "موصى به"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Appearance Design#Color",
+      "Appearance Design#Color",
+      "Price#Price",
+      "Overall#Overall",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "آيفون 11 جديد تمامًا تم تسليمه في الموعد المحدد. ماذا يمكنني أن أقول أكثر من ذلك.",
+    "aspect": [
+      "تم تسليمه"
+    ],
+    "category": [
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "استمر هذا المنتج لعدة أشهر قبل أن يبدأ في التعطل. وبعد أقل من عام، لم يعد له أي فائدة. استثمر أموالك في شراء منتج أفضل يدوم لفترة أطول. لا تشترِ هذا المنتج.",
+    "aspect": [
+      "لا تشترِ هذا المنتج"
+    ],
+    "category": [
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام العناصر بحالة جيدة وسريعة إلى حد ما التسليم",
+    "aspect": [
+      "التسليم",
+      "تم استلام العناصر"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هاتف رائع هاتف من نوكيا في هذا النطاق السعري. هاتف رائع كاميرا، هاتف رائع جودة تصنيع، هاتف جيد شكل هاتف رائع. الهاتف الأفضل هاتف في هذا النطاق السعري.....",
+    "aspect": [
+      "كاميرا",
+      "هاتف",
+      "هاتف",
+      "شكل",
+      "جودة تصنيع"
+    ],
+    "category": [
+      "Camera#General",
+      "Overall#Overall",
+      "Overall#Overall",
+      "Appearance Design#Aesthetics General",
+      "Product Quality#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع جدًا وله عمر بطارية ممتاز . لا يبطئ ولا يصبح مزعجًا للاستخدام مثل معظم الهواتف الاقتصادية . مثير للإعجاب بهذا السعر، للحصول على هاتف أسرع  ستحتاج إلى إنفاق ضعف المبلغ.",
+    "aspect": [
+      "عمر البطارية",
+      "هاتف"
+    ],
+    "category": [
+      "Battery/Longevity#Battery Life",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تكرار شراء من البائع! مرة أخرى، ممتاز خدمة ما قبل البيع وما بعد البيع!!! ممتاز، ممتاز موصى به!",
+    "aspect": [
+      "شراء",
+      "شراء",
+      "خدمة ما قبل البيع وما بعد البيع",
+      "موصى به"
+    ],
+    "category": [
+      "Buyer Attitude#Loyalty",
+      "Buyer Attitude#Loyalty",
+      "Seller Service#Attitude",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه فقط مقاوم للرذاذ مع IPv52",
+    "aspect": [
+      "مقاوم للرذاذ"
+    ],
+    "category": [
+      "Product Quality#Water Resistant"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع، خدمة كانت جيدة وودودة وسأتعامل معهم بالتأكيد سأتعامل معهم. نزاهة العمل.",
+    "aspect": [
+      "خدمة",
+      "خدمة",
+      "خدمة",
+      "سأتعامل معهم",
+      "رائع"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Seller Service#Attitude",
+      "Seller Service#Attitude",
+      "Buyer Attitude#Repurchase and Churn Tendency",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وصل في فقاعة غلاف.. بدون صندوق.. ولا يمكن العمل على الإطلاق !! أريد استرداد الأموال. البائع غير مستجيب لاسترداد الأموال وغير راغب في إرسال مجموعة بديلة.",
+    "aspect": [
+      "غلاف",
+      "العمل",
+      "البائع",
+      "البائع"
+    ],
+    "category": [
+      "Product Packaging#General",
+      "Overall#Overall",
+      "Seller Service#Attitude",
+      "Seller Service#Attitude"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد منتج، تم شراؤه للمرة الثانية بالفعل، عالي الجودة موصى به",
+    "aspect": [
+      "منتج",
+      "موصى به",
+      "تم شراؤه للمرة الثانية بالفعل"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Buyer Attitude#Recommendable",
+      "Buyer Attitude#Loyalty"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج بحالة جيدة. شكرا لك.",
+    "aspect": [
+      "تم استلام المنتج"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جميل المنتج، تمامًا مثل سماعة الأذن السابقة التي جاءت مع هاتف سامسونج.",
+    "aspect": [
+      "المنتج"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعم، لقد قمت باختباره، حتى سقط في حوضي، ولم يحدث له أي ضرر.",
+    "aspect": [
+      "سقط في حوضي"
+    ],
+    "category": [
+      "Product Quality#Fall Protection"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا أعتقد ذلك، يتم استبدال الهاتف في نفس الوقت عند تسليم الهاتف الجديد.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "التسليم كان سلسًا وقام موظف التسليم بالاتصال على WhatsApp مسبقًا للسؤال عما إذا كان هناك شخص ما في المنزل. الهاتف المحمول يعمل بشكل جيد حتى الآن.",
+    "aspect": [
+      "التسليم",
+      "الهاتف المحمول"
+    ],
+    "category": [
+      "Logistics#general",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عروض مهرجان أمازون مستمرة حتى التاسع... لذا اطلبها قريبًا... السعر سيكون هو نفسه...",
+    "aspect": [
+      "السعر"
+    ],
+    "category": [
+      "Price#Price"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "حتى الآن كان هاتفًا ممتازًا هاتف، يفعل كل ما هو مطلوب منه... حسنًا، ربما توجد هواتف هاتف أفضل في السوق، تكلف مبالغ باهظة من المال، لكن هذا (في رأيي) هاتف بميزانية رائعة هاتف بأقل من 150 جنيهًا إسترلينيًا. اشتريت هذا لزوجتي وكنت سأشتري هاتف A21 لنفسي... لكن الآن سأشتري هاتف A12.",
+    "aspect": [
+      "هاتف"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وصل في غضون أيام قليلة. سريع جدًا. وصل في عبوة غريبة عبوة مغلفة بفقاعات ولكنه محكم الغلق بشكل جيد. وصل معه العديد ملحقات بصفقة جيدة.",
+    "aspect": [
+      "وصل في غضون أيام قليلة",
+      "عبوة",
+      "عبوة",
+      "ملحقات",
+      "مغلفة بفقاعات"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Packaging#General",
+      "Product Packaging#General",
+      "Product Packaging#Completeness of Accessories",
+      "Product Packaging#Packaging Materials"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بصمة الإصبع ليست تعمل بسرعة إذا كنت تستخدم غطاء بدون غطاء فهو (2: يعمل) سريع جدًا بشكل عام جيد بطيء بعض الشيء ولكن ليس المشكلة التي تواجهها",
+    "aspect": [
+      "بصمة الإصبع",
+      "تعمل",
+      "جيد"
+    ],
+    "category": [
+      "System#Lock Screen Design",
+      "Overall#Overall",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المنتج تم استقباله بشكل جيد ... عملية المعاملة سلسة وليست صعبة حتى عند الاستلام من المتجر",
+    "aspect": [
+      "المنتج",
+      "عملية المعاملة",
+      "عملية المعاملة"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Buyer Attitude#Shopping Experiences",
+      "Buyer Attitude#Shopping Experiences"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع التوصيل خلال يومين. الصندوق مغلق. (2: يعمل.",
+    "aspect": [
+      "البائع",
+      "يعمل",
+      "الصندوق مغلق. (2: يعمل",
+      "التوصيل خلال يومين",
+      "الشراء"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Overall#Overall",
+      "Product Packaging#General",
+      "Logistics#Speed",
+      "Buyer Attitude#Shopping Experiences"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع التسليم... اشتريته كهاتف احتياطي..",
+    "aspect": [
+      "التسليم"
+    ],
+    "category": [
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "12 ولكن الآن 12.5 تم التحديث تلقائيًا 12.5",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز هاتف. جيد كاميرا ومواصفات جيدة أحبه كثيرًا. عالي الجودة أوصي به.",
+    "aspect": [
+      "أوصي به",
+      "كاميرا",
+      "هاتف",
+      "أحبه كثيرًا"
+    ],
+    "category": [
+      "Buyer Attitude#Recommendable",
+      "Camera#General",
+      "Overall#Overall",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مفاجأة سارة - فعالة للغاية هاتف محمول محدث",
+    "aspect": [
+      "هاتف محمول محدث"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بعد شهر واحد من الاستخدام، أصبح بطيئًا للغاية دون استخدام الكثير... فكر قبل الشراء",
+    "aspect": [
+      "فكر قبل الشراء"
+    ],
+    "category": [
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج. استغرق الأمر بعض الوقت حتى تم تسليمه ولكن المنتج يبدو لطيفًا ويستحق ذلك. أوصي بهذا المنتج من هذا المورد.",
+    "aspect": [
+      "المنتج",
+      "استغرق الأمر بعض الوقت حتى تم تسليمه",
+      "أوصي بهذا المنتج"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Logistics#Speed",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا لك على سؤالك، هذا الهاتف يحتوي على بطارية مدمجة، لا يمكن استبدال البطارية، أنا آسف جدًا. ولكن يمكن استخدام البطارية الكبيرة 10000 مللي أمبير في الساعة لفترة طويلة، لذلك لا تقلق كثيرًا.",
+    "aspect": [
+      "10000 مللي أمبير في الساعة"
+    ],
+    "category": [
+      "Battery/Longevity#Battery Capacity"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يأتي الهاتف مع وظيفة NFC حيث ادعى البائع أن الهاتف لا يحتوي على وظيفة NFC .... يجب على البائع معرفة المنتج جيدًا إذا كان يريد بيع العناصر ....",
+    "aspect": [
+      "البائع",
+      "وظيفة NFC"
+    ],
+    "category": [
+      "Seller Service#Seller Expertise",
+      "System#NFC"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعم، لا يوفر Hotspot الإنترنت للكمبيوتر، ولكنه يوفر الإنترنت لهاتف ذكي آخر",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جيد pجودة المنتج أ قادر على sاستشعار بصمة الإصبع عند فتح الهاتف بشكل جيد للغاية.",
+    "aspect": [
+      "جودة المنتج أ",
+      "استشعار بصمة الإصبع"
+    ],
+    "category": [
+      "Product Quality#General",
+      "Security#Screen Unlock"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الجودة الخدمة والسرعة الاستجابة من التاجر عند الضرورة. الهاتف و التعبئة والتغليف في حالة جديدة تمامًا ومثالية.",
+    "aspect": [
+      "الخدمة",
+      "الاستجابة",
+      "التعبئة والتغليف",
+      "الهاتف"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Seller Service#Timeliness of Seller Service",
+      "Product Packaging#General",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تجنب تجنب تجنب. هذا الهاتف مليء بالأخطاء وبطيء. لا يمكن تحميل الكاميرا دون أن يتجمد كل شيء. لذا خيبة أمل.",
+    "aspect": [
+      "مليء بالأخطاء",
+      "بطيء",
+      "الكاميرا",
+      "خيبة أمل",
+      "تجنب"
+    ],
+    "category": [
+      "System#Operation Smoothness",
+      "Performance#Running Speed",
+      "Camera#General",
+      "Overall#Overall",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سهل الاستخدام ولكن كبير جدًا بحيث لا يمكن وضعه في الجيب. أنا أستمتع به باستخدامه.",
+    "aspect": [
+      "كبير جدًا بحيث لا يمكن وضعه في الجيب",
+      "باستخدامه",
+      "سهل الاستخدام"
+    ],
+    "category": [
+      "Appearance Design#Fuselage Size",
+      "Overall#Overall",
+      "Ease of Use#Easy to Use"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يأتي الهاتف بعد أسبوع. حصلت على الإصدار العالمي لذا لا توجد به مشكلات حيث أحتاج إلى تنزيل تطبيقات Google بشكل منفصل. حتى الآن أنا سعيد جدًا بـ الشراء حيث حصلت عليه منذ أكثر من أسبوعين الآن. البطارية تدوم لفترة طويلة جدًا حتى بعد لعب اللعبة (يمكن أن تستمر لمدة يوم تقريبًا).",
+    "aspect": [
+      "مشكلات",
+      "تطبيقات Google",
+      "الشراء",
+      "البطارية تدوم"
+    ],
+    "category": [
+      "Overall#Overall",
+      "System#Application",
+      "Buyer Attitude#Shopping Experiences",
+      "Battery/Longevity#Power Consumption Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "البائع جدير بالثقة للغاية وأنا راضٍ جدًا (يمكن أيضًا رؤية البضائع باستخدام البائع)",
+    "aspect": [
+      "البائع",
+      "البائع",
+      "GPS"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Seller Service#Attitude",
+      "Smart Connect#Positioning and GPS"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المنتج ليس جديدًا بالتأكيد على الرغم من أن البائع يقول إنه عبر الدردشة. سأكون ممتنًا لو كان البائع أكثر صراحةً.",
+    "aspect": [
+      "المنتج"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد الجودة. التسليم كان سريعًا. التغليف كان جيدًا و الهاتف يعمل جيدًا.",
+    "aspect": [
+      "الجودة",
+      "التسليم",
+      "التغليف",
+      "الهاتف"
+    ],
+    "category": [
+      "Product Quality#General",
+      "Logistics#Speed",
+      "Product Packaging#General",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقول وصف المنتج شاشة LCD بينما يظهر العنوان شاشة Super AMOLED. هل هذه تكتيكات تسويقية؟ لم يكن متوقعًا من أمازون. محبط للغاية...",
+    "aspect": [
+      "محبط للغاية"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد خدمة العملاء من البائع وسريع الشحن. الاستخدام جيد جدًا.. شكرًا",
+    "aspect": [
+      "خدمة العملاء من البائع",
+      "الشحن",
+      "الاستخدام"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Seller Service#Shipping",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "استخدم أحدث إصدار من WhatsApp وMIUI",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جيد معبأ و مستلم بحالة جيدة. سريع ردود.",
+    "aspect": [
+      "معبأ",
+      "مستلم",
+      "ردود"
+    ],
+    "category": [
+      "Product Packaging#General",
+      "Logistics#Lost and Damaged",
+      "Seller Service#Timeliness of Seller Service"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "راضٍ للغاية عن هذا المنتج و سرعة التسليم.",
+    "aspect": [
+      "المنتج",
+      "سرعة التسليم"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع توصيل. جيد وآمن مغلف بالفقاعات. تم الاستلام بحالة ممتازة وصالحة للعمل. رخيص وجيد. شكرًا للبائع!",
+    "aspect": [
+      "توصيل",
+      "مغلف بالفقاعات",
+      "مغلف بالفقاعات",
+      "تم الاستلام",
+      "رخيص",
+      "جيد"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Packaging#Packaging Materials",
+      "Product Packaging#Packaging Materials",
+      "Logistics#Lost and Damaged",
+      "Price#Price",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مرتبة معبأة، بحالة ممتازة حالة فوجئت بأنها مستعملة!!",
+    "aspect": [
+      "معبأة",
+      "حالة"
+    ],
+    "category": [
+      "Product Packaging#General",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هناك عيب واحد فقط، وهو هذا التطبيق غير المرغوب فيه Miui، التأخير، والكثير من الإعلانات محبطة.",
+    "aspect": [
+      "Miui",
+      "التأخير"
+    ],
+    "category": [
+      "System#System General",
+      "Signal#Signal General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الكثير من هدايا مجانية مثل كابلات شحن، حافظة وواقي (ليس رائعًا ولكن يمكن استخدامه أولاً). تأخر قليلاً تأخر لكنه وصل لطيف ومغلق. شكرًا لك. تعديل: الشاحن المقدم معيب فقط الكابل يعمل. الشاحن اللاسلكي يعمل.",
+    "aspect": [
+      "كابلات شحن",
+      "كابلات شحن",
+      "حافظة",
+      "حافظة",
+      "واقي",
+      "واقي",
+      "تأخر",
+      "هدايا مجانية",
+      "الشاحن المقدم",
+      "لطيف ومغلق"
+    ],
+    "category": [
+      "Product Accessories#Charging Cable",
+      "Product Accessories#Charging Cable",
+      "Product Accessories#Phone Cases",
+      "Product Accessories#Phone Cases",
+      "Product Accessories#Cell Phone Film",
+      "Product Accessories#Cell Phone Film",
+      "Performance#General",
+      "Branding/Marketing#Promotional Giveaways",
+      "Product Accessories#Charger",
+      "Product Packaging#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام العنصر، جيد حزمة، يعمل جيد.. جيد صفقة، للغاية موصى به ؟؟",
+    "aspect": [
+      "حزمة",
+      "يعمل",
+      "صفقة",
+      "موصى به"
+    ],
+    "category": [
+      "Product Packaging#General",
+      "Overall#Overall",
+      "Buyer Attitude#Shopping Experiences",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "اخترت Nord N10 5G لأنه يتطلب بطاقة SD (تصل إلى 256 جيجابايت) واعتقدت أيضًا أنني سأحصل على تحديثات منتظمة نظام التشغيل. لسوء الحظ، هذا OnePlus لا يزال عالقًا في Android 10، OxygenOS 10.5 وهو أمر مخيب للآمال. بصرف النظر عن ذلك، أستمتع صور لائقة وأنا سعيد بـ الأداء العام. لا يمكنني التعليق على Pixel لأنني لم أستخدمه أبدًا. آمل أن تكون المعلومات مفيدة لك لاتخاذ قرار.",
+    "aspect": [
+      "نظام التشغيل",
+      "OxygenOS 10.5",
+      "صور لائقة",
+      "الأداء العام",
+      "256 جيجابايت",
+      "لا يزال عالقًا في Android 10"
+    ],
+    "category": [
+      "System#System Upgrade",
+      "System#System General",
+      "Shooting Functions#General",
+      "Performance#General",
+      "Product Configuration#Memory",
+      "System#System Upgrade"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذا الهاتف ليس مقفلاً على أي شبكة، وبالتالي فإنه ينبغي أن يعمل مع جميع الشبكات.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يحتوي على تقنية بصمة الإصبع، ويحتوي على التعرف على الوجه، وبالطبع حماية كلمة المرور. لا، ولكنه رخيص وجيد بالنسبة للسعر كما يحتوي أيضًا على التعرف على الوجه. ليس على حد علمي. لا أعتقد ذلك",
+    "aspect": [
+      "تقنية بصمة الإصبع",
+      "التعرف على الوجه",
+      "حماية كلمة المرور",
+      "التعرف على الوجه",
+      "رخيص",
+      "جيد"
+    ],
+    "category": [
+      "System#Lock Screen Design",
+      "System#Lock Screen Design",
+      "System#Lock Screen Design",
+      "System#Lock Screen Design",
+      "Price#Price",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا لك على سؤالك، سيمنحك هذا الهاتف حافظة هاتف، لكن لا يوجد فتحة للعين على (1: حافظة الهاتف). لا",
+    "aspect": [
+      "حافظة هاتف"
+    ],
+    "category": [
+      "Product Accessories#Phone Cases"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لسوء الحظ، ستحصل فقط على كابل Lightning إلى USB-C.",
+    "aspect": [
+      "كابل Lightning إلى USB-C",
+      "كابل Lightning إلى USB-C"
+    ],
+    "category": [
+      "Product Accessories#Charging Cable",
+      "Product Accessories#Charging Cable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان سريع الاستجابة البائع. التسليم سريعًا جدًا على الرغم من كونه موسم عيد الميلاد.",
+    "aspect": [
+      "البائع",
+      "التسليم"
+    ],
+    "category": [
+      "Seller Service#Timeliness of Seller Service",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا أستطيع استخدام هاتفي بدون هذا الغطاء. إنه رائع للغاية ويمنع أي خدوش أو أضرار قد تلحق بهاتفك. قيمة رائعة مقابل المال.",
+    "aspect": [
+      "قيمة رائعة مقابل المال"
+    ],
+    "category": [
+      "Price#Value for Money"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "البائع سريع جدًا. تم استلام المنتج. أوصي بشدة بهذا البائع أوصي به",
+    "aspect": [
+      "البائع",
+      "أوصي به"
+    ],
+    "category": [
+      "Seller Service#Timeliness of Seller Service",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يحتوي هاتفنا Galaxy S20 FE 5G على معالج Snapdragon 865. نأمل أن يساعدك هذا! ^LP في قسم دعم Samsung Exynos 990",
+    "aspect": [
+      "Snapdragon 865"
+    ],
+    "category": [
+      "Product Configuration#CPU"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كنت أستخدم هذا الهاتف لأكثر من شهر وهو مذهل. جودة الكاميرا رائعة للغاية. أنا أحب كاميرا الماكرو أيضًا. أداء البطارية جيد. الشحن السريع يساعدني على شحنه في ساعة. الشاشة واضحة للغاية و السطوع رائع. بصمة الإصبع سريعة حقًا. جودة الصوت مذهلة. بالتأكيد أوصي بهذا الهاتف.",
+    "aspect": [
+      "الهاتف",
+      "جودة الكاميرا",
+      "كاميرا الماكرو",
+      "أداء البطارية",
+      "الشحن السريع",
+      "الشاشة",
+      "السطوع",
+      "بصمة الإصبع",
+      "جودة الصوت",
+      "أوصي"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Camera#General",
+      "Camera#General",
+      "Battery/Longevity#General",
+      "Battery/Longevity#Charging Speed",
+      "Screen#Clarity",
+      "Screen#Clarity",
+      "Security#Screen Unlock",
+      "Audio/Sound#Tone quality",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه سهل الاستخدام ويعمل بشكل جيد. لدي أربعة نماذج من xaomi جيدة أيضًا.",
+    "aspect": [
+      "يعمل بشكل جيد",
+      "xaomi",
+      "سهل الاستخدام"
+    ],
+    "category": [
+      "Performance#General",
+      "Overall#Overall",
+      "Appearance Design#Fuselage Size"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع التسليم العناصر مغلفة بالفقاعات بشكل جيد شكرًا لك على الهدية",
+    "aspect": [
+      "مغلفة بالفقاعات",
+      "التسليم"
+    ],
+    "category": [
+      "Product Packaging#Packaging Materials",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالطبع!! نعم \"عزيزي العميل، يمكن توسيع سعة التخزين على هواتف M21 بمقدار 512 جيجابايت إضافية، باستخدام بطاقة micro-SD. آمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India\"",
+    "aspect": [
+      "يمكن توسيع سعة التخزين على هواتف M21"
+    ],
+    "category": [
+      "Product Configuration#Memory"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعم / غير مقفل / تقوم بإدخال بطاقة SIM الخاصة بك مع أي شركة اتصالات تستخدمها كان الهاتف الذي أملكه غير مقفل، لقبول أي بطاقة SIM للشبكة كان الهاتف الذي اشتريته غير مقفل. أنا متأكد من أنه مكتوب في الوصف في مكان ما أن جميع الهواتف غير مقفلة. كان الهاتف الذي اشتريته نظيفًا يبدو جديدًا تمامًا. جاء الهاتف الذي تلقيته غير مقفل نعم. تمكنت من إدخال بطاقة SIM الخاصة بي وعملت على الفور. نعم. غير مقفل. نعم، الهاتف غير مقفل تمامًا. نعم هو كذلك",
+    "aspect": [
+      "نظيفًا"
+    ],
+    "category": [
+      "Product Quality#Genuine Product"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ينزلق الحامل ويكاد لا يمسك بجهاز iPad AIR الخاص بي. جهاز AIR هو أخف جهاز iPad في السوق ولا يصمد إذا لمسته، بل ينزلق إلى أدنى مستوى له. الطريقة الوحيدة التي يمكنني بها إصلاحه هي استخدام الغراء الفائق لتثبيت الآلية في مكانها. رديء الجودة :",
+    "aspect": [
+      "الجودة"
+    ],
+    "category": [
+      "Product Quality#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد طلبت هذا الصباح واستلمته عند الباب بحلول الساعة 10 مساءً. المنتج حقيقي يبدو أصغر من الصورة وهو أمر جيد. لقد تم اختباره لفترة، وقد تم شحنه بالفعل ولكن الهاتف يسخن بشدة ساخن وهو ما يزعجني.",
+    "aspect": [
+      "يبدو أصغر من الصورة",
+      "ساخن"
+    ],
+    "category": [
+      "Appearance Design#Fuselage Size",
+      "Performance#Heat Generation"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع الهاتف، لقد وضعت للتو شريحة SIM الخاصة بي من iPhone 6 فيه.",
+    "aspect": [
+      "الهاتف"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه يخضع لقواعد البيع عن بعد، لذا لديك 14 يومًا بشرط ألا تبدأه أو تضع بطاقة SIM فيه.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم تسليم المنتج كما هو موضح بالصور. تم الطلب بتاريخ 7.7، الضمان لمدة 9 أشهر تقريبًا، حتى مارس من العام المقبل.",
+    "aspect": [
+      "تم تسليم المنتج",
+      "الضمان"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "After-sales Service#Exchange/Warranty/Return"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جميل جدا هاتف ويستحق الشراء خاص بالالعاب",
+    "aspect": [
+      "هاتف",
+      "الشراء"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "\"مرحبًا Kunal، يحتوي Galaxy M02s على أمان فتح القفل بالوجه. آمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India\" فتح القفل بالوجه متوفر في الهاتف ولكن مستشعر الإصبع غير متوفر. \"مرحبًا Kunal، يحتوي Galaxy M02s على أمان فتح القفل بالوجه. آمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India\"",
+    "aspect": [
+      "أمان فتح القفل بالوجه",
+      "مستشعر الإصبع",
+      "فتح القفل بالوجه",
+      "أمان فتح القفل بالوجه"
+    ],
+    "category": [
+      "System#Lock Screen Design",
+      "System#Lock Screen Design",
+      "System#Lock Screen Design",
+      "System#Lock Screen Design"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ضعيف عمر البطارية، الكاميرا جيد..",
+    "aspect": [
+      "عمر البطارية",
+      "الكاميرا"
+    ],
+    "category": [
+      "Battery/Longevity#Battery Life",
+      "Camera#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لطيف اللون.. لست متأكدًا مما إذا كان يحجب RFID..... حامل البطاقة ليس من السهل إدخاله وإخراج البطاقة...",
+    "aspect": [
+      "اللون"
+    ],
+    "category": [
+      "Appearance Design#Color"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أنا أنتظر هذا الهاتف الذكي بفارغ الصبر. ولكنني اشتريته، وهناك الكثير من مشكلة في هذا المثال 1.أيقونة تطبيق سطح المكتب انخفضت تلقائيًا 2.حجم عنصر واجهة المستخدم لسطح المكتب سلوك غير طبيعي على الرغم من أنني قمت بالصيانة من مركز خدمة iqoo، إلا أنني ما زلت أواجه هذه مشكلة. يرجى الرد في أسرع وقت ممكن.",
+    "aspect": [
+      "مشكلة",
+      "أيقونة تطبيق سطح المكتب",
+      "حجم عنصر واجهة المستخدم لسطح المكتب"
+    ],
+    "category": [
+      "Overall#Overall",
+      "System#UI Interface Aesthetics",
+      "System#UI Interface Aesthetics"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هاتفي iPhone تالف لذا اشتريت هذا الهاتف قبل ترقية هاتفي الجديد. شاشة تعمل باللمس جيدة جدًا. عمر البطارية رائع أيضًا حتى الآن. سهل الإعداد قبل الاستخدام. جاء مع واقي شاشة و حافظة متصل ولكنه لا يحتوي على سماعات أذن، حجم شاشة الهاتف جيد جدًا. جودة الصورة جيدة ولكن جودة الفيديو لطيفة. أيضًا جودة الصوت رائعة. بشكل عام هذا الهاتف جيد قيمة مقابل المال. إنه يعمل بشكل رائع وفقًا لاقتراحي.",
+    "aspect": [
+      "iPhone",
+      "شاشة تعمل باللمس",
+      "عمر البطارية",
+      "حافظة",
+      "واقي شاشة",
+      "سماعات أذن",
+      "حجم شاشة الهاتف",
+      "جودة الصورة",
+      "جودة الفيديو",
+      "جودة الصوت",
+      "قيمة مقابل المال",
+      "سهل الإعداد"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Screen#General",
+      "Battery/Longevity#Battery Life",
+      "Product Accessories#Phone Cases",
+      "Product Accessories#Cell Phone Film",
+      "Product Accessories#Headphones",
+      "Screen#Size",
+      "Shooting Functions#General",
+      "Shooting Functions#General",
+      "Audio/Sound#Tone quality",
+      "Price#Value for Money",
+      "Ease of Use#Easy to Use"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا نعاني من هذه المشكلة. إنها سهولة تنزيل الملفات والتطبيقات. والشاشة رائعة عندما ألعب الألعاب. آسف لأنني لا أستطيع مساعدتك. يبدو أنك بحاجة إلى العودة إلى البائع... إنه معيب. آسف لأنني لا أستطيع مساعدتك.",
+    "aspect": [
+      "الشاشة",
+      "سهولة تنزيل"
+    ],
+    "category": [
+      "Screen#General",
+      "Ease of Use#Easy to Use"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سيعمل رم على بيانات الهاتف المحمول بسهولة. وميزة التقاط الإشارة جيدة حقًا.",
+    "aspect": [
+      "رم على بيانات الهاتف المحمول"
+    ],
+    "category": [
+      "Signal#Signal of Mobile Network"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الهاتف جيد، لا توجد شكوى، ولا توجد مشكلة مع المنتج",
+    "aspect": [
+      "الهاتف",
+      "المنتج"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الشحن سريع. الجودة جيدة جدًا بالنسبة للسعر الذي دفعته. جاءت العلبة منحنية بشكل قطري قليلًا.",
+    "aspect": [
+      "الجودة",
+      "الشحن"
+    ],
+    "category": [
+      "Product Quality#General",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "5020 5020 - راجع المواصفات قبل الشراء نعم 5020",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جيد حقًا الهاتف وصوت عالٍ مكبر الصوت لتشغيل الموسيقى، وممتاز عمر البطارية",
+    "aspect": [
+      "الهاتف",
+      "مكبر الصوت",
+      "عمر البطارية"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Audio/Sound#Volume and Speaker",
+      "Battery/Longevity#Battery Life"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا جزيلا الحب أنها تناسب بشكل جيد جدا وحماية جيدة جدا وسريعة جدا الشحن",
+    "aspect": [
+      "الشحن",
+      "الحب"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كنت أستخدم Blackviews منذ 4 سنوات ولكن هذا ليس جيدًا على الإطلاق",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الساعة بالكامل تبدو رخيصة. نعم، أوافقك الرأي على أنها رخيصة، لكن بخلاف استخدامها كساعة، لا يمكن فعل الكثير. أشعر بالندم شرائها. كما تبدو جميع الوظائف الأخرى عديمة الفائدة...؟",
+    "aspect": [
+      "شرائها",
+      "الساعة بالكامل"
+    ],
+    "category": [
+      "Buyer Attitude#Shopping Experiences",
+      "Price#Price"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عزيزي العميل، يمكنك توصيل الهاتف بالكمبيوتر باستخدام كابل البيانات. نأمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India نعم، يمكنك نقل البيانات من m32 إلى الكمبيوتر",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سريع التوصيل وفعال. موظفو التوصيل مهذبون للغاية وجيدون للغاية",
+    "aspect": [
+      "التوصيل",
+      "التوصيل",
+      "موظفو التوصيل"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Logistics#Speed",
+      "Logistics#general"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مدهش الهاتف صحة البطارية كانت 100٪ ولا يوجد خدوش.",
+    "aspect": [
+      "صحة البطارية",
+      "الهاتف"
+    ],
+    "category": [
+      "Battery/Longevity#Battery Life",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "التسليم كان سريعًا.. آمل أن يكون كل شيء على ما يرام.. اشتريت خلال 4/4",
+    "aspect": [
+      "التسليم"
+    ],
+    "category": [
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "راجع المراجعات الأخرى. هذا جزء مزيف يتم شحنه بجودة منخفضة كابل. تم الإبلاغ عن القائمة إلى أمازون",
+    "aspect": [
+      "كابل",
+      "مزيف"
+    ],
+    "category": [
+      "Product Accessories#Charging Cable",
+      "Product Quality#Genuine Product"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الهاتف كان لديه بعض المشاكل واضطر إلى التوجه إلى المتجر لإجراء عملية تبادل. من الجيد أن المتجر كان ودودًا للمساعدة في عملية التبادل.",
+    "aspect": [
+      "الهاتف",
+      "المتجر",
+      "المتجر"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Seller Service#Attitude",
+      "Seller Service#Attitude"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يا لها من قطعة رائعة للجري بها! مريحة، وتناسب جيدًا، وسهلة الاستخدام أثناء الجري. تناسب هاتفي iPhone XR (تناسب محكمًا) وجيب صغير بسحاب يناسب مفتاح سيارتي ومفاتيح المنزل جيدًا! بشكل عام، رائعة اشتري!",
+    "aspect": [
+      "اشتري"
+    ],
+    "category": [
+      "Buyer Attitude#Shopping Experiences"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "Abit باهظ الثمن، ولكن يستحق ذلك، مثالي جراب، تم التسليم في غضون يومين، شكرًا لك",
+    "aspect": [
+      "تم التسليم",
+      "جراب",
+      "باهظ الثمن",
+      "يستحق ذلك"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Packaging#General",
+      "Price#Price",
+      "Price#Value for Money"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مستوى الصوت مستوى الصوت في هذا الهاتف منخفض للغاية. سمعي ليس جيدًا، ولكن لم أواجه أي مشاكل في السمع قبل أن أشتري هذا الهاتف.",
+    "aspect": [
+      "مستوى الصوت"
+    ],
+    "category": [
+      "Audio/Sound#Volume and Speaker"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه يعمل كما ينبغي أن يعمل الآيفون! لا شكوى!",
+    "aspect": [
+      "شكوى"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج سريعًا وبحالة جيدة. لا يمكن للواقي أن يلتصق جيدًا. عند تحريكه قليلاً، سيسقط الواقي. لا فائدة منه بالنسبة لي.",
+    "aspect": [
+      "تم استلام المنتج",
+      "بحالة جيدة"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج كما هو موضح عبر فويور في غضون أيام قليلة بعد الطلب. تم اختباره وفي حالة صالحة للعمل.",
+    "aspect": [
+      "تم استلام المنتج",
+      "في حالة صالحة للعمل"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المنتج جيد جدًا، يستحق ثمنه.",
+    "aspect": [
+      "المنتج",
+      "يستحق ثمنه"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Price#Value for Money"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع المنتج والتوصيل استغرق حوالي أسبوع. ممتاز موصى به. **********************",
+    "aspect": [
+      "المنتج",
+      "موصى به",
+      "التوصيل"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Buyer Attitude#Recommendable",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم الاستلام بحالة جيدة وسرعة التوصيل. مساعدة زميلتي في الشراء وهي أحبته؟",
+    "aspect": [
+      "تم الاستلام",
+      "التوصيل",
+      "أحبته"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Logistics#Speed",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم الاستلام بحالة جيدة... جميل المنتج... شكرا للبائع",
+    "aspect": [
+      "تم الاستلام",
+      "المنتج"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج معبأ بشكل جيد. تم استلامه في اليوم التالي على الرغم من أنه تم ذكر ذلك بعد 3 أيام. أنا سعيد جدًا بـ الشراء والبائع. :)",
+    "aspect": [
+      "تم استلام المنتج",
+      "تم استلامه",
+      "البائع",
+      "الشراء"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Logistics#Speed",
+      "Seller Service#Attitude",
+      "Buyer Attitude#Shopping Experiences"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بجدية، اشترِ على مسؤوليتك الخاصة. اشتريت الجهاز خلال 3 دقائق من الصفقة السريعة. كان من المفترض أن يأتي الجهاز مع 3 هدايا مجانية (لوحة مفاتيح لوجيتك، وشاحن لاسلكي، وقسيمة استبدال). لم أتلق أي هدايا. تواصلت مع وكيل الدردشة لكنهم غير راغبين استكشاف الأخطاء وإصلاحها عندما لم يعمل رمز القسيمة. رفضوا قبول الهدايا المجانية. أسوأ تجربة",
+    "aspect": [
+      "تجربة",
+      "استكشاف الأخطاء وإصلاحها",
+      "3 هدايا مجانية"
+    ],
+    "category": [
+      "Buyer Attitude#Shopping Experiences",
+      "Seller Service#Attitude",
+      "Branding/Marketing#Promotional Giveaways"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الحالة، عمر البطارية ليس رائعًا",
+    "aspect": [
+      "الحالة",
+      "عمر البطارية"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Battery/Longevity#Battery Life"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بسعر 8 كيلو فقط، فإنه يوفر ميزات 15 كيلو. اشتري دائمًا مع 3 جيجا بايت رام",
+    "aspect": [
+      "3 جيجا بايت رام"
+    ],
+    "category": [
+      "Product Configuration#Operating Memory"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا، لا دعم تجميع شركات الاتصالات متاح عزيزي العميل، يدعم Galaxy M32 2G GSM، 3G WCDMA، 4G LTE FDD، 4G LTE TDD اتصال الشبكة. آمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India جيد جدًا محمول؟ نعم",
+    "aspect": [
+      "دعم تجميع شركات الاتصالات",
+      "2G GSM",
+      "3G WCDMA",
+      "4G LTE TDD اتصال الشبكة",
+      "4G LTE FDD",
+      "محمول"
+    ],
+    "category": [
+      "Signal#Signal of Mobile Network",
+      "Signal#Signal of Mobile Network",
+      "Signal#Signal of Mobile Network",
+      "Signal#Signal of Mobile Network",
+      "Signal#Signal of Mobile Network",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وصل الهاتف مغلقًا بعناية معبأ بالإكسسوارات بداخله. لم أستخدم الهاتف بعد ولكن كل شيء يبدو جيدًا جيد",
+    "aspect": [
+      "وصل الهاتف",
+      "معبأ بالإكسسوارات بداخله",
+      "جيد"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Product Packaging#Completeness of Accessories",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الأبعاد الفعلية قياسات الشاشة هي 6 بوصات طولاً × 2.75 بوصة عرضًا، وقطرًا 6.5 بوصة. الشاشة نفسها أكبر قليلًا. آمل أن يساعدك ذلك. مرحبًا، شكرًا لك على الاتصال بنا، إنه 6.5 بوصة",
+    "aspect": [
+      "قياسات الشاشة",
+      "الشاشة نفسها"
+    ],
+    "category": [
+      "Screen#Size",
+      "Screen#Size"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد وجدت هذا متين، ولكن كن حذرًا مع الجزء الخلفي الزجاجي للهاتف المحمول الذي يسقط من الارتفاع.",
+    "aspect": [
+      "متين"
+    ],
+    "category": [
+      "Product Quality#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان من المفترض أن يتم وضع مكبر صوت الهاتف في الجانب وليس في الخلف.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سريع تسليم لكن الرجل تسليم ترك الطرد خارج منزلي عندما لم يكن أحد في المنزل دون أن يخبرني. لحسن الحظ لم يأخذه أحد",
+    "aspect": [
+      "تسليم"
+    ],
+    "category": [
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد وجدت أن الكاميرا لائقة حقًا. جيدة مثل موتورولا ومتفوقة على Cubot. مرحبًا، في رأيي، (11: الكاميرات جيدة جدًا بالفعل. أنا سعيد جدًا بأداء الصور الثابتة والفيديو. أود أن أقول إنها أفضل شيء في الهاتف. جودة عالية  مع خيار التغيير إلى 48 ميجابكسل، وهي في الواقع عالية جدًا دقة. مرفق ماكرو للقطات القريبة أيضًا. صورة شخصية (11: كاميرا) جيدة (8: جودة) أيضًا. إنها جيدة حقًا (11: كاميرا) لتكون مجرد (2: هاتف) (11: كاميرا).. أنا سعيد حقًا بـ صور مع هذه (11: كاميرا). في تجربتي، الكاميرا الرئيسية (11: كاميرا) من الدرجة الأولى. لم أستخدم الآخرين، لذلك لا يمكنني التعليق عليها. أنا لست من أشد المستخدمين حماسًا (2: هاتف) (11: كاميرا) لأنني أفضل كاميرا رقمية مستقلة (11: كاميرا). أنا أحب (2: هاتف) وبالنسبة لـ سعره فهو رائع وممتاز وأنا أكثر من راضٍ",
+    "aspect": [
+      "سعره",
+      "الهاتف",
+      "كاميرا رقمية مستقلة (11: كاميرا",
+      "الكاميرا الرئيسية (11: كاميرا",
+      "صور",
+      "صورة شخصية (11: كاميرا",
+      "دقة",
+      "جودة",
+      "الصور الثابتة والفيديو",
+      "(11: الكاميرات",
+      "الكاميرا",
+      "أكثر من راضٍ",
+      "رائع وممتاز"
+    ],
+    "category": [
+      "Price#Price",
+      "Overall#Overall",
+      "Camera#General",
+      "Camera#General",
+      "Shooting Functions#General",
+      "Camera#General",
+      "Screen#Clarity",
+      "Product Quality#General",
+      "Shooting Functions#General",
+      "Camera#General",
+      "Camera#General",
+      "Overall#Overall",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج. قائمة مضللة، يمكن تسجيل المنتج لدى Samsung Singapore للحصول على ضمان رسمي. لكن المجموعة كانت مجموعة تصدير رفضتها Samsung. يقول البائع إن المتجر سيقدم (ضمان لمدة عام واحد). آمل أن يحترموا ذلك. كن حذرًا عند الشراء من هذا البائع.",
+    "aspect": [
+      "ضمان لمدة عام واحد"
+    ],
+    "category": [
+      "After-sales Service#Exchange/Warranty/Return"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يحتوي على مستشعر بصمة الإصبع في الخلف ولكن لم أجربه بعد نعم يحتوي Redmi 9 على مستشعر بصمة الإصبع نعم بالإضافة إلى الكثير جيد حقًا هاتف رائع قيمة .... تحصل على الكثير مقابل نقودك نعم، إنه موجود أسفل العدسة الثالثة للكاميرا مباشرةً، مخفي بشكل جيد نعم، في الخلف أسفل الكاميرا نعم، يوجد. نعم، يوجد.",
+    "aspect": [
+      "مستشعر بصمة الإصبع",
+      "مستشعر بصمة الإصبع",
+      "هاتف",
+      "قيمة"
+    ],
+    "category": [
+      "System#Lock Screen Design",
+      "System#Lock Screen Design",
+      "Overall#Overall",
+      "Price#Value for Money"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع التسليم. لم يتم اختبار الجهاز بعد.",
+    "aspect": [
+      "التسليم"
+    ],
+    "category": [
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بعد قراءة العديد من المراجعات الرائعة، قررت شراءه. بالنسبة لهاتف  يتمتع بقوة معالجة عالية، فإنه يتعطل كثيرًا. انتظرت ثلاثة أسابيع قبل كتابة مراجعتي للتأكد. كما يتعطل بشكل عشوائي. فقد تعطل ست مرات منذ أن اشتريته. لن أوصي به .",
+    "aspect": [
+      "يوصي",
+      "هاتف"
+    ],
+    "category": [
+      "Buyer Attitude#Recommendable",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد وسريع التسليم يستغرق ثلاثة أيام عمل للوصول سأشتري مرة أخرى",
+    "aspect": [
+      "التسليم",
+      "التسليم",
+      "سأشتري مرة أخرى"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Logistics#Speed",
+      "Buyer Attitude#Repurchase and Churn Tendency"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جميل هاتف، يعمل بشكل رائع. أفضل (3: هواتف) الموجودة في السوق. موصى به للغاية .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد حان الوقت لترقية هاتفي القديم إلى S10+ وطلبت هاتف S21 Ultra هذا. ماسح بصمات الأصابع سريع جدًا. إنه رائع في يدك. الكاميرا مثيرة للإعجاب أيضًا. التمرير عبر التطبيقات سريع وسلس وباستخدام 5G يتم تنزيل كل شيء وتحميله بسرعة كبيرة.",
+    "aspect": [
+      "ماسح بصمات الأصابع",
+      "في يدك",
+      "الكاميرا",
+      "التمرير عبر التطبيقات",
+      "5G"
+    ],
+    "category": [
+      "Security#Screen Unlock",
+      "Appearance Design#Grip Feeling",
+      "Camera#General",
+      "Performance#General",
+      "Signal#Signal of Mobile Network"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ضمان الشركة المصنعة لمدة عام واحد للجهاز وضمان الشركة المصنعة لمدة 6 أشهر للملحقات الموجودة في العلبة بما في ذلك البطاريات من تاريخ الشراء. يأتي OPPO A31 مع (ضمان لمدة 3: عام واحد).",
+    "aspect": [
+      "ضمان الشركة المصنعة لمدة عام واحد للجهاز",
+      "ضمان الشركة المصنعة لمدة 6 أشهر للملحقات الموجودة في العلبة",
+      "1 Year Warranty"
+    ],
+    "category": [
+      "After-sales Service#Exchange/Warranty/Return",
+      "After-sales Service#Exchange/Warranty/Return",
+      "After-sales Service#Exchange/Warranty/Return"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "انتقل إلى Samsung m42. يعمل 108 مثل 2 ميجا بكسل. الإعلانات وبرامج التشويش ستزعجك. الإشعارات مزعجة واجهة المستخدم",
+    "aspect": [
+      "برامج التشويش",
+      "واجهة المستخدم"
+    ],
+    "category": [
+      "System#Application",
+      "System#UI Interface Aesthetics"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استخدامه ليوم واحد فقط ولكن هناك مشكلة في اللمس في هذا الطراز المحمول بسبب مشكلة في البرنامج بمجرد إعادة تشغيل الهاتف المحمول مرة أخرى يعمل بشكل طبيعي",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "امتلكت هواتف آيفون منذ إصدار 3 إس ثم حصلت على 6 إس وامتلكتها لمدة 3 سنوات حتى نفدت البطارية. فكرت في الصعود بدرجتين أعلى ولكن استقريت على هاتف آيفون 11 64 جرام الأصفر. الصورة التي أدرجتها هي الوضع الليلي على هاتف آيفون، إنه مذهل حقًا! يعد Face ID جزءًا رائعًا من الأمان. الصوت من مكبرات الصوت المدمجة رائعة. لا يوجد منفذ لسماعات الرأس. لدي سماعات رأس لاسلكية وهي تعمل بشكل مثالي. إنه سريع وسهل الاستخدام. أقول دائمًا اشترِ حافظة. اشتريت حافظة مطاطية وواقي شاشة زجاجي لحمايته فقط. سيشحنه كابل لايتنينج. اشتريت شاحن QI لاسلكي رخيص  يحمي المنفذ. إنه الأكبر هاتف امتلكته ولكني أحبه!",
+    "aspect": [
+      "شاحن لاسلكي QI",
+      "تعمل",
+      "الصوت",
+      "الصورة",
+      "سهل الاستخدام",
+      "الأكبر",
+      "أحبه",
+      "سريع"
+    ],
+    "category": [
+      "Product Accessories#Charger",
+      "Overall#Overall",
+      "Audio/Sound#Tone quality",
+      "Shooting Functions#General",
+      "Ease of Use#Easy to Use",
+      "Appearance Design#Fuselage Size",
+      "Overall#Overall",
+      "Performance#Running Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وصل المنتج جيدًا معبأ وذو جودة جيدة جودة. لكن أزرق فاتح بعض الشيء.",
+    "aspect": [
+      "أزرق",
+      "جودة",
+      "معبأ"
+    ],
+    "category": [
+      "Appearance Design#Color",
+      "Product Quality#General",
+      "Product Packaging#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "العنصر سيئ للغاية. لا يمكنني حتى لصقه على هاتفي. خدمات Shopee تزداد سوءًا. لا أوصي به. رديء للغاية العنصر",
+    "aspect": [
+      "العنصر",
+      "العنصر",
+      "خدمات Shopee",
+      "لا أوصي به"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Overall#Overall",
+      "Seller Service#Timeliness of Seller Service",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا يمكنني التقاط صورة للهاتف لأنني أستخدمه الآن. عملية شراء متكررة (الثالثة)، لذا فإن والدي وأنا لدينا نفس الهاتف! لا هدايا مجانية على عكس 11.11. حوالي أسبوع للوصول. سهل التنقل، لقد استخدمت هواتف Xiaomi Note لسنوات، وتدوم طويلاً خاصة بالنسبة لوالدي اللذين يسقطان هواتفهما باستمرار.",
+    "aspect": [
+      "هدايا مجانية",
+      "عملية شراء متكررة (الثالثة",
+      "حوالي أسبوع للوصول",
+      "سهل التنقل"
+    ],
+    "category": [
+      "Branding/Marketing#Promotional Giveaways",
+      "Buyer Attitude#Loyalty",
+      "Logistics#Speed",
+      "Ease of Use#Easy to Use"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هاتف رائع، لطيف الحجم للأيدي الصغيرة!",
+    "aspect": [
+      "الحجم"
+    ],
+    "category": [
+      "Appearance Design#Fuselage Size"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بصمة الإصبع سلسة للغاية.... عمر البطارية طويل شحن 100٪ يُستخدم طوال اليوم.... جودة الكاميرا جيدة.... الشاشة سلسة أيضًا..",
+    "aspect": [
+      "بصمة الإصبع",
+      "عمر البطارية",
+      "شحن 100٪",
+      "جودة الكاميرا",
+      "الشاشة"
+    ],
+    "category": [
+      "System#Lock Screen Design",
+      "Battery/Longevity#Battery Life",
+      "Battery/Longevity#Standby Time",
+      "Camera#General",
+      "Screen#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "(3: هاتف جميل. مواصفات ووظائف جيدة. موصى به للغاية مناسب للمشترين ذوي الميزانية المحدودة. جيد سعر.",
+    "aspect": [
+      "مناسب للمشترين ذوي الميزانية المحدودة",
+      "سعر",
+      "هاتف جميل. مواصفات ووظائف جيدة. موصى به للغاية (1: مناسب للمشترين ذوي الميزانية المحدودة"
+    ],
+    "category": [
+      "Buyer Attitude#Recommendable",
+      "Price#Price",
+      "Appearance Design#Aesthetics General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعم، ستحصل في العلبة على هاتف iPhone 12، بالإضافة إلى كابل Lightning USB C. إنه ليس كابلًا مغناطيسيًا، ولكنه يناسب أي أجهزة شحن مغناطيسية تأخذ USB C. ستجد داخل العلبة الهاتف فقط وكابل Lightning إلى USB-C. لا يوجد مقبس، ولا سماعات رأس... فقط iPhone وكابل. لا مقبس شحن. أيضًا لا يوجد كابل مغناطيسي إنه الكابل الأصلي، وليس النوع المغناطيسي! إنه كابل USB C.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "نعم، يمكن للهاتف الذكي IIIF150 القوي إدخال بطاقة SD لتوسيع الذاكرة إلى 256 جيجابايت",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "Hp يبدو جديدًا فقط على جانب الهاتف خدش بسيط.",
+    "aspect": [
+      "Hp"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هواتف بلاك فيو جيدة جدًا! هذا هو هاتفي الثاني وأنا أحبه. عادةً ما أستخدم هواتف سامسونج، ولكن من الناحية المالية هذا هو الخيار الأفضل بالنسبة لي الآن! إنه سهل الاستخدام وأستمر في العثور على المزيد من الميزات العملية والمفيدة حقًا. أشعر وكأن هذا الهاتف قد صُمم بواسطة شخص يستخدمه بالفعل بدلاً من القيام بعمل ما ثم يعود إلى أعلى هواتفه نطاق. لقد وضعت 4 نجوم فقط لـ عمر البطارية ولكن في الحقيقة ربما كان من الممكن أن أحصل على 5 نجوم إذا لم أكن أستخدمه باستمرار. أوصي بشدة بهذا الهاتف . كما يقولون، \"بمجرد أن تتحول إلى اللون الأسود\"! (عرض)",
+    "aspect": [
+      "هواتف بلاك فيو",
+      "أوصي بهذا الهاتف",
+      "عمر البطارية",
+      "نطاق",
+      "هذا هو هاتفي الثاني",
+      "أحبه",
+      "سهل الاستخدام"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Buyer Attitude#Recommendable",
+      "Battery/Longevity#Battery Life",
+      "Overall#Overall",
+      "Buyer Attitude#Loyalty",
+      "Overall#Overall",
+      "Ease of Use#Easy to Use"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لست خبيرًا، ولكن وفقًا لويكيبيديا، كانت Giffgaff شركة نقل رسمية لأجهزة Apple في متاجرها منذ عام 2014، لذا يجب أن تعمل على أجهزة iPhone. أيضًا، إذا تم دفع ثمن iPhone بالكامل، فلا يوجد سبب يمنع استخدام بطاقة SIM من Giffgaff. يستخدم iPhone mini بطاقة SIM الصغيرة. طالما أن Giffgaff لديها بطاقة SIM صغيرة (تمتلكها جميعها في الوقت الحاضر)، فلا يوجد سبب لعدم عملها. أفترض أن جهاز iPhone الخاص بك تم شراؤه بدون بطاقة SIM بدون عقد؟ إنه هاتف غير مقفل، لذا يجب أن يعمل مع أي مزود. يجب أن يعمل طالما أنه غير مقفل، وهو ما يجب أن تكون عليه جميع الهواتف الجديدة. نعم، يعمل بشكل مثالي نعم. إذا كنت تريد الاحتفاظ برقمك القديم، فستحتاج إلى نقله",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج بحالة جيدة و (2: يعمل بشكل جيد للغاية.",
+    "aspect": [
+      "تم استلام المنتج",
+      "عمل"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز هاتف. جيد كاميرا ومواصفات. أنا أحبه كثيرًا. أوصي به بشدة أوصي به للجميع.",
+    "aspect": [
+      "هاتف",
+      "كاميرا",
+      "أحبه",
+      "أوصي به"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Camera#General",
+      "Overall#Overall",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أثناء المكالمة، يحدث تأخير في الاتصال وعرض على الشاشة لمدة 3 ثوانٍ تقريبًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يناسب هاتفي كبير الحجم ويدعم وزنه بشكل مثالي!",
+    "aspect": [
+      "يناسب",
+      "يدعم"
+    ],
+    "category": [
+      "Appearance Design#Fuselage Size",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جاء مع حالة مجانية ولا شقوق لذلك جيد جدًا  ؟؟؟",
+    "aspect": [
+      "حالة مجانية",
+      "شقوق",
+      "جيد"
+    ],
+    "category": [
+      "Branding/Marketing#Promotional Giveaways",
+      "Logistics#Lost and Damaged",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بصمة الإصبع جيدة بما فيه الكفاية ولكن ليست التعرف على الوجه كما هو الحال مع iPhone.",
+    "aspect": [
+      "التعرف على الوجه",
+      "بصمة الإصبع"
+    ],
+    "category": [
+      "System#Lock Screen Design",
+      "System#Lock Screen Design"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع التوصيل. جيد ومحمي بشكل جيد غلاف فقاعي. محكم الغلق.",
+    "aspect": [
+      "التوصيل",
+      "غلاف فقاعي"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Packaging#Packaging Materials"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا يوجد مقبس صوت 3.5",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم تسليم المنتج مع هدايا مجانية بشكل آمن معبأ. تم شراؤه لصديق.",
+    "aspect": [
+      "معبأ",
+      "هدايا مجانية"
+    ],
+    "category": [
+      "Product Packaging#General",
+      "Branding/Marketing#Promotional Giveaways"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الإيجابيات 1. جيد شاشة العرض 2. ممتاز عمر البطارية، للمستخدم العادي حتى 3 أيام عمل 3. جيد إدارة الذاكرة 4. الكاميرا كانت جيدة ولكنها ليست ممتازة 5. الشحن العكسي السلبيات 1. كان من الممكن أن تكون شاشة العرض بمعدل 90 هرتز أو 120 هرتز 2. الكاميرا لم تكن على مستوى التوقعات، فمقاطع الفيديو ذات الحركة البطيئة مروعة بدقة 720 بكسل خاصة في الظروف الداخلية 3. كان من الممكن أن تكون شريحة Snap dragon 800 أفضل في نطاق السعر هذا",
+    "aspect": [
+      "عمر البطارية",
+      "شاشة العرض",
+      "الكاميرا",
+      "الكاميرا",
+      "الكاميرا",
+      "إدارة الذاكرة"
+    ],
+    "category": [
+      "Battery/Longevity#Battery Life",
+      "Screen#General",
+      "Camera#General",
+      "Camera#General",
+      "Camera#General",
+      "Product Configuration#Memory"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "التسليم كان سريعًا جدًا. تم استلام المنتج جيدًا. سعيد بـ الشراء.",
+    "aspect": [
+      "الشراء",
+      "تم استلام المنتج جيدًا",
+      "التسليم"
+    ],
+    "category": [
+      "Buyer Attitude#Shopping Experiences",
+      "Logistics#Lost and Damaged",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "1. الصوت غير مسموع/غير واضح 2. عدم وجود دعم لبطاقة الذاكرة 3. عدم دعم المكالمات أثناء الاتصال بالإنترنت. 4. أثناء المكالمات الواردة، ينقطع جهاز نقطة الاتصال عن شبكة Wi-Fi المتصلة 5. غير قادر على العمل شحن البطارية",
+    "aspect": [
+      "الصوت",
+      "شحن البطارية"
+    ],
+    "category": [
+      "Audio/Sound#Volume and Speaker",
+      "Battery/Longevity#Charging Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم يصل هذا المنتج عبوة أصلية من سامسونج، والكابل المرفق يبدو رخيصًا جدًا رخيص. إنه يوفر الشحن السريع بقوة 25 وات - ولكن إلى متى؟",
+    "aspect": [
+      "رخيص",
+      "عبوة أصلية من سامسونج"
+    ],
+    "category": [
+      "Price#Price",
+      "Product Packaging#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا غلاف فقاعي. تم استلام العبوة ممزقة والصندوق به خدوش. الهاتف في حالة صالحة للعمل.",
+    "aspect": [
+      "غلاف فقاعي",
+      "تم استلام العبوة"
+    ],
+    "category": [
+      "Product Packaging#Packaging Materials",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام الهاتف بحالة جيدة معبأ أسرع طلب لقد استلمت طلب 8/8 واستلمت 9/8 بفضل Shopee",
+    "aspect": [
+      "طلب",
+      "معبأ",
+      "تم استلام الهاتف"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Packaging#General",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعم، الجزء الخلفي من A12 مصنوع من البلاستيك، والجزء الأمامي مصنوع من الزجاج. نأمل أن يساعدك هذا! ^EM في دعم Samsung إنه عبارة عن جزء خلفي من البلاستيك الصلب القوي للغاية، وهو غير مصمم للإزالة، لديك فتحة جانبية لبطاقات SIM الصغيرة وبطاقة الذاكرة. نعم، الجزء الخلفي مصنوع من البلاستيك، ولكنه بلاستيك لطيف:) نعم نعم إنه بلاستيك نعم. لا",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كل شيء جيد وجميل اقتصادي هاتف كل شيء جيد فيه ولا توجد مشكلة للاستخدام البسيط فقط هاتف ذكي أساسي هاتف",
+    "aspect": [
+      "هاتف",
+      "هاتف",
+      "اقتصادي"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Overall#Overall",
+      "Price#Price"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "64 جيجابايت يخبرك بذلك في القائمة. عليك فقط التمرير لأسفل قليلاً وقراءتها. يحتوي هاتف Galaxy A12 الخاص بنا على 4 جيجابايت من ذاكرة الوصول العشوائي. نأمل أن يساعدك هذا! ^LP في دعم Samsung 4 جيجابايت من ذاكرة الوصول العشوائي 4 جيجابايت إنها رائعة؟",
+    "aspect": [
+      "4 جيجابايت من ذاكرة الوصول العشوائي",
+      "64 جيجابايت",
+      "4 جيجابايت من ذاكرة الوصول العشوائي"
+    ],
+    "category": [
+      "Product Configuration#Operating Memory",
+      "Product Configuration#Memory",
+      "Product Configuration#Operating Memory"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أنا سعيد بالوحدة. كنت أرغب في استخدامها لرحلات Zwift الافتراضية وتعمل بسلاسة.",
+    "aspect": [
+      "لرحلات Zwift الافتراضية"
+    ],
+    "category": [
+      "System#Software Compatibility"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ليس أصلي ... الغلاف (1: الأصلي) مصنوع من المعدن ولا ينحني. الغلاف المزيف له لمعان قوس قزح للغطاء الخلفي وهو أسود غير لامع.",
+    "aspect": [
+      "أصلي",
+      "الأصلي"
+    ],
+    "category": [
+      "Product Quality#Genuine Product",
+      "Product Accessories#Phone Cases"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أنا أحب vivo mobiles، عندما فكرت في شراء واحد من vivo صادفت iqooZ3 وهو من vivo جميع الميزات التي أظهروها هي مجرد ورق جودة mobile هي الأسوأ 1. الشاشة باهتة لأنها زجاج باندا وليس غوريلا 2. العرض أقل و الطول مرتفع 3. جودة الكاميرا هي الأسوأ تحصل فقط على جميع الصور المشبعة لا يمكنك التقاط أي شيء بدون تشبع أو فلتر 4. مكبر الصوت سيء للغاية منخفض مستوى الصوت 5. إذا تحدثت في المكالمة مكبر الصوت _on انسى الأمر لا يمكن لأحد سماع صوتك 6. يوجد الكثير من الفراغ في جسم الجهاز في اللوحة الخلفية لذلك عندما تلمسه يتم الضغط على اللوحة هذا mobile لا يستحق حتى 10000/-",
+    "aspect": [
+      "vivo mobile",
+      "جودة",
+      "الشاشة",
+      "جودة الكاميرا",
+      "مكبر الصوت",
+      "مستوى الصوت",
+      "mobile",
+      "العرض",
+      "الطول"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Product Quality#General",
+      "Screen#General",
+      "Camera#General",
+      "Audio/Sound#Volume and Speaker",
+      "Audio/Sound#Volume and Speaker",
+      "Overall#Overall",
+      "Appearance Design#Fuselage Size",
+      "Appearance Design#Fuselage Size"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الأسوأ الهاتف المحمول لا اشتري.. كاميرا سيلفي سيئة للغاية.",
+    "aspect": [
+      "الهاتف المحمول",
+      "اشتري",
+      "كاميرا سيلفي"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Buyer Attitude#Recommendable",
+      "Camera#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يحتوي الجهاز على فتحتين لبطاقة SIM، تأكد من وضعها في الفتحة 1... ستظهر على الشاشة 1 وما هي الشبكة... ثم على الفتحة 2 ستظهر لك إدخال بطاقة SIM... تجاهل ذلك.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد كنت سعيدًا في البداية ولكن الشاشة بدأت في الوميض في الثلث السفلي ... أمس أوقفت نفسها مرتين ... أي تكرار وسوف تعود إلى حالتها الأصلية",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كنت مترددًا في شراء هاتف من الإنترنت ولكن تبين أنه جيد، وكان ترقية ضرورية للغاية لشريكي، فهو يشبه إلى حد كبير S7 مع إعداد مشابه جدًا مع البرنامج والتطبيقات، قد أحصل على واحد لنفسي",
+    "aspect": [
+      "أحصل على واحد",
+      "جيد"
+    ],
+    "category": [
+      "Buyer Attitude#Shopping Willingness",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تحدثت مع البائع، إذا كان هذا الطراز عبارة عن راديو لاسلكي، فقالوا نعم ولكن لا. وسواء كان من الممكن استخدامه مع بطاقة SIM TPG دون الحاجة إلى تثبيت ملف apk الصوتي TPG، فقالوا نعم ولكن لا يمكن.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جيد المنتج نفس الشراء السابق وحتى الآن البائع لائق ولا يكذب كما يفعل الآخرون البائع. السعر ربما يكون عادلاً أيضًا الشحن يمكن أن يكون أسرع وأفضل",
+    "aspect": [
+      "البائع",
+      "السعر",
+      "الشحن",
+      "المنتج"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Price#Price",
+      "Logistics#Speed",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "استغرق وصول الطلب وقتًا طويلاً للغاية، أي ما يزيد عن أسبوع تقريبًا. لكن البائع سريع الاستجابة. عادةً ما يستغرق الأمر وقتًا طويلاً للوصول إلى نينجافان والخدمة سيئة للغاية.",
+    "aspect": [
+      "الخدمة",
+      "البائع",
+      "استغرق وصول الطلب وقتًا طويلاً للغاية، أي ما يزيد عن أسبوع تقريبًا"
+    ],
+    "category": [
+      "Seller Service#Timeliness of Seller Service",
+      "Seller Service#Timeliness of Seller Service",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "درجة S! s10 5G. رائع جديد! حصلت على الهاتف وقمت بتغيير اللغة وقمت بالتحديث إلى Android 10! سعيد بـ الهاتف ولكن تم عمل روت له... لست متأكدًا مما إذا كان سيؤثر على تطبيقات البنك الخاصة بي.",
+    "aspect": [
+      "جديد",
+      "الهاتف"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "غلاف جميل، جودة الطباعة ليست سيئة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لم أتوقع أن يكون روم صيني. حتى إذا استخدمت جوجل للبحث، فسيظهر المتصفح تلقائيًا ويكون باللغة الصينية بالكامل. لا موصى به إلا إذا كنت مرتاحًا للغة الصينية. التسليم بطيء للغاية، استغرق 11 يومًا، الشحن من الصين إلى هونج كونج ثم إلى سبور. موقع الويب للتحقق من حالة الشحن معطل دائمًا.",
+    "aspect": [
+      "موصى به",
+      "التسليم"
+    ],
+    "category": [
+      "Buyer Attitude#Recommendable",
+      "Logistics#Speed"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لأول مرة منذ نوكيا القديمة الطيبة، أستطيع أن أتجول بـ هاتف ولا أكترث حقًا بالبطارية. يدوم معي بسهولة أكثر من يومين كاملين دون شحن. وهذا أثناء الاستخدام في العطلات، واستخدام الخرائط للملاحة والكاميرا والاسترخاء وقراءة الكتب الشائعة وما إلى ذلك على هاتف لساعات. 9.8/10. إذا خسرت 0.2 نقطة لأن مكبر الصوت هاتف يمكن أن يكون أفضل ولكن إذا كنت تستخدم سماعات هاتف (يهز كتفيه)!! بصراحة، بدون شك، أفضل هاتف امتلكته على الإطلاق في العقد الماضي!!!",
+    "aspect": [
+      "هاتف",
+      "phone speaker",
+      "يدوم معي بسهولة أكثر من يومين كاملين دون شحن"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Audio/Sound#Volume and Speaker",
+      "Battery/Longevity#Standby Time"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "\"مرحبًا Gunjan، يزن Galaxy M51 213 جرامًا فقط ويأتي بتصميم أنيق 9.5 مم. ليس ثقيلًا جدًا  \"مرحبًا Gunjan، يزن Galaxy M51 213 جرامًا فقط ويأتي بتصميم أنيق (6: 9.5 مم. آمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India\"",
+    "aspect": [
+      "213 جرامًا فقط ويأتي بتصميم أنيق (6: 9.5 مم",
+      "ثقيل",
+      "ثقيل",
+      "213 جرامًا فقط ويأتي بتصميم أنيق (6: 9.5 مم",
+      "9.5 مم",
+      "9.5 مم",
+      "بطارية 7000 مللي أمبير في الساعة"
+    ],
+    "category": [
+      "Appearance Design#Weight",
+      "Appearance Design#Weight",
+      "Appearance Design#Weight",
+      "Appearance Design#Weight",
+      "Appearance Design#Thickness",
+      "Appearance Design#Thickness",
+      "Battery/Longevity#Battery Capacity"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إيجابي حقًا تجربة لأول مرة أشتري من خلال Shopee وباستخدام MJ Mobile. كما هو معلن عنه وجيد خدمة. أعتقد أن المراجعات الأخرى من العملاء الآخرين ستدعم ذلك. استمر يا أخي وشكراً لك ??",
+    "aspect": [
+      "تجربة",
+      "خدمة"
+    ],
+    "category": [
+      "Buyer Attitude#Shopping Experiences",
+      "Seller Service#Attitude"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام العناصر كما هو موضح. سريع التسليم. تم الطلب يوم الثلاثاء وتم الاستلام يوم الجمعة.",
+    "aspect": [
+      "التسليم",
+      "تم استلام العناصر كما هو موضح"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا، لأغراض أمنية، لا نقوم بتضمين بطاقات SIM. يمكنك الحصول على بطاقة SIM من شركة الاتصالات. هذا الهاتف هو إصدار أوروبي آسيوي للاستخدام في أوروبا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز هاتف بسعر مناسب، أساسي ولكنه يحتوي على كل ما هو مطلوب. جيد حجم الشاشة، لا يمكن انتقاده جودة الصورة.",
+    "aspect": [
+      "جودة الصورة",
+      "حجم الشاشة",
+      "هاتف بسعر مناسب"
+    ],
+    "category": [
+      "Shooting Functions#General",
+      "Screen#Size",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا لك، البائع على التسليم السريع. استلمت جهازي اللوحي وغلاف الكتاب في حالة ممتازة. تم أيضًا تضمين الفاتورة المطبوعة الأصلية في طردي أيضًا.",
+    "aspect": [
+      "البائع",
+      "استلمت جهازي اللوحي وغلاف الكتاب"
+    ],
+    "category": [
+      "Seller Service#Shipping",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أولاً وقبل كل شيء، هذا ليس هاتف ذكي. إنه هاتف محمول عادي سهل الاستخدام، وهو بالضبط ما يحتاجه زوجي. الصوت جيد وبه أزرار كبيرة، لذا سهل الاستخدام. لقد أعجبني كثيرًا اشتريت واحدًا آخر لنفسي.",
+    "aspect": [
+      "أعجبني",
+      "أزرار كبيرة",
+      "الصوت",
+      "هاتف ذكي",
+      "سهل الاستخدام",
+      "اشتريت واحدًا آخر لنفسي",
+      "هاتف محمول عادي سهل الاستخدام"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Key Design#General",
+      "Audio/Sound#Tone quality",
+      "Overall#Overall",
+      "Ease of Use#Easy to Use",
+      "Buyer Attitude#Repurchase and Churn Tendency",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد هاتف.... جيد قيمة مقابل المال",
+    "aspect": [
+      "هاتف",
+      "قيمة مقابل المال"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Price#Value for Money"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بعد 4 أيام من العمل، يتم إيقاف تشغيل الهاتف تلقائيًا حتى بعد شحنه بالكامل. سيئ للغاية لا يُنصح بشراء هذا الهاتف.",
+    "aspect": [
+      "لا يُنصح بشراء هذا الهاتف"
+    ],
+    "category": [
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام، يساعد في تبريد هاتفي، على الرغم من أنني أتمنى أن يكون الشفط أقوى، إلا أنه يستمر في السقوط في منتصف الطريق أثناء اللعب.",
+    "aspect": [
+      "في السقوط في منتصف الطريق"
+    ],
+    "category": [
+      "Signal#Signal General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سيتعين عليك شراء \"عزيزي العميل، شكرًا لك على استفسارك. الغطاء الخلفي وواقي الشاشة غير متضمنين في العلبة ويجب شراؤهما بشكل منفصل. تتوفر الأغطية الخلفية لسلسلة M على موقع Amazon.in بسعر يبدأ من 149 روبية. مع تحياتي، Samsung India\"",
+    "aspect": [
+      "واقي الشاشة",
+      "الغطاء الخلفي"
+    ],
+    "category": [
+      "Product Accessories#Cell Phone Film",
+      "Product Accessories#Phone Cases"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إذا كان الجهاز جديدًا، قم بزيارة مركز الخدمة. نظرًا للعدد الكبير من التطبيقات، فإن ذلك يؤدي إلى استنزاف البطارية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "المظهر جيد. يناسب تمامًا. لكن لست متأكدًا من كونه أصليًا أم لا.",
+    "aspect": [
+      "جيد"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعم، إنه يتعلق بتسجيل مكالمة إلى شخص على الجانب الآخر",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام منتج خاطئ .. و خدمة العملاء سيئة للغاية ..",
+    "aspect": [
+      "تم استلام",
+      "خدمة العملاء"
+    ],
+    "category": [
+      "Logistics#general",
+      "Seller Service#Attitude"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا يوجد نجمة في الواقع لمواقف البائع والثقة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج بسرعة. تم تغليفه جيدًا بدون أي ضرر. يوجد بالداخل جراب مطاطي مجاني. ساعدني في طلب عرابتي.",
+    "aspect": [
+      "تم استلام المنتج",
+      "تم تغليفه جيدًا",
+      "جراب مطاطي مجاني"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Logistics#Lost and Damaged",
+      "Product Accessories#Phone Cases"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "حسنًا تم تعبئته وتم استلامه خلال 3 أيام، والعديد هدية مجانية أيضًا. الهاتف يعمل بشكل جيد. شكرًا للبائع ورجل التوصيل.",
+    "aspect": [
+      "تم تعبئته",
+      "تم استلامه",
+      "هدية مجانية",
+      "الهاتف"
+    ],
+    "category": [
+      "Product Packaging#General",
+      "Logistics#Speed",
+      "Branding/Marketing#Promotional Giveaways",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الهاتف (1: يعمل بشكل جيد. جاء مع واقي زجاجي مجاني وغطاء للهاتف. شكرًا لك أيها البائع!",
+    "aspect": [
+      "أعمال"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "حدد الخيارات في الإعداد \"مرحبًا Souvajit، شكرًا لك على استفسارك. يُرجى الاتصال بدعم خدمة عملاء Samsung لأي مشكلات تتعلق بالمنتج، يُرجى زيارة الموقع الرسمي لشركة Samsung > انقر فوق \"\"الدعم\"\" > حدد \"\"الدردشة المباشرة\"\" للاتصال بخبير دعم المنتج لدينا. مع تحياتي، Samsung India\"",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كما ذكرت وتمكنت من تسجيل الضمان لدى سامسونج. البائع يستجيب. شكرًا!",
+    "aspect": [
+      "البائع",
+      "تسجيل الضمان لدى سامسونج"
+    ],
+    "category": [
+      "Seller Service#Timeliness of Seller Service",
+      "After-sales Service#Exchange/Warranty/Return"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع جدًا التسليم. حقيبة أصلية من Ringke، موصى به!",
+    "aspect": [
+      "التسليم",
+      "حقيبة أصلية",
+      "موصى به"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Quality#Genuine Product",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "حسنًا، يحتوي على وحدة معالجة رسومية جيدة جدًا Adreno 618. يدعم BGMI أعلى الإعدادات الممكنة. بالإضافة إلى ذلك، هناك خيار للعب بمعدل 90 إطارًا في الثانية على Smooth!",
+    "aspect": [
+      "Adreno 618"
+    ],
+    "category": [
+      "Product Configuration#CPU"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أعتقد أن أغلب هذه الأجهزة الإلكترونية يجب أن يكون لها بعض سياسة الإرجاع عند الشراء عبر الإنترنت... لأنه لكي نعجب بشيء ما، نحتاج إلى رؤيته شخصيًا. لقد أنفقت أموالاً على هذا المنتج والآن يقولون إنني يجب أن أحتفظ به فقط بسبب سياسة الإرجاع غير المتوفرة لديهم. وبالنسبة لي، هذا المنتج لا يستحق المال الذي أنفقته.",
+    "aspect": [
+      "سياسة الإرجاع",
+      "المنتج"
+    ],
+    "category": [
+      "After-sales Service#Exchange/Warranty/Return",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مرحبًا، في الواقع، جميع منتجات Prime-Recycle مفتوحة لأي مشغل. مع خالص التحيات، فريق Prime-Recycle. نعم، كانت شريحتي مفتوحة. لقد وضعت للتو شريحة giffgaff الخاصة بي من هاتفي القديم ثم نقلت جميع معلوماتي من القديم إلى الجديد وكان كل شيء على ما يرام. آمل أن يساعدك هذا وأن تبقى آمنًا. تم فتح قفل هاتفي iPhone 7، ولم أواجه أي مشكلة مع شريحة SIM الحالية. نعم. لقد استخدمت ثلاث شرائح SIM. تعمل بشكل جيد نعم، نعم، نعم، أعتقد ذلك. كنت من Vodafone وعملت دون أي مشكلة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لا يحتوي أي من أجهزة S21 على فتحات ذاكرة خارجية لبطاقات SD، بل فقط ذاكرة داخلية. والخبر السار هو أنه على الرغم من أن S21 لا يحتوي على فتحة بطاقة SD لذاكرة إضافية ذاكرة خارجية، إلا أنه يأتي بسعة تخزين 128 جيجابايت، والعديد من خيارات التخزين السحابي الآمنة والواسعة النطاق إذا كنت بحاجة إلى أي مساحة إضافية مساحة. نأمل أن يساعدك هذا! ^DB في دعم Samsung لا يوجد فتحة بطاقة نعم",
+    "aspect": [
+      "ذاكرة خارجية",
+      "مساحة"
+    ],
+    "category": [
+      "Product Configuration#Memory",
+      "Product Configuration#Memory"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ستعمل أي أجهزة تباع بواسطة Meelie Mobile بدون بطاقة SIM أو غير مقفلة مع أي بطاقة SIM من أي مزود شبكة في جميع أنحاء العالم. يجب أن يكون هذا هو الحال مع الهواتف من البائعين الآخرين ولكن من المفيد دائمًا التحقق مباشرة مع البائع المحدد في سلة التسوق الخاصة بك. نعم، إنه متوافق",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لا لا يوجد مشكلة في التعليق",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "S9 في حالة ممتازة، للأسف لا أستطيع ترك تقييم 5 نجوم لأن التسليم تأخر. وتركت SingPost الطرد على زوج من الأحذية على الرغم من وجود شخص ما... ؟؟؟؟ أود تقييمه بـ 3 نجوم ولكن S9 في حالة جيدة حقًا! لا توجد خدوش دقيقة على الإطلاق.",
+    "aspect": [
+      "التسليم",
+      "في حالة ممتازة",
+      "في حالة جيدة حقًا"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Logistics#Lost and Damaged",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إذا قمت بشراء الهاتف، فسوف يتم محاسبتك فقط على الشبكة الخاصة بك، ويعتمد ذلك على الشبكة التي تختارها.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "10s هو أفضل هاتف استخدمته على الإطلاق، ميزاته وضوح الكاميرا وكل شيء به تقنية متقدمة أمر مدهش، ولا أفكر حتى ولو مرة واحدة قبل شرائه.....",
+    "aspect": [
+      "10s",
+      "وضوح الكاميرا"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Camera#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الهاتف رائع السعر لدينا 3 منهم الآن في العائلة",
+    "aspect": [
+      "الهاتف",
+      "السعر",
+      "في العائلة"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Price#Price",
+      "Buyer Attitude#Loyalty"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج خلال 4 أيام. شكرًا لك. 6 جيجابايت من ذاكرة الوصول العشوائي و1 28 جيجابايت من الذاكرة. أخضر المحيط. لم أجرب بعد وأتمنى ألا تكون هناك مشكلة",
+    "aspect": [
+      "تم استلام المنتج خلال 4 أيام",
+      "6 جيجابايت من ذاكرة الوصول العشوائي",
+      "28 جيجابايت من الذاكرة"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Configuration#Operating Memory",
+      "Product Configuration#Memory"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إذا أجرينا مكالمة أثناء انتهائها 3-7 مرات، يظهر على الشاشة أن المكالمة انتهت. يجب أن تكون مرة واحدة فقط. في كثير من الأحيان أثناء تلقي المكالمة، لا يتم عرضها في Alexa ولا على الشاشة، ولا يمكن للمرء تلقيها لأنها غير قابلة للقراءة. يرجى إرسال شخص ما لتصحيحها. هذا يحدث منذ اليوم الأول إنه معيب المنتج لأن مكبر الصوت ليس على المستوى أيضًا.",
+    "aspect": [
+      "المنتج",
+      "مكبر الصوت"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Audio/Sound#Volume and Speaker"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع سعيد عندما استلمته. هذا الغطاء لطيف للغاية لطيف. يمكن وضع أوراق نقدية مطوية وبعض العملات المعدنية وبطاقة. آمل أن يدوم طويلاً.",
+    "aspect": [
+      "لطيف",
+      "سعيد"
+    ],
+    "category": [
+      "Appearance Design#Aesthetics General",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "في الصندوق نحصل على:  سماعة  محول  كابل شحن  دبوس إخراج بطاقة SIM  بطاقة الضمان  دليل المستخدم",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "عمر البطارية ليس جيدًا، فقط 3-4 ساعات فقط وهو أمر غير مقبول على الإطلاق.",
+    "aspect": [
+      "عمر البطارية",
+      "عمر البطارية",
+      "عمر البطارية"
+    ],
+    "category": [
+      "Battery/Longevity#Battery Life",
+      "Battery/Longevity#Battery Life",
+      "Battery/Longevity#Battery Life"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعم هذا صحيح. 6 جيجابايت لتشغيل الهاتف و128 جيجابايت من سعة التخزين الداخلية، مع فتحة ذاكرة خارجية لإضافة المزيد سعة. أعتقد أن ذاكرة الوصول العشوائي هي الذاكرة العاملة",
+    "aspect": [
+      "سعة",
+      "6 جيجابايت"
+    ],
+    "category": [
+      "Product Configuration#Memory",
+      "Product Configuration#Operating Memory"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "التجربة الإجمالية لم تكن الأفضل. في البداية تلقيت المنتج في الصورة 1 حيث تم استخدام رقم التتبع الخاص بي مما جعلني متشككًا. وصل الهاتف بعد بضعة أيام. بعض التلف في العلبة وكاميرا أمامية متربة. حالة الهاتف 10/10",
+    "aspect": [
+      "التجربة الإجمالية",
+      "كاميرا أمامية متربة",
+      "حالة الهاتف 10/10"
+    ],
+    "category": [
+      "Buyer Attitude#Shopping Experiences",
+      "Camera#Front Camera",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إيجابي: - تم إرسال الطرد في الوقت المحدد وفقًا لتتبع النينجا - يعمل الهاتف على الاختبار البسيط سلبي: - تم تثبيت ملحق الزجاج المقسّى بالنسبة لي، لكن الموضع ملتوٍ",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "128 جيجابايت من التخزين. 6 جيجابايت هي ذاكرة الوصول العشوائي. أنا أحب هذا الهاتف. الصور والتصوير الفلكي رائعة. يستحق الحصول على حامل ثلاثي القوائم من أجله. يحتوي على 6 جيجابايت (1: ذاكرة وصول عشوائي) و128 جيجابايت من التخزين. كان لدي منذ الإطلاق، وفي رأيي، إنه رائع الهاتف. جيد القيمة. يحتوي على 6 جيجابايت من ذاكرة الوصول العشوائي، والتخزين 128 جيجابايت. 128 جيجابايت 128 جيجابايت",
+    "aspect": [
+      "ذاكرة الوصول العشوائي",
+      "الهاتف",
+      "الصور والتصوير الفلكي",
+      "الهاتف",
+      "القيمة",
+      "128 جيجابايت من التخزين"
+    ],
+    "category": [
+      "Product Configuration#Operating Memory",
+      "Overall#Overall",
+      "Shooting Functions#General",
+      "Overall#Overall",
+      "Price#Value for Money",
+      "Product Configuration#Memory"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "اللمس هو النوع المناسب لكبار السن....جميل... أهديته لجدتي. أحببته تمامًا",
+    "aspect": [
+      "اللمس",
+      "أحببته",
+      "جميل"
+    ],
+    "category": [
+      "Appearance Design#Grip Feeling",
+      "Overall#Overall",
+      "Appearance Design#Aesthetics General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع توصيل! مغلف بشكل جيد للغاية. أشعر بخيبة أمل فقط لأن غطاء وبراعم مجانية بحاجة إلى الانتظار لبضعة أسابيع أخرى للحصول عليها... لم أستطع إخراج هذا الجهاز اللوحي لأنه لا يحتوي على غطاء في الوقت الحالي. ولكن خدمة رائعة  :)",
+    "aspect": [
+      "توصيل",
+      "مغلف",
+      "براعم مجانية",
+      "غطاء",
+      "غطاء",
+      "براعم مجانية",
+      "خدمة"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Packaging#General",
+      "Product Accessories#Headphones",
+      "Product Accessories#Phone Cases",
+      "Product Accessories#Phone Cases",
+      "Product Accessories#Headphones",
+      "Seller Service#Attitude"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "\"مرحبًا شاندان، شكرًا لك على استفسارك. لا يدعم Galaxy M21 شبكة 5G. يدعم Galaxy M21 4G LTE FDD و4G LTE TDD. آمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India\"",
+    "aspect": [
+      "شبكة 5G",
+      "4G LTE FDD",
+      "4G LTE TDD"
+    ],
+    "category": [
+      "Signal#Signal of Mobile Network",
+      "Signal#Signal of Mobile Network",
+      "Signal#Signal of Mobile Network"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سريع التسليم! تم استلام العناصر في حالة جيدة؟؟",
+    "aspect": [
+      "التسليم",
+      "تم استلام العناصر"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بطارية احتياطية جيدة الشاشة جيدة المظهر لطيفة مريحة في الجيب",
+    "aspect": [
+      "بطارية احتياطية",
+      "الشاشة",
+      "لطيفة"
+    ],
+    "category": [
+      "Battery/Longevity#General",
+      "Screen#General",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج بعد 3 أيام عمل من الطلب، اتصل بي البائع ليشرح لي أن الصندوق تم فتحه لغرض الفحص، ويبدو أن كل شيء جيد، الهاتف يعمل بشكل جيد",
+    "aspect": [
+      "تم استلام المنتج",
+      "الهاتف",
+      "جيد"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Overall#Overall",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يمكنك تقديم طلب استبدال عبر تطبيق أمازون الخاص بك، واتباع التعليمات... وسيتم الاستبدال بسهولة.. لا تقلق",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذه ليست أصلية. على الرغم من أن العبوة تبدو مثل منتجات Apple. مزيفة. سيئة جودة الصوت، سريعة أسلاك رفيعة وعرضة للكسر بسهولة",
+    "aspect": [
+      "أصلية",
+      "جودة الصوت",
+      "أسلاك رفيعة",
+      "مزيفة"
+    ],
+    "category": [
+      "Product Quality#Genuine Product",
+      "Audio/Sound#Tone quality",
+      "Product Accessories#Charging Cable",
+      "Product Quality#Genuine Product"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تحقق في الوقت المناسب للخيار النهائي",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنها مجموعة تصدير مخصصة لسوق الهند، أي نغمات الرنين الهندية، وما إلى ذلك. لا يوجد مركز خدمة مي متأكد من أنه سيوفر ضمانًا محليًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "\"مرحبًا منى، شكرًا لك على استفسارك. يحتوي Galaxy M21 على ذاكرة وصول عشوائي LPDDR4x، مما يوفر تجربة سريعة للغاية ومصمم لأداء مهام متعددة. آمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India\" لا مشكلة إعادة التشغيل التلقائي في إصدار M21 2021، يعمل جيد تمامًا بل وأفضل؟",
+    "aspect": [
+      "مشكلة إعادة التشغيل التلقائي",
+      "يعمل",
+      "ذاكرة وصول عشوائي LPDDR4x"
+    ],
+    "category": [
+      "Performance#General",
+      "Overall#Overall",
+      "Product Configuration#Operating Memory"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إن الاستجابة السريعة لـ قارئ بصمات الأصابع موضع تقدير... يتغير بسرعة... الأفضل متعدد الاستخدامات في هذه الفئة السعرية",
+    "aspect": [
+      "قارئ بصمات الأصابع",
+      "متعدد الاستخدامات في هذه الفئة السعرية"
+    ],
+    "category": [
+      "Security#Screen Unlock",
+      "Price#Value for Money"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "موصى به إذا كنت تريد Band 4 Pro. البائع داعم للغاية. قام بالشحن في نفس اليوم.",
+    "aspect": [
+      "البائع",
+      "قام بالشحن",
+      "موصى به"
+    ],
+    "category": [
+      "Seller Service#Attitude",
+      "Seller Service#Shipping",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وصل بسرعة كبيرة وبشكل جيد معبأ أيضًا ؟؟؟",
+    "aspect": [
+      "وصل",
+      "معبأ"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Packaging#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم الاستلام بحالة جيدة ولم يتم استخدامه بعد",
+    "aspect": [
+      "تم الاستلام"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد المنتج ؟، ؟ البطارية 5/5، ؟ الكاميرا 5/5، قارئ بصمات الأصابع 5/5، المعالج 3/5، هذا العنصر هو الأفضل ؟؟",
+    "aspect": [
+      "المنتج",
+      "الأفضل"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا يمكنك استبدال البطارية بسهولة، لذا يجب إرسالها إلى One Plus أو مركز إصلاح.",
+    "aspect": [
+      "البطارية"
+    ],
+    "category": [
+      "Battery/Longevity#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد................................................",
+    "aspect": [
+      "جيد"
+    ],
+    "category": [
+      "Overall#Overall"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد الشاشة، جيد البطارية، مقبول الكاميرا. لكن بشكل عام، الأفضل هاتف بسعر أقل من 20 ألف دولار.",
+    "aspect": [
+      "الشاشة",
+      "البطارية",
+      "الكاميرا",
+      "هاتف بسعر أقل من 20 ألف دولار"
+    ],
+    "category": [
+      "Screen#General",
+      "Battery/Longevity#General",
+      "Camera#General",
+      "Price#Value for Money"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تخفيضات Shopee 8.8!!!! شكرًا للبائع على توصيل المنتج!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم الاستلام خلال يومين. تم الشراء من خلال صفقة فلاش. أقل من 190 دولارًا بعد خصم قسيمة شوبي والعملات المعدنية. يستحق الشراء. لكن الشيء المحزن هو رأس شاحن ثنائي السنون. تحتاج إلى استخدام محول للشحن. يأتي الهاتف مع واقي شاشة وغطاء هاتف شفاف مجاني. الوزن أثقل من سامسونج إس 8.",
+    "aspect": [
+      "تم الاستلام",
+      "الشراء",
+      "رأس شاحن ثنائي السنون",
+      "رأس شاحن ثنائي السنون",
+      "الوزن",
+      "واقي شاشة",
+      "غطاء هاتف شفاف مجاني"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Overall#Overall",
+      "Product Accessories#Charger",
+      "Product Accessories#Charger",
+      "Appearance Design#Weight",
+      "Product Accessories#Cell Phone Film",
+      "Product Accessories#Phone Cases"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كنت أتوقع أن يأتي مع عبوة Apple لكنه جاء كجهاز مستقل سماعة أذن. إلغاء الضوضاء ليس رائعًا، أي عادي سماعة أذن.",
+    "aspect": [
+      "سماعة أذن",
+      "سماعة أذن",
+      "إلغاء الضوضاء"
+    ],
+    "category": [
+      "Product Accessories#Headphones",
+      "Product Accessories#Headphones",
+      "Product Accessories#Headphones"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "العنصر مكسور، أرسلت رسالة نصية إلى البائع وأتمنى الحصول على رد. التعبئة والتغليف يبدو شرعيًا ولكن الجودة يبدو الأمر ليس كذلك. يبدو المفصل المطاطي الجانبي الآخر مخدوشًا وليس جديدًا.",
+    "aspect": [
+      "العنصر",
+      "التعبئة والتغليف",
+      "الجودة"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Product Packaging#General",
+      "Product Quality#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يعمل بشكل جيد حقًا. إنه سريع يشحن معه حتى الآن. وصل معبأ بشكل جيد. كانت لدي مشكلة مع البريد ولكن بمجرد أن تواصلت مع البائع اعتذروا كثيرًا وقاموا بحل المشكلة على الفور.",
+    "aspect": [
+      "يعمل بشكل جيد حقًا. إنه سريع (2: يشحن",
+      "يشحن",
+      "مشاكل",
+      "وصل",
+      "البائع"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Battery/Longevity#Charging Speed",
+      "Overall#Overall",
+      "Logistics#Lost and Damaged",
+      "Seller Service#Timeliness of Seller Service"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وصل المنتج بحالة جيدة جدًا مغلف، ولكن لم أكن أعرف مجموعة العرض الخاصة به، وتركته بعد انتهاء صلاحيته بأقل من 6 أشهر. ذكر البائع أنه تم عرضه في قائمة المنتجات ولكن لم يكن واضحًا جدًا. بالمناسبة، لا تبدو الملحقات جديدة. اشترِ فقط إذا لم يكن لديك مانع!",
+    "aspect": [
+      "مغلف",
+      "الملحقات"
+    ],
+    "category": [
+      "Product Packaging#General",
+      "Product Packaging#Completeness of Accessories"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج بحالة جيدة وهو يعمل بشكل جيد. نأمل أن يتم استخدامه بشكل جيد.",
+    "aspect": [
+      "يعمل",
+      "تم استلام المنتج"
+    ],
+    "category": [
+      "Overall#Overall",
+      "Logistics#Lost and Damaged"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "القيمة. التسليم عبر البريد العادي يعتبر سريعًا نظرًا لفترة CB هذه.",
+    "aspect": [
+      "التسليم",
+      "القيمة"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام المنتج على الفور ومحمي في صندوق من البوليسترين. قطعتان من الفيلم غير اللامع (ليس زجاجًا).",
+    "aspect": [
+      "تم استلام المنتج",
+      "محمي في صندوق من البوليسترين"
+    ],
+    "category": [
+      "Logistics#Speed",
+      "Product Packaging#Packaging Materials"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا تشتري هذا الهاتف. بعد استخدامه لمدة 13 شهرًا، وجدت مشكلة في التشغيل وأخبرني مركز الخدمة لاحقًا أن هناك مشكلة في اللوحة الأم لذا.. لا تشتريه",
+    "aspect": [
+      "لا تشتري هذا الهاتف",
+      "مشكلة في التشغيل",
+      "لا تشتريه"
+    ],
+    "category": [
+      "Buyer Attitude#Recommendable",
+      "Performance#General",
+      "Buyer Attitude#Recommendable"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مع و الوزن هو مجرد حق للاحتفاظ به.",
+    "aspect": [
+      "الوزن"
+    ],
+    "category": [
+      "Appearance Design#Weight"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه بطيء ولا يرن لبعض الوقت",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مرحبًا Harsha، يدعم Galaxy M02s الألعاب. آمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India نعم مرحبًا Harsha، يدعم Galaxy M02s الألعاب. آمل أن يكون هذا مفيدًا. مع تحياتي، Samsung India",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "phone",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم استلام الهاتف بحالة جيدة معبأ يأتي مع إيصال الشراء شكرًا للبائع",
+    "aspect": [
+      "تم استلام الهاتف",
+      "معبأ"
+    ],
+    "category": [
+      "Logistics#Lost and Damaged",
+      "Product Packaging#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم أتمكن من ذلك لبعض الوقت إجراء أي مكالمة، حتى أعد تشغيل الهاتف المحمول أو إيقاف تشغيله/تشغيله.",
+    "aspect": [
+      "إجراء أي مكالمة"
+    ],
+    "category": [
+      "Performance#General"
+    ],
+    "domain": "phone",
+    "type": [
+      "explicit"
+    ]
+  }
+]

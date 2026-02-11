@@ -1,0 +1,1265 @@
+﻿sentence,aspect,category,domain,type
+لقد ذهبنا لتناول العشاء عدة مرات فقط ولكن تم تقديم نفس الجودة الرائعة و الخدمة.,الخدمة | العشاء,service general | food quality,restaurant,explicit | explicit
+إنه مكان مظلم ومريح... ويتم تشغيل موسيقى الجاز دائمًا عندما نذهب.,NULL,ambience general,restaurant,implicit
+يحتوي هذا المكان على طعام هندي صيني رائع.,طعام هندي صيني,food quality,restaurant,explicit
+ليس ما كنت أتوقعه مقابل السعر والهيبة الموقع.,الموقع | الموقع,restaurant prices | restaurant miscellaneous,restaurant,explicit | explicit
+أخيرا موثوقة مطعم صيني!,مطعم صيني,restaurant general,restaurant,explicit
+كانت مفاصل جراد البحر (طبق خاص لهذا اليوم) جيدة، لكنها كانت عديمة الطعم إلى حد ما.,مفاصل جراد البحر | مفاصل جراد البحر,food style_options | food quality,restaurant,explicit | explicit
+القائمة  بسيطة إلى حد ما ولا تحتوي على الكثير من الأوصاف.,NULL,food style_options,restaurant,implicit
+الأسوأ مكان في شارع سميث في بروكلين,مكان,restaurant general,restaurant,explicit
+كان الموظفون لطيفين، لكنهم بدوا متوترين للغاية، ويحتاج الحمام المشترك إلى التنظيف بشكل متكرر.,الموظفون | الموظفون | الحمام المشترك,service general | service general | ambience general,restaurant,explicit | explicit | explicit
+أنا أحب هذا المكان تمامًا المكان !!!,المكان,restaurant general,restaurant,explicit
+لم أحصل أبدًا على تفسير لما كان يحدث.,NULL,service general,restaurant,implicit
+بدا الجميع سعداء بشكل عام بـ الطعام، باستثناء أخي الذي تناول سمك الماهي ماهي المشوي، والذي بدا وكأنه غارق في عصير الجريب فروت!,الطعام | سمك الماهي ماهي المشوي | سمك الماهي ماهي المشوي,food quality | food quality | food style_options,restaurant,explicit | explicit | explicit
+ممتاز الجو لذيذ الأطباق جيد وودود الخدمة.,الجو | الأطباق | الخدمة | الخدمة,ambience general | food quality | service general | service general,restaurant,explicit | explicit | explicit | explicit
+نتيجة لذلك، تفككت البرجر في أيديهم وتسببت في فوضى كبيرة لدرجة أنهم لم يشعروا بالرغبة في إنهاءها.,البرجر,food style_options,restaurant,explicit
+أنا متحيز إلى نيوتشي.,نيوتشي,restaurant general,restaurant,explicit
+كان النادل منتبهًا.,النادل,service general,restaurant,explicit
+كان دجاجي غير صالح للأكل لأنه كان يحتوي على الكثير من الكتل الدهنية التي كان عليّ أن أستمر في بصقها في منديلتي.,دجاجي,food quality,restaurant,explicit
+أوصي بشدة بـ Casa La Femme لأي مناسبة خاصة ولإثارة إعجاب موعدك حقًا.,Casa La Femme,restaurant miscellaneous,restaurant,explicit
+رغم أنه جيد المأكولات البحرية، إلا أن أسعاره مرتفعة للغاية.,المأكولات البحرية | NULL,food quality | restaurant prices,restaurant,explicit | implicit
+أود أن أقول أن كل شيء كان جيدًا ولذيذًا، لكن الثقل على معدتي كان شيئًا لا يمكنني ذكره أو التقليل من شأنه.,NULL,food quality,restaurant,implicit
+"الخدمة ليست الأكثر ودية لـ ""حزبنا الكبير""!",الخدمة,service general,restaurant,explicit
+في حين أن الأجواء و الجو كانا رائعين، إلا أن الطعام و الخدمة كان من الممكن أن يكونا أفضل بكثير.,الأجواء | الجو | الطعام | الخدمة,ambience general | ambience general | food quality | service general,restaurant,explicit | explicit | explicit | explicit
+عندما نظرت حولي، رأيت غرفة مليئة بنيويوركيين يستمتعون بـ وجبة حقيقية في مطعم حقيقي، وليس ناديًا رائعًا يحاول أن يُرى.,وجبة | مطعم,food quality | ambience general,restaurant,explicit | explicit
+لا استطيع الانتظار للعودة .,NULL,restaurant general,restaurant,implicit
+في بعض الأحيان لا يفهم الطاولات حس الفكاهة لديه ولكن من المنعش أن يكون لديك خادم يتمتع بشخصية واحترافية ويحترم خصوصية عشائك.,خادم | خادم | خادم,service general | service general | service general,restaurant,explicit | explicit | explicit
+أوصي بشدة بطلب طاولة بجوار النافذة.,طاولة بجوار النافذة,location general,restaurant,explicit
+لقد كان مذاقها وكأن الساقي نسي إضافة التكيلا.,NULL,drinks quality,restaurant,implicit
+مفيد خدمة ومتوسط السعر لكل طبق 10 دولار.,خدمة | طبق,service general | food prices,restaurant,explicit | explicit
+هذا هو نوع المكان الذي ترغب في اصطحاب جميع أصدقائك إليه مع الحفاظ على سريته.,المكان,restaurant miscellaneous,restaurant,explicit
+لقد حصلت على نصيبي العادل من اليابانية الحديثة وهذا المكان يسلم.,اليابانية الحديثة,food quality,restaurant,explicit
+الخدمة كانت بطيئة واضطررت إلى الانتظار لطلب الطعام والحصول عليه على الرغم من عدم وجود ازدحام.,الخدمة,service general,restaurant,explicit
+المكان صغير وحميم وقد تشعر بالازدحام قليلاً، ولكن الخدمة ممتازة وهو رائع لخروج الأصدقاء أو موعد رومانسي أو مناسبة خاصة.,الخدمة | المكان | المكان | المكان,service general | ambience general | restaurant miscellaneous | restaurant miscellaneous,restaurant,explicit | explicit | explicit | explicit
+أفضل باسترامي تناولته على الإطلاق ورائع حصة دون أن يكون سخيفًا.,باسترامي | حصة,food quality | food style_options,restaurant,explicit | explicit
+مازلنا نواصل العودة :),NULL,restaurant general,restaurant,implicit
+جيد جداً,NULL,restaurant general,restaurant,implicit
+يوصى به بشدة للجميع!,NULL,restaurant general,restaurant,implicit
+إبداعية، متسقة، جديدة.,NULL | NULL | NULL,food quality | food style_options | food quality,restaurant,implicit | implicit | implicit
+تناول الطعام في الجو ينقذك، ولكن على مكتبك، إنها تجربة مخيبة للآمال للغاية.,الجو | NULL,ambience general | restaurant general,restaurant,explicit | implicit
+أحب المشهد أولاً - المكان له شخصية وإضاءة لطيفة له .. محظوظ جدًا ، الموقع الحكيم.,المشهد | المكان | الموقع,ambience general | ambience general | location general,restaurant,explicit | explicit | explicit
+المشكلة الحقيقية التي واجهتها مع هذا المكان كانت الافتقار التام إلى الخدمة.,الخدمة,service general,restaurant,explicit
+كيف تقيم منزلك؟,NULL,restaurant miscellaneous,restaurant,implicit
+يتميز Patroon بوجود بار سيجار لطيف وموظفين رائعين.,بار سيجار | موظفين,ambience general | service general,restaurant,explicit | explicit
+الخدمة كانت سريعة ومهذبة.,الخدمة | الخدمة,service general | service general,restaurant,explicit | explicit
+لقد قدموا أكثر من 100 نوع مختلف بيرة لضيوفهم مما جعل زوجي سعيدًا جدًا وكان الطعام لذيذًا، إذا كان علي أن أوصي بطبق فيجب أن يكون تورتيليني اليقطين.,بيرة | الطعام | تورتيليني اليقطين,drinks style_options | food quality | food quality,restaurant,explicit | explicit | explicit
+كان الطبق العائلي للمأكولات البحرية جيدًا جدًا.,الطبق العائلي للمأكولات البحرية,food quality,restaurant,explicit
+لا توجد حيل هنا - الطعام يتحدث عن نفسه من خلال نضارته وطريقة تحضيره.,الطعام,food quality,restaurant,explicit
+سعره مبالغ فيه جدًا وليس لذيذًا جدًا.,NULL | NULL,food quality | food prices,restaurant,implicit | implicit
+أنا وزوجتي نستمتع دائمًا بالشباب، الذين ليسوا مدربين جيدًا دائمًا ولكنهم ودودون مع ذلك، موظفين، ولكل منهم قصة.,موظفين | موظفين | موظفين | موظفين,service general | service general | service general | service general,restaurant,explicit | explicit | explicit | explicit
+إنه رومانسي جداً .,NULL,ambience general,restaurant,implicit
+كان طعامنا رائعًا أيضًا!,طعامنا,food quality,restaurant,explicit
+لقد تناولت الطعام في Ginger House عدة مرات، وكان دائمًا جيدًا.,Ginger House,restaurant general,restaurant,explicit
+أردت أن أذهب إلى هناك لأرى ما إذا كان الأمر يستحق ذلك، ولكن للأسف، سيطر الفضول علي ودفعت ثمنًا باهظًا.,NULL | NULL,restaurant general | restaurant prices,restaurant,implicit | implicit
+سوف نعود .,NULL,restaurant general,restaurant,implicit
+كان لحم العجل لا يصدق الليلة الماضية.,لحم العجل,food quality,restaurant,explicit
+لكن هذا أمر قابل للمغفرة إلى حد كبير.,NULL,restaurant miscellaneous,restaurant,implicit
+نحن نحب الطعام، المشروبات، والجو!,الطعام | المشروبات | الجو,food quality | drinks quality | ambience general,restaurant,explicit | explicit | explicit
+الخدمة كانت جيدة فقط، وهي ليست ما تتوقعه مقابل 500 دولار.,الخدمة | NULL,service general | restaurant prices,restaurant,explicit | implicit
+إذا كنت جريئًا، جرّب خل البلسميك فوق الآيس كريم، إنه رائع!,خل البلسميك فوق الآيس كريم | خل البلسميك فوق الآيس كريم,food quality | food quality,restaurant,explicit | explicit
+صديقتي، والتي كانت أكثر عدوانية بعض الشيء، وكانت تشعر بالاشمئزاز أيضًا مما دفعها إلى التخلص من بقية وجبتها التي بالكاد أكلتها وجبة، اتصلت بي مرة أخرى فقط لإبلاغي بأنني ربما كنت مخطئًا وأنها كانت على الأرجح محارًا، وأننا أيضًا مدرجون في القائمة السوداء لمطعمهم.,وجبة | NULL,food quality | service general,restaurant,explicit | implicit
+قائمة النبيذ مثيرة للاهتمام وتحتوي على العديد من القيم الجيدة.,قائمة النبيذ | قائمة النبيذ,drinks style_options | drinks prices,restaurant,explicit | explicit
+الخوادم كلها مختلفة، جريج هو المفضل لدي.,جريج,service general,restaurant,explicit
+طعم رائع,NULL,food quality,restaurant,implicit
+المكان رائع جدًا و الخدمة سريعة ومهذبة.,الخدمة | الخدمة | المكان,service general | service general | ambience general,restaurant,explicit | explicit | explicit
+لم أشتكي، لقد أعجبني الجو كثيرًا.,الجو,ambience general,restaurant,explicit
+وكان الطبق الرئيسي جيد جدًا أيضًا.,الطبق الرئيسي,food quality,restaurant,explicit
+لا أستطيع أن أصدق كيف يمكن لمطعم باهظ الثمن في نيويورك مطعم أن يكون غير محترم لعملائه إلى هذا الحد.,مطعم | NULL,restaurant prices | service general,restaurant,explicit | implicit
+عظيم نجاة,نجاة,service general,restaurant,explicit
+جيد طعام .,طعام,food quality,restaurant,explicit
+في أغلب الأحيان يبدو الأمر وكأنهم لا يهتمون بك.,NULL,service general,restaurant,implicit
+الطعام كان جيدا.,الطعام,food quality,restaurant,explicit
+قريبة جدًا، ولكن ليست جيدة بما فيه الكفاية.,NULL,restaurant general,restaurant,implicit
+ذهبت إلى هنا يوم السبت 26/1 وكنت بخيبة أمل.,NULL,restaurant general,restaurant,implicit
+الطعام لائق.,الطعام,food quality,restaurant,explicit
+للحصول على طعام تايلاندي أصيل طعام تايلاندي، لا تبحث أبعد من Toons.,طعام تايلاندي,food quality,restaurant,explicit
+تناولت الزوجة ريزوتو الذي كان مذهلاً.,ريزوتو,food quality,restaurant,explicit
+رائع، طعم أصلي.,NULL | NULL,food quality | food quality,restaurant,implicit | implicit
+رائحتهم مثل حشوهم بخضروات معلبة قديمة مثل كالزون السبانخ والفطر.,NULL,food quality,restaurant,implicit
+بشكل عام، لا يستحق المال.,NULL,restaurant prices,restaurant,implicit
+كان الخبز قديمًا، وكان السلطة باهظ الثمن وفارغًا.,الخبز | السلطة | السلطة,food quality | food prices | food style_options,restaurant,explicit | explicit | explicit
+في حين أن طعام المطبخ الخاص بهم لذيذ، فإن السوشي الخاص بهم خارج هذا العالم.,طعام المطبخ | السوشي,food quality | food quality,restaurant,explicit | explicit
+يقدم خدمة دون المستوى خدمة وليس لديه شخصية.,خدمة,service general,restaurant,explicit
+أخرج لتناول الطعام وأحب أطباقي، النوادل صبورون ولا يتعجلون أبدًا في تقديم الأطباق أو يجبرون على مشروب آخر.,النوادل,service general,restaurant,explicit
+لقد تناولنا الإسكالوب كمقبلات وكان لذيذًا وكان الصلصة رائعًا.,الإسكالوب | الصلصة,food quality | food quality,restaurant,explicit | explicit
+لست متأكدًا من سبب تصنيف هذا المطعم بدرجة عالية.,المطعم,restaurant general,restaurant,explicit
+مدهش المفضل لدي !!!,NULL,restaurant general,restaurant,implicit
+هذه هي المرة الأولى التي أكتب فيها مراجعة لمطعم لأن الطعام و الخدمة كانت ممتازة.,الطعام | الخدمة,food quality | service general,restaurant,explicit | explicit
+عظيم ساكيه!,ساكيه,drinks quality,restaurant,explicit
+كانت الحلوى (كان لدينا كعكة الكمثرى) جيدة - ولكن، مرة أخرى، لم يتمكن الموظفون من تقديم اقتراحات مناسبة للمشروبات.,كعكة الكمثرى | الموظفون,food quality | service general,restaurant,explicit | explicit
+كنت أعتقد أنهم سيعوضون ذلك بـ الخدمة، للأسف، لا.,الخدمة,service general,restaurant,explicit
+لقد تناولت وجبة ضخمة شطيرة لحم بقري على خبز.,شطيرة لحم بقري على خبز,food style_options,restaurant,explicit
+الرقص، النهر الأبيض، ولفائف الألفية ضرورية.,الرقص، النهر الأبيض، ولفائف الألفية,food quality,restaurant,explicit
+هذا المكان باهظ الثمن، ونعم، الطعام يستحق ذلك؛ ولكن الخدمة تجعلك تشعر وكأنك يجب أن تدفع ربع السعر.,المكان | الطعام | الخدمة,restaurant prices | food quality | service general,restaurant,explicit | explicit | explicit
+لم يسبق لي أن واجهت مثل هذا النوع من الدراما رجال التوصيل (الكثير من الشهيق واللهث والغمغمة تحت أنفاسي لأنني أعيش في شقة لا يسكنها أحد) والذين يبدو أنهم دائمًا يشعرون بخيبة أمل بسبب إكرامياتهم.,رجال التوصيل,service general,restaurant,explicit
+جرب سمك البحر .,سمك البحر,food quality,restaurant,explicit
+"تخيل ماذا، لقد انتظرت لمدة عشرين دقيقة قبل أن تأتي، وعندما فعلت ذلك أخيرًا، قالت، ""حسنًا، أتمنى لو قلت شيئًا في وقت سابق"" لا اعتذار، لا شيء.",NULL,service general,restaurant,implicit
+هذا المكان يجب زيارته!,المكان,restaurant general,restaurant,explicit
+أقوم بأخذ جميع ضيوفي في نيويورك إلى VT's.,NULL,NULL,restaurant,implicit
+يقع بعيدًا عن الشارع الصغير الذي يقع فيه، ولا يوجد به ضوضاء مرورية.,NULL,location general,restaurant,implicit
+السمك كان مبالغا فيه.,السمك,food quality,restaurant,explicit
+وأوصي أيضًا بـ أطباق الأرز أو الأصناف المختلفة من العصيدة (عصيدة الأرز).,أطباق الأرز | العصيدة (عصيدة الأرز,food quality | food quality,restaurant,explicit | explicit
+إنه مطعم صغير لطيف مطعم.,مطعم,restaurant general,restaurant,explicit
+هذه البقعة الصغيرة ويليامزبيرج دائمًا ما تكون مفاجأة سارة.,ويليامزبيرج,restaurant general,restaurant,explicit
+لقد وصلنا نحن الأربعة عند الظهر - كان المكان فارغًا - وتصرف الموظفين وكأننا نفرض عليهم الأمر وكانوا وقحين للغاية.,الموظفين,service general,restaurant,explicit
+إنه ببساطة أفضل وجبة في مدينة نيويورك.,وجبة,food quality,restaurant,explicit
+لن أوصي أبدًا بهذا المكان  لأي شخص حتى لو كان لتناول عشاء غير رسمي.,المكان | المكان,restaurant general | restaurant miscellaneous,restaurant,explicit | explicit
+الموظفين جيد جدًا .,الموظفين,service general,restaurant,explicit
+الجبن الكريمي خارج هذا العالم وأنا أحب ذلك القهوة !! !,الجبن الكريمي | القهوة,food quality | drinks quality,restaurant,explicit | explicit
+الطعام رائع .,الطعام,food quality,restaurant,explicit
+الأشياء الوحيدة التي يمكنك تذوقها حقًا هي الملوحة الشديدة صلصة الصويا (حتى لو كانت منخفضة الصوديوم)، والخل المنقوع الأرز، والبصل الأخضر فوق السمك.,صلصة الصويا | الأرز,food quality | food quality,restaurant,explicit | explicit
+جيد شرب .,شرب,drinks quality,restaurant,explicit
+الخدمة تترك الكثير مما هو مرغوب فيه، من الشعور بأنك في عجلة من أمرك عند تقديم طلبك، إلى تجاهلك لبقية الليل.,الخدمة,service general,restaurant,explicit
+كما أن سعرها جيد جدًا.,NULL,food prices,restaurant,implicit
+لقد كانت عملية احتيال كبيرة (8.95 دولارًا لأربع فطائر لحم صغيرة في كعكات مطهوة على البخار) ولا تستحق المحاولة.,NULL | NULL | NULL,food quality | food style_options | food prices,restaurant,implicit | implicit | implicit
+القشرة لها لدغة رائعة ومضغ جيد، الصلصة خفيفة مع حموضة لطيفة لها، الملح من الجبن رائع، يعزز حقًا نكهة جميع المكونات الأخرى.,القشرة | القشرة | الصلصة | الجبن,food quality | food quality | food quality | food quality,restaurant,explicit | explicit | explicit | explicit
+ولكن عندما نظرنا إلى القائمة : لم يكن هناك الكثير من الخيارات، وكان معظمها عبارة عن زلابية في قسم المقبلات.,القائمة,food style_options,restaurant,explicit
+السعر معقول رغم أن الخدمة سيئة.,NULL | الخدمة,restaurant prices | service general,restaurant,implicit | explicit
+ذكّرني بالمنزل .,NULL,restaurant miscellaneous,restaurant,implicit
+دفعنا وغادرنا لأننا لم نعد نرغب في الجدال بعد الآن.,NULL,service general,restaurant,implicit
+اتفقنا جميعًا على أن mare هو أحد أفضل مطاعم المأكولات البحرية في نيويورك.,mare,restaurant general,restaurant,explicit
+كلاسيكي!,NULL,food quality,restaurant,implicit
+البيتزا لذيذة - يستخدمون موزاريلا طازجة بدلاً من الجبن الرخيص والمجمد والمبشور الشائع في معظم البيتزا .,البيتزا | موزاريلا طازجة,food quality | food quality,restaurant,explicit | explicit
+رائع الطعام .,الطعام,food quality,restaurant,explicit
+أنا عمومًا أحب هذا المكان.,المكان,restaurant general,restaurant,explicit
+ومع ذلك، كان الطبق الرئيسي لدينا رائعًا.,الطبق الرئيسي,food quality,restaurant,explicit
+لقد انجذبنا إلى عرض الرقص الشرقي الذي أبهر الحضور.,عرض الرقص الشرقي,ambience general,restaurant,explicit
+يجب أن أوصي بشدة بـ رول جراد البحر.,رول جراد البحر | رول جراد البحر,food quality | food quality,restaurant,explicit | explicit
+الخدمة جيدة و المطعم نظيف.,الخدمة | المطعم,service general | ambience general,restaurant,explicit | explicit
+أوصي بشدة باللفائف البسيطة جدًا أوندا (بيض).,أوندا (بيض | أوندا (بيض,food quality | food quality,restaurant,explicit | explicit
+البيئة راقية جدًا وستشاهد الكثير من الرجال الأثرياء مع زوجات فاخرات أو مجرد مرافقات مدفوعات الأجر للغاية.,البيئة,ambience general,restaurant,explicit
+كل شيء في القائمة  رائع.,القائمة,food quality,restaurant,explicit
+كان الجميع متعاونين ومفيدين بكل سرور.,NULL | NULL,service general | service general,restaurant,implicit | implicit
+انتظر هنا طويل بالنسبة لوجبة ديم سوم، ولكن إذا كنت لا تحب مشاركة الطاولات أو إذا لم تكن وجبة ديم سوم الصاخبة النموذجية الجو هي ما تفضله، فهذا بديل أنيق (لمنطقة تشايناتاون).,انتظر | الجو | NULL,service general | ambience general | restaurant miscellaneous,restaurant,explicit | explicit | implicit
+لقد أذهلني هذا المكان ... بلا شك مطعمي المفضل الجديد في الجانب العلوي الشرقي.,المكان,restaurant general,restaurant,explicit
+الطعام كان جيدًا جدًا أيضًا، مع الأخذ في الاعتبار أننا جربنا مجموعة الميزانية (على الرغم من أنني أتمنى أن يتم تحميص لحم الخنزير المقدد الذي طلبته لفترة أطول قليلاً، بحيث تكون الدهون بمثابة تجربة تذوب في فمك).,الطعام | لحم الخنزير المقدد,food quality | food quality,restaurant,explicit | explicit
+سمعت أن رول جراد البحر كان ممتازًا.,رول جراد البحر,food quality,restaurant,explicit
+إنه مكان مزدحم إلى حد ما مطعم ويغلق مبكرًا.,مطعم | مطعم | مطعم,restaurant miscellaneous | ambience general | ambience general,restaurant,explicit | explicit | explicit
+الجو كان رائعا.,الجو,ambience general,restaurant,explicit
+كل الأشخاص الذين أحضرهم إلى هناك يعودون بمفردهم ويحضرون أصدقائهم!,NULL,restaurant miscellaneous,restaurant,implicit
+أدعو الله أن يبقى مفتوحا إلى الأبد.,NULL,restaurant general,restaurant,implicit
+طاقم الخدمة لطيف وممتع وجميل في معظمه (بطريقة التجميل الجمالية الرائعة، وليس بطريقة أنها أجمل مني بكثير).,طاقم الخدمة | طاقم الخدمة | طاقم الخدمة,service general | service general | service general,restaurant,explicit | explicit | explicit
+واحد من أفضل أنواع الهوت دوج التي تناولتها على الإطلاق.,NULL,food quality,restaurant,implicit
+مطعم جيد طعام الجودة.,طعام,food quality,restaurant,explicit
+لقد ذاب في فمي الصغير وكان قوامه مثاليًا - ليس مريبًا جدًا، وكريميًا، وزبدانيًا قليلاً.,NULL | NULL | NULL | NULL,food quality | food quality | food quality | food quality,restaurant,implicit | implicit | implicit | implicit
+إنهم يتقاضون أسعارًا مختلفة طوال الوقت.,NULL,service general,restaurant,implicit
+قرأت تعليقات وصفت المطعم بأنه باهظ الثمن وقلت لنفسي، ولكن ربما يستحق ذلك.,المطعم | المطعم,restaurant prices | restaurant general,restaurant,explicit | explicit
+يعتبر هذا المطعم الصغير مطعم مريحًا للغاية، مع لمسة باريسية معينة.,مطعم,ambience general,restaurant,explicit
+ونعم دال بخارى جيد جدًا وكذلك جميع الكباب.,الكباب | دال بخارى,food quality | food quality,restaurant,explicit | explicit
+تم طهي القشرة بشكل جيد بشكل مذهل وتم تحميل البيتزا بالكامل : ) : ) : ),القشرة | البيتزا,food quality | food style_options,restaurant,explicit | explicit
+أوصي بشدة بالمطعم  بناءً على تجربتنا الليلة الماضية.,NULL,restaurant general,restaurant,implicit
+كنا أربعة وحصلنا على الحجم العائلي بيني ألا فودكا والذي كان جزءًا ضخمًا للغاية ... دلو من الطعام حرفيًا.,بيني ألا فودكا,food style_options,restaurant,explicit
+كان خادمنا مفيدًا وودودًا للغاية.,خادمنا | خادمنا,service general | service general,restaurant,explicit | explicit
+تأكد من أن لديك رول الإسكالوب الحار ...,رول الإسكالوب الحار,food quality,restaurant,explicit
+الخدمة كانت جيدة .,الخدمة,service general,restaurant,explicit
+كانت الخدمة سريعة وودودة وكان الطعام لذيذًا جدًا وكان لديهم أفضل صلصة حارة لإضافتها إلى وجباتك.,الخدمة | الخدمة | الطعام | صلصة حارة,service general | service general | food quality | food quality,restaurant,explicit | explicit | explicit | explicit
+يجب أن أقول أنني مندهش من المراجعات السيئة لـ المطعم في وقت سابق من هذا العام، رغم ذلك.,المطعم,restaurant general,restaurant,explicit
+تحدث الأخطاء، ولكنها عادة ما تكون مصحوبة باعتذار، وربما حتى كأس من النبيذ... ولكن ليس التذمر الذي تلقيناه من موظفي Al Di La .,موظفي,service general,restaurant,explicit
+المكان صغير ومزدحم ولكن الطعام رائع.,المكان | المكان | الطعام,ambience general | ambience general | food quality,restaurant,explicit | explicit | explicit
+لقد أحببت هذا المكان !!,المكان,restaurant general,restaurant,explicit
+بوفيه الغداء باهظ الثمن ولكنه يستحق ذلك بالتأكيد.,بوفيه الغداء | بوفيه الغداء,food prices | food quality,restaurant,explicit | explicit
+كان الجو الخارجي المتمثل في الجلوس على الرصيف ومشاهدة العالم من على بعد 50 قدمًا في شارع السادس في أمسية باردة رائعًا.,الجو الخارجي,location general,restaurant,explicit
+الخدمة جيدة و الأجواء جيدة لموعد أو نزهة جماعية.,الخدمة | الأجواء,service general | ambience general,restaurant,explicit | explicit
+الطعام الآن غير متناسق.,الطعام,food quality,restaurant,explicit
+بشكل عام كان الطعام جيدًا - باهظ الثمن قليلاً، ولكنه طازج.,الطعام | الطعام | الطعام,food quality | food quality | food prices,restaurant,explicit | explicit | explicit
+ومع ذلك، فإن هذا المبلغ البالغ 120 دولاراً لشخصين لا يمثل قيمة بأي حال من الأحوال، إلا إذا كنت تبحث عن الدفع بالساعة مقابل التعذيب السلبي العدواني.,NULL | NULL,restaurant prices | service general,restaurant,implicit | implicit
+يبدو أن الخوادم في مزرعة Flatbush قد أتقنوا تلك التقنية المروعة التي تجعلك تشعر بالذنب والخجل لأنك تكرمت بجذب انتباههم.,الخوادم,service general,restaurant,explicit
+إنه أحد أجمل المطاعم الخارجية التي رأيتها على الإطلاق في نيويورك - أنا من إيطاليا وهذا المكان ينافس الأماكن الموجودة في بلدي.,المطاعم الخارجية,ambience general,restaurant,explicit
+الأسعار مرتفعة للغاية بالنسبة لهذا المكان الضيق وغير الجذاب مطعم.,مطعم | مطعم | مطعم,restaurant prices | ambience general | ambience general,restaurant,explicit | explicit | explicit
+نموذج مثالي شريحة من بيتزا نيويورك.,شريحة من بيتزا نيويورك,food quality,restaurant,explicit
+لكن الموظفين كانوا سيئين للغاية معنا.,الموظفين,service general,restaurant,explicit
+اخترت سمك القد الأسود المشوي كطبق رئيسي، والذي التهمته تمامًا بينما علق أحدهم أن طبق سمك السلمون المشوي كان أفضل.,سمك القد الأسود المشوي | طبق سمك السلمون المشوي,food quality | food quality,restaurant,explicit | explicit
+أحب الجو - شعرت وكأنني كنت في باريس.,الجو,ambience general,restaurant,explicit
+واحد منا أحب بالفعل اسبريسو - هذا كل شيء.,اسبريسو,drinks quality,restaurant,explicit
+ولكنهم كانوا كبارًا جدًا بالنسبة للكعكة.,NULL,food style_options,restaurant,implicit
+البيتزا لذيذة والمالك هو أحد الأجمل في مدينة نيويورك.,البيتزا | المالك,food quality | service general,restaurant,explicit | explicit
+في المساء، كان هذا المكان يجذب مجموعة من الأشخاص الذين يرتدون ملابس أنيقة، ومعهم نيويورك حشد.,حشد,restaurant miscellaneous,restaurant,explicit
+موصى به بشدة .,NULL,restaurant general,restaurant,implicit
+على أية حال، هذا هو مكان سوف أتأكد من التوقف عنده مرة أخرى عندما أكون في هذا الجزء من المدينة.,مكان,restaurant general,restaurant,explicit
+بالنسبة لي الأطباق زيتية قليلاً، ولكن تجربة تناول الطعام بشكل عام جيدة.,الأطباق | NULL,food quality | restaurant general,restaurant,explicit | implicit
+طاقم الانتظار غير مقدر لعملك بشكل صارخ ولكنه الأفضل فطيرة في UWS!,طاقم الانتظار | فطيرة,service general | food quality,restaurant,explicit | explicit
+لا يمكنك أن تخطئ هنا .,NULL,restaurant general,restaurant,implicit
+اعتقدت أن المطعم كان لطيفًا ونظيفًا.,المطعم | المطعم,restaurant general | ambience general,restaurant,explicit | explicit
+انا احب هذا المكان,المكان,restaurant general,restaurant,explicit
+سوف نعود في كل مرة نكون في المدينة.,NULL,restaurant general,restaurant,implicit
+ميزو هي موطن للإبداعات والفريدة لفات التي لا يمكن العثور عليها في أي مكان آخر.,لفات,food style_options,restaurant,explicit
+والأمر الأكثر إثارة للدهشة هو أن السبب الرئيسي وراء مجيئنا إلى مطعمك كان من أجل راقصات البطن وفقدنا العرض الأول لأننا لم نكن جالسين بعد وكانت الراقصة الشرقية الثانية ترقص فقط على طاولتين في الجزء الخلفي من المطعم ولم تتمكن من الوصول إلى النصف الآخر من المطعم.,NULL,service general,restaurant,implicit
+لكن الخدمة فظيعة!,الخدمة,service general,restaurant,explicit
+أنا في الواقع أشعر بالإهانة لأنني أنفقت الكثير من المال على مثل هذه التجربة السيئة.,NULL | NULL,restaurant general | restaurant prices,restaurant,implicit | implicit
+إنه مكان يمكنك أن تأكل فيه وتكون سعيدًا.,NULL,restaurant general,restaurant,implicit
+لقد حاولنا من قبل ولكنه كان دائمًا ممتلئًا ولا يقبل الحجوزات.,NULL,restaurant miscellaneous,restaurant,implicit
+أعتقد أنها عملية تجارية رائعة ومُدارة بشكل جيد للغاية.,NULL,restaurant general,restaurant,implicit
+الأسعار عادلة في جميع المجالات لكل من الطعام و المشروبات.,الطعام | المشروبات,food prices | drinks prices,restaurant,explicit | explicit
+يرفضون استضافة مجموعات مكونة من 3 أشخاص أو أكثر في عطلات نهاية الأسبوع.,NULL,service general,restaurant,implicit
+مذهل,NULL,restaurant general,restaurant,implicit
+إذا كنت تخطط للحضور إلى هنا، فتأكد من أن موعدك هو شخص تحبه حقًا لأنك ستُصطحب إلى أكشاك خاصة حيث لن يكون هناك أشخاص أو يشاهدون الطعام (اختر تلك الموجودة في مستوى الأرض والتي تحتوي على أسقف زجاجية حتى تتمكن من رؤية النجوم في السماء!).,أكشاك خاصة,ambience general,restaurant,explicit
+كان الطعام رائعًا ولذيذًا، لكن مساحة الجلوس كانت صغيرة جدًا، لا أحب أن أكون مكتظًا في الزاوية.,الطعام | الطعام | مساحة الجلوس,food quality | food quality | ambience general,restaurant,explicit | explicit | explicit
+لم أشعر أبدًا بالاشمئزاز من الطعام و الخدمة على حد سواء.,الطعام | الخدمة,food quality | service general,restaurant,explicit | explicit
+سعر معقول للغاية وممتاز محيط!,محيط | NULL,ambience general | restaurant prices,restaurant,explicit | implicit
+بالنسبة لي، إنه يجسد منطقة سوهو، لطيفة، فنية، ومثيرة للاهتمام.,NULL | NULL | NULL,ambience general | ambience general | ambience general,restaurant,implicit | implicit | implicit
+أنا جديد نسبيًا في المنطقة وجربت Pick a Bgel في اليوم الثاني وشعرت بخيبة أمل مع الخدمة واعتقدت أن الطعام كان مبالغًا فيه وعلى الجانب باهظ الثمن.,الخدمة | الطعام | الطعام,service general | food prices | food quality,restaurant,explicit | explicit | explicit
+بمجرد أن تخطو إلى كوزيت، ستجد نفسك بشكل عجيب في مقهى باريسي صغير يقع بعيدًا عن الطريق المزدحم.,كوزيت,ambience general,restaurant,explicit
+لقد كانت مفاجأة سارة بالنسبة لي.,NULL,restaurant general,restaurant,implicit
+رائع الجو,الجو,ambience general,restaurant,explicit
+كان الأرز رديء الجودة وتم طهيه بشكل سيئ للغاية حتى أصبح قاسيًا.,الأرز | الأرز | الأرز,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+سوف نعود عدة مرات لهذه الواحة في وسط المدينة.,NULL,restaurant general,restaurant,implicit
+بالنسبة لـ مطعم يتمتع بسمعة طيبة وعادة ما يكون مزدحمًا للغاية، لم يكن هناك سبب لهذا الافتقار إلى الذكاء خدمة العملاء.,مطعم | خدمة العملاء,restaurant miscellaneous | service general,restaurant,explicit | explicit
+أوصي به بشدة للمناسبات الخاصة - فهو يوفر مكانًا حميميًا الإعداد ولطيفًا الخدمة.,الإعداد | الخدمة | NULL,ambience general | service general | restaurant miscellaneous,restaurant,explicit | explicit | implicit
+يمكن أن يصبح هذا أحد مؤسسات الأطعمة الإيطالية في نيويورك.,NULL,restaurant general,restaurant,implicit
+أعتقد أنني تناولت بعضًا من أفضل وجبات حياتي في ميناو.,وجبات,food quality,restaurant,explicit
+كان الدخول إلى Casa La Femme الليلة الماضية تجربة حقيقية لا مثيل لها في نيويورك!,Casa La Femme,restaurant general,restaurant,explicit
+يوجد الكثير من التنوع حتى بالنسبة للأشخاص الذين يتناولون الطعام النباتي مثلي.,NULL,food style_options,restaurant,implicit
+لقد كانت جيدة حقًا بيتزا.,بيتزا,food quality,restaurant,explicit
+في يوم حار كان من الرائع التوقف والاستمتاع بالغداء.,NULL | NULL,restaurant general | restaurant general,restaurant,implicit | implicit
+هذا هو المطعم الأكثر روعة مطعم في مدينة نيويورك بأكملها، وليس فقط في بروكلين ...,مطعم,restaurant general,restaurant,explicit
+لقد تجاوز هذا المكان الصغير المكان توقعاتي بالتأكيد ومن المؤكد أنك تحصل على الكثير الطعام مقابل أموالك.,الطعام | المكان | الطعام,food style_options | restaurant general | food prices,restaurant,explicit | explicit | explicit
+في الصيف - تناول الطعام في الخارج على التراس (ميزة أخرى رائعة في Suan) !!!,التراس,ambience general,restaurant,explicit
+المكان عبارة عن BISTRO مما يعني: بسيط أطباق والنبيذ يقدم بكفاءة في جو صاخب.,أطباق | NULL | جو,food style_options | service general | ambience general,restaurant,explicit | implicit | explicit
+كنت أزور مدينة نيويورك مع صديق واكتشفنا هذا المكان الدافئ والجذاب مطعم.,مطعم,ambience general,restaurant,explicit
+كان العشاء جيدًا، ولا يوجد شيء أرغب في تناوله مرة أخرى.,العشاء,food quality,restaurant,explicit
+لقد فوجئت أنا وصديقي من ميلانو بسرور عندما وصلنا وكان الجميع يتحدثون الإيطالية.,NULL,restaurant miscellaneous,restaurant,implicit
+لقد طلبنا بعض الأطباق الجانبية التي اعترف النادل بعدها أنه نسي أن يضع هذا الجزء من طلبنا.,النادل,service general,restaurant,explicit
+وأيضًا، لأنه رقيق جدًا، فإنه يبرد بسرعة كبيرة ولا يكون مُشبِعًا.,NULL | NULL,food quality | food style_options,restaurant,implicit | implicit
+كان الجمبري سكامبي ممتازًا و المقبلات كانت وفيرة.,الجمبري سكامبي | المقبلات,food quality | food style_options,restaurant,explicit | explicit
+فطيرة الدجاج استثنائية، وبرجر الجبن ضخم ولذيذ، والخدمة احترافية ودافئة.,فطيرة الدجاج | برجر الجبن | برجر الجبن | الخدمة | الخدمة,food quality | food style_options | food quality | service general | service general,restaurant,explicit | explicit | explicit | explicit | explicit
+بعض الأناناس المغطى بطبقة من نوع ما وبعض فطيرة الكمثرى غير مثيرة للإعجاب على الإطلاق.,NULL | NULL,food style_options | food quality,restaurant,implicit | implicit
+وفر على نفسك الوقت والمتاعب وتخطي هذا الأمر!,NULL,restaurant general,restaurant,implicit
+كان الطعام أصيلاً.,الطعام,food quality,restaurant,explicit
+لقد كان رخيصًا جدًا أيضًا.,NULL,restaurant prices,restaurant,implicit
+اعتقدنا أن الحلوى ستكون أفضل، خطأ!,الحلوى,food quality,restaurant,explicit
+السوشي مذهل! ! !,السوشي,food quality,restaurant,explicit
+الخدمة كانت جيدة و الطعام رائع.,الخدمة | الطعام,service general | food quality,restaurant,explicit | explicit
+يجب عليك تجربة مقبلات الجمبري .,مقبلات الجمبري,food quality,restaurant,explicit
+قال زوجي إنه كان بإمكانه تناول المزيد، وكانت الحصة جيدة بالنسبة لي، حتى أنه صاح قائلاً إن بطاطس مقلية كانت الأفضل التي تناولها على الإطلاق.,NULL | الحصة | بطاطس مقلية,food style_options | food style_options | food quality,restaurant,implicit | explicit | explicit
+لمدة 7 سنوات قاموا بإخراج ألذ وأشهى طعام وحافظوا عليه بهذه الطريقة ...,طعام,food quality,restaurant,explicit
+كان بلح البحر رائعًا وكذلك الحلوى ... بالتأكيد سأعود قريبًا جدًا.,بلح البحر | الحلوى | NULL,food quality | food quality | restaurant general,restaurant,explicit | explicit | implicit
+تبدأ الأسعار فوق المتوسط قليلاً النبيذ من 70 دولارًا أمريكيًا أو أكثر مع وجود مجموعة مختارة واحدة فقط مدرجة بسعر 30 دولارًا أمريكيًا أو أكثر.,النبيذ | النبيذ,drinks quality | drinks prices,restaurant,explicit | explicit
+لم يكن هناك صنبور بيرة في ذلك المساء، وهو أمر مخيب للآمال.,بيرة,drinks style_options,restaurant,explicit
+يجب أن يكون هذا أحد المطاعم الأكثر تقديرًا في بروكلين.,NULL,restaurant general,restaurant,implicit
+قبعات لـ الشيف .,الشيف,food quality,restaurant,explicit
+الحب الدي لا,الدي لا,restaurant general,restaurant,explicit
+نعم، (المكان) أنيق وجميل، ولكنهم بالتأكيد يستهدفون الأشخاص الذين يبحثون عن طعام صحي للغاية وليس الشخص العادي الذي يريد أن يفعل كل شيء من حين لآخر.,المكان | المكان | المكان,ambience general | ambience general | restaurant prices,restaurant,explicit | explicit | explicit
+كان المحار المخبوز والأخطبوط الذي شاركناه كمقبلات هو الأفضل الذي تناولناه على الإطلاق !!,المحار المخبوز والأخطبوط,food quality,restaurant,explicit
+كانت الأرضية مبللة، وسلة القمامة مليئة بالمناشف اليدوية في كل مكان على الأرض، ولم يكن هناك صابون، ولم يتبق أي مناشف يدوية.,NULL,ambience general,restaurant,implicit
+إذا انتقلنا من الجانب الشرقي العلوي، فإننا سنفتقد هذا المكان حقًا المطعم.,المطعم,restaurant general,restaurant,explicit
+البيتزا - الوحيدة بيتزا في مدينة نيويورك التي لا ينبغي أن تحتوي على إضافات - طعم القشرة مثل أفضل خبز طازج!,القشرة | بيتزا,food quality | food quality,restaurant,explicit | explicit
+أفضل طعام إيطالي تناولته على الإطلاق (ولأنني إيطالي، فهذا يعني الكثير).,طعام إيطالي,food quality,restaurant,explicit
+أنا أحب بيتزا الباذنجان وكذلك المعكرونة!,بيتزا الباذنجان | المعكرونة,food quality | food quality,restaurant,explicit | explicit
+من لديه مكان لـ Cheesesticks مع أفضل بيتزا في مدينة نيويورك!,بيتزا,food quality,restaurant,explicit
+الشخصيات تقدم حقًا تجربة ممتعة.,الشخصيات,ambience general,restaurant,explicit
+لقد بدا الأمر مثل الجبن المبشور الذي تم الانتهاء منه جزئيًا - لا يزال في شرائح.,NULL,food quality,restaurant,implicit
+على مر السنين، كان المضيف، فيتوريو، وطاقمه، يعاملونني دائمًا كعائلة - على الرغم من كل الأعمال التي يقوم بها هذا الجوهرة الصغيرة، فمن المدهش أنه قادر حتى على تذكر زائر منتظم ولكن ليس متكررًا.,المضيف | طاقمه,service general | service general,restaurant,explicit | explicit
+الكمية جيدة جدًا أيضًا، وسوف تخرج راضيًا.,الكمية | الكمية,food style_options | food style_options,restaurant,explicit | explicit
+ذهبت هناك مع زوجتي واضطررنا إلى الانتظار للحصول على طاولة على الرغم من أنه يمكنك رؤية العديد من الطاولات الفارغة دون أي حجز.,NULL,service general,restaurant,implicit
+في طريق الخروج، سمعنا عن ضيوف آخرين يشكون من مشاكل مماثلة.,NULL,service general,restaurant,implicit
+يعد هذا أحد أفضل الأماكن التي تقدم طعامًا مريحًا في المدينة.,NULL,restaurant general,restaurant,implicit
+تم اصطحابنا إلى البار للانتظار لبعض الوقت، وعندما وصلنا كنا متحمسين للغاية.,NULL,restaurant general,restaurant,implicit
+الخدمة كانت سريعة.,الخدمة,service general,restaurant,explicit
+إنه بعيد قليلاً عن الطريق إذا كنت لا تعيش في الحي، ولكنه يستحق الرحلة بالتأكيد من أي مكان أنت فيه.,NULL | NULL,location general | restaurant general,restaurant,implicit | implicit
+لقد جربت أنا وزميلي باسيفيكو بعد العمل في أيام الجمعة القليلة وأحببناه.,باسيفيكو,restaurant general,restaurant,explicit
+النادلة لم تكن منتبهة على الإطلاق.,النادلة,service general,restaurant,explicit
+إذا كنت لا تمانع في تقطيع مسبق للطعام منخفض الجودة سمك وغير ودود موظفون و طاهي سوشي يبدو بائسًا، فهذا هو مكانك.,سمك | موظفون | طاهي سوشي,food quality | service general | restaurant miscellaneous,restaurant,explicit | explicit | explicit
+علاوة على ذلك، فإن الأرز لم يكن به أي توابل، لذا فإن السوشي كان بلا طعم ومثير للاشمئزاز.,الأرز | السوشي | السوشي,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+في المرة الأولى التي ذهبت فيها، وانبهرت تمامًا بـ فرقة الجاز الحية و الأجواء، طلبت سلطة اللوبستر كوب.,فرقة الجاز الحية | الأجواء,ambience general | ambience general,restaurant,explicit | explicit
+لقد تناولت بيض بنديكت في وجبة الإفطار، والتي كانت الأسوأ في حياتي كلها، لقد حاولت إزالة صلصة الهولنديز تمامًا وكانت النتيجة فاشلة.,بيض بنديكت,food quality,restaurant,explicit
+نوع من المكان الصغير  ولكن أعتقد أنه إذا لم يكونوا مشغولين للغاية فقد يكونون قادرين على استيعاب مجموعة أو أطفال.,NULL,restaurant miscellaneous,restaurant,implicit
+لقد تعثرت أنا وصديقتي على هذا المكان المكان في الليلة الأخرى وقضينا وقتًا رائعًا!,المكان | المكان,restaurant general | restaurant general,restaurant,explicit | explicit
+الهوت دوج من الدرجة الأولى، وسلامويتش مذهل!,الهوت دوج | سلامويتش,food quality | food quality,restaurant,explicit | explicit
+تخطي الحلوى .,الحلوى,food quality,restaurant,explicit
+كانت الخدمة سريعة وودودة.,الخدمة,service general,restaurant,explicit
+تشاو فان كان جافًا؛ لحم الخنزير شو ماي كان دهنيًا أكثر من المعتاد وكان عليه أن يتقاسم الطاولة مع عائلة صاخبة ووقحة.,تشاو فان | لحم الخنزير شو ماي | NULL | NULL,food quality | food quality | ambience general | ambience general,restaurant,explicit | explicit | implicit | implicit
+نعم، إنهم يستخدمون مكونات فاخرة، ولكن حتى مكونات فاخرة لا تصنع بيتزا جيدة إلا إذا كان أحد يعرف كيفية الحصول على القشرة بشكل صحيح.,مكونات | بيتزا,food quality | food quality,restaurant,explicit | explicit
+أصيل طعام باكستاني .,طعام باكستاني,food quality,restaurant,explicit
+كان الطعام في الواقع فظيعًا.,الطعام,food quality,restaurant,explicit
+هذا هو المكان المفضل لدي المكان في الحي.,المكان,restaurant general,restaurant,explicit
+كان هذا المطعم مبالغًا فيه للغاية.,المطعم,restaurant general,restaurant,explicit
+أفضل مطعم في بروكلين,مطعم,restaurant general,restaurant,explicit
+الخدمة كانت بطيئة، لكن الأشخاص كانوا ودودين.,الخدمة | الأشخاص,service general | service general,restaurant,explicit | explicit
+ومع ذلك، أعتقد أن جيكل وهايدس هو أحد تلك الأماكن التي من الممتع زيارتها مرة واحدة.,جيكل وهايدس,restaurant general,restaurant,explicit
+كان السمك طازجًا حقًا.,السمك,food quality,restaurant,explicit
+لقد قضيت وقتًا ممتعًا في جيكل وهايد!,جيكل وهايد,restaurant general,restaurant,explicit
+على هذا النطاق، فهو الأفضل على مستوى العالم.,NULL,restaurant general,restaurant,implicit
+المشروبات مذهلة ونصف السعر مخفض حتى الساعة 8 مساءً.,المشروبات | المشروبات,drinks quality | drinks prices,restaurant,explicit | explicit
+لقد انتظرت أكثر من ساعة من أجل الطعام.,NULL,service general,restaurant,implicit
+في المرتين الأخيرتين اللتين طلبت فيهما من هنا كان الطعام حارًا جدًا لدرجة أنني بالكاد استطعت تناوله، والتوابل أفسدت نكهة الطبق.,الطعام | التوابل,food quality | food quality,restaurant,explicit | explicit
+هاروا على بارك إس أمر مثير للاشمئزاز ببساطة.,هاروا على بارك إس,restaurant general,restaurant,explicit
+كانت تلك لفائف كبيرة، ولكن ليست جيدة و ساشيمي لم تكن طازجة.,لفائف | لفائف | ساشيمي,food style_options | food quality | food quality,restaurant,explicit | explicit | explicit
+هذا المكان عصري حقًا ولكنهم نسوا الجزء الأكثر أهمية في المطعم ، وهو الطعام.,الطعام | المكان,food quality | ambience general,restaurant,explicit | explicit
+باسيفيكو هو مكان رائع لقضاء وقت ممتع.,باسيفيكو,restaurant miscellaneous,restaurant,explicit
+لم نشعر بخيبة أمل على الإطلاق من هذه الجوهرة الصغيرة.,NULL,restaurant general,restaurant,implicit
+لقد حضرت عشاء العطلة في المطعم، وكان الطعام مخيبا للآمال إلى حد كبير.,الطعام,food quality,restaurant,explicit
+يجب عليك تمرير حبار .,حبار,food quality,restaurant,explicit
+وكان رده متغطرسًا ومتعاليًا، ومتسقًا تمامًا مع سلوكه المعروض طوال المساء.,NULL | NULL | NULL,service general | service general | service general,restaurant,implicit | implicit | implicit
+إذا كنت قد ذهبت على طول النهر في Weehawken، فلديك فكرة عن الجزء العلوي عرض الذي يقدمه منزل الخريطة.,عرض,location general,restaurant,explicit
+الشيء الوحيد الأكثر روعة من الطعام (وهو استثنائي) هو الخدمة.,الطعام | الخدمة,food quality | service general,restaurant,explicit | explicit
+قصير ولطيف - الجلوس رائع: إنه رومانسي ومريح وخاص.,الجلوس,ambience general,restaurant,explicit
+لقد كانت مفيدة للغاية في اقتراح المشروبات لنا وساعدتنا في طلب الكثير من الأطباق الجيدة طبق حيث لم نكن نعرف شيئًا عن الطعام الهندي.,NULL | طبق,service general | food quality,restaurant,implicit | explicit
+اللفائف إبداعية ولم أجد بعد مطعم سوشي آخر يقدم المزيد من الإبداع واللذيذ الطعام الياباني.,اللفائف | الطعام الياباني | الطعام الياباني,food style_options | food style_options | food quality,restaurant,explicit | explicit | explicit
+لقد حصلت عليه 4 بدلاً من 5 بسبب السعر (فقط دجاج تيكا ماسالا - بدون خبز أو أرز - 25 دولارًا) ، وهو ما أتوقعه في مطعم هندي راقي ولكن هذا مكان لا يتمتع بالرقي الشعور.,مكان | دجاج تيكا ماسالا | الشعور,restaurant general | food prices | ambience general,restaurant,explicit | explicit | explicit
+البيتزا باهظة الثمن ورطبة.,البيتزا | البيتزا,food quality | food prices,restaurant,explicit | explicit
+بدا الطعام شهيًا ولذيذًا للغاية لأنه جاء في مجموعة متنوعة من الأطباق الفاخرة.,الطعام | الطعام,food style_options | food style_options,restaurant,explicit | explicit
+في المجمل، نحن بالفعل نتوصل إلى الأعذار للمضي قدمًا قريبًا جدًا في الأسابيع القليلة القادمة! ! !,NULL,restaurant general,restaurant,implicit
+بدون أدنى شك أفضل بيتزا على هذا الكوكب.,بيتزا,food quality,restaurant,explicit
+لا يتأرجح أبدًا، لا يكون سيئًا أبدًا وجبة، لا يكون سيئًا أبدًا خدمة ...,NULL | وجبة | خدمة,restaurant general | food quality | service general,restaurant,implicit | explicit | explicit
+المارتيني مذهلة وبأسعار معقولة جدًا.,المارتيني | المارتيني,drinks quality | drinks prices,restaurant,explicit | explicit
+على الرغم من المرايا المربكة، فمن المرجح أن يكون هذا هو وجهتي المفضلة الطعام الياباني الحديث في المستقبل المنظور.,الطعام الياباني الحديث | المرايا,food quality | ambience general,restaurant,explicit | explicit
+ومع ذلك، إذا كنت تريد طعامًا رائعًا طعام بسعر رائع ولا تمانع في الديكور، فلن تجد مكانًا أفضل من هذا المكان.,طعام | طعام,food quality | food prices,restaurant,explicit | explicit
+تجنب هذا المكان!,المكان,restaurant general,restaurant,explicit
+بصراحة، هذا هو أحد أسوأ السوشي التي جربتها على الإطلاق.,السوشي,food quality,restaurant,explicit
+مثل هذه خيبة الأمل...,NULL,service general,restaurant,implicit
+لقد كنت أحد الأشخاص الذين خاضوا هذه التجربة الرهيبة.,NULL,restaurant general,restaurant,implicit
+من المؤكد أنها تستحق الرحلة إلى باتري بارك سيتي!,NULL,restaurant general,restaurant,implicit
+سأوصي بالتأكيد بـ SEA إذا كنت تحب المطبخ التايلاندي!,المطبخ التايلاندي,food quality,restaurant,explicit
+لقد تناولت الطعام في شاول عدة مرات، الطعام دائمًا جيد بشكل لا يصدق.,الطعام,food quality,restaurant,explicit
+Big Wong يحصل على Ups كبيرة لمؤسسة جيدة.,Big Wong | Big Wong,restaurant general | restaurant general,restaurant,explicit | explicit
+كان لحم الضأن طريًا ومليئًا بالنكهة، وكانت الحلوى إلهية !!,لحم الضأن | الحلوى,food quality | food quality,restaurant,explicit | explicit
+كان البيتزا و النبيذ ممتازين - الخدمة أيضًا - ولكن ما جعل هذا المكان مميزًا حقًا هو منطقة تناول الطعام في الفناء الخلفي.,البيتزا | النبيذ | الخدمة,food quality | drinks quality | service general,restaurant,explicit | explicit | explicit
+الشكوى الوحيدة هي التسعير - أعتقد أنه سيكون من المعقول أن ندفع دولارًا أقل على كل عنصر مدرج في القائمة .,NULL,food prices,restaurant,implicit
+لقد كان مستوى الوقاحة سخيفًا.,NULL,service general,restaurant,implicit
+الخدمة كانت جيدة جدًا أيضًا.,الخدمة,service general,restaurant,explicit
+جرب جراد البحر ترياكي و رول الورد الخاص.,جراد البحر ترياكي | رول الورد الخاص,food quality | food quality,restaurant,explicit | explicit
+حاول أن تفعل كل شيء، فكل شيء جيد.,NULL,food quality,restaurant,implicit
+جربها!,NULL,restaurant general,restaurant,implicit
+إنهم يمتلكون كل شيء - سعر رائع، طعام، وخدمة.,NULL | طعام | خدمة,restaurant prices | food quality | service general,restaurant,implicit | explicit | explicit
+ديكور الخشب الأشقر مريح للغاية، والساكي الفاخر ممتاز والخدمة رائعة.,ديكور الخشب الأشقر | الساكي الفاخر | الخدمة,ambience general | drinks quality | service general,restaurant,explicit | explicit | explicit
+هذا المكان عظيم.,المكان,restaurant general,restaurant,explicit
+سأعود بالتأكيد .,NULL,restaurant general,restaurant,implicit
+كل ما تناولناه كان جيدًا أو مقبولًا ... ولكن بالتأكيد لم يكن شيئًا رائعًا.,NULL,food quality,restaurant,implicit
+مرة أخرى، لا اعتذار، لا يوجد أي شيء آخر يمكنني أن أحضره لك، لا يمكنني أن أحضر لك مشروبًا لتعويض ذلك، لا شيء !!!!,NULL,service general,restaurant,implicit
+شاهد الموهوبين الراقصات الشرقيات بينما تستمتع بالطعام اللذيذ بابا غنوج الذي يحتوي على نكهة الليمون أكثر من المدخن.,بابا غنوج | الراقصات الشرقيات,food quality | ambience general,restaurant,explicit | explicit
+الخدمة كانت إلهية، المحار حيث كانت حسية كما تأتي، والسعر لا يمكن التغلب عليه! ! !,الخدمة | المحار | NULL,service general | food quality | restaurant prices,restaurant,explicit | explicit | implicit
+رائعة في وقت العطلة.,NULL,restaurant miscellaneous,restaurant,implicit
+إنه رائع، وكذلك القيمة.,NULL | NULL,food quality | food prices,restaurant,implicit | implicit
+بشكل عام أوصي به وأود العودة مرة أخرى.,NULL,restaurant general,restaurant,implicit
+لكن بشكل عام أعطيها 10,NULL,restaurant general,restaurant,implicit
+أذهب لتناول الطعام في العديد من المطاعم المختلفة وهذا هو أحد الأماكن الذي يجب عليك الذهاب إليه وتجربته.,الأماكن,restaurant general,restaurant,explicit
+ودود موظفين يسمحون لك بالاستمتاع بوجبتك والشركة التي أنت معها.,موظفين,service general,restaurant,explicit
+من الرائع الذهاب لتناول وجبة غداء سريعة سواء بمفردك أو مع صديق.,NULL,restaurant miscellaneous,restaurant,implicit
+لقد كنت محبطًا بشكل مفاجئ.,NULL,food quality,restaurant,implicit
+صفر الأجواء للتمهيد.,الأجواء,ambience general,restaurant,explicit
+لا ينبغي إهمال (قائمة الساكي !,قائمة الساكي,drinks style_options,restaurant,explicit
+عادي جدًا طعام هندي ``، ولكن تم إعداده بشكل جيد حقًا.,طعام هندي | طعام هندي,food style_options | food quality,restaurant,explicit | explicit
+هناك جانب سلبي إذا كنت تطلب من الداخل - رجال التوصيل لديهم موقف رئيسي.,رجال التوصيل,service general,restaurant,explicit
+لكن الخدمة كانت بطيئة بعض الشيء.,الخدمة,service general,restaurant,explicit
+أفضل ما في الأمر هو الدفء الأجواء، والمالك ودود للغاية والخدمة سريعة.,الأجواء | المالك | الخدمة,ambience general | service general | service general,restaurant,explicit | explicit | explicit
+وكان الطبق الرئيسي جيد جدًا أيضًا.,الطبق الرئيسي,food quality,restaurant,explicit
+أيضًا ، أنا شخصياً لم أكن من محبي البورتوبيلو والهليون المولي.,البورتوبيلو والهليون المولي,food quality,restaurant,explicit
+إنه لا يبدو شهيًا لأنه مغطى بحبر الحبار ويحول شفتيك وأسنانك إلى اللون الأسود، لكن الطعم كان رائعًا.,NULL | NULL,food style_options | food quality,restaurant,implicit | implicit
+أنا حقا أحب كل من المحار و الماهي ماهي (على ريزوتو الزعفران لذيذ!).,المحار | الماهي ماهي (على ريزوتو الزعفران,food quality | food quality,restaurant,explicit | explicit
+جرب عروض الشيف الخاصة -- فهي لذيذة للغاية.,عروض الشيف الخاصة | عروض الشيف الخاصة,food quality | food quality,restaurant,explicit | explicit
+كان هذا أول مكان تناولنا فيه الطعام في رحلتنا الأولى إلى نيويورك، وسيكون آخر مكان نتوقف فيه عندما نتجه خارج المدينة في رحلتنا التالية إلى نيويورك.,مكان,restaurant miscellaneous,restaurant,explicit
+المقالي الشخصية هي الحجم المثالي لتلك الليالي الجائعة.,المقالي الشخصية,food style_options,restaurant,explicit
+لقد كان فظيعا.,NULL,restaurant general,restaurant,implicit
+غير ناضج للغاية الساقي، لم يكن يعرف كيفية صنع مشروبات معينة، الخدمة كانت بطيئة للغاية، الطعام لم يكن طازجًا أو دافئًا، النادلات كن مشغولات بمغازلة الرجال في البار ولم يكن منتبهات جدًا لجميع العملاء.,الساقي | الخدمة | الطعام | النادلات,service general | service general | food quality | service general,restaurant,explicit | explicit | explicit | explicit
+المعكرونة رائعة، الريزوتو (وخاصة البني الداكن) رائع و الأرنب المطهو على نار هادئة مذهل.,المعكرونة | الريزوتو | البني الداكن | الأرنب المطهو على نار هادئة,food quality | food quality | food quality | food quality,restaurant,explicit | explicit | explicit | explicit
+متعة مذهلة لمحبي هوت دوج من جميع الأعمار، يرجى أن تفعل لنفسك معروفًا وتفقد هذا المكان ! ! !,المكان | هوت دوج,restaurant general | food quality,restaurant,explicit | explicit
+نحن نهتم جدًا بـ السوشي وكنا سعداء بكل خيار بما في ذلك: مزيج السيفيتشي (خاص)، زلابية السلطعون، الساشيمي المتنوع، السوشي و اللفائف، نوعان من الساكي، و تمبورا الموز.,السوشي | مزيج السيفيتشي (خاص | زلابية السلطعون | الساشيمي المتنوع | السوشي | اللفائف | نوعان من الساكي | تمبورا الموز,food quality | food quality | food quality | food quality | food quality | food quality | drinks quality | food quality,restaurant,explicit | explicit | explicit | explicit | explicit | explicit | explicit | explicit
+حسنًا، هذا (المكان) يبدو كحي فقير للغاية، إنه ليس مضحكًا على الإطلاق.,المكان | المكان,ambience general | ambience general,restaurant,explicit | explicit
+لقد أنهينا تجربتنا الرائعة بتناول جولاب جامون (حلوى) التي أوصى بها النادل.,جولاب جامون (حلوى,food quality,restaurant,explicit
+طعام جيد: المفضل لدي هو السباغيتي البحرية.,طعام | السباغيتي البحرية,food quality | food quality,restaurant,explicit | explicit
+في النهاية ستحصل على علامة تبويب عادلة ولا شيء سوى وقت رائع! ! !,NULL | NULL,restaurant prices | restaurant general,restaurant,implicit | implicit
+سأعود إلى سوان قريبا!,سوان,restaurant general,restaurant,explicit
+عظيم خبز البيجل مصنوع بالطريقة القديمة.,خبز البيجل | خبز البيجل,food quality | food style_options,restaurant,explicit | explicit
+لم يكن له أي نكهة و الموظفين وقحون وغير منتبهين.,الموظفين | الموظفين | NULL,service general | service general | food quality,restaurant,explicit | explicit | implicit
+تصميم الفضاء جيد .,الفضاء,ambience general,restaurant,explicit
+لقد حاولت إجراء الحجز، ولكن في المرتين، لم يكن لدى (المضيفة  اسمي.,المضيفة,service general,restaurant,explicit
+عندما تجلس في غرفة الطعام الرئيسية (التي تتميز بسقف مرتفع مذهل مرسوم يدويًا ، فلن تعرف أبدًا أن هناك عالمًا خارجيًا.,غرفة الطعام الرئيسية | NULL | NULL,ambience general | ambience general | ambience general,restaurant,explicit | implicit | implicit
+بصراحة أسوأ السوشي تناولته أنا وزوجي في حياتنا كلها.,السوشي,food quality,restaurant,explicit
+Big Wong هو مكان رائع لتناول الطعام وملء معدتك.,Big Wong,restaurant general,restaurant,explicit
+المشروبات دائمًا ما تكون جيدة الصنع ومجموعة مختارة من النبيذ بأسعار معقولة.,المشروبات | مجموعة مختارة من النبيذ,drinks quality | drinks prices,restaurant,explicit | explicit
+الخدمة سريعة وودودة.,الخدمة | الخدمة,service general | service general,restaurant,explicit | explicit
+الديكور الفرنسي التقليدي كان لطيفًا على الرغم من أن القاعة كانت صاخبة إلى حد ما - كان المطعم ممتلئًا واضطررنا إلى رفع أصواتنا حتى نتمكن من الحفاظ على المحادثة.,الديكور الفرنسي التقليدي | القاعة,ambience general | ambience general,restaurant,explicit | explicit
+يقدم هذا المطعم الصغير في أستوريا ما يعتبره الكثيرون الأفضل جيروسكوبات في نيويورك.,جيروسكوبات,food quality,restaurant,explicit
+الأسعار منخفضة بشكل رائع.,NULL,restaurant prices,restaurant,implicit
+بحلول الوقت الذي أنهينا فيه عشاءنا، لم نحصل بعد على مشروب واحد أو شيشة!,NULL,service general,restaurant,implicit
+بعد المرة الرابعة سألت مرة أخرى فقال النادل بعد العشاء.,النادل,service general,restaurant,explicit
+أنا لست متعصبًا بالضرورة بشأن هذا المكان، لكنه كان وقتًا ممتعًا للأسهم المنخفضة.,المكان | المكان,restaurant general | restaurant prices,restaurant,explicit | explicit
+أفضل تجربة طعام في القرية الغربية!,NULL,restaurant general,restaurant,implicit
+كانت هذه زيارة متكررة وسوف نعود بالتأكيد مرة أخرى.,NULL,restaurant general,restaurant,implicit
+(السندويشات الثلاثة) جافة، عديمة الطعم ومبالغ في سعرها.,السندويشات الثلاثة | السندويشات الثلاثة | السندويشات الثلاثة,food quality | food quality | food prices,restaurant,explicit | explicit | explicit
+اذهب إلى فولاري للحصول على الدرجة الأولى خدمة والرائعة طعام.,خدمة | طعام,service general | food quality,restaurant,explicit | explicit
+إن دوساس هزيلة وغير جذابة ومليئة بالدهون، وأنا شخصياً أشرب الفشار قبل أن أتناول واحدة أخرى من هذه.,دوساس | دوساس,food style_options | food quality,restaurant,explicit | explicit
+لن أعود أبدًا,NULL,restaurant general,restaurant,implicit
+تأكد من التحقق من ذلك !!!,NULL,restaurant general,restaurant,implicit
+من كان ثنائي الجاز ، فقد كانوا على حق.,ثنائي الجاز,ambience general,restaurant,explicit
+لم نكن نريد زجاجة من المشروبات الغازية في أيام الأسبوع، لذا حصل كل منا على زجاجة صغيرة زجاجات من كوربيت، وكان ذلك كافياً.,زجاجات من كوربيت,drinks style_options,restaurant,explicit
+المفضل السوشي في نيويورك,السوشي,food quality,restaurant,explicit
+في المرتين كنت أشعر بخيبة أمل شديدة بسبب الخدمة، التي كانت وقحة للغاية.,الخدمة | الخدمة,service general | service general,restaurant,explicit | explicit
+Mermaid Inn هو مطعم جيد بشكل عام ويقدم مأكولات بحرية جيدة حقًا.,مأكولات بحرية | Mermaid Inn,food quality | restaurant general,restaurant,explicit | explicit
+بحلول الوقت الذي غادرنا فيه، كانت محافظنا فارغة وكذلك كانت بطوننا، وفقدنا العرض الذي كان من المفترض أن نشاهده بعد العشاء، والذي كان سيكون مقبولاً إذا تمكنا من الاستمتاع بتجربة الطعام الجيد والراقصات الشرقيات!,الطعام | NULL | NULL,food quality | restaurant prices | restaurant miscellaneous,restaurant,explicit | implicit | implicit
+لقد أوصيت بالمكان  للأصدقاء، وأحصل دائمًا على ردود فعل جيدة.,NULL,restaurant miscellaneous,restaurant,implicit
+إن الجمع بين المكونات الطازجة للغاية مكون في الأطباق أمر غير عادي ولكنه لذيذ حقًا.,مكون | مكون,food quality | food quality,restaurant,explicit | explicit
+أنا متردد في الكتابة لأنني لا أريد أن يصبح متجري مطعم بيتزا مزدحمًا.,مطعم بيتزا,restaurant miscellaneous,restaurant,explicit
+لقد تلقيت خدمة سريعة خدمة بابتسامة.,خدمة,service general,restaurant,explicit
+جرب التونة المقرمشة، فهي لذيذة للغاية.,التونة المقرمشة | التونة المقرمشة,food quality | food quality,restaurant,explicit | explicit
+ستجد نفسك تعود في كثير من الأحيان.,NULL,restaurant general,restaurant,implicit
+Baluchi's لديه طعام جيد و ديكور لطيف وبأسعار معقولة.,NULL,NULL,restaurant,implicit
+الخدمة كانت رائعة هنا، الطعام كان رائعًا.,الخدمة | الطعام,service general | food quality,restaurant,explicit | explicit
+عظيم شابو شابو,شابو شابو,food quality,restaurant,explicit
+عندما وصل الطبق الرئيسي أخيرًا (بعد 45 دقيقة أخرى) كان نصف طلبنا مفقودًا.,NULL,service general,restaurant,implicit
+لقد أحببته وأوصي به بشدة.,NULL | NULL,restaurant general | restaurant general,restaurant,implicit | implicit
+مكان متواضع في بارك سلوب، سوشي جيد باستمرار، خدمة ممتعة وفعالة ومتواضعة.,مكان | سوشي | خدمة | خدمة | خدمة,ambience general | food quality | service general | service general | service general,restaurant,explicit | explicit | explicit | explicit | explicit
+في أشهر الصيف، منطقة الحديقة الخلفية تكون جميلة حقًا.,منطقة الحديقة الخلفية,ambience general,restaurant,explicit
+السوشي الذي يمكنك تناوله بالكامل هو بالتأكيد ذو جودة رديئة للغاية.,السوشي الذي يمكنك تناوله بالكامل,food quality,restaurant,explicit
+أوصي بشدة بـ تاكو السمك، كل شيء آخر كان جيدًا.,تاكو السمك | NULL,food quality | food quality,restaurant,explicit | implicit
+إنه بالتأكيد مكان جيد مكان لتناول الوجبات الخفيفة والدردشة.,مكان,restaurant general,restaurant,explicit
+لقد قمت بحجز (خيمة أورجانزا بيضاء) رائعة  والتي تضمنت (قائمة طعام ثابتة مكونة من أربعة أطباق) والتي استمتعنا بها كثيرًا.,قائمة طعام ثابتة مكونة من أربعة أطباق | خيمة أورجانزا بيضاء,food quality | ambience general,restaurant,explicit | explicit
+أوصي بـ Roxy's لذلك، ولكن ليس بسبب طعامهم.,طعامهم | NULL,food quality | food quality,restaurant,explicit | implicit
+كان بلح البحر من أشهى الأطعمة التي تذوقتها على الإطلاق، وكان سمك القاروص بلا طعم، وكان سلطة جبن الماعز تفتقر إلى جبن الماعز، وكان بيني مع الدجاج تحتوي على عظام... كان الأمر مقززًا.,بلح البحر | سمك القاروص | سلطة جبن الماعز | بيني مع الدجاج,food quality | food quality | food quality | food quality,restaurant,explicit | explicit | explicit | explicit
+تأكد من تجربة هذا المكان قدر الإمكان.,المكان,restaurant general,restaurant,explicit
+أنا لست نباتيًا ولكن، تقريبًا كل أطباق كانت رائعة.,أطباق,food quality,restaurant,explicit
+رائع الطعام والأسعار معقولة جدًا.,الطعام | NULL,food quality | restaurant prices,restaurant,explicit | implicit
+الأسعار جيدة جدًا .,NULL,restaurant prices,restaurant,implicit
+اذهب إلى هنا لتناول عشاء رومانسي ولكن ليس للحصول على تجربة طعام رائعة.,NULL,ambience general,restaurant,implicit
+أنا بالتأكيد لن أعود .,NULL,restaurant general,restaurant,implicit
+قائمة النبيذ واسعة ومثيرة للإعجاب.,قائمة النبيذ | قائمة النبيذ,drinks style_options | drinks style_options,restaurant,explicit | explicit
+قائمة النبيذ واسعة النطاق دون أن تكون باهظة الثمن.,قائمة النبيذ | قائمة النبيذ,drinks style_options | drinks prices,restaurant,explicit | explicit
+قررنا مؤخرًا تجربة هذا الموقع، ولسعادتنا، لديهم أماكن جلوس خارجية، وهو أمر مثالي حيث كان يوركشاير معي.,أماكن جلوس خارجية,ambience general,restaurant,explicit
+كان الطعام جيدًا ولا يوجد شيء مثير للجنون.,الطعام,food quality,restaurant,explicit
+لقد طلبت أيضًا Change Mojito، الذي كان خارج هذا العالم.,Change Mojito,drinks quality,restaurant,explicit
+(اطلب دائمًا من الساقي البيرة الموسمية !!!),البيرة الموسمية,drinks quality,restaurant,explicit
+اللحوم طازجة، الصلصات رائعة، وتحصل على كيمتشي وسلطة مجانًا مع وجبتك والخدمة جيدة أيضًا.,اللحوم | الصلصات | الخدمة | كيمتشي | سلطة,food quality | food quality | service general | food prices | food prices,restaurant,explicit | explicit | explicit | explicit | explicit
+كانت البيتزا رائعة.,البيتزا,food quality,restaurant,explicit
+هذا هو الأفضل سوشي في مدينة نيويورك - بلا شك.,سوشي,food quality,restaurant,explicit
+الطعام هنا جيد إلى حد ما، ولكن فقط إذا كنت ترغب في الانتظار.,الطعام | NULL,food quality | service general,restaurant,explicit | implicit
+رايموند الساقي صخور!,رايموند,service general,restaurant,explicit
+من المؤسف أن الطعام لم يكن من نفس التراث.,الطعام,food quality,restaurant,explicit
+يقدم الموظفين خدمة لا تشوبها شائبة.,الموظفين,service general,restaurant,explicit
+لقد تناولت لحم الضأن الخاص والذي كان مثاليًا.,لحم الضأن الخاص,food quality,restaurant,explicit
+طاقم الخدمة ودود للغاية.,طاقم الخدمة,service general,restaurant,explicit
+أحجام الحصص هنا ضخمة، والسوشي جيد.,أحجام الحصص | السوشي,food style_options | food quality,restaurant,explicit | explicit
+استمتعت بوجبة لطيفة للغاية سلطة قيصر بينما تناولت زوجتي جرجير وجبن الماعز ... كلاهما لذيذ للغاية.,سلطة قيصر | سلطة قيصر | جرجير وجبن الماعز,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+واختتمنا بـ كعكة تيراميسو بالشوكولاتة، وكلاهما كانت لذيذة.,كعكة تيراميسو بالشوكولاتة,food quality,restaurant,explicit
+لن أعود أبدًا .,NULL,restaurant general,restaurant,implicit
+الطعام جيد كما كان دائمًا.,الطعام,food quality,restaurant,explicit
+أما بقية ديم سوم، على الرغم من أنها باهظة الثمن وفقًا لمعايير الحي الصيني، إلا أنها تستحق ذلك.,ديم سوم | ديم سوم,food prices | food quality,restaurant,explicit | explicit
+حساء المعكرونة باللحم البقري جيد أيضًا.,حساء المعكرونة باللحم البقري,food quality,restaurant,explicit
+قشرة مقرمشة بيتزا مارجريتا,بيتزا مارجريتا,food quality,restaurant,explicit
+رائع الطعام، مذهل الخدمة، هذا المكان هو عمل من الدرجة الأولى.,الطعام | الخدمة | المكان,food quality | service general | restaurant general,restaurant,explicit | explicit | explicit
+جميع الأطباق المتنوعة الأطباق اليونانية والقبرصية ممتازة، ولكن الجيرو هو السبب الذي يجعلك تأتي إلى هنا -- إذا لم تأكل واحداً فإن رحلتك ستذهب سدى.,الأطباق اليونانية والقبرصية | الجيرو,food quality | food quality,restaurant,explicit | explicit
+طازج مكونات ويتم إعداد كل شيء حسب الطلب.,مكونات,food quality,restaurant,explicit
+كان باد سيو دجاج لذيذًا، ولكن باد تاي كان زيتيًا للغاية.,باد سيو دجاج | باد تاي,food quality | food quality,restaurant,explicit | explicit
+القائمة Prix Fixe تستحق كل قرش وتحصل على أكثر من كافٍ (من حيث الكمية والجودة).,Prix Fixe menu | Prix Fixe menu | Prix Fixe menu,food quality | food style_options | food prices,restaurant,explicit | explicit | explicit
+"إنه أنت فقط وتاريخك و""عذرًا"" لطيفة بين الحين والآخر قبل أن يفتح النادل الستارة الصغيرة على مقصورتك!",النادل,service general,restaurant,explicit
+جميل لمناسبة خاصة لمرة واحدة.,NULL,restaurant miscellaneous,restaurant,implicit
+بطريقة ما، فإن العمل بالسحر الإيطالي مع mille grazie المستمر لا يشكل خدمة مناسبة .,NULL,service general,restaurant,implicit
+لقد كانت جافة ومثيرة للاشمئزاز، ولم أنتهي حتى من قطعتي الأولى.,NULL | NULL,food quality | food quality,restaurant,implicit | implicit
+إنه مليء بالمرح مع الترفيه الحي وجميع أنواع المؤثرات الخاصة من نوع ديزني.,NULL,ambience general,restaurant,implicit
+لطيف الجو، الخدمة كانت ممتعة للغاية و الحلوى كانت جيدة.,الجو | الخدمة | الحلوى,ambience general | service general | food quality,restaurant,explicit | explicit | explicit
+بعد ذلك أخذت أطباقنا ببساطة، وذهبت، وعادت بعد عشرين دقيقة أخرى مع الفاتورة والدجاج عليها ! ! ! ! ! ! ! ! ! ! !,NULL,service general,restaurant,implicit
+إنه متوسط فقط، مجرد ممزق، ولا يوجد به أي توابل.,NULL | NULL | NULL,food quality | food quality | food quality,restaurant,implicit | implicit | implicit
+ملكية عائلية تقليدية جميلة مطعم.,مطعم,restaurant general,restaurant,explicit
+مؤسسة رائعة عضوية كلب، ومؤسسة صديقة للبيئة وواعية مؤسسة.,كلب | مؤسسة,food quality | restaurant miscellaneous,restaurant,explicit | explicit
+أوصي بشدة بهذا المكان الجميل المكان.,المكان | المكان,ambience general | restaurant general,restaurant,explicit | explicit
+لم تمر سوى ثلاث دقائق قبل أن أجد نفسي منحنيًا فوق المرحاض.,NULL,food quality,restaurant,implicit
+ليس هناك الكثير من مجموعة مختارة من البيرة المعبأة في زجاجات أيضًا، لقد ذهبنا مع براهما.,مجموعة مختارة من البيرة المعبأة في زجاجات,drinks style_options,restaurant,explicit
+ومع ذلك، فإن الخدمة هي التي تترك طعمًا سيئًا في فمي.,الخدمة,service general,restaurant,explicit
+كان ينبغي أن يطلقوا عليه اسم الماسكاربوني مع رقائق الشوكولاتة - جيد لكنه بعيد كل البعد عن ما يوحي به الاسم.,NULL,food quality,restaurant,implicit
+يتميز هذا المكان بأفضل المأكولات الصينية ضلوع الشواء في المدينة.,ضلوع الشواء | ضلوع الشواء,food quality | food style_options,restaurant,explicit | explicit
+الأفضل !,NULL,restaurant general,restaurant,implicit
+هذا المكان يبقى على قيد الحياة بفضل السمعة وحدها.,المكان,restaurant miscellaneous,restaurant,explicit
+الديكور ليلي رغم ذلك ... لكنهم يحتاجون حقًا إلى تنظيف ذلك فتحة التهوية في السقف ... إنه غير شهي تمامًا، ويقتل جهدك لجعل هذا المكان يبدو أنيقًا وحديثًا.,السقف | فتحة التهوية,ambience general | ambience general,restaurant,explicit | explicit
+كان النادل منتبهًا، وكان الطعام لذيذًا وكان الإطلالات على المدينة رائعة.,النادل | الطعام | الإطلالات على المدينة,service general | food quality | location general,restaurant,explicit | explicit | explicit
+الأجواء ممتعة، الخدمة لا تشوبها شائبة.,الأجواء | الخدمة,ambience general | service general,restaurant,explicit | explicit
+الشيء الوحيد الذي يلفت انتباهك هو الديكور؟ (ليس لطيفًا جدًا).,الديكور,ambience general,restaurant,explicit
+رقيقة بهارات، بصل، بيض ورائعة روتي.,بهارات | بصل | بيض | روتي,food quality | food quality | food quality | food quality,restaurant,explicit | explicit | explicit | explicit
+كان الطعام لذيذًا (تناولت سمك الهلبوت الخاص، وتناول زوجي شريحة لحم)، وكانت الخدمة من الدرجة الأولى.,الطعام | سمك الهلبوت الخاص | شريحة لحم | الخدمة,food quality | food quality | food quality | service general,restaurant,explicit | explicit | explicit | explicit
+طاقم الخدمة ودود للغاية، ويجعلك تشعر وكأنك تتناول الطعام في بلدة أوروبية صغيرة ودودة.,طاقم الخدمة,service general,restaurant,explicit
+إبهام كبير للأعلى!,NULL,restaurant general,restaurant,implicit
+لقد ذهبت إلى راو حوالي 15 مرة خلال السنوات الثلاث الماضية ولا يزال يتحسن.,راو,restaurant general,restaurant,explicit
+"Bukhara Grill، الشعار يقول كل شيء.. ""حفلة التوابل الهندية""",Bukhara Grill,restaurant general,restaurant,explicit
+لم يكن عيد ميلاد زوجي وعيد ميلاد أبنائي كما كان متوقعًا ... وقد سافرنا لمدة ساعتين لإنفاق الكثير من المال حتى يتم التعامل معنا بشكل رهيب!,NULL | NULL,restaurant prices | service general,restaurant,implicit | implicit
+كان الجو لطيفًا جدًا ولكن كان به القليل من النقص، والذي يحاول تعويضه بـ مخطط المرايا المجنون.,الجو | مخطط المرايا,ambience general | ambience general,restaurant,explicit | explicit
+تم تقديمه مع الجلد، فوق طبقة من البطاطس المهروسة السبانخ وغير المطبوخة جيدًا.,NULL | السبانخ,food style_options | food quality,restaurant,implicit | explicit
+هذا المكان غريب تمامًا ديكور، سلالم تصعد مع جدران ذات مرايا - أنا مندهش كيف لم يكسر أحد رأسه أو يسقط من الدرج حتى الآن - جدران ذات مرايا تجعلك تشعر بالدوار والوهم ...,ديكور | جدران ذات مرايا | جدران ذات مرايا,ambience general | ambience general | ambience general,restaurant,explicit | explicit | explicit
+الطعام مذهل، غني المعكرونة وعجين طازج البيتزا.,الطعام | المعكرونة | البيتزا,food quality | food style_options | food quality,restaurant,explicit | explicit | explicit
+محدودة قائمة طعام، غير طازجة مكونات، مقطعة إلى شرائح رفيعة سمك، متفككة أرز.,قائمة طعام | مكونات | سمك | أرز,food style_options | food quality | food style_options | food style_options,restaurant,explicit | explicit | explicit | explicit
+أحب سوموسا، تشاي، وتشولي، لكن دوساس ودال كانت مخيبة للآمال إلى حد ما.,سوموسا | تشاي | تشولي | دوساس | دال,food quality | food quality | food quality | food quality | food quality,restaurant,explicit | explicit | explicit | explicit | explicit
+الطعام رائع .,الطعام,food quality,restaurant,explicit
+الهوت دوج جيد، نعم، ولكن السبب الذي دفعني للقدوم إلى هنا هو ساندويتش كروكيت لحم الخنزير الرائع، والذي يعتبر مثاليًا على خبزه الإسفنجي الكعكة.,الهوت دوج | ساندويتش كروكيت لحم الخنزير | الكعكة,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+أوصي به بشدة .,NULL,restaurant general,restaurant,implicit
+رائع الطعام الهندي!,الطعام الهندي,food quality,restaurant,explicit
+دائما جيد المشروبات و الخدمة جيدة جدًا؛,المشروبات | الخدمة,drinks quality | service general,restaurant,explicit | explicit
+أوصي به بشدة!,NULL,restaurant general,restaurant,implicit
+إنهم ليسوا مفيدين على الإطلاق وسيعطونك فرصة كبيرة للركض حول المكان، لذا بحلول موعد الحدث، لن تندم على اختيار هذا المكان فحسب، بل ستصبح أيضًا عدائيًا!,NULL,service general,restaurant,implicit
+كانت الأسعار رخيصة مقارنة بجودة الخدمة والطعام.,NULL,restaurant prices,restaurant,implicit
+إنه ليس متسقًا .,NULL,restaurant general,restaurant,implicit
+الطعام مذهل ... خاصة إذا حصلت على قائمة تذوق الشيف وزجاجة النبيذ المفضلة لديك (أو اثنتين!) من مجموعة واسعة مجموعة مختارة من النبيذ.,الطعام | مجموعة مختارة من النبيذ | قائمة تذوق الشيف,food quality | drinks style_options | food quality,restaurant,explicit | explicit | explicit
+أسوأ عذر للطعام الياباني واجهته على الإطلاق.,NULL,restaurant miscellaneous,restaurant,implicit
+أخطط للتوقف هنا في الأسبوع المقبل أيضًا.,NULL,restaurant general,restaurant,implicit
+السخرية المتغطرسة موجودة في .,NULL,service general,restaurant,implicit
+لقد أوصى شخص آخر بـ الحلوى - وتركنا ذلك أيضًا.,الحلوى,food quality,restaurant,explicit
+هذا هو المكان المثالي للمواعدة للأزواج في ويليامزبرغ.,NULL,restaurant miscellaneous,restaurant,implicit
+داخلي كان مريحًا ولطيفًا للغاية.,داخلي | داخلي,ambience general | ambience general,restaurant,explicit | explicit
+المشروب الوحيد الذي حصلنا عليه كان الماء في أكواب قذرة!,NULL,service general,restaurant,implicit
+إنه أحد الأماكن المفضلة لدينا لتناول الطعام في نيويورك.,NULL,restaurant general,restaurant,implicit
+السلطات طريقة لذيذة لبدء الوجبة.,السلطات,food quality,restaurant,explicit
+لن أعود مرة أخرى بالتأكيد!,NULL,restaurant general,restaurant,implicit
+لقد دمرني هذا المكان بالنسبة للجيران السوشي.,السوشي,food quality,restaurant,explicit
+أنا وبناتي سوف نعود بالتأكيد.,NULL,restaurant general,restaurant,implicit
+إن الاختيار الكبير من البروسكيتا، البانيني، التراميزيني يحافظ على الحنك من الركود.,البروسكيتا | البانيني | التراميزيني,food style_options | food style_options | food style_options,restaurant,explicit | explicit | explicit
+لم يكن لدي أبدًا تجربة غير سارة كهذه.,NULL,restaurant general,restaurant,implicit
+لقد طلبنا الطبق الخاص سمك البرانسينو المشوي، الذي كان مليئًا بالعظام، وكان من الصعب تناوله.,سمك البرانسينو المشوي,food quality,restaurant,explicit
+تم طهي لحم العجل و الفطر بشكل مثالي.,لحم العجل | الفطر,food quality | food quality,restaurant,explicit | explicit
+لقد التهمها صديقي دجاج وبطاطس مهروسة.,دجاج وبطاطس مهروسة,food quality,restaurant,explicit
+الطعام مشترك بالكامل حتى نتمكن من الطلب معًا وتناول الطعام معًا.,الطعام,food style_options,restaurant,explicit
+وكبيرة حقا أجزاء .,أجزاء,food style_options,restaurant,explicit
+ليس رخيصًا ولكنه لذيذ جدًا.,NULL | NULL,food prices | food quality,restaurant,implicit | implicit
+أتمنى أن يكون في نيويورك المزيد من هذا النوع من الأماكن: حميمة، رائعة الطعام، منزلية، من الدرجة الأولى في كل مكان، بالتأكيد تستحق الانتظار.,NULL | الطعام | NULL,ambience general | food quality | restaurant general,restaurant,implicit | explicit | implicit
+إن الإعداد بأكمله غير احترافي حقًا وأتمنى أن يحصل مقهى نوير على بعض الموظفين الجيدين الموظفين ، لأنه على الرغم من الوضع الحالي ، إلا أن هذا مكان رائع.,الموظفين | مقهى نوير,service general | restaurant general,restaurant,explicit | explicit
+الجلوس يكون دائمًا سريعًا، على الرغم من أن المطعم يمتلئ في المساء.,الجلوس,service general,restaurant,explicit
+DJ رائع، لقد كنت هناك في عيد ميلادي وفي العديد من المرات الأخرى مع الأصدقاء وما زلت أعود.,DJ | NULL,ambience general | restaurant general,restaurant,explicit | implicit
+كان المعكرونة ممتازًا، وخاصة الحبار، وكذلك الحشوة المعكرونة الرئيسية.,المعكرونة | الحبار | المعكرونة الرئيسية | المعكرونة الرئيسية,food quality | food quality | food quality | food style_options,restaurant,explicit | explicit | explicit | explicit
+اختيار رائع بأي ثمن وبسعر رائع.,NULL | NULL,restaurant general | restaurant prices,restaurant,implicit | implicit
+احب الطعام .,الطعام,food quality,restaurant,explicit
+السبب في وجود 4 نتائج مختلفة على citysearch لنفس المكان هو أنهم يحاولون باستمرار بدء موضوع جديد حتى يتمكنوا من تخزينه بالمراجعات الإيجابية.,NULL,restaurant miscellaneous,restaurant,implicit
+أومأت برأسها فقط ومشت.,NULL,service general,restaurant,implicit
+ليس فقط أن المطبخ هو الأفضل على الإطلاق، ولكن الخدمة كانت دائمًا منتبهة وساحرة.,المطبخ | الخدمة | الخدمة,food quality | service general | service general,restaurant,explicit | explicit | explicit
+كبيرة جدًا لشخصين فقط ولكن لم يتبق شيء.,NULL | NULL,food style_options | food quality,restaurant,implicit | implicit
+لم نكن نبدو مثل الزبائن الآخرين هناك، ولسوء الحظ أعتقد أن هذا ربما كان جزءًا من المشكلة.,NULL,restaurant miscellaneous,restaurant,implicit
+إذا كنت من النوع الذي يحب الخوف والترفيه، فهذا مكان رائع مكان للذهاب إليه وتناول الطعام.,مكان,restaurant miscellaneous,restaurant,explicit
+النكهات مذهلة والقيمة هائلة.,NULL | NULL,food quality | food prices,restaurant,implicit | implicit
+الأجواء مريحة وأنيقة.,الأجواء | الأجواء,ambience general | ambience general,restaurant,explicit | explicit
+أنصح بشدة بزيارة هذا مطعم وتناول العشاء والمشروبات!,مطعم,restaurant general,restaurant,explicit
+لقد كان لدي مجموعة كبيرة في عيد ميلادي وقد تم الاعتناء بنا بشكل جيد.,NULL,service general,restaurant,implicit
+فقط اذهب إلى ياماتو واطلب رول التنين الأحمر.,ياماتو,restaurant general,restaurant,explicit
+كانت المعكرونة مطبوخة جيدًا، ولكن لم يكن بها صلصة أو نكهة كافية.,المعكرونة | المعكرونة,food quality | food quality,restaurant,explicit | explicit
+كان النبيذ والخدمة جيدين جدًا أيضًا.,النبيذ | الخدمة,drinks quality | service general,restaurant,explicit | explicit
+سوان هو مكان رائع حيث أأخذ أصدقائي (زملاء الدراسة) إليه في كثير من الأحيان.,سوان,restaurant general,restaurant,explicit
+من أفضل ما تناولته على الإطلاق سلطة في مطعم للوجبات السريعة.,سلطة,food quality,restaurant,explicit
+سأوصي به بشدة .,NULL,restaurant general,restaurant,implicit
+أقل من المتوسط بكثير,NULL,restaurant general,restaurant,implicit
+الأجواء لطيفة للغاية وهادئة، ومناسبة للأعمال التجارية على الرغم من أننا كنا هناك في إجازة.,الأجواء | الأجواء | الأجواء,ambience general | ambience general | ambience general,restaurant,explicit | explicit | explicit
+الطعام رائع وغير مكلف.,الطعام | الطعام,food quality | food prices,restaurant,explicit | explicit
+رائع بيتزا وخاصة شريحة مارغريتا.,بيتزا | شريحة مارغريتا,food quality | food quality,restaurant,explicit | explicit
+( الهليون، زيت الكمأة، بروشتيتا البارميزان هو الفائز! ),الهليون، زيت الكمأة، بروشتيتا البارميزان,food quality,restaurant,explicit
+بالنظر إلى أنك ستنفق ما لا يقل عن 60 دولارًا للشخص الواحد، أتوقع أفضل الخدمة.,الخدمة,service general,restaurant,explicit
+إذا كنت تريد طعامًا جيدًا أصيلاً تايلاندي فهذا المكان ليس المكان المناسب للذهاب إليه.,تايلاندي,food quality,restaurant,explicit
+خلال الأشهر الثلاثة الماضية، تغير الشيف و الموظفين ولم يكن ذلك للأفضل.,الشيف | الموظفين,food quality | service general,restaurant,explicit | explicit
+جرب العصيدة والعجين المقلي على شكل دونات والذي يسمونه أو لي سو، وهو خبز لذيذ ولذيذ.,العصيدة | أو لي سو | أو لي سو,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+كان بإمكاننا أن نصنع وجبة لذيذة الزلابية من قائمة الزلابية.,الزلابية,food quality,restaurant,explicit
+الإعداد غير رسمي ورومانسي.,الإعداد | الإعداد,ambience general | ambience general,restaurant,explicit | explicit
+يبدو السوشي طازجًا جدًا ومتناسبًا بشكل مناسب.,السوشي | السوشي,food quality | food style_options,restaurant,explicit | explicit
+مفاجأة سارة .,NULL,restaurant general,restaurant,implicit
+حي رائع مشترك .,مشترك,restaurant general,restaurant,explicit
+الطعام كان مذهلاً - أنا أحب الطعام الهندي وأتناوله بانتظام، ولكن يمكنني القول أن هذا هو أحد أفضل الأطعمة التي تناولتها.,الطعام,food quality,restaurant,explicit
+على الرغم من أنه كان مزدحمًا في معظم الأوقات التي ذهبت فيها إلى هنا، Bark يقدم دائمًا طعامه.,طعامه | Bark,food quality | restaurant miscellaneous,restaurant,explicit | explicit
+لم يكن هذا المطعم لديه أي نقاط تفاخر كبيرة من قبل، ولكن الآن أصبح الأمر مثير للاشمئزاز بكل بساطة.,المطعم,restaurant general,restaurant,explicit
+الافضل!,NULL,restaurant general,restaurant,implicit
+انظر، المقبلات كانت جيدة حقًا.,المقبلات,food quality,restaurant,explicit
+الدهن والإضافات رائعة - على الرغم من أنها باهظة الثمن بعض الشيء.,الدهن | الإضافات | الدهن | الإضافات,food quality | food quality | food prices | food prices,restaurant,explicit | explicit | explicit | explicit
+لا أزال غاضبًا لأنني اضطررت إلى دفع ثمن طعام رديء.,طعام رديء,food quality,restaurant,explicit
+يقع هذا المكان الجميل المريح مكان قبالة الطريق L في بروكلين مباشرةً مع بيتزا جيدة.,بيتزا | مكان,food quality | ambience general,restaurant,explicit | explicit
+مطعم مصري : مطعم حالم مصمم بشكل جميل ويضفي منظرًا خلابًا في الليل.,مطعم مصري,ambience general,restaurant,explicit
+طبق الجبن هو متعة متنوعة وصفقات رائعة بسعر 10 دولارات.,طبق الجبن | طبق الجبن | طبق الجبن,food quality | food style_options | food prices,restaurant,explicit | explicit | explicit
+كنت هناك لتناول وجبة غداء مؤخرًا، وكان معنا فريق مكون من نادلة ونادل.,نادلة | نادل,service general | service general,restaurant,explicit | explicit
+معجب ...,NULL,restaurant general,restaurant,implicit
+نظرًا لأن BFC لا يقبل الحجوزات، فيتعين عليك دائمًا الانتظار بجوار البار - والتعرض للإساءة من قبل موظفي الاستقبال حتى يتم جلوسك، وهو ما قد يستغرق أكثر من ساعة!,BFC | موظفي الاستقبال | NULL,restaurant miscellaneous | service general | service general,restaurant,explicit | explicit | implicit
+وكانت سريعة وهذا مهم جدًا.,NULL,service general,restaurant,implicit
+ابقى بعيدا,NULL,restaurant general,restaurant,implicit
+النكهة قوية ودقيقة.,NULL | NULL,food quality | food quality,restaurant,implicit | implicit
+ليس جيدا على الإطلاق .,NULL,food quality,restaurant,implicit
+رائع مكان ، سواء كنت تبحث عن مشروب أو عشاء هادئ.,مكان | مكان,restaurant general | restaurant miscellaneous,restaurant,explicit | explicit
+المشروبات رائعة، وخاصة عندما يتم إعدادها بواسطة رايموند.,المشروبات | رايموند,drinks quality | service general,restaurant,explicit | explicit
+كانت الأطباق  المقدمة فريدة من نوعها ولذيذة للغاية وطازجة من نقانق لحم الضأن والسردين مع البسكويت والروبيان الكامل الكبير إلى آيس كريم الفستق المذهل (الأفضل والأحدث الذي تناولته على الإطلاق).,NULL | NULL | NULL | آيس كريم الفستق,food quality | food quality | food quality | food quality,restaurant,implicit | implicit | implicit | explicit
+وبعد كل ذلك اشتكوا لي من البقشيش الصغير.,NULL,service general,restaurant,implicit
+جربها واستمتع .,NULL,restaurant general,restaurant,implicit
+عندما جاءت الفاتورة، لم يكن هناك أي شيء مجاني، لذلك أخبرت المدير بكل أدب أننا على استعداد لدفع ثمن النبيذ، لكنني لم أعتقد أنني يجب أن أدفع مقابل طعام يحتوي على يرقة.,NULL,service general,restaurant,implicit
+الطعام رائع ولديهم مجموعة جيدة من النبيذ بأسعار معقولة.,الطعام | النبيذ | النبيذ,food quality | drinks style_options | drinks prices,restaurant,explicit | explicit | explicit
+إنه خارج نطاق أسعارنا قليلاً لتناول الطعام هناك باستثناء المناسبات الخاصة، لكننا تناولنا الطعام هناك 6 مرات في العامين الماضيين.,NULL,restaurant prices,restaurant,implicit
+شكرا لك إميليو .,إميليو,restaurant general,restaurant,explicit
+كانت النادلة صبورة للغاية معنا و الطعام رائع!,النادلة | الطعام,service general | food quality,restaurant,explicit | explicit
+ومن المثير للدهشة أن هذا ليس صحيحا على الإطلاق.,NULL,restaurant miscellaneous,restaurant,implicit
+مكان رائع بيتزا لتناول الغداء.,بيتزا,food quality,restaurant,explicit
+الطعام كان فاترًا.,الطعام,food quality,restaurant,explicit
+الطعام الذي يقدمونه ليس مريحًا ولا شهيًا وغير مطبوخ جيدًا.,الطعام | الطعام,food quality | food quality,restaurant,explicit | explicit
+كان الترفيه رائعًا ولديهم عروض مستمرة طوال العشاء.,الترفيه,ambience general,restaurant,explicit
+تعرف على السر الغرفة الخلفية .,الغرفة الخلفية,ambience general,restaurant,explicit
+السمك المدخن طازج دائمًا أيضًا.,السمك المدخن,food quality,restaurant,explicit
+هذا مكان رائع مكان لأخذ الضيوف من خارج المدينة، ومثالي لمشاهدة غروب الشمس.,مكان,location general,restaurant,explicit
+كنت أتوقع أكثر من ذلك بكثير من هذه القائمة الباهظة الثمن .,NULL | NULL,food prices | food quality,restaurant,implicit | implicit
+السلطات لذيذة، منعشة وحارة للغاية.,السلطات | السلطات | السلطات,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+وأيضا غير مكلفة للغاية.,NULL,restaurant prices,restaurant,implicit
+كان المكان هادئًا وممتعًا.,المكان | المكان,ambience general | ambience general,restaurant,explicit | explicit
+تجربة جيدة,NULL,restaurant general,restaurant,implicit
+"ومع ذلك، فإن أي اعتراضات على مشروع القانون تم تعويضها من خلال خدمة ""صب مشروبك الخاص"" مقاييس من المشروبات الكحولية والتي كانت مقدمة من المنزل ...",NULL | مقاييس من المشروبات الكحولية | مقاييس من المشروبات الكحولية,restaurant prices | drinks style_options | drinks style_options,restaurant,implicit | explicit | explicit
+اعتقدت أنني مت وذهبت إلى الجنة.,NULL,food quality,restaurant,implicit
+الطعام الصيني الهندي، جيد جدًا ...,الطعام الصيني الهندي,food quality,restaurant,explicit
+حتى النبيذ بالكأس كان جيدًا.,النبيذ بالكأس,drinks quality,restaurant,explicit
+المكان لطيف تجهيزات، وبعض الجذاب أثاث، ومن ما أستطيع أن أقوله، معقول قائمة نبيذ (أعطيت لي قائمة الطعام عندما طلبت قائمة النبيذ),تجهيزات | أثاث | قائمة نبيذ,ambience general | ambience general | drinks style_options,restaurant,explicit | explicit | explicit
+يجب أن يكون هذا المكان أفضل مطعم ياباني في منطقة نيويورك.,المكان,restaurant general,restaurant,explicit
+راو هو مطعم جيد، لكنه لا يحتوي على شيء مميز.,راو,restaurant general,restaurant,explicit
+العيب الوحيد في هذا المطعم هو الأسعار.,المطعم,restaurant prices,restaurant,explicit
+كانت الحصص صغيرة ولكن كون الطعام كان جيدًا جدًا يعوض عن ذلك.,الحصص | الطعام,food style_options | food quality,restaurant,explicit | explicit
+الشيء الوحيد الذي نسيه صديقي هو أنه عندما جلسنا في البار اختفى الساقي.,الساقي,service general,restaurant,explicit
+سعره في النطاق المتوسط العلوي.,NULL,restaurant prices,restaurant,implicit
+الطعام رخيص جدًا والنوادل لطيفون.,الطعام | النوادل,food prices | service general,restaurant,explicit | explicit
+باستثناء سلطة الليمون التي كانت تحتوي على الكثير من الفلفل حتى بدأت أعيننا تدمع، الطعام هنا كان لائقًا، وليس رائعًا.,الطعام | الطعام | سلطة الليمون,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+كانت الخدمة سريعة ومتميزة للغاية (بفضل زر الخدمة الموجود على طاولتك) ولكنني بالكاد فهمت كلمة واحدة عندما أخذ النادل طلبنا.,الخدمة | الخدمة | زر الخدمة | النادل,service general | service general | service general | service general,restaurant,explicit | explicit | explicit | explicit
+كان طعم (كيساديلا) الخاص بي وكأنه تم صنعه من قبل طفل يبلغ من العمر ثلاث سنوات ليس لديه إحساس بالتناسب أو النكهة.,كيساديلا | كيساديلا,food quality | food style_options,restaurant,explicit | explicit
+كلاهما ليسا صغيرين كما تظهر بعض المراجعات، فهما مثاليان لشخصين.,كلاهما,ambience general,restaurant,explicit
+حتى صديقي الهندي لم يستطع أن يصدق مدى جودة ولذة كل شيء.,NULL | NULL,food quality | food quality,restaurant,implicit | implicit
+قد يظن المرء أننا سنحصل على اعتذار أو مشروبات مجانية - ولكن بدلاً من ذلك، حصلنا على شخص متغطرس النادل لم يأخذ طلبنا حتى لمدة 15 دقيقة وأعطانا شفاهًا عندما طلبنا منه أن يفعل ذلك.,النادل,service general,restaurant,explicit
+لم أتناول أبدًا خدمة سيئة و سمك طازج ولذيذ.,خدمة | سمك | سمك,service general | food quality | food quality,restaurant,explicit | explicit | explicit
+هناك فتاة أخرى فتاة لا أستطيع وصفها، طولها حوالي 5 أقدام و 6 بوصات وشعرها بني، تتنصت على محادثتك وتتدخل - باستثناء أنها تسمع الجزء الأخير فقط مما قلته، لذا فإن آرائها غير المدعوة غالبًا ما تكون خارج السياق ولا علاقة لها بما تتحدث عنه * حقًا *.,فتاة,service general,restaurant,explicit
+رائع ديكور - يجعلك تشعر وكأنك في مطعم عصري في مانهاتن، جيد جدًا طعام، رخيص الثمن، ودود بشكل عام موظفون، وإذا كنت من سكان مانهاتن، أو تقضي معظم وقتك في مانهاتن، شارع رايس سيجعلك تشعر وكأنك في منزلك... ..سوهو /فيليدج /أبر ويست سايد بدون الأسعار الباهظة والعملاء المتظاهرون... ..كل ذلك في شارع روزفلت!,ديكور | طعام | طعام | موظفون | شارع رايس | شارع رايس | شارع رايس,ambience general | food quality | food prices | service general | ambience general | location general | restaurant prices,restaurant,explicit | explicit | explicit | explicit | explicit | explicit | explicit
+رائع الطعام، رائع الديكور، رائع الخدمة.,الطعام | الديكور | الخدمة,food quality | ambience general | service general,restaurant,explicit | explicit | explicit
+إنهم لا يهتمون كثيرا بصحة العملاء، كل ما يريدونه هو كسب المال.,NULL,restaurant miscellaneous,restaurant,implicit
+ينبغي طرد هذا الموظفين.,الموظفين,service general,restaurant,explicit
+سوف نعود بالتأكيد .,NULL,restaurant general,restaurant,implicit
+عندما كنت أعيش في الجزء الشمالي من الولاية لفترة من الوقت كنت أشتري الخبز المجمد وكان لا يزال أفضل من أي شيء آخر.,الخبز المجمد,food quality,restaurant,explicit
+ممتاز زلابية يقدم وسط نظافة وأناقة ديكور.,زلابية | ديكور | ديكور,food quality | ambience general | ambience general,restaurant,explicit | explicit | explicit
+الكعك جيد، لكنه مطبوخ أكثر من اللازم، ولا يعتبر تجربة خاصة للكعك.,الكعك | الكعك,food quality | food quality,restaurant,explicit | explicit
+رافيولي كان جيدًا ... لكن يجب أن أقول إنني وجدت كل شيء باهظ الثمن بعض الشيء.,رافيولي | NULL,food quality | food prices,restaurant,explicit | implicit
+أعتقد أن البيتزا مبالغ في تقديرها ولم يتم طهيها جيدًا.,البيتزا,food quality,restaurant,explicit
+ذهبت في رحلة لمدة 3 أيام تناول المحار، وكان السمك هو الختام، وأنا سعيد جدًا لأن هذا هو المكان الذي انتهت فيه الرحلة، لأنها كانت رائعة جدًا!,تناول المحار,restaurant general,restaurant,explicit
+(المكان) مخفي قليلاً، ولكن بمجرد وصولك إليه، فإن الأمر يستحق كل هذا العناء.,المكان | المكان,location general | restaurant general,restaurant,explicit | explicit
+هذا هو المكان المثالي المكان للقاء الأصدقاء، أو تناول الغداء، أو العشاء، أو تناول المشروبات قبل المسرح أو بعده!,المكان,restaurant miscellaneous,restaurant,explicit
+لقد صادفت Village Underground بالصدفة، والآن أذهب إلى هناك طوال الوقت.,Village Underground,restaurant general,restaurant,explicit
+وقح خدمة، متوسط الجودة طعام ... هناك الكثير من المطاعم في نيويورك ... ابتعد عن هذا المطعم,خدمة | طعام | NULL,service general | food quality | restaurant general,restaurant,explicit | explicit | implicit
+لقد أخذت قضمة واحدة من 24 دولارًا سمك السلمون، ولم أتذوق أبدًا، خلال 17 عامًا من ذهابي إلى المطاعم سمك السلمون بمثل هذه السمكة، أو الجفاف، أو الطعم الفاتر مثل ذلك الموجود في Flatbush Farms.,سمك السلمون | سمك السلمون | سمك السلمون | سمك السلمون,food quality | food quality | food quality | food prices,restaurant,explicit | explicit | explicit | explicit
+شعرت وكأنني أتناول الطعام في باريس.,NULL,food quality,restaurant,implicit
+كان زوجي مثاليًا، وكان جيدًا وجافًا.,NULL | NULL | NULL,food quality | food quality | food quality,restaurant,implicit | implicit | implicit
+لم يعجبني الطعام.,الطعام,food quality,restaurant,explicit
+كانت معكرونة بيني زبدانية للغاية وكريمية مما يعني أنها كانت مهمة صعبة.. كانت لذيذة في البداية ولكن أود أن أقول إنني شعرت بالشبع مع شريحة بيتزا و 7 معكرونة بيني.. أصبحت متقلبة المزاج بعد ذلك لأنني كنت محشوًا.. لول,معكرونة بيني | معكرونة بيني,food quality | food style_options,restaurant,explicit | explicit
+رائع طعام,طعام,food quality,restaurant,explicit
+شاول هو أفضل مطعم في شارع سميث وفي بروكلين.,شاول,restaurant general,restaurant,explicit
+ذهبت هنا أولاً للاستمتاع بـ تراس الحديقة .,تراس الحديقة,ambience general,restaurant,explicit
+لن نعود إلى هذا (المكان  مرة أخرى.,المكان,restaurant general,restaurant,explicit
+أحيانًا أحصل على جيد طعام ومقبول خدمة.,طعام | خدمة,food quality | service general,restaurant,explicit | explicit
+مرة أخرى، سوف أكون مستاءً للغاية لو كان هذا موظفي.,NULL,service general,restaurant,implicit
+كان كل شيء رائعًا؛ الطعام، المشروبات، الموظفين، المكان.,الطعام | المشروبات | الموظفين | المكان,food quality | drinks quality | service general | ambience general,restaurant,explicit | explicit | explicit | explicit
+من أجل حفل زفاف رائع!,NULL,restaurant miscellaneous,restaurant,implicit
+يتم طهي كل شيء دائمًا إلى حد الكمال، الخدمة ممتازة، الديكور رائع وبسيط.,NULL | الخدمة | الديكور | الديكور,food quality | service general | ambience general | ambience general,restaurant,implicit | explicit | explicit | explicit
+لقد كنت أذهب إلى هناك منذ افتتاحه ولا أستطيع الحصول على ما يكفي.,NULL,restaurant general,restaurant,implicit
+لذيذ بسيط طعام في لطيف جو خارجي.,طعام | طعام | جو خارجي,food quality | food style_options | ambience general,restaurant,explicit | explicit | explicit
+اعتقدنا أن هذا المكان يستخدم كمية كبيرة من غلوتامات أحادية الصوديوم في الطهي الأطعمة.,الأطعمة,food quality,restaurant,explicit
+كان الجميع يبتسمون مما جعلني أشعر بالترحيب.,NULL,service general,restaurant,implicit
+من المؤكد أنها ستكون تجربة لذيذة! ),NULL,drinks quality,restaurant,implicit
+كشخص متقاعد من محبي الحياة العصرية، أستطيع أن أقول بثقة تامة أن العام الماضي Lucky Strike كان أفضل مكان هادئ في المدينة لقضاء وقت متأخر من الليل.,Lucky Strike,restaurant general,restaurant,explicit
+موصى به للغاية!,NULL,restaurant general,restaurant,implicit
+الخدمة تختلف من يوم لآخر - في بعض الأحيان تكون لطيفة للغاية، وفي بعض الأحيان لا.,الخدمة,service general,restaurant,explicit
+يتمتع هذا المكان بالجو المناسب الأجواء والموظفون الممتازون  الذين يجعلونك تشعر وكأنك ضيف وصديق في نفس الوقت.,الأجواء | NULL,ambience general | service general,restaurant,explicit | implicit
+كان الطعام فاترًا وزيتيًا.,الطعام,food quality,restaurant,explicit
+ببساطة بعض المذاق الجيد الطعام الصيني بأسعار لا تصدق ...,الطعام الصيني | الطعام الصيني,food quality | food prices,restaurant,explicit | explicit
+كانت والدتي هي من قدمتني إلى هذا المكان في الأصل، ولكن حتى هي (كونها هندية) تشعر أن الطعام يمكن أن يكون حارًا إلى حد ما وزيتيًا للغاية.,الطعام,food quality,restaurant,explicit
+رائع الخدمة، رائع الطعام.,الخدمة | الطعام,service general | food quality,restaurant,explicit | explicit
+دافئ وودود في الشتاء ورائع مقاعد خارجية في الأشهر الأكثر دفئًا.,NULL | NULL | مقاعد خارجية,ambience general | ambience general | ambience general,restaurant,implicit | implicit | explicit
+الخدمة ودية ويقظة.,الخدمة | الخدمة,service general | service general,restaurant,explicit | explicit
+ولكي نكون منصفين تمامًا، فإن العامل الوحيد الذي كان إيجابيًا هو الطعام، الذي كان أعلى من المتوسط، لكنه لم يستطع تعويض جميع العيوب الأخرى في تيودورا.,الطعام | تيودورا,food quality | restaurant general,restaurant,explicit | explicit
+وصل الطعام بعد 20 دقيقة من اتصالي، وكان باردًا ورطبًا.,الطعام | الطعام | NULL,food quality | food quality | service general,restaurant,explicit | explicit | implicit
+موصى به بشدة .,NULL,restaurant general,restaurant,implicit
+كان الموظفون الأكثر ودية الذين رأيتهم في نيويورك.,الموظفون,service general,restaurant,explicit
+السمك لم يكن طازجًا والأرز كان مذاقه قديمًا وباهتًا.,السمك | الأرز | الأرز,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+رائع هوت دوج!,هوت دوج,food quality,restaurant,explicit
+الطعام كان جيدًا، وليس شيئًا رائعًا.,الطعام | الطعام,food quality | food quality,restaurant,explicit | explicit
+كان هذا هو المرافق المثالي الهادئ والمريح واللذيذ لظهيرة مسرحنا.,NULL | NULL | NULL,food quality | ambience general | ambience general,restaurant,implicit | implicit | implicit
+رغم أن المكان ليس جميلاً، إلا أن الطعام يتحدث عن نفسه.,المكان | الطعام,ambience general | food quality,restaurant,explicit | explicit
+لقد تناولت أنا وزوجتي الطعام هنا في وقت سابق من هذا الأسبوع ولم نتوقف عن التذمر والهذيان حول الطعام.,الطعام,food quality,restaurant,explicit
+قائمة النبيذ لطيفة للغاية أيضًا.,قائمة النبيذ,drinks style_options,restaurant,explicit
+هذا مكان رائع  من جميع النواحي وخاصة من حيث القيمة مقابل المال.,NULL | NULL,restaurant prices | restaurant general,restaurant,implicit | implicit
+رائع مجموعة مختارة من النبيذ، جيجونداس يستحق السعر، والشمبانيا المنزلية ذات قيمة رائعة.,مجموعة مختارة من النبيذ | جيجونداس | الشمبانيا المنزلية,drinks style_options | drinks quality | drinks prices,restaurant,explicit | explicit | explicit
+كانت الخدمة مذهلة حيث كان النادل يعرف كل شيء عن القائمة وكانت توصياته مذهلة!,الخدمة | النادل,service general | service general,restaurant,explicit | explicit
+مريح للغاية ودافئ من الداخل ...,NULL | NULL,ambience general | ambience general,restaurant,implicit | implicit
+لقد كنت آتي إلى هنا لسنوات وليس لدي سوى أشياء جيدة لأقولها عن الخدمة و الموظفين الرائعين في La Lanterna.,الخدمة | الموظفين,service general | service general,restaurant,explicit | explicit
+إنه لذيذ!,NULL,food quality,restaurant,implicit
+ممتاز طعام وبأسعار رائعة,طعام | طعام,food quality | food prices,restaurant,explicit | explicit
+كان الطعام طعمه جيد جدًا.,الطعام,food quality,restaurant,explicit
+طاقم الخدمة مهذب للغاية ومتعاون.,طاقم الخدمة,service general,restaurant,explicit
+هذا المكان ممتع للغاية.,المكان,ambience general,restaurant,explicit
+مع وجود العديد من المطاعم الجيدة في UWS، لا أحتاج إلى أسعار باهظة الطعام، ومتغطرسين بشكل سخيف طاقم خدمة لا يدركون أنهم يعملون في مطعم فاخر، وخرقاء الخدمة، والإدارة التي لا تهتم.,الطعام | طاقم خدمة | الخدمة | الإدارة,food prices | service general | service general | service general,restaurant,explicit | explicit | explicit | explicit
+لذا، قمت بالتبديل مع صديقي مرة أخرى لمعرفة ما إذا كان بإمكاني تناول اللحم والسبانخ مرة أخرى، ولكن السبانخ كانت غير مطبوخة جيدًا لدرجة أنني لم أتمكن من عضها.,السبانخ,food quality,restaurant,explicit
+لقد كان 14 دولارًا ليس سيئًا حقًا مقابل رطل من الباسترامي - ولكن لم يكن له طعم كبير - لقد تناولت أفضل مقابل أقل في مكان آخر!,NULL | NULL,food prices | food quality,restaurant,implicit | implicit
+ليس موضوع الحيل النمطية في نيويورك مطعم.,مطعم,ambience general,restaurant,explicit
+كانت النقانق الساخنة طرية وعصيرة من الداخل ولديها الكثير من الأزمة والقرمشة من الخارج.,النقانق الساخنة,food quality,restaurant,explicit
+بعد أن استمتعنا حقًا في (البار  جلسنا على طاولة وتناولنا العشاء.,البار,restaurant miscellaneous,restaurant,explicit
+أيضًا، ساندويتش (يقترب سعرها من 7 دولارات) لم تأتي مع أي شيء مثل رقائق البطاطس أو أي طبق جانبي.,ساندويتش | ساندويتش,food style_options | food prices,restaurant,explicit | explicit
+موثوقة، طازجة السوشي,السوشي,food quality,restaurant,explicit
+أشاد الجميع بـ الجو (الأنيق الغرف والذي لا يقارن على الإطلاق المناظر) والرائع الطعام!,الجو | الغرف | المناظر | الطعام,ambience general | ambience general | location general | food quality,restaurant,explicit | explicit | explicit | explicit
+مطعم لا يحاول أن يفعل أي شيء سوى تقديم طعام رائع مع خدمة رائعة في جو لطيف.,طعام | خدمة | جو,food quality | service general | ambience general,restaurant,explicit | explicit | explicit
+ذهبت مؤخرًا إلى هذا (المطعم  مع بعض زملائي في العمل لتناول الغداء وقضينا وقتًا رائعًا.,المطعم,restaurant general,restaurant,explicit
+الجو لطيف ومريح أيضًا ...,الجو | الجو,ambience general | ambience general,restaurant,explicit | explicit
+أفضل شطيرة روبين على الإطلاق!,شطيرة روبين,food quality,restaurant,explicit
+الخدمة كانت ودية و الجو كان غير رسمي.,الخدمة | الجو,service general | ambience general,restaurant,explicit | explicit
+بول، مدير المطعم، كان محترفًا تمامًا وكان دائمًا على رأس الأمور.,بول,service general,restaurant,explicit
+بشكل عام كانت جودة الطعام جيدة جدًا، على الرغم من أنني سمعت أن سمك السلمون يكون أفضل بكثير عندما لا يظل باردًا أمام الضيف.,الطعام,food quality,restaurant,explicit
+لذيذ كلب!,كلب,food quality,restaurant,explicit
+المشكلة هي أنه لا يوجد شيء في البرقوق لا يُنسى بشكل خاص.,البرقوق,restaurant general,restaurant,explicit
+برجر الديك الرومي مخيف!,برجر الديك الرومي,food quality,restaurant,explicit
+كان معكرونة فطر البورسيني الخاصة بلا طعم، وكذلك تالياتيلي المأكولات البحرية.,معكرونة فطر البورسيني الخاصة | تالياتيلي المأكولات البحرية,food quality | food quality,restaurant,explicit | explicit
+لقد استفدنا من (صفقة السوشي بنصف السعر  يوم السبت لذلك كان الأمر يستحق ذلك.,صفقة السوشي بنصف السعر,food quality,restaurant,explicit
+يطل المطعم على المروج الخضراء الجميلة وعلى نهر هدسون وتمثال الحرية.,المطعم,location general,restaurant,explicit
+حتى لو لم يكن الطعام جيدًا، فإن الحديقة مكان رائع للجلوس في الخارج والاسترخاء.,الحديقة | الطعام,ambience general | food quality,restaurant,explicit | explicit
+كانت (المضيفة  وقحة وشعرت بوضوح أنهم لا يريدون خدمتنا.,المضيفة | NULL,service general | service general,restaurant,explicit | implicit
+حصل حفل زفاف ابنتي في Water's Edge على أعلى التهاني من ضيوفنا.,NULL,NULL,restaurant,implicit
+أضف إلى ذلك الخدمة الرائعة  والطعام الرائع  بسعر معقول وسيكون لديك بداية لأمسية رائعة.,الخدمة | الطعام | الطعام,service general | food quality | food prices,restaurant,explicit | explicit | explicit
+لذيذة كعك السلطعون أيضًا.,كعك السلطعون,food quality,restaurant,explicit
+لقد قضينا وقتا ممتعا .,NULL,restaurant general,restaurant,implicit
+الطعام جيد، وخاصةً الأطباق الأساسية، والمشروبات لذيذة.,الطعام | الأطباق الأساسية | المشروبات,food quality | food quality | drinks quality,restaurant,explicit | explicit | explicit
+الخدمة كانت سيئة أيضًا والأجواء ليست رائعة.,الخدمة | الأجواء,service general | ambience general,restaurant,explicit | explicit
+ولكن إذا كنت مستعدًا لإنفاق بعض الأموال وتذكر أن تسأل عما إذا كان هناك شيء يقدمونه مجانيًا، فهذا هو المكان الذي يجب أن تذهب إليه الطعام الهندي,الطعام الهندي | المكان,food quality | restaurant prices,restaurant,explicit | explicit
+المشكلة الوحيدة هي أن المدير غير كفء تمامًا.,المدير,service general,restaurant,explicit
+ذهبت هنا الليلة الماضية - لطيف الديكور، جيد الخدمة، ولكن الطعام كان ممتازًا بشكل مدهش.,الديكور | الخدمة | الطعام,ambience general | service general | food quality,restaurant,explicit | explicit | explicit
+أثناء الانتهاء من وجباتنا التي تضمنت زجاجة من النبيذ، انضمت إلينا خطيبة ابننا لتناول كأس من النبيذ والحلوى.,زجاجة من النبيذ,drinks quality,restaurant,explicit
+لقد جربت بضعة أطباق أخرى أطباق ولكن لم أكن معجبًا بها كثيرًا.,أطباق,food quality,restaurant,explicit
+مكان رائع مكان للاسترخاء والاستمتاع بعشائك,مكان,ambience general,restaurant,explicit
+170 دولارا في المرحاض ...,NULL,restaurant prices,restaurant,implicit
+ورخيصة بشكل مدهش.,NULL,food prices,restaurant,implicit
+إبداع جيد لفات!,لفات | لفات,food quality | food style_options,restaurant,explicit | explicit
+رجل التوصيل في بعض الأحيان ينزعج إذا لم تمنحه إكرامية تزيد عن 10٪.,رجل التوصيل,service general,restaurant,explicit
+لقد عدت مرارا وتكرارا.,NULL,restaurant general,restaurant,implicit
+لقد عزز الخادم المختلف المتعة، حيث ألقى وجباتنا الرئيسية أمامنا في منتصف المقبلات (التي كانت لذيذة).,الخادم | المقبلات,service general | food quality,restaurant,explicit | explicit
+لقد أحببنا هذا المكان كثيرًا، وسوف نحرص دائمًا على تناول الطعام هنا عندما نزور نيويورك.,NULL,restaurant general,restaurant,implicit
+معظم الخوادم منتبهون للغاية وودودون وجذابون للغاية.,الخوادم | الخوادم | الخوادم,service general | service general | service general,restaurant,explicit | explicit | explicit
+إنه المكان الوحيد الذي يمكنك الحصول فيه على طعام ياباني أصيل ولذيذ طعام مريح ياباني.,طعام مريح ياباني,food quality,restaurant,explicit
+لم نأكل أبدًا لأنه بحلول الساعة الثانية صباحًا لم يتم تقديم الطعام لنا وكنا منزعجين للغاية ومتعبين للغاية بحيث لم نتمكن من البدء في الأكل.,NULL,service general,restaurant,implicit
+كما لاحظ العديد من المراجعين الآخرين، فإن طلبك غالبًا ما يكون بطيئًا في الوصول - وهذا صحيح بشكل خاص في المساء ولكنه لا يمثل مشكلة أثناء وقت الغداء.,NULL,service general,restaurant,implicit
+نعم الأسعار مرتفعة، لكنني شعرت أنها تستحق ذلك.,NULL | NULL,restaurant prices | restaurant general,restaurant,implicit | implicit
+الحب يوكا .,يوكا,restaurant general,restaurant,explicit
+بشكل عام المظهر للمكان يتفوق على الوجبات الفعلية.,المظهر,ambience general,restaurant,explicit
+لا يمكنك أن تخطئ مع هذا المكان .,المكان,restaurant general,restaurant,explicit
+لقد ذهبت إلى فندق Sapphire مرتين وفي كل مرة كان الطعام جيدًا، إن لم يكن جيدًا.,الطعام,food quality,restaurant,explicit
+إنهم وقحون للغاية، ولم يعتذروا حتى عن الخدمة الرهيبة التي حصلنا عليها، وسلمونا فاتورة تزيد عن 500 دولار مقابل بعض المشروبات وخبز البيتا!,الخدمة | المشروبات | خبز البيتا | NULL,service general | drinks prices | food prices | service general,restaurant,explicit | explicit | explicit | implicit
+لقد أحببت كل شيء فيه - وخاصة العروض و الممثلين.,العروض | الممثلين,ambience general | ambience general,restaurant,explicit | explicit
+أوصي بشدة لأي شخص بتجربة هذا مكان.,مكان,restaurant general,restaurant,explicit
+هذا مكان ممتع مطعم للذهاب إليه.,مطعم,restaurant general,restaurant,explicit
+متعة مضمونة!,NULL,restaurant general,restaurant,implicit
+لقد كانت مفاجأة سارة للغاية.,NULL,restaurant general,restaurant,implicit
+يقع في موقع مناسب أيضًا، حيث يقع على شارع بيدفورد مباشرةً.,NULL,location general,restaurant,implicit
+ومع ذلك، فهو جيد جدًا ولا ينبغي لنا أن نثني عليه.,NULL | NULL,restaurant general | restaurant general,restaurant,implicit | implicit
+كانت الخدمة ممتازة - ودودة ومهتمة.,الخدمة | الخدمة | الخدمة,service general | service general | service general,restaurant,explicit | explicit | explicit
+لقد ذهبنا إلى هذا المكان عدة مرات، وكان لدينا دائمًا طعام، نبيذ، وخدمة رائعة.,طعام | نبيذ | خدمة,food quality | drinks quality | service general,restaurant,explicit | explicit | explicit
+لم يكن أي من وجباتنا وجبات صالحًا للأكل - كان بلا نكهة و/أو مصنوعًا من نكهات غريبة نكهة إكليل الجبل أو البرتقال.,وجبات | نكهة إكليل الجبل أو البرتقال,food quality | food quality,restaurant,explicit | explicit
+هذا المكان ليس جذابًا و الطعام غريب تمامًا.,المكان | الطعام,ambience general | food quality,restaurant,explicit | explicit
+موصى به بشدة ! ! ! !,NULL,restaurant general,restaurant,implicit
+مقبلات تارتار التونة لذيذة للغاية.,مقبلات تارتار التونة,food quality,restaurant,explicit
+استمر في العمل الجيد .,NULL,restaurant general,restaurant,implicit
+ليس كافيا النبيذ بالكأس أيضا.,النبيذ بالكأس,drinks style_options,restaurant,explicit
+المقاعد غير مريحة إذا كنت تجلس على مقاعد خشبية مقابل الحائط.,المقاعد,ambience general,restaurant,explicit
+الأجواء جميلة ولطيفة للمحادثة، لذا فإن تناول وجبة غداء غير رسمية هنا ربما يكون هو الأفضل.,الأجواء | الأجواء | NULL,ambience general | ambience general | restaurant miscellaneous,restaurant,explicit | explicit | implicit
+لذلك فإن إخراجنا على عجل كان غير ضروري على الإطلاق!,NULL,service general,restaurant,implicit
+بالنسبة للحلويات، جربنا موس السمسم الأسود المجمد (مثير للاهتمام ولكن ليس استثنائيا) و الماتشا (شاي أخضر مسحوق وكعكة الجبن بالتوت الأزرق)، والتي كانت رائعة.,موس السمسم الأسود المجمد | موس السمسم الأسود المجمد | الماتشا (شاي أخضر مسحوق,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+يستحق الرحلة من مانهاتن.,NULL,restaurant general,restaurant,implicit
+السعر معقول جداً .,NULL,restaurant prices,restaurant,implicit
+السلبيات: الخدمة بطيئة ولا يحمصون!,الخدمة,service general,restaurant,explicit
+لقد كانوا صريحين جدًا معي عندما اتصلت بهم وزعموا في الواقع أن الطعام تأخر لأن الأرز لم يكن لديهم.,NULL,service general,restaurant,implicit
+لقد طلبت شطيرة جبن مفتوحة وقال لي المدير بشكل أساسي أن آخذ عملي إلى مكان آخر!,المدير,service general,restaurant,explicit
+الخدمة مذهلة، لقد كان لدي نادل مختلف وكانوا جميعًا لطيفين، وهو أمر نادر في مدينة نيويورك.,الخدمة | نادل,service general | service general,restaurant,explicit | explicit
+لذلك قررت أن أبلغ النادلة لأنه كان غير صالح للأكل على الإطلاق.,NULL,food quality,restaurant,implicit
+سأوصي به بشدة .,NULL,restaurant general,restaurant,implicit
+الطعام تم إعداده جيدًا و الخدمة لا تشوبها شائبة.,الطعام | الخدمة,food quality | service general,restaurant,explicit | explicit
+الطعام ممتاز و الخدمة سريعة وودودة ومهنية للغاية.,الطعام | الخدمة | الخدمة | الخدمة,food quality | service general | service general | service general,restaurant,explicit | explicit | explicit | explicit
+حتى أنهم يستخرجونها بشكل جيد (بالنسبة لأولئك الذين يتبعون نظامًا غذائيًا) ليس كثيرًا ولا قليلًا.,NULL,food style_options,restaurant,implicit
+أفضل مطعم هندي في المدينة,مطعم هندي,restaurant general,restaurant,explicit
+من المذهل الكافيار إلى الضيافة طاقم الخدمة، شعرت وكأنني من أفراد العائلة المالكة واستمتعت بكل ثانية منه.,الكافيار | الكافيار | طاقم الخدمة | طاقم الخدمة,food quality | food quality | service general | service general,restaurant,explicit | explicit | explicit | explicit
+أنا أوافق على أن تناول الطعام في Casa La Femme لا يشبه أي تجربة طعام أخرى!,Casa La Femme,restaurant general,restaurant,explicit
+الأفضل هندي صيني في المدينة، بلا شك!,هندي صيني,food quality,restaurant,explicit
+كان هناك صغير انتظار، ولكن أقصر مما كنت أتوقع.,انتظار | انتظار,service general | service general,restaurant,explicit | explicit
+لكن بعد الليلة الماضية، أصبح Spice Grill هو المكان الوحيد الذي أتناول فيه الطعام المطبخ الهندي.,المطبخ الهندي,food quality,restaurant,explicit
+الطعام جيد في أحسن الأحوال، والأجواء، حسنًا، إنها مسألة رأي، قد يعتبرها البعض شيئًا حلوًا، اعتقدت أنها مزعجة فقط.,الطعام | الأجواء,food quality | ambience general,restaurant,explicit | explicit
+أنا شخصيا أحب بيتزا مارغريتا أكثر، ولكنها كلها جيدة.,بيتزا مارغريتا | NULL,food quality | food quality,restaurant,explicit | implicit
+لو بدا من الممكن القيام بذلك أثناء وجودي هناك، كنت سأقاوم الفاتورة الخاصة بي لأن جزء العشاء الخاص بي وجبة كان غير صالح للأكل!,وجبة | NULL,food quality | restaurant prices,restaurant,explicit | implicit
+للوهلة الأولى، يبدو هذا المكان باهظ الثمن بعض الشيء بالنسبة لمطعم يقدم هوت دوج، ولكن في Bark لن تحصل على هوت دوج عادي.,Bark,restaurant prices,restaurant,explicit
+الساشيمي دائمًا طازج و اللفائف مبتكرة ولذيذة.,الساشيمي | اللفائف | اللفائف,food quality | food style_options | food quality,restaurant,explicit | explicit | explicit
+لا أستطيع الانتظار للعودة .,NULL,restaurant general,restaurant,implicit
+التسليم يمكن أن يكون في الموعد المحدد أو ناقصًا اعتمادًا على الطقس ويوم الأسبوع.,التسليم,service general,restaurant,explicit
+لا يوجد سلبيات للحديث عنها .,NULL,restaurant general,restaurant,implicit
+مطعم فور سيزونز تجربة رائعة .,مطعم فور سيزونز,restaurant general,restaurant,explicit
+بجدية، هذا المكان رائع للغاية.,المكان,restaurant general,restaurant,explicit
+لقد استمتعت بـ 99٪ من طبق.,طبق | طبق,food quality | food quality,restaurant,explicit | explicit
+لا استطيع الانتظار للعودة .,NULL,restaurant general,restaurant,implicit
+مدهش طازج كلاب ولكن الأفضل من ذلك كله لا نهاية له الإضافات ! !,كلاب | الإضافات | الإضافات,food quality | food style_options | food style_options,restaurant,explicit | explicit | explicit
+أحب هذا المكان، في كل مرة نكون فيها في المدينة يكون هذا أحد(الأماكن) التي نذهب إليها دائمًا.,المكان,restaurant general,restaurant,explicit
+الخدمة ليست ما يتوقعه المرء من مكان في هذه الفئة السعرية.,الخدمة,service general,restaurant,explicit
+لقد عثرت على هذا مطعم بيتزا الرائع أثناء استكشاف الحي الجديد الخاص بي.,مطعم بيتزا,restaurant general,restaurant,explicit
+يقع هذا المطعم الغريب والرومانسي تراتوريا على رأس قائمة المطاعم في مانهاتن.,تراتوريا | تراتوريا,ambience general | restaurant general,restaurant,explicit | explicit
+كان الطعام لذيذًا ولكن لا تأتي إلى هنا على معدة فارغة.,الطعام,food quality,restaurant,explicit
+بيتزا باتسي - الحب الحقيقي,بيتزا باتسي,restaurant general,restaurant,explicit
+متوسط إلى جيد طعام تايلاندي، ولكن فظيع التوصيل.,طعام تايلاندي | التوصيل,food quality | service general,restaurant,explicit | explicit
+أوصي به بشدة .,NULL,restaurant general,restaurant,implicit
+يمكنك الحصول على طاولة بدون حجز إذا وصلت مبكرًا إذا لم يطلبوا منك ذلك بالزجاجات.,NULL,service general,restaurant,implicit
+أنت لا تأكل أطباقًا راقية مع تلميحات خفية من أي شيء، ولكن: كاسوليت، وستيك فريت، وحساء الكرشة، وما إلى ذلك؛ أشياء بسيطة.,NULL | NULL,food style_options | food quality,restaurant,implicit | implicit
+بالنسبة للسعر، لا يمكنك تناول هذا الطعام جيدًا في مانهاتن.,NULL,restaurant prices,restaurant,implicit
+أحد أفضل المطاعم، إن لم يكن الأفضل على الإطلاق، في بارك سلوب (ونيويورك بشكل عام),NULL,restaurant general,restaurant,implicit
+مشغول دائمًا ولكنه سريع الحركة.,NULL,service general,restaurant,implicit
+أنا أميل إلى الحكم على مطعم السوشي من خلال قنفذ البحر، والذي كان رائعًا في مطعم سوشي روز.,قنفذ البحر,food quality,restaurant,explicit
+ياكيتوري (لحوم الشواء) لذيذ أيضًا.,ياكيتوري (لحوم الشواء,food quality,restaurant,explicit
+عندما تحتاج إلى تناول السوشي، سيكون Mizu موجودًا هناك مع الجودة الأسماك والرائعة الخدمة.,الأسماك | الخدمة,food quality | service general,restaurant,explicit | explicit
+Faan جيد جدًا.,Faan,restaurant general,restaurant,explicit
+نكهة طازجة ومذهلة.,NULL | NULL,food quality | food quality,restaurant,implicit | implicit
+لا تحكم على هذا المكان من الوهلة الأولى، عليك تجربته لتصدقه، فهو بمثابة منزل بعيد عن المنزل للقلب المتعلم.,المكان,restaurant general,restaurant,explicit
+السمك طازج جدًا.,السمك,food quality,restaurant,explicit
+كان لدى صديقي ضلع رئيسي وكان جيدًا.,ضلع رئيسي,food quality,restaurant,explicit
+المشروبات باهظة الثمن للغاية.,المشروبات,drinks prices,restaurant,explicit
+فريدة من نوعها المقبلات .,المقبلات,food quality,restaurant,explicit
+إنه مكان رائع مكان للطلب منه أو الجلوس فيه.,مكان,restaurant miscellaneous,restaurant,explicit
+الطعام رائع وسعره معقول.,الطعام | الطعام,food quality | food prices,restaurant,explicit | explicit
+عندما جلسنا حصلنا على خدمة رائعة وسريعة خدمة.,خدمة | خدمة,service general | service general,restaurant,explicit | explicit
+تأكد من تجربة الموسمية، واللذيذة دائمًا، العروض الخاصة.,العروض الخاصة | العروض الخاصة | العروض الخاصة,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+عندما هددنا بالمغادرة، عُرض علينا خصم ضئيل على الرغم من أن نصف الطلب كان مفقودًا.,NULL,service general,restaurant,implicit
+رائع الطعام، حجم جيد القائمة، رائع الخدمة وبسيط الإعداد.,الطعام | القائمة | الخدمة | الإعداد,food quality | food style_options | service general | ambience general,restaurant,explicit | explicit | explicit | explicit
+كان السانجريا لذيذًا جدًا وجيدًا في يوم حار ورطب.,السانجريا | السانجريا,drinks quality | drinks quality,restaurant,explicit | explicit
+مطهو على البخار طازجًا ثم يُقدم ساخنًا للغاية إلى طاولتك.,NULL,food quality,restaurant,implicit
+لم يكن تايلانديًا على الإطلاق.,NULL,food quality,restaurant,implicit
+جميع الموظفين محترفون تمامًا !!,الموظفين,service general,restaurant,explicit
+كانت الخدمة لا تشوبها شائبة وغير مزعجة - يعرف الموظفون ما هم هناك للقيام به - لمعرفة قائمة الطعام الخاصة بهم، وتقديم وجبتك، والاهتمام باحتياجاتك.,الخدمة | الخدمة,service general | service general,restaurant,explicit | explicit
+غالي الثمن قليلاً ولكنه مناسب حقًا في صباح يوم الأحد!,NULL | NULL,restaurant prices | restaurant general,restaurant,implicit | implicit
+"The Four Seasons له تاريخ وهو نوع من المعالم لمطاعم مدينة نيويورك، ولكن صدقني، سوف يطلبون منك رسومًا باهظة فقط حتى تتمكن من القول ""لقد ذهبت إلى مطعم الفصول الأربعة"".",The Four Seasons | The Four Seasons,restaurant miscellaneous | restaurant prices,restaurant,explicit | explicit
+لقد كانت هذه مفاجأة عظيمة .,NULL,restaurant general,restaurant,implicit
+يمكن أن يكون الطعام باهظ الثمن ولكن قائمة تذوق الأسعار الثابتة هي الأفضل الطعام بسعر جيد وهم يلبيون الطعام أي طعام حساسية أو طعام لا تحبه.,الطعام | قائمة تذوق الأسعار الثابتة | قائمة تذوق الأسعار الثابتة,food prices | food quality | food prices,restaurant,explicit | explicit | explicit
+أنا لست صعب الإرضاء - ولكن الأمر كان في الواقع مثير للاشمئزاز.,NULL,food quality,restaurant,implicit
+الطعام كان جيدًا جدًا، ولكن ليس ما أعتبره خارج هذا العالم.,الطعام,food quality,restaurant,explicit
+كان (الخادم  رائعًا حقًا وقد قدم لنا طعامنا ومشروباتنا بابتسامة.,الخادم,service general,restaurant,explicit
+جاء المدير إلى الطاولة وقال إننا نستطيع أن نفعل ما نريد، فدفعنا ثمن ما استمتعنا به، المشروبات والمقبلات، وخرجنا.,المشروبات | المقبلات,drinks quality | food quality,restaurant,explicit | explicit
+هذا المكان هو أكثر مكان ياباني يمكن أن تجده على الإطلاق.,المكان,restaurant miscellaneous,restaurant,explicit
+كانت الأجزاء  كبيرة وكان الموظفون يفاجئوننا دائمًا بمقبلات مختلفة.,NULL,food style_options,restaurant,implicit
+لقد أحببت هذا المكان تمامًا المكان.,المكان,restaurant general,restaurant,explicit
+المساحة محدودة لذا كن مستعدًا للانتظار لمدة تصل إلى 45 دقيقة - ساعة، ولكن ستكافأ بسخاء عندما تستمتع بالطعام اللذيذ الطعام الهندي الصيني.,المساحة | الطعام الهندي الصيني,restaurant miscellaneous | food quality,restaurant,explicit | explicit
+قيمة جميلة .,NULL,restaurant prices,restaurant,implicit
+أنا أحبه .,NULL,restaurant general,restaurant,implicit
+لديهم حلوى الموز والشوكولاتة اللذيذة، بالإضافة إلى تيمبورا الشاي الأخضر الرائعة.,حلوى الموز والشوكولاتة | تيمبورا الشاي الأخضر,food quality | food quality,restaurant,explicit | explicit
+أنا أحب بيتزا مارغريتا – أنا أعشق بيتزا إيست فيليج,بيتزا إيست فيليج | بيتزا مارغريتا,restaurant general | food quality,restaurant,explicit | explicit
+هنا يتم رفع هوت دوج إلى مستوى الطبق الرئيسي الحقيقي مع العديد من الاختلافات المتاحة.,هوت دوج | هوت دوج,food quality | food style_options,restaurant,explicit | explicit
+مكاني المفضل المكان لول,المكان,restaurant general,restaurant,explicit
+خدمة العداد سيئة .,خدمة العداد,service general,restaurant,explicit
+كانت لي تجربة سيئة للغاية في Casa la Femme في عشاء يوم السبت.,Casa la Femme,restaurant general,restaurant,explicit
+فقط لأنها رخيصة لا يعني أن الأجزاء صغيرة أو الطعام سيئ، إنه رائع!,الطعام | NULL,food quality | restaurant prices,restaurant,explicit | implicit
+على الرغم من القائمة المحدودة قليلاً ، فإن كل شيء يتم تحضيره بإتقان، طازج للغاية ويعتبر عملاً فنياً في مجال الطعام.,NULL | NULL | NULL,food style_options | food quality | food style_options,restaurant,implicit | implicit | implicit
+كان اهتمامي الرئيسي هو سلامة الطعام الذي تم إرساله لي وللآخرين، لكنني سأكون كاذبًا إذا قلت إنه كشخص عمل في المطاعم منذ سن الخامسة عشرة كنت أتوقع على الأقل جهدًا بسيطًا من جانب المطعم لتعديل الوضع.,الطعام,food quality,restaurant,explicit
+يجب على الجميع أن يأتوا إلى هنا مرة واحدة على الأقل .,NULL,restaurant general,restaurant,implicit
+القشرة رقيقة، المكونات طازجة و الموظفين ودودون.,القشرة | الموظفين | المكونات,food quality | service general | food quality,restaurant,explicit | explicit | explicit
+لا تحصل على Go Go Hamburgers، بغض النظر عما تقوله المراجعات.,Go Go Hamburgers,food quality,restaurant,explicit
+عظيم مكان ، قيمة كبيرة.,مكان | مكان,restaurant general | restaurant prices,restaurant,explicit | explicit
+حتى بعد أن قاموا بفرض رسوم زائدة علي في المرة الأخيرة التي كنت فيها هناك.,NULL,service general,restaurant,implicit
+ياماتو هو مكان ممتاز للذهاب إليه إذا كنت لا تحب الساشيمي، أو إذا كان لديك أصدقاء لا يحبون السوشي كثيرًا.,ياماتو,restaurant miscellaneous,restaurant,explicit
+في كل مرة أقرر تجربة مكان آخر في UES، أشعر بالغضب لأنني لم أذهب إلى Zucchero Pomodori.,Zucchero Pomodori,restaurant general,restaurant,explicit
+أحب هذا المكان .,المكان,restaurant general,restaurant,explicit
+القائمة  محدودة للغاية - أعتقد أننا أحصينا 4 أو 5 أطباق رئيسية.,NULL,food style_options,restaurant,implicit
+هذا هو أحد الأماكن المفضلة لدي، مريح للغاية الطعام رائع في جميع الأوقات، احتفلت بخطوبتي وزفافي هنا، وكان منظمًا بشكل جيد للغاية.,NULL | NULL | الطعام | NULL,restaurant general | ambience general | food quality | restaurant miscellaneous,restaurant,implicit | implicit | explicit | implicit
+ومع ذلك، يبدو أن الديكور هو مصدر الإلهاء، لذا لن تلاحظ أنك دفعت للتو 300 دولار مقابل بعض الباذنجان البارد الذي استغرق ساعتين كاملتين حتى وصل! ! ! !,الديكور | الباذنجان | الباذنجان | NULL,ambience general | food quality | food prices | service general,restaurant,explicit | explicit | explicit | implicit
+لا تذهب مع مجموعة أكبر من 4!,NULL,restaurant miscellaneous,restaurant,implicit
+باعتباري مواطنًا يابانيًا، فقد عشت في منطقة الثلاث ولايات لأكثر من 8 سنوات، لكنني شعرت بالدهشة الشديدة إزاء هذا المكان.,المكان,restaurant general,restaurant,explicit
+الحلوى : كارثة خالصة.,الحلوى,food quality,restaurant,explicit
+بلح البحر كان ممتازًا، رافيولي جراد البحر كان مالحًا جدًا!,بلح البحر | رافيولي جراد البحر,food quality | food quality,restaurant,explicit | explicit
+الجو مريح وهادئ.,الجو,ambience general,restaurant,explicit
+الطعام ممتاز .,الطعام,food quality,restaurant,explicit
+كان الطعام متوسطًا إلى أعلى من المتوسط؛ وكان حساء البصل الفرنسي ممتلئًا ولكنه لم يكن مثيرًا للإعجاب بشكل مفرط، وكان الحلويات غير رائعة بأي شكل من الأشكال.,الطعام | حساء البصل الفرنسي | الحلويات,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+أخيرًا قال (المدير  أنه سيدفع ثمن كأسين من النبيذ مجانًا (والتي تكلفت أقل من الطعام)، وجعل الأمر يبدو وكأنه تنازل كبير.,المدير,service general,restaurant,explicit
+غير صحي,NULL,food quality,restaurant,implicit
+أنا لا أكتب على هذه المواقع أبدًا ولكن هذا المطعم يستحق الثناء بالتأكيد!,المطعم,restaurant general,restaurant,explicit
+كان الطعام هنا متوسطًا في أحسن الأحوال.,الطعام,food quality,restaurant,explicit
+الديكور نابض بالحياة وممتع للنظر مع وجود العديد من غرف شبه خاصة على الجانب الأيمن من قاعة الطعام، وهي رائعة للموعد.,الديكور | الديكور | غرف شبه خاصة,ambience general | ambience general | ambience general,restaurant,explicit | explicit | explicit
+لقد بدا وكأنهم استمروا في التسرع في إحضارنا، وأخذوا الأطباق دون أن يسألونا إذا كنا قد انتهينا (كانت أختي لا تزال تحمل شوكة في يدها).,NULL,service general,restaurant,implicit
+الديكور بسيط للغاية ولكنه مريح.,الديكور | الديكور,ambience general | ambience general,restaurant,explicit | explicit
+في البداية سلمونا طلب شخص آخر.,NULL,service general,restaurant,implicit
+لقد تناولت سمك وزوجي تناول فيليه - وكلاهما تجاوز توقعاتنا.,سمك | فيليه,food quality | food quality,restaurant,explicit | explicit
+كانت الخدمة منتبهة، ولكن سرية.,الخدمة | الخدمة,service general | service general,restaurant,explicit | explicit
+يقولون لي أنهم سوف يغطون الحديقة بالزجاج لفصل الشتاء، لذلك أنا أتطلع للذهاب إلى هناك في ليلة ثلجية للاستمتاع بها.,NULL,restaurant miscellaneous,restaurant,implicit
+وصلنا وجلسنا على الفور، مما جعلنا سعداء.,NULL,service general,restaurant,implicit
+لقد جئت إلى هنا واستمتعت كثيرًا مع زوجي.,NULL,restaurant general,restaurant,implicit
+لقد أحببته وسأذهب مرة أخرى.,NULL,restaurant general,restaurant,implicit
+يتمتع المطعم بأجواء عائلية، ولا سيما فيما يتعلق بـ الأجزاء الضخمة؛ حيث كان بإمكان لحم العجل وحده أن يحل المجاعة في العالم الثالث.,المطعم | الأجزاء | لحم العجل,ambience general | food style_options | food style_options,restaurant,explicit | explicit | explicit
+لا أعتقد أنني سأذهب مرة أخرى .,NULL,restaurant general,restaurant,implicit
+أنا أنتمي إلى عائلة من مالكي مطاعم البيتزا، وأنا أشعر بالخجل عندما أقول إن البيتزا في مطعم فورنينو تتفوق على وصفات عائلتي.,البيتزا,food quality,restaurant,explicit
+دائما عظيمة الخدمة!,الخدمة,service general,restaurant,explicit
+لم تتحسن تجربتنا أبدًا.,NULL,restaurant general,restaurant,implicit
+وكان سلطة الفارو وبطاطس يوكون المهروسة لذيذين للغاية أيضًا.,سلطة الفارو | بطاطس يوكون المهروسة,food quality | food quality,restaurant,explicit | explicit
+المطعم لطيف ولكن ليس راقيا.,المطعم | المطعم,restaurant general | restaurant general,restaurant,explicit | explicit
+لقد قدمنا إكرامية، أعتقد أن العارضة/النادلة أرادت المزيد فقط واشتكت إلى المدير.,النادلة,service general,restaurant,explicit
+وأكثر من ذلك بكثير لأنه كان مكلفًا للغاية لمثل هذه التجربة غير السارة.,NULL | NULL,restaurant general | restaurant prices,restaurant,implicit | implicit
+اخترت أن أذهب مع أحد الأطباق الخاصة، ساق لحم الضأن المطهو في النبيذ الأحمر، والذي كان ممتازًا.,ساق لحم الضأن المطهو في النبيذ الأحمر,food quality,restaurant,explicit
+لقد كنت مذهولًا للغاية، وتركت العشاء جائعًا ومخيبًا للآمال إلى حد كبير.,NULL,restaurant general,restaurant,implicit
+الناس دائما ودودون.,الناس,service general,restaurant,explicit
+لقد جربته مؤخرًا سوان وأعتقد أنه رائع.,سوان,restaurant general,restaurant,explicit
+من المؤسف أنني دفعت 2 دولارًا إضافيًا مقابل وعاء حجري.,وعاء حجري,food prices,restaurant,explicit
+أحب الأجواء، فهي مظلمة جدًا وأصلية.,الأجواء | الأجواء | الأجواء,ambience general | ambience general | ambience general,restaurant,explicit | explicit | explicit
+البيتزا كانت رطبة قليلاً.,البيتزا,food quality,restaurant,explicit
+رائع طعام، رائع قائمة نبيذ، رائع خدمة في رائع حي ...,طعام | قائمة نبيذ | خدمة | حي,food quality | drinks style_options | service general | location general,restaurant,explicit | explicit | explicit | explicit
+إذا كنت تريد شيئًا مختلفًا حقًا فحاول جيكل وهايد.,جيكل وهايد,restaurant general,restaurant,explicit
+الطعام جيد .,الطعام,food quality,restaurant,explicit
+"لقد شعرت بالمرح تقريبًا من حقيقة أنها كانت ترفض الزبائن في الساعة التاسعة مساءً في ليلة الجمعة لأنها ""كانت ستذهب إلى حفل شواء"" في تلك الليلة - ماذا في الأمر؟",NULL,service general,restaurant,implicit
+كانت زوجتي قد لمست تلك الفوضى من الطبق.,الطبق,food quality,restaurant,explicit
+أوصي بـ قنديل البحر، الدجاج المخمور و الزلابية الحساء، وبالتأكيد السلطعون الأزرق المقلي.,قنديل البحر | الدجاج المخمور | الزلابية الحساء | السلطعون الأزرق المقلي,food quality | food quality | food quality | food quality,restaurant,explicit | explicit | explicit | explicit
+ثاليا هو مطعم جميل مع أشخاص جميلين يخدمونك، ولكن الطعام لا يتطابق تمامًا.,أشخاص | الطعام | ثاليا,service general | food quality | ambience general,restaurant,explicit | explicit | explicit
+لن نذهب إلى هذا المكان مرة أخرى لتناول وجبة جيدة وجبة.,وجبة,food quality,restaurant,explicit
+لقد صادف أن لدي سياسة تتوافق مع القليل من احترام الذات، والتي تتضمن عدم السماح لـ النادل بتخويفني، أي جعلني أشعر بالسوء عند طلب أشياء تافهة مثل الماء، أو الفاتورة.,النادل,service general,restaurant,explicit
+لقد اكتفى أصدقائي بتناول أطباق الأرز، ولكننا عدنا في اليوم التالي لتجربة ديم سوم، الذي كان جيدًا... ليس رائعًا، ولكنه جيد.,ديم سوم | ديم سوم,food quality | food quality,restaurant,explicit | explicit
+العلامات، قوائم المأكولات الخاصة، الطعام، وحتى جميع طاقم الخدمة كلها يابانية تمامًا.,العلامات | قوائم المأكولات الخاصة | الطعام | طاقم الخدمة,restaurant miscellaneous | food style_options | food quality | service general,restaurant,explicit | explicit | explicit | explicit
+عندما سألنا عن الموانئ - قامت النادلة بإدراج العديد منها ولكنها لم تكن تعرف الاختلافات في المذاق أو التكلفة.,النادلة,service general,restaurant,explicit
+هذه المؤسسة هي الصفقة الحقيقية.,المؤسسة,restaurant general,restaurant,explicit
+اذهب إلى هناك للاسترخاء والشعور وكأنك في مكان آخر.,NULL,ambience general,restaurant,implicit
+لقد طلبنا أيضًا الشيشة ست مرات وظل النادل يخبرنا لمدة دقيقة واحدة ولم يعد أبدًا بالشيشة.,النادل,service general,restaurant,explicit
+هذا المكان يستحق القيادة لمدة ساعة واحدة.,المكان,restaurant general,restaurant,explicit
+طاقم الخدمة لطيف على الرغم من ذلك.,طاقم الخدمة,service general,restaurant,explicit
+كان الطعام استثنائيا.,الطعام,food quality,restaurant,explicit
+لم أغادر مطعم أبدًا وأنا أشعر وكأنني تعرضت للإساءة، وأهدرت أموالي التي كسبتها بشق الأنفس.,مطعم | مطعم,restaurant general | restaurant prices,restaurant,explicit | explicit
+لطيف، منتبه طاقم الخدمة.,طاقم الخدمة | طاقم الخدمة,service general | service general,restaurant,explicit | explicit
+ديكور ساحر .,ديكور,ambience general,restaurant,explicit
+يبدو أن النادلة تهتم بالمظهر الجيد أكثر من النادلة فعليًا.,النادلة,service general,restaurant,explicit
+لقد ذهبت إلى Roth's مرتين وكلا المرتين كانت مخيبة للآمال للغاية.,NULL,NULL,restaurant,implicit
+عندما تضيف كل ذلك معًا، لا يبدو الأمر يستحق بالنسبة لي ... خاصة بالنظر إلى الأسعار.,NULL,restaurant general,restaurant,implicit
+لقد ذهبنا هنا لتناول الغداء قبل بضعة أسابيع في يوم السبت، وقد أعجبت تمامًا بـ الطعام.,الطعام,food quality,restaurant,explicit
+لقد أكمل Sake الدورات التدريبية بشكل جيد للغاية ويسهل لي الدخول إلى عالم Sake بنجاح.,Sake | Sake,drinks quality | drinks quality,restaurant,explicit | explicit
+اذهب جائعا واستمتع .,NULL,restaurant general,restaurant,implicit
+يمكنك الحصول على مارتيني لذيذ للغاية في كوب (أي حوالي 2 1/2 مشروب) مقابل 8.50 دولارًا (أوصي بـ فانيلا شانتي، ممم!) في أجواء منزلية رائعة إعداد مع موسيقى رائعة (6).,مارتيني | مارتيني | مارتيني | فانيلا شانتي | إعداد | موسيقى,drinks quality | drinks style_options | drinks prices | drinks quality | ambience general | ambience general,restaurant,explicit | explicit | explicit | explicit | explicit | explicit
+مزيد من القمامة في ويليامزبيرج,NULL,restaurant general,restaurant,implicit
+هذا مكان رائع لتجربة بعض لفائف الروتي.,لفائف الروتي,food quality,restaurant,explicit
+انطلاقا من المشاركات السابقة كان هذا مكانًا جيدًا مكانًا، ولكن ليس بعد الآن.,مكانًا,restaurant general,restaurant,explicit
+أتمنى أن يعودوا إلى ما كانوا عليه من قبل.,NULL,restaurant general,restaurant,implicit
+إنه مشهد مذهل للغاية مشهد سأعطيهم ذلك.,مشهد,ambience general,restaurant,explicit
+أ مطعم تايلاندي نفاد الأرز أثناء العشاء ؟,مطعم تايلاندي,restaurant miscellaneous,restaurant,explicit
+البار مزود بشكل جيد بـ أنواع بيرة مثيرة للاهتمام وبأسعار جيدة نبيذ.,البار | أنواع بيرة | نبيذ,drinks style_options | drinks style_options | drinks prices,restaurant,explicit | explicit | explicit
+الموظفين هناك منتبهون للغاية ومتواضعون.,الموظفين | الموظفين,service general | service general,restaurant,explicit | explicit
+المطبخ ومع ذلك، فهو دائمًا بطيء.,المطبخ,service general,restaurant,explicit
+احببته!,NULL,restaurant general,restaurant,implicit
+قد يكون مزدحمًا بعض الشيء في عطلات نهاية الأسبوع، ولكن الأجواء جيدة وهو الأفضل الطعام الفرنسي الذي ستجده في المنطقة.,NULL | الأجواء | الطعام الفرنسي,ambience general | ambience general | food quality,restaurant,implicit | explicit | explicit
+أطفالنا المراهقون يحبونه أيضًا.,NULL,restaurant general,restaurant,implicit
+أنا أحب معكرونة الدجاج لا أستطيع أن أتذكر الاسم ولكنها لذيذة جدًا,معكرونة الدجاج,food quality,restaurant,explicit
+لا يعد الوصول إلى هذا المكان المخفي إلى حد ما بقعة مجرد مغامرة فحسب، بل بمجرد دخولك أبواب خشبية غير مميزة، فإن الهدوء والخصوصية الديكور سيجعلك تشعر وكأنك لم تعد في المدينة.,بقعة | أبواب خشبية غير مميزة | الديكور,location general | ambience general | ambience general,restaurant,explicit | explicit | explicit
+رائع إضافات بالتأكيد مكان يجب عليك التحقق منه لتناول وجبة خفيفة في وقت متأخر من الليل أو تعزيز منتصف النهار!,إضافات | مكان,food quality | restaurant miscellaneous,restaurant,explicit | explicit
+خيبة أمل حقيقية .,NULL,food quality,restaurant,implicit
+هذا المكان صغير بشكل لا يصدق.,المكان,ambience general,restaurant,explicit
+كان الطعام و الخدمة جيدين، ومع ذلك كان مدير المطعم غير مرحب به ومتغطرسًا بشكل لا يصدق.,الطعام | الخدمة | مدير المطعم | مدير المطعم,food quality | service general | service general | service general,restaurant,explicit | explicit | explicit | explicit
+كان بطة مطبوخة في الماء المملح مذهلاً دائمًا وكان فطيرة كبد الإوز مع التين خارج هذا العالم.,فطيرة كبد الإوز مع التين | بطة مطبوخة في الماء المملح,food quality | food quality,restaurant,explicit | explicit
+والأهم من ذلك كله الطعام ممتاز.,الطعام,food quality,restaurant,explicit
+لقد طلبت مقبلات سمك السلمون المدخن والبيض وكان طعمها غير جيد.,مقبلات سمك السلمون المدخن والبيض,food quality,restaurant,explicit
+يرقة في الطعام!,الطعام,food quality,restaurant,explicit
+السلطات كانت رائعة.,السلطات,food quality,restaurant,explicit
+لقد تناولنا شطيرة جراد البحر وكانت رائعة.,شطيرة جراد البحر,food quality,restaurant,explicit
+اعتقدت أن هذا المكان كان مبالغًا فيه تمامًا.,المكان,restaurant general,restaurant,explicit
+لقد عشت في نيويورك لمدة 5 سنوات وهذا المكان لديه كل شيء.,المكان,restaurant general,restaurant,explicit
+لا أحد في هذا المطعم يعطي إجابات حاسمة عن أي شيء وفي النهاية لا يتحمل أي شخص مسؤولية أي شيء.,NULL,service general,restaurant,implicit
+اطلب أوشا، أجمل بارمان في مانهاتن.,أوشا,service general,restaurant,explicit
+لقد نسوا الساندويتش، ولم يضيفوا شوكًا بلاستيكية، ولم يضيفوا خبز البيتا مع طبق الحمص.,NULL,service general,restaurant,implicit
+كانت الخدمة الشيء الوحيد الجيد في هذا المطعم.,الخدمة,service general,restaurant,explicit
+انتظرنا في البار وكان لدينا مارتيني الذي كان رائعًا.,مارتيني,drinks quality,restaurant,explicit
+ثيوس أمر لا بد منه لأي شخص يحب شابو شابو.,شابو شابو,food quality,restaurant,explicit
+لقد كان سعره مبالغ فيه تمامًا - السمك والبطاطا كان حوالي 15 دولارًا ...,NULL | السمك والبطاطا,food prices | food prices,restaurant,implicit | explicit
+يوجد لديهم مجموعة كبيرة ومتنوعة من أنواع الجبن الكريمي وجميع السلطات رائعة.,السلطات | أنواع الجبن الكريمي | أنواع الجبن الكريمي,food quality | food style_options | food style_options,restaurant,explicit | explicit | explicit
+مسرور جدا,NULL,restaurant general,restaurant,implicit
+لا أتوقع هذا مقابل 55 دولارًا عشاء.,عشاء | عشاء,food quality | food prices,restaurant,explicit | explicit
+حصلت على الشعر في الطعام مرتين من ذلك الحين!,الطعام,food quality,restaurant,explicit
+بودنغ المعكرونة هو بالضبط نوع الخدمة و الطعام الذي أستمتع به.,الخدمة | الطعام,service general | food quality,restaurant,explicit | explicit
+عذارى فولاري أو رواد منتظمون أسبوعيًا، يحصل الجميع على نفس المعاملة ولا يمكنك طلب أكثر من ذلك عندما تكون الخدمة بهذه الودية.,الخدمة,service general,restaurant,explicit
+لقد طلبت من عامل عربة أرزًا ملفوفًا بأوراق اللوتس وأجابني بالأرز وذهبت.,عامل عربة,service general,restaurant,explicit
+هذا (المكان) دائمًا مزدحم جدًا وشعبي.,المكان | المكان,restaurant miscellaneous | restaurant miscellaneous,restaurant,explicit | explicit
+التصميم و الجو جيدان بنفس القدر.,التصميم | الجو,ambience general | ambience general,restaurant,explicit | explicit
+مثير للاهتمام الاختيار، جيد النبيذ، الخدمة جيد، ممتع الديكور.,النبيذ | الخدمة | الديكور | الاختيار,drinks quality | service general | ambience general | food style_options,restaurant,explicit | explicit | explicit | explicit
+أولاً استغرق الأمر منا وقتًا طويلاً للعثور على المكان.,المكان,restaurant miscellaneous,restaurant,explicit
+كان (المدير  وقحًا وتعامل مع الموقف بشكل سيء للغاية.,المدير,service general,restaurant,explicit
+لكن أفضل سوفلاكي لحم الخنزير الذي تناولته على الإطلاق هو الشيء الرئيسي.,سوفلاكي لحم الخنزير,food quality,restaurant,explicit
+أتمنى أن يعجبني هذا المكان أكثر، وأتمنى أن يقوم شخص ما بإعادة تدريب الموظفين.,الموظفين,service general,restaurant,explicit
+بالإضافة إلى ذلك، فإنهم لا يقبلون بطاقات الائتمان، لذا تعال نقدًا!,NULL,restaurant miscellaneous,restaurant,implicit
+في كل مرة لدي مناسبة خاصة مع صديقي، أجد صعوبة في الذهاب إلى أي مكان آخر.,NULL,restaurant miscellaneous,restaurant,implicit
+فقير بشكل مذهل,NULL,restaurant general,restaurant,implicit
+رائع الطعام، أسعار رائعة، رائع الخدمة.,الطعام | NULL | الخدمة,food quality | restaurant prices | service general,restaurant,explicit | implicit | explicit
+أراد ابني وصديقته برجر بالجبن وكان ضخمًا!,برجر بالجبن,food style_options,restaurant,explicit
+جيد للمواعيد أو مع الأصدقاء.,NULL,restaurant miscellaneous,restaurant,implicit
+أستطيع أن أتناول الطعام هنا كل يوم في الأسبوع حقًا أحب هذا المكان المكان ... ),المكان,restaurant general,restaurant,explicit
+رفض هذا الرجل أن يجلسها فغادرت، وتبعها بعد فترة وجيزة أربعة منا، ولكن ليس قبل أن أخبره أنه في أربعين عامًا من سفري حول العالم، بما في ذلك باريس، لم أر قط مثل هذا العرض السيئ للسلوك من قبل قائد الفرقة الموسيقية في مطعم.,قائد الفرقة الموسيقية,service general,restaurant,explicit
+شكرا للجميع في حافة الماء.,حافة الماء,restaurant general,restaurant,explicit
+بشكل عام، لائق الطعام وبسعر جيد، مع ودودين الناس.,الطعام | الطعام | الناس,food quality | food prices | service general,restaurant,explicit | explicit | explicit
+لقد عرضتها على (المدير ، واعتذر مبتسمًا وأحضر لنا حلويتين مجانيتين (لكنه لم يسألنا عما نريده، لذا أحضر آخر حلويتين كنا سنطلبهما).,المدير,service general,restaurant,explicit
+الخدمة متوسطة.,الخدمة,service general,restaurant,explicit
+أنا أحبهم التايلاندي,التايلاندي,food quality,restaurant,explicit
+نقلت النادلة طاولتنا عمليًا إلى الحمام وعندما طلبنا إلغاء طلبات العشاء لأننا لا نريد تناول الطعام جالسين على المرحاض، قيل لنا لا ...,النادلة,service general,restaurant,explicit
+ربما لن أذهب مرة أخرى ...,NULL,restaurant general,restaurant,implicit
+كانت الحلوى الصغيرة  8.00 دولارًا ... باهظة الثمن تمامًا لما هي عليه.,الحلوى الصغيرة | الحلوى الصغيرة | الحلوى الصغيرة,food quality | food style_options | food prices,restaurant,explicit | explicit | explicit
+لا تتناول الطعام في مطعم تاماريند من أجل الأطباق النباتية، فهي ببساطة لا ترقى إلى مستوى الاختيارات غير النباتية.,الأطباق النباتية,food quality,restaurant,explicit
+ويأتي كل ذلك بسعر معقول جدًا ( عصيدة، نودلز، و أطباق أرز لا يزيد سعرها عن 3-6 دولارات لكل منها).,NULL | عصيدة | نودلز | أطباق أرز,food prices | food prices | food prices | food prices,restaurant,implicit | explicit | explicit | explicit
+طعم أطباق المقبلات الباردة يشبه الطريقة التي أتذكرها عندما كنت أكبر في تايوان.,أطباق المقبلات الباردة,food quality,restaurant,explicit
+المقبلات لذيذة أيضاً!,المقبلات,food quality,restaurant,explicit
+قائمة النبيذ واسعة النطاق ويمكن أن تزيد بسهولة عن وجبة ذات الأسعار المعقولة بخلاف ذلك.,قائمة النبيذ | وجبة,drinks style_options | food prices,restaurant,explicit | explicit
+من فضلك خذ نصيحتي، اذهب وجرب هذا المكان.,المكان,restaurant general,restaurant,explicit
+الديكور يحتاج إلى ترقية ولكن الطعام مذهل!,الديكور | الطعام,ambience general | food quality,restaurant,explicit | explicit
+أسوأ مطعم  في مانهاتن,مطعم,restaurant general,restaurant,explicit
+المكان مفتوح حتى وقت متأخر، ولا يوجد قواعد لباس.,المكان,restaurant miscellaneous,restaurant,explicit
+لم أتناول هريس فول الصويا من قبل ولكنني وجدته مبتكرًا ولذيذًا (كان من الممكن أن يستخدم المزيد من الملح).,هريس فول الصويا | هريس فول الصويا,food quality | food style_options,restaurant,explicit | explicit
+مفتوح حتى وقت متأخر (أو حتى وقت متأخر للغاية عندما أصل إلى هناك وأنا شخص ليلي),NULL,restaurant miscellaneous,restaurant,implicit
+الشيء الوحيد الذي استمتعت به بشكل معتدل كان دجاج مشوي خاص مع هريس فول الصويا.,دجاج مشوي خاص مع هريس فول الصويا,food quality,restaurant,explicit
+لا أقدر الأماكن أو الأشخاص الذين يحاولون رفع الفاتورة دون علم العميل، لذا كان هذا بمثابة عامل إحباط كبير (أكثر من السعر).,NULL | NULL,service general | restaurant prices,restaurant,implicit | implicit
+أحب قائمة المشروبات .,قائمة المشروبات,drinks style_options,restaurant,explicit
+بخارى ضمن أفضل 5 أماكن هندية في نيويورك,بخارى,restaurant general,restaurant,explicit
+موقعه جيد وحقيقة أن كلية هوتنر قريبة وأسعارها معقولة جدًا، تجعل الطلاب يعودون إلى سوان مرارًا وتكرارًا.,موقعه | سوان,location general | restaurant prices,restaurant,explicit | explicit
+لقد كانت هذه تجربة غير مريحة إلى حد مذهل، من البداية إلى النهاية.,NULL,restaurant general,restaurant,implicit
+فظيع، فظيع الإدارة - يستحق الإغلاق.,الإدارة | الإدارة | NULL,service general | service general | restaurant general,restaurant,explicit | explicit | implicit
+ألقيت نظرة واحدة على الدجاجة وشعرت بالفزع.,الدجاجة,food style_options,restaurant,explicit
+عشاء وسط المدينة 2002 - السعر الثابت: المقبلات كانت جيدة، النادل أعطاني اقتراحًا سيئًا ... جرب أشياء البطاطس كانيش الأفضل.,المقبلات | النادل | أشياء البطاطس كانيش | أشياء البطاطس كانيش,food quality | service general | food quality | food quality,restaurant,explicit | explicit | explicit | explicit
+كان البيجل ضخمًا.,البيجل,food style_options,restaurant,explicit
+لقد تم بيعها أنا وزوجي على هذا من الزيارة الأولى.,NULL,restaurant general,restaurant,implicit
+ممتاز الطعام، على الرغم من أن التصميم الداخلي يحتاج إلى بعض المساعدة.,الطعام | التصميم الداخلي,food quality | ambience general,restaurant,explicit | explicit
+أتطلع لتناول الطعام هنا مرة أخرى,NULL,restaurant general,restaurant,implicit
+ذهبت إلى أريو في يوم الأحد بعد الظهر مع أربع من صديقاتي، وقضيت ثلاث ساعات ممتعة هناك.,أريو,restaurant general,restaurant,explicit
+الخدمة كانت سريعة جدًا ولكنها متسرعة بعض الشيء.,الخدمة | الخدمة,service general | service general,restaurant,explicit | explicit
+زجاجات النبيذ رخيصة وجيدة.,زجاجات النبيذ | زجاجات النبيذ,drinks prices | drinks quality,restaurant,explicit | explicit
+تحتوي القائمة  على العديد من أصناف الأسماك والمحار.,NULL,food style_options,restaurant,implicit
+إنهم وقحون في بعض الأحيان، وغير ودودين للغاية.,NULL,service general,restaurant,implicit
+كان الطعام مذهلاً تمامًا !!,الطعام,food quality,restaurant,explicit
+سيكون فظيعا مجاملة!,NULL,restaurant general,restaurant,implicit
+تبدو القائمة رائعة، وكان النادل لطيفًا للغاية، ولكن عندما جاء الطعام، كان متوسطًا.,القائمة | النادل | الطعام,food style_options | service general | food quality,restaurant,explicit | explicit | explicit
+لقد تم الترحيب بنا على الفور من قبل النادل الذي كان لطيفًا للغاية وودودًا.,النادل | النادل,service general | service general,restaurant,explicit | explicit
+استغرقت المقبلات ما يقرب من ساعة.,NULL,service general,restaurant,implicit
+اكتشاف رائع في قرية ويست!,NULL,restaurant general,restaurant,implicit
+لن أعود إلا إذا كان شخص آخر يدفع الفاتورة.,NULL,restaurant prices,restaurant,implicit
+اختيار قائمة النبيذ جيد و النبيذ بالكأس كان مملوءًا بسخاء حتى الأعلى.,اختيار قائمة النبيذ | النبيذ بالكأس,drinks style_options | drinks style_options,restaurant,explicit | explicit
+الأشخاص الذين يعملون هناك ودودون للغاية لدرجة أنك تنسى أنك في نيويورك في بعض الأحيان.,الأشخاص,service general,restaurant,explicit
+لائق النبيذ بأسعار معقولة.,النبيذ | النبيذ,drinks quality | drinks prices,restaurant,explicit | explicit
+أنا أحبه .,NULL,restaurant general,restaurant,implicit
+حصلت على 10 دولارات أمريكية، مجموعة ديم سوم مكونة من 10 قطع، وكانت كل قضمة منها رائعة.,10 دولارات أمريكية، مجموعة ديم سوم مكونة من 10 قطع,food quality,restaurant,explicit
+لا تحاول الذهاب إلى هناك إلا إذا كنت ذاهبًا إلى هناك للتسكع مثل بقية الشباب الذين يبدو أنهم لا يملكون حس التذوق.,NULL,restaurant miscellaneous,restaurant,implicit
+رائع الطعام!,الطعام,food quality,restaurant,explicit
+باد بينانج لذيذ وكل شيء آخر رائع.,باد بينانج | NULL,food quality | food quality,restaurant,explicit | implicit
+لا أستطيع أن أتخيل الموظفين أكثر ودية للعمل في مطعم.,الموظفين,service general,restaurant,explicit
+لحسن الحظ أننا وفرنا مساحة لـ سمك السلمون المشوي، سمك البحر و البط المقرمش.,سمك السلمون المشوي | سمك البحر | البط المقرمش,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+يقدم Dokebi لـ Williamsburg الضربة المزدوجة الصحيحة من الكلاسيكية الطعام الكوري و لمسات الاندماج مثل تاكو لحم الخنزير المقدد.,الطعام الكوري | لمسات الاندماج | تاكو لحم الخنزير المقدد,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+إذا كنت تغامر بالخروج من جزيرة مانهاتن ولم تتمكن من العثور على مطعم إيطالي رائع، فقم بالقيادة إلى كورونا.,كورونا,restaurant general,restaurant,explicit
+لقد شعرنا جميعا أن الأمر يستحق ذلك.,NULL,restaurant general,restaurant,implicit
+Lucky Strike هو مكان رائع لتناول وجبة خفيفة.,Lucky Strike,restaurant general,restaurant,explicit
+لقد قمت بزيارة كازيمير أكثر من 5 مرات وقد قضيت دائمًا وقتًا رائعًا هناك.,كازيمير,restaurant general,restaurant,explicit
+ممتاز لقضاء أمسية رومانسية، أو أمسية ممتعة مع الأصدقاء ...,NULL | NULL,ambience general | restaurant miscellaneous,restaurant,implicit | implicit
+ولكن أفضل جزء في LS هو جو الليل المتأخر، وهو خالي تمامًا من BTs.,جو الليل المتأخر,ambience general,restaurant,explicit
+غرفة الطعام هادئة وأنيقة مع عدم وجود موسيقى للصراخ فوقها - ما مدى انتعاشها!,غرفة الطعام | غرفة الطعام,ambience general | ambience general,restaurant,explicit | explicit
+هذا مكان جميل وهادئ مكان لتناول الطعام في الخارج.,مكان | مكان,ambience general | ambience general,restaurant,explicit | explicit
+لا تنخدع بالحشود من الناس .,NULL,restaurant miscellaneous,restaurant,implicit
+أما بالنسبة لتعليقي حول الطعام، فلم يتم تقديم أي اعتذار أو اعتراف.,NULL,service general,restaurant,implicit
+الخدمة هي من الدرجة الأولى.,الخدمة,service general,restaurant,explicit
+أوه، بالحديث عن الحمام، حمام الرجال كان مثير للاشمئزاز.,حمام الرجال,ambience general,restaurant,explicit
+سأبدأ ببعض الإيجابيات: رائع ديكور، جيد خبز البيتا و حمص، و أخطبوط مشوي كان لذيذًا بالفعل.,ديكور | خبز البيتا | حمص | أخطبوط مشوي,ambience general | food quality | food quality | food quality,restaurant,explicit | explicit | explicit | explicit
+من المستحيل تقريبًا الحصول على طاولة، لذلك إذا سنحت لك الفرصة للذهاب إلى هنا لتناول العشاء، فلا تفوتها.,NULL,restaurant general,restaurant,implicit
+لقد كان لي القليل من الحرق ولكن لا يزال لذيذًا مع جبن الماعز وبانشيتا ( راديتشيو كان مريرًا نوعًا ما).,راديتشيو | NULL,food quality | food quality,restaurant,explicit | implicit
+إذا كان بإمكاني إعطاء 0 نجوم، فسوف أفعل ذلك لهذا المكان مكان.,مكان,restaurant general,restaurant,explicit
+مدهش !,NULL,food quality,restaurant,implicit
+المضيفة وقحة إلى حد كونها مسيئة.,المضيفة | المضيفة,service general | service general,restaurant,explicit | explicit
+الفتاة ذات الشعر المجعد فتاة (ترتدي نظارات مجنحة / Dame Edna) ستصرخ عليك إذا حاولت طلب مشروب.,فتاة,service general,restaurant,explicit
+الفلفل، البصل، المخللات، الفلفل الحار، والجبن، وما إلى ذلك.,NULL,food style_options,restaurant,implicit
+رائع الجو ويستحق كل شيء.,الجو | NULL,ambience general | restaurant general,restaurant,explicit | implicit
+البيسون كان ممتازًا تمامًا مع ذلك.,البيسون,food quality,restaurant,explicit
+الطعام عبارة عن ماسة خام - الطعام لذيذ ومصنوع في المنزل مع التوازن المثالي الأعشاب والطماطم.,الطعام | الأعشاب والطماطم,food quality | food quality,restaurant,explicit | explicit
+إنه يضرب المكان في كل مرة,NULL,restaurant general,restaurant,implicit
+الطعام كان جيدًا والمنظر لمدينة نيويورك على خط التزلج كان رائعًا حتى في يوم ممطر ضبابي مثل ذلك الذي ذهبت إليه.,الطعام | المنظر لمدينة نيويورك على خط التزلج,food quality | location general,restaurant,explicit | explicit
+كانت حلوى كعكة الحمم البركانية رائعة وأوصي بها.,حلوى كعكة الحمم البركانية | حلوى كعكة الحمم البركانية,food quality | food quality,restaurant,explicit | explicit
+الخدمة ودودة، ولم أواجه أي مشكلة أبدًا في الدخول والحصول على طاولة.,الخدمة,service general,restaurant,explicit
+سأكون خارجًا مع الأصدقاء وفجأة أشعر بالجوع ولا أرغب إلا في شيء واحد ... البيتزا.,البيتزا,food quality,restaurant,explicit
+كنت هنا قبل بضعة أسابيع وكانت تجربتنا هي الأسوأ خدمة العملاء في مطعم على الإطلاق.,خدمة العملاء,service general,restaurant,explicit
+كان لفائف التونة الحارة جيدًا بشكل غير عادي وكان تمبورا الروبيان الصخري رائعًا ، مقبلات رائعة للمشاركة!,لفائف التونة الحارة | تمبورا الروبيان الصخري,food quality | food quality,restaurant,explicit | explicit
+الموقع و الأجواء جيدان ولكن الطعام هو ما يعوض ذلك.,الموقع | الأجواء | الطعام,location general | ambience general | food quality,restaurant,explicit | explicit | explicit
+لقد لاحظت أن هناك الكثير من الهنود يأكلون هناك، وهي علامة رائعة لـ مكان هندي!,مكان هندي,restaurant miscellaneous,restaurant,explicit
+دائمًا ما يكون هناك حشد لطيف حشد، ولكن ليس صاخبًا أبدًا.,حشد | NULL,restaurant miscellaneous | ambience general,restaurant,explicit | implicit
+نحن نحب المهر الوردي .,المهر الوردي,restaurant general,restaurant,explicit
+ومع ذلك، انتهيت من طبقي، وعندها وجدت يرقة في صلصة الفطر في القاع.,صلصة الفطر,food quality,restaurant,explicit
+بدأت بـ بيرة بومباي والتي كانت كبيرة بما يكفي لشخصين.,بيرة بومباي,drinks style_options,restaurant,explicit
+المنظر مذهل و الطعام رائع.,المنظر | الطعام,location general | food quality,restaurant,explicit | explicit
+ما يجعله يتألق حقًا هو الطعام، المتبل بقوة بالتوابل القبرصية، وكلها مصنوعة في المنزل (حتى لحم الجيروسكوب والنقانق)، ومصنوعة من مكونات ذات جودة أعلى بكثير  مما قد يتوقعه المرء بخلاف ذلك.,الطعام | لحم الجيروسكوب | النقانق | NULL,food quality | food quality | food quality | food quality,restaurant,explicit | explicit | explicit | implicit
+ما أجمل المكان .,المكان,restaurant general,restaurant,explicit
+وهو بالطبع ليس لحم كوبي الحقيقي بل لحم واغيو.,NULL,food quality,restaurant,implicit
+حدد أيضًا ما إذا كنت تحب طعامك حارًا - فهو بلا طعم إذا كنت لا تحبه.,طعامك,food quality,restaurant,explicit
+لقد تم تقديمها دافئة ولها جزء داخلي ناعم ورقيق.,NULL | NULL,food quality | food quality,restaurant,implicit | implicit
+يمكن أن يكون svc وقحًا بعض الشيء في بعض الأحيان، خاصةً إذا كان لديك مجموعة كبيرة، ولكن بشكل عام فإن المطعم أمر لا بد منه!,svc | المطعم,service general | restaurant general,restaurant,explicit | explicit
+لقد كانت لي تجربة عظيمة .,NULL,restaurant general,restaurant,implicit
+ممممممممممممممم لذيذ جدا,NULL,food quality,restaurant,implicit
+إنه سميك ورطب قليلاً.,NULL | NULL,food quality | food quality,restaurant,implicit | implicit
+المرة الأولى كان السوشي رائعًا، وفي المرة الثانية كان بلا طعم إلى حد ما.,السوشي | السوشي,food quality | food quality,restaurant,explicit | explicit
+الطراز الشانغهاي الأصيل ولا أستطيع أن أوصي بمكان أفضل من شنغهاي في نيويورك.,NULL,restaurant miscellaneous,restaurant,implicit
+الطعام لذيذ، وفير، وبأسعار معقولة.,الطعام | الطعام | الطعام,food quality | food style_options | food prices,restaurant,explicit | explicit | explicit
+لقد زرت 'ino لعدة سنوات والطعام لا يزال ممتازًا.,الطعام,food quality,restaurant,explicit
+رائع مكان مثالي لعشاء رومانسي,مكان | مكان,ambience general | restaurant miscellaneous,restaurant,explicit | explicit
+quacamole في باسيفيكو لذيذ، وكذلك الأجنحة مع تشيميتشوري.,quacamole | الأجنحة مع تشيميتشوري,food quality | food quality,restaurant,explicit | explicit
+لطيفة وزخرفية .,NULL | NULL,ambience general | ambience general,restaurant,implicit | implicit
+لقد وجدت أن الطعام كان رائعًا، وخاصةً طبق السلمون الذي تناولته.,الطعام | طبق السلمون,food quality | food quality,restaurant,explicit | explicit
+لقد تناولت زوجتي جمبري مقلي وكان حجمهما ضخمًا وأحبتهما.,جمبري مقلي | جمبري مقلي,food style_options | food quality,restaurant,explicit | explicit
+جرب لفائف خيار السوشي .,لفائف خيار السوشي,food quality,restaurant,explicit
+مدهش الطعام .,الطعام,food quality,restaurant,explicit
+لا أوصي .,NULL,restaurant general,restaurant,implicit
+إنها حقا علامة على الاهتمام النادل.,النادل,service general,restaurant,explicit
+لا أوصي به لتناول العشاء!,NULL,restaurant general,restaurant,implicit
+تم تسليم البيتزا باردة و الجبن لم يذوب بالكامل!,البيتزا | الجبن,food quality | food quality,restaurant,explicit | explicit
+آخر مرة مررت بها كانت تبدو فارغة تمامًا. هممم.,NULL,restaurant miscellaneous,restaurant,implicit
+سأصاب بالرعب إذا كان موظفي يرفضون العملاء في وقت مبكر جدًا وبطريقة وقحة للغاية!,موظفي,service general,restaurant,explicit
+دعونا نواجه الأمر ... في بعض الأحيان يكون هذا أمرًا جيدًا.,NULL,service general,restaurant,implicit
+قام النادل بتوصيل طعامنا وهو يحمل في يده ما يبدو أنه كيس بلاستيكي مليء بالقمامة.,النادل,service general,restaurant,explicit
+لا يمكنك أن تخطئ مع هذا المكان .,المكان,restaurant general,restaurant,explicit
+سأعود إلى هنا مرة أخرى بقدر ما أستطيع.,NULL,restaurant general,restaurant,implicit
+لقد دفعنا سعرًا ثابتًا ولم نحصل على شيء !!,NULL,service general,restaurant,implicit
+لقد طلبنا طاجن دجاج، ولكن ما حصلنا عليه كان بضع قطع صغيرة من الدجاج، كلها لحم داكن وعلى العظم.,طاجن دجاج | طاجن دجاج,food quality | food style_options,restaurant,explicit | explicit
+عندما وصلت هناك كان المكان مزدحما لكنهم تأكدوا من جلوسي بسرعة.,NULL,service general,restaurant,implicit
+كان السوشي فظيعًا!,السوشي,food quality,restaurant,explicit
+مرتفع الثمن قليلاً ولكنه يستحق ذلك!,NULL | NULL,restaurant prices | restaurant general,restaurant,implicit | implicit
+الموظفين ليس هراء.,الموظفين,service general,restaurant,explicit
+لا بأس,NULL,restaurant general,restaurant,implicit
+جميع البيتزا رائعة والسعر أفضل!,البيتزا | NULL,food quality | restaurant prices,restaurant,explicit | implicit
+لطيف مكان، لطيف طاقم عمل، ولكن لن أذهب إلى هناك مرة أخرى.,طاقم عمل | مكان | مكان,service general | ambience general | restaurant general,restaurant,explicit | explicit | explicit
+كان الطبق المقبلات فاترًا وصغيرًا، وكان الطبق الحلوى غير ملهم.,المقبلات | المقبلات | الحلوى,food quality | food style_options | food quality,restaurant,explicit | explicit | explicit
+لم تكن عائلتنا تتوقع أبدًا مثل هذا الترفيه المذهل في المطعم.,الترفيه,ambience general,restaurant,explicit
+نودلز مع الروبيان والدجاج وعصير جوز الهند يجب تجربته!,نودلز مع الروبيان والدجاج وعصير جوز الهند,food quality,restaurant,explicit
+لم يكن فطائر البصل الأخضر و الزلابية المقلية شيئًا خارجًا عن المألوف.,فطائر البصل الأخضر | الزلابية المقلية,food quality | food quality,restaurant,explicit | explicit
+لقد أعجبني هذا حقًا المكان.,المكان,restaurant general,restaurant,explicit
+لذيذ جدًا بيتزا!,بيتزا,food quality,restaurant,explicit
+لم أشعر بخيبة أمل أبدًا في العين الحمراء.,العين الحمراء,restaurant general,restaurant,explicit
+سأقوم بزيارة هذا المكان مرة أخرى بالتأكيد.,NULL,restaurant general,restaurant,implicit
+لقد طلبت فيتيلو ألا مارسالا وأعجبتني كثيرًا.,فيتيلو ألا مارسالا,food quality,restaurant,explicit
+سريع و ودود خدمة .,خدمة | خدمة,service general | service general,restaurant,explicit | explicit
+بمجرد أن حصلنا أخيرًا على طاولة، على الرغم من الإشارة إلى أننا نريد قائمة طعام حسب الطلب، تم دفعنا إلى طاولة تم تحديد سعرها فقط!,NULL,service general,restaurant,implicit
+تحذير: قد تجد صعوبة في تناول الطعام في المطاعم اليابانية الأخرى بعد زيارة ميزو!,ميزو,restaurant general,restaurant,explicit
+ما أجمل المكان!,المكان,restaurant general,restaurant,explicit
+مياجي هو أحد المطاعم المفضلة لدي في المدينة؛ حيث تبدو المراجعات السلبية التي تصف المكان وكأنها في مكان آخر.,مياجي,restaurant general,restaurant,explicit
+بارد الجو، المدفأة في الخلف تضيف إليه الكثير، لكنه يحتاج إلى المزيد من الحرارة طوال الليل البارد.,الجو | المدفأة,ambience general | ambience general,restaurant,explicit | explicit
+الجو ليس شيئًا خاصًا، لكنه يشبه مؤسسة السوشي في طوكيو.,الجو,ambience general,restaurant,explicit
+التونة و البطاطس الواسابي ممتازان.,التونة | البطاطس الواسابي,food quality | food quality,restaurant,explicit | explicit
+لم أواجه أي مشكلة مع الخدمة باستثناء الأرز المفقود مرة واحدة.,الخدمة,service general,restaurant,explicit
+كنا قلقين من أننا قد نواجه مشكلة في الدخول، ولكن بطريقة ما تمكنا من الانتظار لفترة قصيرة انتظار.,انتظار,service general,restaurant,explicit
+من الداخل ضيق بعض الشيء، ولكن هذا متوقع.,NULL,ambience general,restaurant,implicit
+لقد فوجئت بسرور عندما وجدت هذه الجوهرة في هوبوكين.,NULL,restaurant general,restaurant,implicit
+تم تقديم المقبلات التي طلبناها بسرعة - كان الطلب محار مقلي وبلح البحر لذيذًا ولكن الجزء صغير (ربما 3 من كل نوع).,محار مقلي وبلح البحر | محار مقلي وبلح البحر | NULL,food quality | food style_options | service general,restaurant,explicit | explicit | implicit
+لا أستطيع الانتظار حتى يأتي الصيف، عندما يقدمون الخدمة في الخارج على ساحتهم العملاقة الفناء.,الفناء,ambience general,restaurant,explicit
+استمروا في العمل الجيد يا شباب!,NULL,restaurant general,restaurant,implicit
+التزم بأطباق الدجاج، اللحم البقري، ولحم الضأن.,الدجاج | اللحم البقري | لحم الضأن,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+سعره مرتفع قليلاً لكنه يستحق ذلك بمجرد أن تأخذ قضمة منه.,NULL | NULL,food prices | food quality,restaurant,implicit | implicit
+بشكل عام كان مكانًا رومانسيًا لطيفًا للغاية مكان.,مكان | مكان,restaurant general | ambience general,restaurant,explicit | explicit
+بدلاً من تحضير طبق نباتي، قدم لي الشيف طبقًا من الخضار المطهوة على البخار (بدون صلصة أو توابل أو أي شكل أو عرض جمالي).,طبق نباتي,food style_options,restaurant,explicit
+"جيد , سريع خدمة .",خدمة | خدمة,service general | service general,restaurant,explicit | explicit
+خيبة أمل كبيرة في كل مكان.,NULL,restaurant general,restaurant,implicit
+هذا هو الأفضل مطعم شابو شابو في منطقة تري ستيت.,مطعم شابو شابو,restaurant general,restaurant,explicit
+لقد ذهبت أنا وصديقي إلى هناك للاحتفال بعيد ميلادي الليلة الماضية وكل ما يمكنني قوله هو أنه كان رائعًا.,NULL,restaurant general,restaurant,implicit
+كان المكان لطيفًا وهادئًا.,المكان | المكان,ambience general | ambience general,restaurant,explicit | explicit
+شطيرة جراد البحر جيدة و السباغيتي مع الإسكالوب والروبيان رائعة.,شطيرة جراد البحر | السباغيتي مع الإسكالوب والروبيان,food quality | food quality,restaurant,explicit | explicit
+Planet Thailand كان دائمًا ناجحًا بالنسبة لي، أذهب إلى هناك عادةً من أجل السوشي، وهو رائع، والطعام التايلاندي ممتاز أيضًا.,السوشي | الطعام التايلاندي | Planet Thailand,food quality | food quality | restaurant general,restaurant,explicit | explicit | explicit
+لن أعود .,NULL,restaurant general,restaurant,implicit
+لقد تم تحصيل السعر الكامل منا.,NULL,service general,restaurant,implicit
+سأعود بالتأكيد، أتمنى أن يكون لديهم هذا هنا في لوس أنجلوس.,NULL,restaurant general,restaurant,implicit
+لا يمكنك أن تخطئ في Red Eye Grill.,Red Eye Grill,restaurant general,restaurant,explicit
+بشكل عام، كان الطعام رائعًا (باستثناء الحلويات).,الطعام,food quality,restaurant,explicit
+عندما جاءت العائلة أعطاهم تطبيقات لاختبار لوحاتهم، ثم طلب لهم.,NULL,service general,restaurant,implicit
+لا يوجد عذر لهذه الخدمة الرديئة الخدمة!,الخدمة,service general,restaurant,explicit
+وفر أموالك ووقتك وانتقل إلى مكان آخر.,NULL,restaurant general,restaurant,implicit
+لقد شعرنا بخيبة أمل كبيرة.,NULL,food quality,restaurant,implicit
+أيضًا، النوادل يحاولون فرض المزيد من الطعام عليك، مثل اقتراح أشياء كما لو كانت مجانية بينما تكلف في الواقع دولارًا.,النوادل,service general,restaurant,explicit
+المكان في حد ذاته جميل ويبدو أن مشهد البار يحدث.,المكان,ambience general,restaurant,explicit
+بالنسبة للأشخاص الذين يريدون طعامًا رائعًا طعام بالإضافة إلى خدمة رائعة خدمة، فإن روكسي هو المكان الذي يجب تجنبه!,طعام | خدمة,food quality | service general,restaurant,explicit | explicit
+عندما تعثرنا على ليون، اعتقدنا أننا وجدنا جوهرة رائعة ولكن، كنا مخطئين بالتأكيد.,ليون,restaurant general,restaurant,explicit
+البيتزا لذيذة وأنا أحب الجو.,البيتزا | الجو,food quality | ambience general,restaurant,explicit | explicit
+ديناميت المأكولات البحرية هو أيضا من عالم آخر.,ديناميت المأكولات البحرية,food quality,restaurant,explicit
+كان هذا المكان يحتوي على كل الزينة وأعني كل شيء.,الزينة,food style_options,restaurant,explicit
+لقد تناولت أفضل رافيولي على الإطلاق.,رافيولي,food quality,restaurant,explicit
+لا أستطيع أن أتخيل أفضل الطعام الهندي في جميع أنحاء المدينة.,الطعام الهندي,food quality,restaurant,explicit
+دافئ رومانسي جو مع حوالي 15 طاولة فقط على الأكثر.,جو,ambience general,restaurant,explicit
+استمتع الضيوف الآخرون بـ بيتزا، سلطة سانتا في المفرومة و سمك ورقائق البطاطس.,بيتزا | سلطة سانتا في المفرومة | سمك ورقائق البطاطس,food quality | food quality | food quality,restaurant,explicit | explicit | explicit
+الأفضل الطعام التايواني في نيويورك!,الطعام التايواني,food quality,restaurant,explicit
+كان الطعام متوسطًا في أفضل الأحوال، لكن الخدمة الرهيبة هي التي جعلتني أقسم على عدم العودة مرة أخرى.,الطعام | الخدمة,food quality | service general,restaurant,explicit | explicit
+إذا كنت تبحث عن نوعية جيدة ورخيصة يأكل - هذا هو المكان.,يأكل | يأكل,food quality | food prices,restaurant,explicit | explicit
+لقد طلبنا بعض أطباق حساء اللحم البقري والمعكرونة من قسم التايلاندية من القائمة ولكن لم نحصل على أي شيء تايلاندي.,أطباق حساء اللحم البقري والمعكرونة,food quality,restaurant,explicit
+كان بيبيمباب متوسطًا، لكن وعاء حجري لم يكن حتى قريبًا من السخونة.,بيبيمباب | وعاء حجري,food quality | food quality,restaurant,explicit | explicit
+هذا المكان، والذي لا يتجاوز عمره بضعة أشهر فقط، ربما يكون أعظم أسرار كوينز!,المكان,restaurant general,restaurant,explicit
+الطعام كان جيدًا وليس رائعًا ولا يستحق الانتظار أو زيارة أخرى,الطعام,food quality,restaurant,explicit
+لست متأكدًا من مكان تناول المراجع السابق، لونك، العشاء، ولكن شاول يقع في حي رائع ويقدم طعام رائع!,حي رائع | طعام رائع,location general | food quality,restaurant,explicit | explicit
+حصل صديقي على بيتزا الفطر التي كان طعمها أفضل.,بيتزا الفطر,food quality,restaurant,explicit
+لقد دفعت حوالي 60 دولارًا مقابل وجبة جيدة وجبة ، على الرغم من ذلك : ),وجبة | وجبة,food quality | food prices,restaurant,explicit | explicit
+جميل إطلالة على النهر ومدينة نيويورك.,إطلالة على النهر ومدينة نيويورك,location general,restaurant,explicit
+لقد وجدته في ليلة باردة، المكان المثالي المكان للتدفئة.,المكان,restaurant miscellaneous,restaurant,explicit
+لقد شعرت بخيبة أمل كبيرة مع هذا المطعم.,المطعم,restaurant general,restaurant,explicit
+ممممم... كان لذيذًا.,NULL,food quality,restaurant,implicit
+سأعود بالتأكيد مرة أخرى .,NULL,restaurant general,restaurant,implicit
+عجة للإفطار رائعة ...,عجة للإفطار,food quality,restaurant,explicit
+الزلابية المقلية رائعة!,الزلابية المقلية,food quality,restaurant,explicit
+إذا كنت تريد الطعام، فلن يكون الأمر يستحق ذلك.,الطعام,food quality,restaurant,explicit
+لن يحدث مرة أخرى!,NULL,restaurant general,restaurant,implicit
+أولاً وقبل كل شيء، هذا المكان ليس رومانسيًا، كما ادعى التحرير في موقع Citysearch.,المكان,ambience general,restaurant,explicit
+هل لديك موعد؟ اذهب هنا!,NULL,restaurant miscellaneous,restaurant,implicit
+كان المفضل لدي هو ساسي لاسي ...,ساسي لاسي,drinks quality,restaurant,explicit
+ممتاز خدمة,خدمة,service general,restaurant,explicit
+لقد أعجبت بشدة من الديكور إلى الطعام إلى الضيافة إلى الليلة الرائعة التي أمضيتها!,الديكور | الطعام | NULL | NULL,ambience general | food quality | service general | restaurant general,restaurant,explicit | explicit | implicit | implicit
+المكان جميل!,المكان,ambience general,restaurant,explicit
+يستحق الزيارة 1st Ave spot لأنه المتجر الأصلي.,1st Ave spot,restaurant miscellaneous,restaurant,explicit
+بشكل عام، ممتاز مطعم!,مطعم,restaurant general,restaurant,explicit
+رائع !,NULL,restaurant general,restaurant,implicit
+متاهة داخلية .,داخلية,ambience general,restaurant,explicit
+نقطة الضعف هي الدجاج في السلطة.,الدجاج في السلطة,food quality,restaurant,explicit
+عار على هذا المكان بسبب الفظاظة الرهيبة الموظفين وعدم وجود خدمة العملاء.,الموظفين | خدمة العملاء,service general | service general,restaurant,explicit | explicit
+ولكن بعيدا جدا إلى الشرق!,NULL,location general,restaurant,implicit
+بدأنا مع ساشيمي مقبلات لذيذ.,ساشيمي مقبلات,food quality,restaurant,explicit
+ربما كان ذلك بسبب الشركة الرائعة (كان لدي أصدقاء يزورونني من فيلادلفيا - نعم، لم يكن موعدًا هذه المرة) أو بسبب السعر المعقول للغاية، لكن لا يمكنني أن أقول ما يكفي من الأشياء الجيدة عن هذا براسيري.,براسيري | براسيري,restaurant general | restaurant prices,restaurant,explicit | explicit
+إنه مكان لطيف مكان للاسترخاء وإجراء المحادثة.,مكان,ambience general,restaurant,explicit
+ولكن هذا لم يكن الكرز على الكعكة: تيراميسو الذي لم يشبه أي شيء تناولته من قبل.,تيراميسو,food quality,restaurant,explicit
+البيتزا هنا جيدة باستمرار.,البيتزا,food quality,restaurant,explicit
+لقد وقعت في حب المعكرونة بالبيض في مرق اللحم البقري مع زلابية الروبيان وشرائح لحم الخنزير المشوي على الشواية.,المعكرونة بالبيض في مرق اللحم البقري مع زلابية الروبيان وشرائح لحم الخنزير المشوي على الشواية,food quality,restaurant,explicit
+كان الطعام جيدًا جدًا، وعرضًا رائعًا، وكان المكان بحد ذاته رائعًا.,الطعام | الطعام | المكان,food quality | food prices | ambience general,restaurant,explicit | explicit | explicit
+لم أستطع حتى الاستمتاع بالبطاطس المهروسة لأنها كانت مخفية تمامًا تحت الدجاج والسبانخ.,NULL,food style_options,restaurant,implicit
+وكان Yellowtail جيدًا بشكل خاص أيضًا.,Yellowtail,food quality,restaurant,explicit
+مع وجود العديد من التجارب السيئة التي يمكن أن تحظى بها في منطقة المسرح، فهي حقًا اكتشاف ممتاز!,NULL,restaurant general,restaurant,implicit
+السعر مرتفع ولكن الطعام جيد، لذلك سأعود مرة أخرى.,الطعام | الطعام | NULL,food quality | food prices | restaurant general,restaurant,explicit | explicit | implicit
+مكان رائع بار مع طعام رائع، وكميات كبيرة من بيرة ممتازة.,بار | طعام | بيرة | بيرة,ambience general | food quality | drinks quality | drinks style_options,restaurant,explicit | explicit | explicit | explicit
+كانت قائمة النبيذ واسعة النطاق - على الرغم من أن الموظفين لم يبدوا على دراية بمزيج النبيذ.,قائمة النبيذ | الموظفين,drinks style_options | service general,restaurant,explicit | explicit
+كالزونيس الخاصة بهم فظيعة، سيئة، تسبب القيء، مثيرة للاشمئزاز.,كالزونيس | كالزونيس | كالزونيس | كالزونيس,food quality | food quality | food quality | food quality,restaurant,explicit | explicit | explicit | explicit
+الأسعار متوافقة .,NULL,restaurant prices,restaurant,implicit
+سأعود بالتأكيد .,NULL,restaurant general,restaurant,implicit
+لقد اخترنا كلينا طبق معكرونة وتم تقديمهما في الوقت المناسب وطازجًا.,NULL | طبق معكرونة,service general | food quality,restaurant,implicit | explicit
+لقد ذهبت عدة مرات ولم أشعر بخيبة أمل أبدًا.,NULL,restaurant general,restaurant,implicit
+إنهم يمتلكون لفائف رائعة، والألوان الثلاثة والنرويجية لفائف، رائعة ومشبعة.,لفائف | الألوان الثلاثةوالنرويجية لفائف | والنرويجية لفائفالألوان الثلاثة,food quality | food quality | food style_options,restaurant,explicit | explicit | explicit
+كرات البطاطس لم تكن جافة على الإطلاق ... في الواقع كانت زبدانية.,كرات البطاطس,food quality,restaurant,explicit
+جميل جدا جدا,NULL,restaurant general,restaurant,implicit
+لقد ذهبت إلى هناك عدة مرات ولم يخيب أملي أبدًا.,NULL,restaurant general,restaurant,implicit
+المأكولات البحرية مذهلة، وهناك قائمة نبيذ جيدة، والقائمة القائمة المتغيرة باستمرار تقدم دائمًا بعض المفاجآت الرائعة.,المأكولات البحرية | قائمة نبيذ | القائمة | القائمة,food quality | drinks style_options | food style_options | food style_options,restaurant,explicit | explicit | explicit | explicit
+بالتأكيد مكان رائع مكان لمناسبة أو موعد لطيف.,مكان,restaurant miscellaneous,restaurant,explicit
+الطعام ممتاز!,الطعام,food quality,restaurant,explicit
+واحدة من الأفضل,NULL,restaurant general,restaurant,implicit
+لقد ذهبنا حوالي الساعة 9:30 صباحًا يوم الجمعة وقد هدأ الأمر قليلاً بحلول ذلك الوقت لذا كانت الخدمة رائعة!,الخدمة,service general,restaurant,explicit
+هذا المكان دائمًا مزدحم.,المكان,ambience general,restaurant,explicit
+الطعام كان جيدًا، المكان كان نظيفًا وبأسعار معقولة.,الطعام | المكان | المكان,food quality | ambience general | restaurant prices,restaurant,explicit | explicit | explicit
+لذيذ جدا ! ! ! !,NULL,food quality,restaurant,implicit
+لقد عرفت هذا السر خلال السنوات الـ 13 الماضية، وقد واصل إيميليو (العراب) تقديم الطعام و النبيذ للآلهة بأسعار باهظة.,الطعام | النبيذ | الطعام | النبيذ,food quality | drinks quality | food prices | drinks prices,restaurant,explicit | explicit | explicit | explicit
+على الرغم من أن الطاولات قد تكون قريبة من بعضها البعض، إلا أن ضوء الشموع، جودة الطعام، والخدمة تعوض ذلك.,ضوء الشموع | جودة الطعام | الخدمة | الطاولات,ambience general | food quality | service general | ambience general,restaurant,explicit | explicit | explicit | explicit
+الحلوى هي مزحة ... لا تهتم,الحلوى,food quality,restaurant,explicit
+رائع الموظفين .,الموظفين,service general,restaurant,explicit
+الطعام جيد والأسعار هنا متوسطة.,الطعام | NULL,food quality | restaurant prices,restaurant,explicit | implicit
+في هذه المرحلة، جاءت النادلة وسألتنا إذا كان كل شيء على ما يرام، كنت في حالة صدمة حقيقية لدرجة أنني كنت بلا كلام ولم أقل أي شيء، وخمنوا ماذا، النادلة ابتعدت.,النادلة,service general,restaurant,explicit
+يجب أن أقول أنني فوجئت بسرور وعلى الأرجح سأتوقف مرة أخرى إذا كنت في الحي.,NULL,restaurant general,restaurant,implicit
+أحببته,NULL,restaurant general,restaurant,implicit
+إذا كان المشاهير يجعلونك تتعرق، فأنت في رحلة، ولكن إذا كنت مثل معظم الناس في هذه الأنحاء، فسوف تتثاءب فقط وتتساءل ما هو الأمر مع كل هذه الضجة.,NULL,restaurant miscellaneous,restaurant,implicit
+مزدحم قليلاً ولكنهم يتحركون في هذا الخط بسرعة كبيرة!,NULL | NULL,service general | restaurant miscellaneous,restaurant,implicit | implicit
+إجمالي الطعام - واو-,الطعام,food quality,restaurant,explicit
+إن أجزاء ضخمة، لذلك قد يكون من الجيد طلب ثلاثة أشياء لتقسيمها (بدلاً من مقبلات وطبق رئيسي واحد لكل شخص) لشخصين.,أجزاء,food style_options,restaurant,explicit
+جرب Pad Thai، إنه رائع وأسعاره رخيصة جدًا!,Pad Thai | Pad Thai | NULL,food quality | food quality | restaurant prices,restaurant,explicit | explicit | implicit
+اعتقد أنا وزوجي أنه سيكون من الرائع الذهاب إلى Jekyll and Hyde Pub للاحتفال بذكرى زواجنا، وإلى دهشتنا كانت رائعة.,Jekyll and Hyde Pub | Jekyll and Hyde Pub,restaurant general | restaurant general,restaurant,explicit | explicit
+أعرف أنك كنت مشغولاً للغاية بإظهار قميصك القديم وتبدو مللًا، لكن جدول أعمالي هو أنني هنا لتناول الطعام والاستمتاع بصحبة الأصدقاء، بحثًا عن تجربة ممتعة.,NULL,service general,restaurant,implicit
+كان تشاو فان وتشاو سي الخاص بي فاترًا وزيتيًا حقًا.,تشاو فان وتشاو سي | تشاو فان وتشاو سي,food quality | food quality,restaurant,explicit | explicit
+من المؤكد أن بعض الليالي داخل المطعم كانت دافئة إلى حد ما، ولكن المطبخ المفتوح هو جزء من السحر.,المطبخ المفتوح | المطعم,ambience general | ambience general,restaurant,explicit | explicit
+أوصي بهذا (المكان  للجميع.,المكان,restaurant general,restaurant,explicit
+كان لدينا نصف/نصف بيتزا، كانت البيتزا الخاصة بي عبارة عن باذنجان وصديقي كان لديه الجاموس وكانت ضخمة جدًا بالنسبة لبيتزا صغيرة الحجم!,نصف/نصف بيتزا,food style_options,restaurant,explicit
+من فضلك لا تخدعنا .,NULL,restaurant miscellaneous,restaurant,implicit
+الطعام لذيذ و أحجام الحصص مناسبة.,الطعام | أحجام الحصص,food quality | food style_options,restaurant,explicit | explicit
+جراد البحر كان جيدًا، وليس شيئًا مذهلاً.,جراد البحر,food quality,restaurant,explicit
+حديقة تشيناي هو مطعمي الهندي المفضل في المدينة.,حديقة تشيناي,restaurant general,restaurant,explicit
+تجربة جميلة .,NULL,restaurant general,restaurant,implicit
+لا تجعلني أبدأ بالحديث عن المارجريتا أيضًا.,المارجريتا,drinks quality,restaurant,explicit
+بائس ومتقيئ,NULL | NULL,restaurant general | restaurant general,restaurant,implicit | implicit
+الطعام لذيذ - من العروض الخاصة إلى قائمة الطعام العادية، الأطباق لم تكن مخيبة للآمال أبدًا.,الطعام | الأطباق | العروض الخاصة | قائمة الطعام العادية,food quality | food quality | food quality | food quality,restaurant,explicit | explicit | explicit | explicit
+"ليس لأنك "" الفصول الأربعة "" ... - يُسمح لك بتقاضي مبلغ باهظ من المال مقابل عشاء رومانسي.",الفصول الأربعة,restaurant prices,restaurant,explicit
+الأسعار المرتفعة التي ستدفعها هي مقابل المنظر وليس مقابل الطعام.,NULL,restaurant prices,restaurant,implicit
+تقع في نهاية كتلة رائعة.,NULL,location general,restaurant,implicit
+الموظفين مفيدون للغاية ومهتمون.,الموظفين | الموظفين,service general | service general,restaurant,explicit | explicit
+لقد كان الأمر يستحق الانتظار.,NULL,restaurant general,restaurant,implicit
+تاكسان لذيذ!,تاكسان,food quality,restaurant,explicit
+إنه ممل في الداخل، وكان السوشي الخاص بنا أقل من المتوسط إلى حد كبير ... التونة كان رطبًا والآخر اللفائف لم يكن له أي نكهة.,NULL | السوشي | التونة | اللفائف,ambience general | food quality | food quality | food quality,restaurant,implicit | explicit | explicit | explicit
+كن مستعدًا للانتظار، لأن (المكان) صغير جدًا.,المكان | المكان,restaurant miscellaneous | ambience general,restaurant,explicit | explicit
+رائع مكان .,مكان,restaurant general,restaurant,explicit
+إنه بالتأكيد ليس مكانًا للذهاب إليه إذا كنت تريد إثارة إعجاب شخص ما.,مكانًا,restaurant miscellaneous,restaurant,explicit
+ومع ذلك، بمجرد أن تلقيت طلبي المتواضع كما هو متوقع لما يعتقد Dokebi أنه يمر على أنه معرض كوري، (في بعض الأحيان يتعين عليك التسوية عندما يكون هذا هو خيارك الوحيد)، فقد تناولت حوالي نصف كيمتشي قبل أن أجد قطعة خس عشوائية مصحوبة بقطعة أكثر إثارة للاشمئزاز ولزوجة وسيئة بشكل واضح من جلد السمك.,كيمتشي | معرض كوري,food quality | food quality,restaurant,explicit | explicit
+أنا سعيد أنني فعلت الطعام كان رهيبًا.,الطعام,food quality,restaurant,explicit
+أمّا ليس شيئاً خاصاً.,أمّا,restaurant general,restaurant,explicit
+إن الاتصال بـ المكان Hampton Chutney Co. يحذرك من أن هؤلاء الأشخاص يقدمون المزيد من الأناقة أكثر من الجوهر، ولكن في هذه الغرفة غير الجذابة مع الموظفين غير المتعاونين كان هناك ندرة في السابق أيضًا.,المكان | الغرفة | الموظفين,restaurant general | ambience general | service general,restaurant,explicit | explicit | explicit
+الشكوى الكبرى: لا يتوفر الخبز المحمص.,NULL,service general,restaurant,implicit
+البريوش والحلوى كهدايا للحفلات هي لمسة لطيفة وحلوة لوجبة لا تنسى.,البريوش والحلوى | البريوش والحلوى,food quality | food quality,restaurant,explicit | explicit
+أنا أحب هذا المكان!,المكان,restaurant general,restaurant,explicit
+شكرًا لك بلوم على الرحلة الجميلة.,بلوم | بلوم,restaurant general | restaurant general,restaurant,explicit | explicit
+لقد قضينا وقتا لطيفا للغاية .,NULL,restaurant general,restaurant,implicit
+إن الذهاب إلى النباح يستحق دائمًا رحلة القطار، وسيجعل لسانك وبطنك في غاية السعادة!,النباح | NULL,restaurant general | food quality,restaurant,explicit | implicit
+بشكل عام، سأعود مرة أخرى - لأنه كان جميلاً مطعم - ولكنني آمل أن يهتم الموظفون أكثر بالتفاصيل الصغيرة في المستقبل.,مطعم | مطعم | الموظفون,restaurant general | ambience general | service general,restaurant,explicit | explicit | explicit
+أصيل طعام تايواني رخيص الثمن... ماذا تريد أكثر من ذلك؟,طعام تايواني | طعام تايواني,food quality | food prices,restaurant,explicit | explicit
+أنا لست متأكدًا من مكان تناول المراجعين الآخرين الطعام ولكن يبدو الأمر كما لو أننا قمنا بزيارة مطعمين مختلفين لأن أصدقائي وأنا جميعًا نستمتع بـ Mizu كثيرًا ... ونحن عملاء متكررون.,Mizu,restaurant general,restaurant,explicit
+بالطبع إنه مزدحم ولكن من يهتم .,NULL,ambience general,restaurant,implicit
+أوصي بشدة بمقهى سانت بارت لـ الطعام، الأجواء و الخدمة الرائعة.,الطعام | الأجواء | الخدمة | الخدمة,food quality | ambience general | service general | service general,restaurant,explicit | explicit | explicit | explicit
+أحد الأماكن المفضلة لدي في مانهاتن.,NULL,restaurant general,restaurant,implicit
+كان الطعام ممتازًا وكذلك الخدمة، ومع ذلك، غادرت فور سيزونز بخيبة أمل كبيرة.,الطعام | الخدمة | فور سيزونز,food quality | service general | restaurant general,restaurant,explicit | explicit | explicit
+كانت قائمة الساكي الخاصة بهم قائمة الساكي واسعة النطاق، لكننا كنا نبحث عن Purple Haze، الذي لم يكن مدرجًا في القائمة ولكن تم صنعه لنا بناءً على الطلب!,قائمة الساكي | NULL,drinks style_options | service general,restaurant,explicit | implicit
+سيدة دي جي داخل المنزل في ليالي السبت لديها ذوق جيد للغاية في الموسيقى، وعلاوة على ذلك، تأخذ الطلبات.,سيدة دي جي داخل المنزل,ambience general,restaurant,explicit
+أنت تعرف ما أعنيه، كل الأشياء الإيجابية التي تحدث هناك جعلتني أكتب هذا الاستعراض.,NULL,restaurant general,restaurant,implicit
+لقد تناولت صدر البط الخاص في زيارتي الأخيرة وكان مذهلاً.,صدر البط الخاص,food quality,restaurant,explicit

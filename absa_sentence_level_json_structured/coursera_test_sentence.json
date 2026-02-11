@@ -1,0 +1,7894 @@
+﻿[
+  {
+    "sentence": "نعم، يشكل التقاط أدوات جديدة على الفور جزءًا كبيرًا من البرمجة، ولكن سيكون من الرائع فهم النظريات الأساسية وراء كيفية عمل بعض هذه المكتبات والمفاهيم مرة واحدة على الأقل قبل الانغماس في هذا الواقع!",
+    "aspect": [
+      "النظريات الأساسية",
+      "NULL"
+    ],
+    "category": [
+      "material comprehensiveness",
+      "course relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرا جزيلا لك، دكتور تشاك والفريق!",
+    "aspect": [
+      "دكتور تشاك والفريق"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سيكون من الرائع إذا قمت بتجميع جميع الأدوات اللازمة لدورة تدريبية معينة في صورة آلة افتراضية محددة مسبقًا وجاهزة للتنزيل من الدورة التدريبية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الشيء السلبي الوحيد الذي يمكنني قوله هو أنني آمل أن يتمكنوا من تحديث الوقت المستغرق لـ تصنيف المهام على الخادم.",
+    "aspect": [
+      "تصنيف المهام"
+    ],
+    "category": [
+      "grades general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ربما أنها قصيرة قليلا .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الواجبات صعبة ومثيرة للاهتمام.",
+    "aspect": [
+      "الواجبات",
+      "الواجبات"
+    ],
+    "category": [
+      "assignments quality",
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع دورة للمبتدئين الحقيقيين.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه جيد حقًا نظرة عامة حول إنتاج الألبان وإدارتها.",
+    "aspect": [
+      "نظرة عامة حول إنتاج الألبان وإدارتها"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الاهتمام الدقيق بالتفاصيل، والحدس حول المزالق الخاصة للمتعلمين الجدد (والأكثر كفاءة أيضًا، في الواقع) وبالطبع بالطبع، فإن الفكاهة الساخرة من الذات كلها تساهم في جعل هذا المتقدم بالفعل بالطبع ممتعًا للغاية!",
+    "aspect": [
+      "بالطبع",
+      "بالطبع",
+      "بالطبع",
+      "بالطبع"
+    ],
+    "category": [
+      "course general",
+      "course quality",
+      "course comprehensiveness",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ربما كنت سأستمتع بالتجربة بأكملها بالطبع أكثر إذا لم يكن التصميم تقنيًا للغاية.",
+    "aspect": [
+      "بالطبع"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الآن أشعر أن لدي فكرة جيدة عن ماهية هندسة البرمجيات.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لا أمانع، ولكن بعض التعليقات لم تكن ذات صلة، لذا كان الأمر غريبًا بعض الشيء.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "واضح جداً محاضرات .",
+    "aspect": [
+      "محاضرات"
+    ],
+    "category": [
+      "presentation comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد تعلمت الكثير واستوعبت واحتفظت بالمزيد فقط بسبب أسلوبه وطرق التدريس.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت قاعدة بيانات Oracle على Virtual Box وتكامل البيانات Pentaho بمثابة كابوس.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "التمارين و الدروس التعليمية مفيدة جدًا لتكملة المحاضرات وتساعد في زيادة مهاراتنا في المجال.",
+    "aspect": [
+      "التمارين",
+      "الدروس التعليمية",
+      "المحاضرات"
+    ],
+    "category": [
+      "assignments quality",
+      "presentation quality",
+      "presentation relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الدورة  صعبة وتحتاج إلى معرفة مسبقة بلغة R.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أتمنى أن يكون هناك المنهج الدراسي كاملاً يمكننا الوصول إليه في بداية الدورة للتحضير للمهمة.",
+    "aspect": [
+      "المنهج الدراسي"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أحببت بساطة الدورة .",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالإضافة إلى ذلك، بما أن الطلاب يبدأون في قراءة العديد من المستندات مستندات وما إلى ذلك، فيجب زيادة توقعات الوقت لكل أسبوع.",
+    "aspect": [
+      "مستندات",
+      "NULL"
+    ],
+    "category": [
+      "material quantity",
+      "course workload"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مرة أخرى، البروفيسور تشايكين ضرب الكرة خارج الملعب من حيث التصميم (عملي للغاية!) للدروس وتقديم المحتوى.",
+    "aspect": [
+      "البروفيسور تشايكين"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يتم شرح التعلم بعبارات بسيطة والنصائح وأفضل الممارسات تلتصق حقًا بذاكرتك.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "material quality",
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت بها حقا .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "من الواضح أن المعلم خبير في الموضوع وكذلك في التدريس ويتم توصيل المعلومات بوضوح شديد.",
+    "aspect": [
+      "المعلم",
+      "المعلم"
+    ],
+    "category": [
+      "faculty general",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "دعم قليل أو لا يوجد دعم على الإطلاق.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "فهو يعطيك الشعور بأنك في فصل دراسي حقيقي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أوضحت الكثير من الأمور التي كانت غامضة من قبل.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الإزعاج الحقيقي مع هذا الدورة هو أن المنتدى لا يعمل.",
+    "aspect": [
+      "المنتدى",
+      "الدورة"
+    ],
+    "category": [
+      "material quality",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أقدر بشدة حصولي على فرصة أخذ هذه الدورة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "السبب في أنني قمت بتقييم 3 نجوم فقط هو أن الشيء المفيد الوحيد الذي ستتعلمه في هذه الدورة الدورة هو إطار عمل التفكير التصميمي.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سأستمر بالتأكيد .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد كانت دورة جيدة دورة، ومع ذلك، يبدو أن (التسجيل 2:) كان من الدورة السابقة دورة.",
+    "aspect": [
+      "دورة",
+      "التسجيل"
+    ],
+    "category": [
+      "course general",
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم أستخدمه من قبل ولا أفهم لماذا يجب أن أترك بياناتي الشخصية في مكان ما إذا لم أخطط لاستخدام هذه الخدمة في المستقبل.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "من الرائع أن أكون جزءًا من (دورة 1:) التي تضم العديد من الأفراد المتحمسين والمكرسين لصحة الكوكب.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد اتخذ نهجًا رائعًا حقًا في تقديم هذه الدورة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يتوافق هذا (الدورة التدريبية رقم 1) بشكل مثالي مع المعرفة التي تعلمتها.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك، فإنني أقدر التحدي وخطورة الموضوع.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "قد يكون مفيدًا لبعض الأشخاص (خاصة أولئك الذين يعملون في مجال B2C أو يرغبون في اللعب بالتكنولوجيا)، لكنه كان مضيعة للوقت بالنسبة لي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان هناك القليل من التوجيه في مهام البرمجة، ولكن قد يكون ذلك بسبب الخلفيات المذكورة أعلاه التي توصل إليها الطالب.",
+    "aspect": [
+      "مهام البرمجة"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أعتقد أنه سيكون من الأفضل لو تم توزيع هذه مقاطع الفيديو على بقية التخصص.",
+    "aspect": [
+      "مقاطع الفيديو"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد ساعدتني المفاهيم والتقنيات التي تعلمتها حتى الآن على التحسن حقًا في حياتي الجامعية كطالب وفي عملي كمدرس للغة الإنجليزية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تحدي الواجبات .",
+    "aspect": [
+      "الواجبات"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مثيرة، ثاقبة و",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "المقدمة هي أكثر بكثير من هذه الدورة، في رأيي المحترم.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "material quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أعطتني هذه الدورة الدورة كل ما أحتاجه للتعمق أكثر وإجراء التجارب.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المفاهيم التي تم تدريسها بشكل جيد.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بالإضافة إلى ذلك، أعتقد أن الشعور بالإرهاق قد يتسبب في توقف الكثير من الطلاب عن الدراسة قبل أن يفهموا حقًا كيف يمكن للموارد المتاحة (الوثائق، وما إلى ذلك) أن تساعدهم.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "material quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد غيرت الطريقة التي أفكر بها حول العديد من الأشياء والتي أعتقد أن التعليم يجب أن يكون حولها.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تحدي مع اللعبيّة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز مدرسين و مادة.",
+    "aspect": [
+      "مدرسين",
+      "مادة"
+    ],
+    "category": [
+      "faculty general",
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا يمكن التغلب على ذلك .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جيد جدًا ومليء بالمعلومات.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course quality",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يقول جيف في البداية أن هذه مجرد نظرة عامة ويشير إلى بعض الموارد الأخرى.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "Lexalytics غير متوفر لنظام Mac، لذا لم أتمكن حتى من استخدامه.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذه الدورة الدورة منظمة بشكل جيد للغاية ومقدمة بشكل جيد للغاية.",
+    "aspect": [
+      "الدورة",
+      "الدورة"
+    ],
+    "category": [
+      "course quality",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تصميم الدورة مدروس ونفذ بشكل جيد.",
+    "aspect": [
+      "تصميم الدورة",
+      "تصميم الدورة"
+    ],
+    "category": [
+      "course quality",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لذا فإن المساعدة من المنتدى هي حاجة حقيقية لهذه الدورة لتعمل بسلاسة.",
+    "aspect": [
+      "المنتدى"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أرى قيمة في تضمين هذه المادة في التخصص ولكن ليس كدورة مباشرة دورة.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أصبح الأمر مربكًا ومربكًا بعض الشيء.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "material comprehensiveness",
+      "material quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أعتقد أنني تعلمت الكثير من هذه الدورة الدورة وأنا أتطلع إلى التخصص الدورة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان من الممكن أن يكون هذا (الدورة التدريبية رقم 4) أفضل من خلال تضمين المزيد من الأمثلة، فـ (المحاضر رقم 2) ممل للغاية وللأسف لا أرى منتدى للمناقشة لهذا (الدورة التدريبية رقم 4)، بالإضافة إلى ذلك، كلما حاولت الرد على التعليقات، يتحول زر الرد إلى اللون الرمادي ولا يحدث شيء.",
+    "aspect": [
+      "الدورة",
+      "lecturer",
+      "NULL",
+      "الدورة"
+    ],
+    "category": [
+      "course general",
+      "faculty general",
+      "material quantity",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم تقديم قوة MATLAB بشكل جيد في هذه الفصول الدراسية.",
+    "aspect": [
+      "قوة MATLAB"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقدم الأسبوع الأخير من الدورة  أيضًا إطارًا مثيرًا للاهتمام وفعالًا للتفكير التصميمي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت كثيرًا أثناء القيام بهذا الدورة التدريبية.",
+    "aspect": [
+      "الدورة التدريبية"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا لك أستاذ وشكرا لك كورسيرا .",
+    "aspect": [
+      "أستاذ"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يجب عليك أن تكون موضوعيا .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يلهم المعلمين كيفية تدريس وممارسة الشخصية التي يمكن أن تؤثر على الطلاب لممارستها أينما كانوا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذه دورة رائعة دورة وأود بالتأكيد أن أوصي بها للآخرين.",
+    "aspect": [
+      "دورة",
+      "دورة"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مدهش !",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أندرو نج مدرس عظيم.",
+    "aspect": [
+      "أندرو نج"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك، فإن هذا برنامج الدورات هو مجرد هبوط تافه، ونهج غير ذي أهمية.",
+    "aspect": [
+      "برنامج الدورات"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أعتقد أنني سأستخدم المعرفة التي حصلت عليها من الدورة  في أعمالي المستقبلية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت المهام الأسبوعية المهام صعبة وممتعة للغاية.",
+    "aspect": [
+      "المهام"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إن المادة التي تغطيها هذه الدورة كافية ومفيدة للغاية.",
+    "aspect": [
+      "المادة",
+      "المادة"
+    ],
+    "category": [
+      "material quantity",
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قمت بإتمام دورة Codecademy Python بأكملها course، والتي كانت تركز بشكل كبير على الجانب العملي، ومن الرائع الآن القيام بذلك course لفهم النظرية وراء ذلك، وما كنت أفعله بالفعل.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد شارك الدكتور تشاك أيضًا ببعض المعلومات المثيرة للاهتمام (المقابلات طوال الدورة ، والتي شعرت أنها كانت مفيدة للغاية.",
+    "aspect": [
+      "لقد شارك الدكتور تشاك أيضًا ببعض المعلومات المثيرة للاهتمام (المقابلات",
+      "NULL"
+    ],
+    "category": [
+      "faculty general",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أود أن أقيم هذه الدورة الرائعة الدورة على أنها ممتازة تحت إشراف الدكتورة إيما جاكوي و الدكتورة جينيفر كاربري، المدربين الرائعين. شكرًا جزيلاً على كل التوضيحات اللطيفة المقدمة لأسئلتي، والجيد اختبارات الفيديو، والممتع مجموعات المشكلات والمثير للعقل الاختبارات.",
+    "aspect": [
+      "الدورة",
+      "الدورة",
+      "الدكتورة إيما جاكوي",
+      "الدكتورة جينيفر كاربري",
+      "اختبارات الفيديو",
+      "مجموعات المشكلات",
+      "الاختبارات",
+      "الدكتورة جينيفر كاربري"
+    ],
+    "category": [
+      "course general",
+      "course general",
+      "faculty general",
+      "faculty general",
+      "assignments quality",
+      "assignments quality",
+      "assignments quality",
+      "faculty response"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أعجبني محتوى الدورة .",
+    "aspect": [
+      "محتوى الدورة"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "من ناحية أخرى، فإن الأسئلة تشبه مشاكل المعلوماتية الحيوية في العالم الحقيقي.",
+    "aspect": [
+      "الأسئلة"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يتناول الموضوع بحيوية وروح تجذب الانتباه.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مفيدة للغاية .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سأبدأ بالقول أن هذه (الدورة التدريبية 1) تعطي نظرة جيدة على مجموعة واسعة من تطبيقات الطباعة ثلاثية الأبعاد.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مارغريت ميلوني جعلت هذه الدورة ملونة بصوتها اللحني وشروحاتها الجيدة.",
+    "aspect": [
+      "مارغريت ميلوني",
+      "مارغريت ميلوني"
+    ],
+    "category": [
+      "faculty general",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت الدورة  رائعة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أعتقد أنه كان خطأ من المصنف.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "grades general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد كنت أقدر مساعدتك حقا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز دورة لتعلم أساسيات بايثون.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تبدأ الدورة  بمستوى أساسي للغاية، وتتقدم بوتيرة يجب أن يشعر بها الشخص بالراحة التامة.",
+    "aspect": [
+      "الدورة",
+      "الدورة"
+    ],
+    "category": [
+      "course general",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الوقت المخصص لإجراء الاختبارات \" الاختبارات \" ليس طويلاً .",
+    "aspect": [
+      "الاختبارات"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تعلمت الكثير!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان من الممكن أن يتم ذلك بشكل أفضل بكثير وخاصة المحاضرات.",
+    "aspect": [
+      "المحاضرات"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنها نقطة بداية جيدة جدًا لأي شخص مهتم بـ FSI.",
+    "aspect": [
+      "FSI"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أود أن أوصي بأن يكون الأمر أكثر توجهاً نحو البيانات مثل دراسات الحالة مع أمثلة محددة بحيث تتقارب بشكل طبيعي مع إنشاء دراسة حالة لمدينة في نهاية الدورة كمشروع نهائي بدلاً من الدراسة الاختيارية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرا جزيلا على الدورة الرائعة !",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كما نقترح تقليل المناقشات التي تركز على التحديات (حيث استغرقت الدورة  الكثير من الوقت) والتركيز أكثر على الخدمات الجديدة المختلفة التي تتبناها المدن المختلفة للحصول على الفوائد / التأثير على الناتج المحلي الإجمالي للمدينة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course workload"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أنا مهندس ميكانيكي متحدث باللغة الإسبانية ولدي هواية البرمجة فقط وتمكنت من إنهاء دراستي بدرجة 99٪.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع دورة، قام المعلم بعمل جيد جدًا في شرح موضوع صعب للغاية لمجموعة من الطلاب ذوي خلفيات مختلفة بشكل كبير.",
+    "aspect": [
+      "دورة",
+      "المعلم"
+    ],
+    "category": [
+      "course general",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالإضافة إلى ذلك سوف تتعلم وتتدرب مع المكتبات التي يمكن أن تجعل حياتك أبسط :)",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مثيرة للاهتمام بشكل لا يصدق ومفيدة الموارد كذلك.",
+    "aspect": [
+      "الموارد",
+      "الموارد"
+    ],
+    "category": [
+      "material quality",
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع بالطبع!",
+    "aspect": [
+      "بالطبع"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع واجب تعلمت منه الكثير وأحببت البنية والشعور والأستاذ.",
+    "aspect": [
+      "واجب",
+      "NULL"
+    ],
+    "category": [
+      "assignments quality",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مثل هذا رائع الدورة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه (الدورة التدريبية رقم 1) مفيدة جدًا في تقديم أفكار حول كيفية القيام بذلك بشكل أفضل.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت بشكل خاص بجزء الأمان، والذي أتعامل معه بشكل عرضي في العمل ولم أستطع أبدًا استيعاب المفاهيم، ولكن الآن أستطيع ذلك.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "في رأيي يجب أن تكون هذه (الدورة التدريبية 1) بمثابة نقطة بداية لأي فرد يريد تعلم التعلم الآلي.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أعادت الورشة  تنشيط مهاراتي الشعرية، والتي كانت ضعيفة إلى حد ما قبل أخذ الدورة.",
+    "aspect": [
+      "workshop"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا يمل من كثرة التفاصيل .",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course quality",
+      "presentation quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إن أسبوعًا واحدًا من (الدورة التدريبية 1) يمكن أن يساعد حرفيًا العديد من الشركات / المنظمات غير الحكومية.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد اعجبتني التمارين .",
+    "aspect": [
+      "التمارين"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا جزيلا على هذا الدورة .",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "توفر هذه الدورة  جميع الأساسيات اللازمة مع القليل من الرياضيات التي تمنح إحساسًا بديهيًا بالخوارزميات.",
+    "aspect": [
+      "الدورة",
+      "الدورة"
+    ],
+    "category": [
+      "course quality",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الأستاذ دوغلاس كيرني هو مدرس ممتاز وممتع ولديه الكثير من الحكمة لينقلها.",
+    "aspect": [
+      "الأستاذ دوغلاس كيرني",
+      "الأستاذ دوغلاس كيرني",
+      "الأستاذ دوغلاس كيرني"
+    ],
+    "category": [
+      "faculty general",
+      "faculty general",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "السيد بلوم هو معلم عظيم!",
+    "aspect": [
+      "السيد بلوم"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائعة للغاية!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد حققت جزءًا من أهدافي من خلال اتخاذ هذا البرنامج .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "دورة منعشة جدًا دورة تركز على نمو شخصية الطلاب.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سأوصي بهذا بكل سرور الدورة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان من السهل حل الاختبارات بمجرد أن تأخذ الوقت الكافي لرؤية جميع مقاطع الفيديو ذات الصلة.",
+    "aspect": [
+      "الاختبارات",
+      "مقاطع الفيديو"
+    ],
+    "category": [
+      "assignments comprehensiveness",
+      "presentation relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "من الصعب جدًا التعرف على تقنيات معالجة اللغة الطبيعية إذا لم تأخذ أي دورة تدريبية حولها من قبل.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الرسوم التوضيحية ممتعة!",
+    "aspect": [
+      "الرسوم التوضيحية"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جهز نفسك رغم ذلك - فهو يحتوي على قدر كبير جدًا من المواد.",
+    "aspect": [
+      "المواد"
+    ],
+    "category": [
+      "material quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت كثيرًا بهذه الدورة الدورة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز دورة خاصة إذا كنت تريد البدء من الصفر.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "حماسه هو الشيء الذي من شأنه أن يساعدك على الاستمرار في الدورة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "المحاسبة الإدارية (الأسبوع الرابع) يغير تفكيري !!",
+    "aspect": [
+      "المحاسبة الإدارية"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "محبط للغاية من هذا الدورة النهائية.",
+    "aspect": [
+      "الدورة النهائية"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد تم تقديم العديد من المكتبات و المفاهيم الجديدة في الفصلين الأخيرين.",
+    "aspect": [
+      "المكتبات",
+      "المكتبات",
+      "المفاهيم",
+      "المفاهيم"
+    ],
+    "category": [
+      "material quantity",
+      "material quality",
+      "material quality",
+      "material quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إن كمية العمل والوقت الذي تم بذله في إنشاء هذه الدورة الشاملة والمتنوعة بالطبع مثيرة للإعجاب للغاية.",
+    "aspect": [
+      "بالطبع",
+      "بالطبع",
+      "بالطبع"
+    ],
+    "category": [
+      "course workload",
+      "course quality",
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا لك Relay / GSE و Coursera!",
+    "aspect": [
+      "Relay / GSE"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ونعم، مثل أي معلم جيد حقًا، ياكوف يشعر بالحاجة إلى الخوض في التفاصيل النظرية الدقيقة التي لا يرغب معظم الناس في الخوض فيها.",
+    "aspect": [
+      "ياكوف"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان (الفصل 2) منظمًا جيدًا وسهل الفهم.",
+    "aspect": [
+      "الفصل",
+      "الفصل"
+    ],
+    "category": [
+      "course quality",
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه ببساطة دورة رائعة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنه يتطرق إلى مجال بحثي معقد إلى حد ما، لكنه نجح ببراعة في توصيل المهارات والأساليب الأساسية بوتيرة صعبة بعض الشيء، ولكن ليس إلى درجة التخويف.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "material quality",
+      "course quality",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد حققت الدورة  بالتأكيد ما تدرسه - وهو التأكد من تذكرك للمادة عن طريق اختبار نفسك واستخدام التكرار المتباعد.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أنا متأكد من أن مهاراتي في البرمجة وصلت إلى مستوى أعلى وقد أوصيت بها لجميع أصدقائي وزملائي.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرا على المحتوى الرائع !",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سيتم الإشارة إلى المواد مرارًا وتكرارًا.",
+    "aspect": [
+      "المواد"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إلى حد ما ومفيدة للغاية! ! !",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أنا أحب الأساتذة، ولكن لسوء الحظ، لا أشعر بارتباط كبير بي (لا أرى حقًا أهمية كبيرة بالنسبة لي لتحديد ما إذا كانت الشركة تقدم بيانات مالية مزيفة؛ أنا لست مستثمرًا، وعملي اليومي لا علاقة له حقًا بالبيانات المالية).",
+    "aspect": [
+      "الأساتذة",
+      "NULL"
+    ],
+    "category": [
+      "faculty general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت المحاضرتان  رائعتين وممتعتين.",
+    "aspect": [
+      "lectures",
+      "lectures"
+    ],
+    "category": [
+      "presentation quality",
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالنظر إلى كل هذا، فهو رائع دورة.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "غير مخصص للمتعلمين الجدد في المجال الطبي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت قائمة الأدبيات المقدمة واسعة النطاق ومختارة بشكل استراتيجي.",
+    "aspect": [
+      "قائمة الأدبيات",
+      "قائمة الأدبيات"
+    ],
+    "category": [
+      "material quantity",
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا لك على محاضرتك الرائعة، دكتور تشانك .",
+    "aspect": [
+      "دكتور تشانك"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كنظرة عامة، تعمل هذه الفصل بشكل جيد.",
+    "aspect": [
+      "الفصل"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك، فإنه يوفر ما يكفي من المواد الإضافية المواد للعمل بها والوصول إلى عمق الموضوع كما يرغب المرء.",
+    "aspect": [
+      "المواد",
+      "الموضوع"
+    ],
+    "category": [
+      "material quantity",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان جميع المتحدثين  مفيدين للغاية ومثيرين للتفكير.",
+    "aspect": [
+      "speakers",
+      "speakers"
+    ],
+    "category": [
+      "faculty comprehensiveness",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هزار .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يمكنك أن تتوقع أن تتعلم القليل عن ماهية التعلم الآلي وكيفية القيام بذلك باستخدام حزمة Caret في R.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "المواد الخاصة بالدورة تم صياغتها بشكل دقيق ومفهوم.",
+    "aspect": [
+      "المواد",
+      "المواد"
+    ],
+    "category": [
+      "material quality",
+      "material comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مرحبًا، شكرًا لك على هذه الدورة المنظمة جيدًا الدورة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "على الرغم من التحديات، فإن المادة رائعة جدًا وأي شخص مهتم بالتشريح سيتعلم شيئًا ما.",
+    "aspect": [
+      "المادة"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مدهش المعلمين ! !",
+    "aspect": [
+      "المعلمين"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "من حيث المحتوى وكيفية سير الدورة، فقد كان الأمر يتجاوز توقعاتي.",
+    "aspect": [
+      "المحتوى",
+      "الدورة"
+    ],
+    "category": [
+      "material quality",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الدورة تعتمد على البحث الخارجي.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "موصى به .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان الأمر صعبًا بعض الشيء في النهاية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لأن ليس كل ما يتم التساؤل عنه في \"الاختبارات\" هو ما تم التفكير فيه في الفصول الدراسية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذه الدورة دورة ضرورية إذا كنت تتطلع إلى التعرف على مفاهيم التعلم الآلي أو اقتحام صناعة علوم البيانات.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شعرت وكأنهم ذهبوا بسرعة كبيرة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سأحب ذلك .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت حقًا بالدورة  وتعلمت الكثير.",
+    "aspect": [
+      "الدورة",
+      "الدورة"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المعلم سهل الفهم ويقوم بعمل جيد في تقديم اللغة.",
+    "aspect": [
+      "المعلم",
+      "المعلم"
+    ],
+    "category": [
+      "faculty comprehensiveness",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المشاريع / المهام رائعة.",
+    "aspect": [
+      "المشاريع / المهام"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان من الصعب متابعة هذه الدورة الدورة وكانت التجارب المجانية المقدمة تبدو وكأنها مفروضة علينا.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم شرح موضوعين بشكل جيد للغاية ويتبعان تسلسلًا منطقيًا.",
+    "aspect": [
+      "موضوعين",
+      "موضوعين"
+    ],
+    "category": [
+      "material comprehensiveness",
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت المهمتان : أكثر تعقيدًا بعض الشيء من المهام الموجودة في الدورة الأولى، ولكنها لا تزال ممتعة للغاية.",
+    "aspect": [
+      "tasks",
+      "tasks"
+    ],
+    "category": [
+      "assignments quality",
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يوفر منتدى المناقشة بعض مستويات المساعدة ولكنك تعتمد في الأساس على نفسك.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت هذه (الدورة 1) رائعة!",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شرح كل شيء بالتفصيل .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "استمتعت بهذا حقًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "النجمة - - لأنني أشعر بقليل من الانخراط في المسار، ولا أشعر بانخراط المدرب.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "faculty general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت الدورة  جيدة حقًا وساعدتني في الحصول على بعض تقنيات التعلم والأفكار الجديدة.",
+    "aspect": [
+      "الدورة",
+      "الدورة"
+    ],
+    "category": [
+      "course general",
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه دورة مثيرة للاهتمام ومجزية للغاية .",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "polarity positive"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إن تشغيل التسجيل للطلاب الآخرين درجات أمر مرهق للغاية.",
+    "aspect": [
+      "درجات"
+    ],
+    "category": [
+      "grades general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا يحتوي المقرر  على أي حوارات أو أي مواقف حقيقية يتم فيها مراجعة المفردات.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لا تفوت هذه (الدورة 1) .",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "(1: يقدم الأستاذ كرامر المفاهيم الأساسية للميكانيكا الإحصائية بطريقة معقولة تجعل هذا الموضوع الصعب سهلاً إلى حد ما حتى للمبتدئين.",
+    "aspect": [
+      "الأستاذ كرامر"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "صلب دورة .",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قائمة القراءة الموصى بها، مع روابط لمعظم العناصر، تستحق الوقت الذي تقضيه عليها.",
+    "aspect": [
+      "قائمة القراءة الموصى بها"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام، كانت الدورة رائعة إذا كنت تخطط لزيارة البلاد وترغب في الاستغناء عن مترجم لأننا جميعًا نعلم أن ليس كل المواطنين الصينيين يتحدثون الإنجليزية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ساكس وهذا العمل الثوري لعالمنا .",
+    "aspect": [
+      "ساكس"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالنسبة لشخص مثلي لديه 17 عامًا من الخبرة في البرمجة، ومع بعض التدريب العملي على الشبكات العصبية من أيام الكلية، وأدوات تحليلية لبعض التطبيقات في R؛ فهو تجديد رائع للأساسيات ومجموعة كبيرة من عناصر التكنولوجيا العملية التي تعد الأكثر فائدة في تطبيقات التعلم الآلي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت هذه الدورة، المدرب السيد غابرييل ترويلو، الدورة المواد، مقاطع الفيديو، والمقابلات مع المحترفين مثالية تمامًا.",
+    "aspect": [
+      "السيد غابرييل ترويلو",
+      "المواد",
+      "مقاطع الفيديو"
+    ],
+    "category": [
+      "faculty general",
+      "material quality",
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إن نظام التقييم الأفضل هو أن يزن الاختبار والمقالات، على سبيل المثال، 60% اختبار، 40% مقال.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "grades general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ولكن هذا الأمر وجدته صعبًا بعض الشيء وضائعًا في بعض الأحيان، خاصة في العلاقات بين العديد والعديد.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هي دورة مفيدة جدًا دورة على الرغم من أنك تحتاج إلى ساعات أكثر لإكمالها.",
+    "aspect": [
+      "دورة",
+      "دورة"
+    ],
+    "category": [
+      "course general",
+      "course workload"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الأستاذ دقيق جداً، واضح، ومنهجي.",
+    "aspect": [
+      "الأستاذ",
+      "الأستاذ",
+      "الأستاذ"
+    ],
+    "category": [
+      "faculty general",
+      "faculty comprehensiveness",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كنت أفضّل أن يكون لدينا مدرب واحد جيد باستمرار مدرب.",
+    "aspect": [
+      "مدرب"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ربما يكون هناك الكثير من الاختيارات الواجبات.",
+    "aspect": [
+      "الواجبات"
+    ],
+    "category": [
+      "assignments quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المحاضرات مشوقة، ولكن بمستوى مناسب للمبتدئين في علم الفلك.",
+    "aspect": [
+      "المحاضرات",
+      "NULL"
+    ],
+    "category": [
+      "presentation comprehensiveness",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذه دورة مذهلة دورة.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سهلة المتابعة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أيضا الواجبات جميلة جداً .",
+    "aspect": [
+      "الواجبات"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عروض الفيديو جيدة الصنع وتحتوي على معلومات حيوية لتطوير المهارات المطلوبة لكي تكون كاتبًا فعالاً.",
+    "aspect": [
+      "عروض الفيديو"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مرة أخرى، شكرًا لك دكتور تشاك وفريقك على إنشاء هذه الدورة التدريبية المثيرة للاهتمام والممتعة.",
+    "aspect": [
+      "دكتور تشاك"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الطريقة الدكتورة باربرا أوكلي والدكتور سيجنوفسكي طورت هذه الدورة المهمة الدورة بالنسبة لنا الطلاب تطبق أيضًا العديد من الطرق المثيرة للاهتمام للفهم بطريقة أكثر طبيعية بالإضافة إلى شرح واضح للطرق حول كيفية الحصول على نهج أفضل عندما نحاول تعلم شيء ما.",
+    "aspect": [
+      "الدكتورة باربرا أوكلي والدكتور سيجنوفسكي",
+      "الدورة",
+      "الدورة"
+    ],
+    "category": [
+      "faculty general",
+      "course comprehensiveness",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا البروفيسور هير وكورسيرا لأنني أستمتع بهذه الدورة الرائعة الدورة التي تتحدى العديد من الصور النمطية.",
+    "aspect": [
+      "البروفيسور هير",
+      "الدورة"
+    ],
+    "category": [
+      "faculty general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "فهو في الواقع ينشر تقنيات ومفاهيم مفيدة في التعلم.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أتمنى أن يقدموا شهادة مجانية لمن يكمل الدورة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course value"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد شعرت أن هذه الدورة  كانت رائعة - وأنا أرى أن الدورة  يجب أن تكون شرطًا إلزاميًا لجميع أعضاء مجلس الشيوخ ومجلس النواب في الولايات المتحدة - حيث قد يتخذون قرارات أقل غباءً عند الترويج للديمقراطية في البلدان الإسلامية.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الأستاذ إدوين باكر النهج التعليمي مناسب بشكل خاص لمفهومي المثالي حول كيفية تواصل المعلم مع جمهوره.",
+    "aspect": [
+      "الأستاذ إدوين باكر"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شرح المعلومات بشكل واضح .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان المدربون جيدين جدًا في عملهم.",
+    "aspect": [
+      "المدربون"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يجب أن يكون هذا أسوأ دورة Coursera course التي أخذتها وقد أخذت عددًا لا بأس به منها.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أوصي بهذا بالتأكيد لأي شخص يحاول الحصول على مقدمة في البرمجة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان التنظيم، المحتوى، الأنشطة، التدريب والمهام ممتازًا.",
+    "aspect": [
+      "التنظيم",
+      "المحتوى",
+      "الأنشطة",
+      "التدريب والمهام"
+    ],
+    "category": [
+      "course quality",
+      "material quality",
+      "assignments quality",
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الفيديوهات مملة جدًا وغير مفيدة مقارنة بالمحتوى المذهل في الدورات الستة الأولى من التخصص.",
+    "aspect": [
+      "الفيديوهات"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عندي كلمة واحدة : رائع .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الأستاذ واضح في الشرح و متفاهم أيضا.",
+    "aspect": [
+      "الأستاذ",
+      "الأستاذ"
+    ],
+    "category": [
+      "faculty comprehensiveness",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "التواصل سيء جدًا جدًا من المعلمين.",
+    "aspect": [
+      "المعلمين"
+    ],
+    "category": [
+      "faculty response"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أيضًا، محمد نور متحمس جدًا، ويقدم الكثير من الأمثلة الجميلة لتوضيح الدورة.",
+    "aspect": [
+      "محمد نور",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "faculty general",
+      "faculty comprehensiveness",
+      "faculty relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "فهو يشجعك على التركيز على السرد ولا يصرف انتباهك عنه أبدًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بطيئة الوتيرة، ترتيب الفصول منطقي؛ أفضل دورة بايثون قمت بها والوحيدة التي أبقتني محتفظًا بها.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course quality",
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "نحن نحصل على أفكار أساسية، ولكننا نمر عبر كل المعلومات وننظم الأفكار بسرعة كبيرة، دون أي أمثلة أو أمثلة محدودة، وهو ما سيعلمنا الكثير.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع محاضرات، رائع مهام البرمجة والتقييم، بشكل عام استمتعت حقًا بهذه الدورة الدورة.",
+    "aspect": [
+      "محاضرات",
+      "مهام البرمجة",
+      "التقييم",
+      "الدورة"
+    ],
+    "category": [
+      "presentation quality",
+      "assignments quality",
+      "grades general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه الدورة الدورة صعبة بالنسبة للمبتدئين في Ruby on Rails و MongoDB.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أمثلة ذات صلة لا تنسى من أجل ترك انطباع دائم.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "presentation relatability",
+      "presentation comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شيء أساسي بالنسبة لي .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الأستاذ ممتاز و ودود للغاية مع الطلاب، والمادة المادة واضحة جدًا.",
+    "aspect": [
+      "الأستاذ",
+      "الأستاذ",
+      "المادة"
+    ],
+    "category": [
+      "faculty general",
+      "faculty general",
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عظيم أستاذ .",
+    "aspect": [
+      "أستاذ"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أجد نفسي أطبق ما تعلمته في كتاباتي اليومية بالإضافة إلى الأشياء التي أقرأها وأشاهدها.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "باربرا أوكلي كانت رائعة.",
+    "aspect": [
+      "باربرا أوكلي"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "في هذه الدورة القصيرة : يمكنك تعلم بعض المواضيع الرئيسية المهمة في استراتيجية الأعمال.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ونتيجة لذلك، فإن هذه الأسابيع الأربعة كانت مملة إلى حد ما.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الشيء الرئيسي الذي تمكنت من تحقيقه هو ممارسة النغمات، والتي كانت صعبة للغاية.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness",
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد حفزني هذا (الدورة 2) على دراسة المزيد من الدورات المتعلقة بالاقتصاد (الدورة 2) وأود بالتأكيد أن أوصي بها لأي شخص مهتم بالموضوع والذي هو جديد في الاقتصاد الجزئي مثلي.",
+    "aspect": [
+      "الدورة",
+      "الدورة"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إرشادات عملية مفيدة لتجنب أخطاء السعادة التي نرتكبها يوميًا - لم أكن أدرك الكثير منها",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرا لكم على هذه الدورة الرائعة بالطبع.",
+    "aspect": [
+      "بالطبع",
+      "بالطبع"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ولكنها مجرد البداية!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أود أن أشكر بصدق مجتمع Coursera على توفير هذه الفرصة الرائعة لإلقاء نظرة على مفاهيم HTML و CSS و Java Script.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أعجبني أكثر في المرة الثانية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنه مثير للتفكير للغاية ويقدم نظرة ثاقبة للتأمل - وهو موضوع يغيب عن كثير من الناس.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course quality",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع فيديو ، اختبارات وتمارين .",
+    "aspect": [
+      "فيديو",
+      "اختبارات وتمارين"
+    ],
+    "category": [
+      "presentation quality",
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أوصي بهذه الدورة الدورة للجميع.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد بدأت منذ ذلك الحين دورة ستانفورد المجانية course التي يدرسها أحد مؤسسي coursera ، وهي أفضل بكثير!",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كما أن تمارين الواجبات المنزلية استغرقت وقتًا أطول بكثير من التقديرات المتوقعة، ولكنني خصصت ضعف الوقت تقريبًا وتمكنت من إكمال الدورة في الوقت المحدد.",
+    "aspect": [
+      "تمارين الواجبات المنزلية"
+    ],
+    "category": [
+      "assignments workload"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنها طريقة جيدة التقديم وسهلة الفهم للبدء في فهم أعمق أعمال أينشتاين في \"عام المعجزة\" عام 1905.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هو يقدم لك البرمجة بطريقة غير مخيفة وتشعر بأنها طبيعية تمامًا في غضون أسبوعين.",
+    "aspect": [
+      "هو"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت بأسلوب التدريس الخاص بـ البروفيسور سيدل.",
+    "aspect": [
+      "البروفيسور سيدل"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أوصي به بشدة لأي شخص!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم تدريس مفاهيم حساب التفاضل والتكامل المثيرة للاهتمام بعمق من قبل الأستاذ جيم.",
+    "aspect": [
+      "الأستاذ جيم"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مشجع للغاية ومليء بالتحديات مع الكثير من التعلم على طول الطريق.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بالتأكيد سأعود للتحقق من المواد الاختيارية المواد.",
+    "aspect": [
+      "المواد"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم تصميم المهام بشكل جيد أيضًا، مما يساعدني في تحسين تعليمي!",
+    "aspect": [
+      "المهام"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنها دورة رائعة دورة لفهم الغرض من سرد القصص عبر منصات متنوعة وبصورة مستدامة مع مرور الوقت.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان المعلم ممتازًا، وتعلمت أشياء جديدة.",
+    "aspect": [
+      "المعلم",
+      "NULL"
+    ],
+    "category": [
+      "faculty general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مطلوب مهارات قوية في الرياضيات.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لدى الأستاذ الكثير من دراسات الحالة التي تُظهر أنه ممارس للتسويق ويشارك حالات حقيقية / نموذجية تساعدك على فهم المفاهيم التي يتم تدريسها بشكل أفضل (ليس فقط من الناحية النظرية).",
+    "aspect": [
+      "الأستاذ",
+      "الأستاذ"
+    ],
+    "category": [
+      "faculty relatability",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "البروفيسور تشارلز مذهل .",
+    "aspect": [
+      "البروفيسور تشارلز"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "على الرغم من وجود بعض المشكلات الفنية، إلا أن هذه دورة رائعة بالطبع.",
+    "aspect": [
+      "بالطبع",
+      "بالطبع"
+    ],
+    "category": [
+      "course quality",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أخذت أكثر من 5 دورات تدريبية على موقع Coursera، وكان هذا هو الأقل إرضاءً بالنسبة لي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان هذا بمثابة المقدمة المثالية دورة لشخص لا يعرف شيئًا عن HTML.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت حقًا بتحليل البروفيسور مايكل روث لمحتوى الموضوع.",
+    "aspect": [
+      "البروفيسور مايكل روث"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تسلط الدورة  الضوء على المبادئ الأساسية لكيفية الدخول إلى السوق بشكل أفضل وكيفية إبقاء المنافسين خارج السوق.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لو كنت سريعًا جدًا، كان بإمكاني كتم الصوت حتى ينتهي، ولكن أعتقد أن هذا غير ضروري على الإطلاق.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لطيفة ومفصلة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت حقًا بهذا الدورة وأنا حزين نوعًا ما لأن هذا قد انتهى.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا على توجيهاتك .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty response"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إلى جانب المشكلات الفنية الرئيسية ونقص المعلومات قبل تأجيل بدء الدورة والمشكلات الفنية البسيطة، فإن طريقة التدريس تتكيف جيدًا مع الفصول الدراسية في الموقع حيث يمكنك الجلوس في مجموعات دراسية لحل المشكلات معًا؛ الأمثلة المقدمة  لها صلة قليلة جزئيًا ولا تساعد في حل المهام ووفقًا للموظفين فإن أفضل طريقة لحل المهام هي استخدام Google (أو Stackoverflow أو أيًا كان) حقًا؟! بطريقة ما يبدو أنهم أخذوا دورة تدريبية في الموقع ولعبوا ببعض الحلول الفنية الرائعة ويطلقون عليها الآن MOOC. يبدو أنهم لا يدركون حقًا حقيقة أن التدريس في الموقع والدورات التدريبية المفتوحة على الإنترنت تتطلب أنواعًا مختلفة تمامًا من الأساليب التربوية، من المدهش كيف يمكن لنفس الجامعة أن تقدم أفضل دورة تدريبية مفتوحة على الإنترنت (دكتور تشاك) وواحدة من أسوأها (هذه الدورة)",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "material relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لا يزال الأمر جيدًا، ولكنني كنت أتوقع أفضل من الإطارات السلكية والنماذج الأولية التي تعلمناها بالفعل منذ فترة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنه تصميم سيئ واجب يضيع وقت الطلاب ويخلق الكثير من الإحباط.",
+    "aspect": [
+      "واجب"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مقاطع الفيديو واضحة وسهلة المتابعة وتحتوي على الكثير من الأمثلة والمعلومات والمحتوى الرائع.",
+    "aspect": [
+      "مقاطع الفيديو",
+      "مقاطع الفيديو",
+      "مقاطع الفيديو",
+      "مقاطع الفيديو"
+    ],
+    "category": [
+      "presentation quality",
+      "presentation comprehensiveness",
+      "presentation relatability",
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت بهذه الدورة الدورة كثيرًا.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المعلم يميل إلى روح الدعابة مما يخفف التوتر في لحظة التعلم.",
+    "aspect": [
+      "المعلم"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد تناولت الدورة  جميع الأساسيات وأعطتني التوجيه والمعلومات التي أحتاجها كشخص ليس في المجال الطبي، مما يجعل من السهل إجراء المزيد من الأبحاث.",
+    "aspect": [
+      "الدورة",
+      "الدورة",
+      "الدورة"
+    ],
+    "category": [
+      "course general",
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "دورة رائعة  (والكتاب المصاحب لها، عبقرية الكلاب، وموقع العلوم للمواطنين، Dognition، رائعين أيضًا).",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أنا سعيد جدًا لأنني وجدت هذا الدورة !!",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ربما تم تصميمه لأولئك الذين هم أكثر تحليلا مني.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنه يجعل التعلم حول القافية والاستعارة والتقسيم غير معقد بينما يصقل تركيزك، حتى تتمكن كتاباتك من مفاجأتك.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بعد كل شيء، هذا المسار موجه نحو استخدام Python للتحليل وعلوم البيانات، وهو موضوع ليس مخصصًا للمبتدئين تمامًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنها دورة مكثفة ودقيقة دورة، مما يعني أنه من أجل الحصول على مهارة بناء موقع ويب، فإن الشيء الوحيد الذي يجب القيام به هو اتباع الخطوات الموجودة في الفيديو وإنهاء المهمة؛ ومع ذلك فإن كل موضوع في دورة، حتى سطر من التعليمات البرمجية، يستحق مزيدًا من التأمل.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "polarity positive"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جميع تمارين MATLAB / Octave  مثيرة للاهتمام وذات صلة.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "assignments quality",
+      "assignments relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنها تقدم المادة بطريقة سهلة الفهم والهضم.",
+    "aspect": [
+      "المادة"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عادةً ما أفضّل Lynda على Coursera بالنسبة لـ الواجبات والاختبارات، ولكن ليس في هذه الحالة...",
+    "aspect": [
+      "الواجبات"
+    ],
+    "category": [
+      "assignments relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أود أن أرى المزيد من التفاعل والتصنيف تمارين البرمجة بين مقاطع الفيديو لتوصيل المفاهيم بشكل صحيح.",
+    "aspect": [
+      "تمارين البرمجة",
+      "مقاطع الفيديو"
+    ],
+    "category": [
+      "assignments quantity",
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ربما الأستاذة ووترز - يمكن لريست وفريقها إجراء دورة أخرى في علم الآثار العظمية لتقديم تقنيات غير مغطاة في هذه الدورة.",
+    "aspect": [
+      "الأستاذة"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إن محاضرات الفيديو مثيرة وأنا أتطلع إلى الوقت الذي أقضيه في مشاهدتها، والقراءات الأساسية ذات صلة وهناك اقتراحات جيدة لأولئك الذين يريدون الحصول على فهم أعمق للمادة.",
+    "aspect": [
+      "القراءات الأساسية",
+      "محاضرات الفيديو"
+    ],
+    "category": [
+      "material quality",
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد تعلمت الكثير من هذه الدورة الدورة .",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "محتوى رائع!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "المحاضرات  طويلة جدًا، وليست مجزأة لسهولة المشاهدة (إلى الحد الذي لم أتمكن فيه من تنزيلها على هاتفي للاستخدام غير المتصل بالإنترنت / بدون شبكة wifi).",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "باعتباري شخصًا يدرس الإدارة، فقد اكتسبت قدرًا غير واقعي من المعرفة فيما يتعلق بالأسواق المالية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام كانت هذه مقدمة جيدة دورة",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت هذه (الدورة التدريبية رقم 1) أكثر فائدة بكثير مما كنت أعتقد.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت هذه نظرة عامة جيدة على الخدمات التي تقدمها منصة Google Cloud.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يجب على مقدمي الخدمة الآخرين دورة اتباع طريقة مماثلة.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ليس لدي شك في طريقة التعلم الرائعة هذه.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع بالطبع. انتقادي البناء يتعلق بتنظيم أنشطة المجموعة، فمن الصعب جدًا التنظيم في مجموعات من خلال أشخاص لم تقابلهم من قبل، خاصة مع اختلافات المنطقة الزمنية وكذلك الاختلافات في الجداول اليومية لأعضاء المجموعة.",
+    "aspect": [
+      "بالطبع"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه واحدة من أفضل الدورات الدورة التي اتخذتها، إن لم تكن الأفضل.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "معلومات مفيدة للغاية .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أوصي بهذا الدورة .",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يتم تقديم المحتوى الخاص بـ SCRUM ثماني مرات جزئيًا من خلال المقدمة وهنا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مقاطع الفيديو قصيرة ومختصرة، وأود أن أنصح أي شخص بالالتزام بها.",
+    "aspect": [
+      "مقاطع الفيديو"
+    ],
+    "category": [
+      "presentation quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جودة التدريس سيئة للغاية وسريعة جدًا بحيث لا يمكن متابعتها.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "faculty general",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إن العرض العملي للمشاكل يوفر وضوحًا أفضل.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد كانت رؤية مثيرة للاهتمام.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرا جزيلا أستاذ .",
+    "aspect": [
+      "أستاذ"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أقدر أن القراءة المواد كانت مكملة للفيديوهات.",
+    "aspect": [
+      "المواد"
+    ],
+    "category": [
+      "material relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أعطي 5 نجوم لـ المعلم، إنه نهج جيد حقًا في الحصول على تدريس منظم جيدًا المادة.",
+    "aspect": [
+      "المعلم",
+      "المادة"
+    ],
+    "category": [
+      "faculty general",
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان على الناس الانتظار لفترة طويلة للحصول على ردود الفعل، كما اعتقدت أيضًا أن أولئك الذين دفعوا مقابل القسم الأول من الأقسام الخمسة، لا ينبغي أن يكونوا ملزمين بدفع ثمن الأقسام الأربعة التالية إذا أرادوا على الأقل الوصول إلى المادة، دون الحصول على تصنيف.",
+    "aspect": [
+      "NULL",
+      "تصنيف"
+    ],
+    "category": [
+      "faculty response",
+      "grades general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أحببت هذه الفئة!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أوصيت بهذا (الدورة 2) لصديقي وأي شخص مهتم بالموسيقى يجب عليه بالتأكيد تجربة هذا (الدورة 2).",
+    "aspect": [
+      "الدورة",
+      "الدورة"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أعتقد أنه من الأفضل أن تكون هذه المعلومات غير إلزامية ولكن حسب الاختيار",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "وكان من السهل فهم النقاط التي ذكرها.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "وتيرة دورة بطيئة للغاية أيضًا، على الرغم من أنها قد تكون مناسبة للطلاب المبتدئين.",
+    "aspect": [
+      "دورة",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أتمنى فقط أن يكون هناك المزيد مهام البرمجة المصنفة!",
+    "aspect": [
+      "مهام البرمجة المصنفة"
+    ],
+    "category": [
+      "assignments quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سأوصي به لأصدقائي .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد وجدت هذا الدورة مفيدًا جدًا وتعلمت كيفية استخدام التعبيرات العادية واستخدمتها لاحقًا لتحليل صفحات HTML للنظر في العلامات والمحتوى المتنوع.",
+    "aspect": [
+      "الدورة",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مستوى تمهيدي رائع (دورة 1) في الإستراتيجية التنافسية.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أود أن أشكر المدربين وجميع أولئك الذين شاركوا في تقديم مثل هذه الدورة التدريبية المفيدة والجيدة الجودة الدورة.",
+    "aspect": [
+      "الدورة",
+      "المدربين"
+    ],
+    "category": [
+      "course quality",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كمقدمة، لقد كانت تجربة رائعة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "وبالمناسبة، هناك الكثير من القصص.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إذا لم تتمكن من تحمل تكاليف المشاركة، فسيكون لديك وصول محدود إلى مادة الاختبار.",
+    "aspect": [
+      "مادة الاختبار"
+    ],
+    "category": [
+      "assignments quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "(1: سارع المدرسون إلى تقديم مادة الدورة.",
+    "aspect": [
+      "Instructors"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يتم تقديم الموضوع بطريقة أنيقة ورسمية للغاية من قبل الأستاذ نج بدءًا من الأشياء الأساسية والتقدم بخطى مثالية إلى أشياء أكثر صعوبة.",
+    "aspect": [
+      "الأستاذ نج",
+      "الأستاذ نج"
+    ],
+    "category": [
+      "faculty comprehensiveness",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع رائع بالطبع ¡¡¡",
+    "aspect": [
+      "بالطبع"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه (الدورة 1) مهمة جدًا لجميع الدارسين من البلدان النامية والمتقدمة، نظرًا لأن سكان العالم المتزايدين يواجهون نقصًا حادًا في الغذاء، وبالتالي يصبح توفير الخسائر ضرورة ملحة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الدورة مثيرة للاهتمام، ولكن في بعض الأحيان يكون من الصعب إدراك المعلومات بهذه اللهجة:",
+    "aspect": [
+      "الدورة",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "presentation comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت بها حقًا والأهم من ذلك أنني تعلمت الكثير.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "اختبارات المنصة و الواجبات تساعدك على التقدم وتدفعك لمراجعة ملاحظاتك ومحتوى الكتاب، مما يجعلك تشعر بالراحة مع سرعة الدروس.",
+    "aspect": [
+      "اختبارات المنصة",
+      "الواجبات",
+      "اختبارات المنصة",
+      "الواجبات"
+    ],
+    "category": [
+      "assignments quality",
+      "assignments quality",
+      "presentation comprehensiveness",
+      "presentation comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جون كوفاتش هو مدرس رائع.",
+    "aspect": [
+      "جون كوفاتش"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الدورة هي نهج عملي جدًا للغة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مقدمة جيدة جدًا ولكن عندما أتصفح مقاطع الفيديو ثم أقوم بـ الاختبار، أشعر أن المادة لا تسلط الضوء بالضبط على ما هو مطلوب من أجل الاختبار.",
+    "aspect": [
+      "NULL",
+      "مقاطع الفيديو",
+      "المادة",
+      "الاختبار"
+    ],
+    "category": [
+      "course general",
+      "presentation relatability",
+      "material relatability",
+      "assignments relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "السبب الحقيقي الذي يجعلني أقيمه بـ 3/5 هو أن التدوين الرياضي في كل مكان.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ستتعلم أشياء مثيرة للاهتمام للغاية حول التعلم الآلي، ولكنك ستعمل أيضًا على تطوير مهاراتك البرمجية (MATLAB / Octave).",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد طلبت المساعدة في المنتدى ولكن لم يرد أحد .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty response"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرا لك أندرو نج!",
+    "aspect": [
+      "أندرو نج"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أخذت هذه الدورة دورة أولاً من تخصصات Ruby on Rails دورة ، وقررت التسجيل في الدورة دورة بأكملها.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "في حين أن المعلمين يعرفون بوضوح ما يفعلونه، إلا أنني وجدت المهام صعبة للغاية وقيمة تعليمية محدودة بسبب مزيج المفاهيم الجديدة التي قدمتها المحاضرات جنبًا إلى جنب مع الرياضيات أو علوم الكمبيوتر الجديدة (بالنسبة لي) والتي تحتاج أيضًا إلى الفهم.",
+    "aspect": [
+      "المعلمين",
+      "المهام",
+      "المحاضرات"
+    ],
+    "category": [
+      "faculty general",
+      "assignments quality",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كما أن العديد المهام ساعدتني على تحسين معرفتي ومهارتي في مجال التعلم الآلي.",
+    "aspect": [
+      "المهام"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لجميع الناس من جميع الأعمار والخلفيات والاهتمامات أقول لكم: اغتنم الفرصة للقيام بذلك دورة ولن تنظر إلى الوراء.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أنا حقا أحب التحديات.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هناك الكثير من العمل الذي يتعين عليك القيام به، وكمية صغيرة من هذا العمل سوف تبقى معك.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "assignments workload",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "باستثناء التنزيلات والتسجيلات والتشغيل الضرورية، كانت الدورة مقدمة جيدة وكانت المقاييس واللعب الموضعي مفيدًا وواضحًا بشكل خاص.",
+    "aspect": [
+      "مقدمة",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "presentation quality",
+      "course general",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الأسابيع الثلاثة الأولى هي حزمة رائعة لتعلم Bootstrap.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك، أنا حقا أقدر كل الدورات، وأعتقد أنه كان تجربة رائعة للذهاب من خلال الدورات!",
+    "aspect": [
+      "الدورات"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت هذه هي البداية التي كنت أحتاجها للانغماس بشكل كامل في عالم التعلم الآلي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرا جزيلا السيد لاندرز والمؤلفين الآخرين لهذه الدورة!",
+    "aspect": [
+      "السيد لاندرز"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقترح عليك برنامج You Learning in IBM 12 ساعة - وكان معظم المشاركين في المنتديات يأخذون من 6 إلى 10 ساعات لكل مهمة!",
+    "aspect": [
+      "مهمة"
+    ],
+    "category": [
+      "assignments workload"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا على عملك !!!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يعد التعلم الآلي أداة مهمة لمجموعة متنوعة من فروع العلوم والهندسة و",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بعد الانتهاء من الدورة  لن تكون خبيرًا ولكن لديك المفاهيم والمعرفة الصحيحة لتطوير مشاريعك.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أوصي بشدة بهذا لأي مدرس ESL أو TEFL أو CELTA.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت الدورة  رائعة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أعتقد أن هذا هو أفضل مكان للبدء لكي أصبح عالم بيانات، وسعيد بإكمال بقية الدورة بالطبع أيضًا.",
+    "aspect": [
+      "بالطبع"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه متحمس ويشرح المواد بشكل جيد للغاية.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "faculty general",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أضاف استخدام المقالات الصحفية الفعلية لمسة عملية إلى النظرية وتطبيقات الإحصاء.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد تعلمت الكثير .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "عندما اتصلت بمعلمة ( إيفا) بخصوص بعض الأسئلة المحددة، كانت مفيدة للغاية وساعدتني في حل المشكلة.",
+    "aspect": [
+      "إيفا"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وكانت مادة العلوم المدنية مثيرة للاهتمام أيضًا.",
+    "aspect": [
+      "مادة العلوم المدنية"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد جدًا دورة.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ربما، دورة التي تعتمد على كتابات السيد باكر وأحد كتبه قد نعتبرها أغراضًا تجارية أو ترويجية، ولكنها رائعة حقًا، دورة وطريقة لفهم العالم الذي نعيش فيه بالفعل، وطريقة ممتازة لتسمية العديد من الأشياء التي تحدث لنا جميعًا.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كنت أحاول فهم هذا الأمر لمدة ثلاث سنوات، وأخيرًا أحرزت تقدمًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك سيكون من الرائع لو قمت أيضًا بتوفير الأحرف الصينية لجميع الأشياء التي تعلمناها * أثناء * تعلمها وليس في نهاية الدورة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام، جودة الدورة دورة جيدة ولديها مستوى مناسب من المعرفة للمحللين الجدد.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أحببت الطريقة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا لك cosera و Berklee على تقديم هذه الفرصة!",
+    "aspect": [
+      "Berklee"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سرعة الفيديو 5x بسبب كثرة الحديث .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أخذت كارلو دورات التعلم الآلي الممتازة دورات في جامعة ويسكونسن وشعرت حقًا أنني بحالة جيدة جدًا.",
+    "aspect": [
+      "دورات",
+      "دورات",
+      "كارلو"
+    ],
+    "category": [
+      "course general",
+      "course general",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم يتم تغطيته حتى الدورة التالية دورة.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم تصنيعه بشكل جيد للغاية مع توازن بين النظرية في التحكم في حركة الروبوتات مع التطبيق العملي المهام باستخدام لغة Matlab الشهيرة.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "المهام"
+    ],
+    "category": [
+      "course general",
+      "course quality",
+      "assignments relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ينبغي عليهم مدربي الدورة تقديم المزيد من المعلومات في البداية حول ضرورة مشاهدة مقاطع الفيديو وقراءة مواد الدورة تقريبًا قبل بدء الأسبوع الجديد نظرًا لحقيقة أنه يجب إنشاء مجموعات وتنسيق المناقشات والبحث مع زملاء الفريق.",
+    "aspect": [
+      "مدربي الدورة"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد جعلت التجربة أكثر خصوصية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "وبصرف النظر عن ذلك كان ممتازا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يتم تقديم العديد من المعادلات دون توضيح سبب عمل هذه الأشياء أو كيفية اشتقاقها.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الدورة تركز أيضًا كثيرًا على التاريخ بينما قد يكون من المناسب النظر إلى المستقبل.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سيكون من الرائع أن يكون لدينا المزيد من الدورات مثل هذه.",
+    "aspect": [
+      "الدورات"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه (الدورة 1) رائعة للغاية!",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عظيم .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد ساعدني أخذ هذه الدورة دورة على استكشاف كتاباتي بشكل أكبر.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وشكراً أيضاً لـ Coursera : )",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سعيدة جدًا في النهاية .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنه جيد جدًا - موضح وسهل المتابعة.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "presentation comprehensiveness",
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك، لم يعجبني حقيقة أنك تقتصر على تعلم كيفية استخدام منصة مدفوعة و(مكلفة للغاية!)، ويرجع ذلك في الغالب إلى وجود العديد من الحزم المجانية الأخرى المتاحة للتعلم الآلي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course value"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "نعم، تتطلب (المهام 1) الانغماس في مشاكل لا علاقة لها بالتوازي في حد ذاته.",
+    "aspect": [
+      "assignments"
+    ],
+    "category": [
+      "assignments relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالنسبة لي كان من المثير للاهتمام للغاية مشاهدة المقابلات مع الأشخاص الذين يرتبط عملهم ارتباطًا وثيقًا بالاتحاد الأوروبي؛ هذه مقاطع الفيديو ملهمة تمامًا.",
+    "aspect": [
+      "مقاطع الفيديو",
+      "NULL"
+    ],
+    "category": [
+      "presentation relatability",
+      "presentation relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنها دورة رائعة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "البروفيسور فاولر رائع!",
+    "aspect": [
+      "البروفيسور فاولر"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يوصى بشدة بهذه الدورة الدورة!",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت حقا بهذه الدورة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يتم توفير كافة المعلومات بطريقة بسيطة وسهلة الفهم.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "على الرغم من كل شيء، إذا كنت مهتمًا حقًا بالتعلم الآلي، فيجب عليك أخذ هذه الدورة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يعد هذا تحديًا إذا لم يكن مطورًا ويحتاج إلى كود محدد للغاية. وبصرف النظر عن ذلك، كانت هذه دورة ممتعة ومثيرة للاهتمام دورة، مقدمة رائعة إلى Bluemix وNode - red وJS.",
+    "aspect": [
+      "دورة",
+      "دورة"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "توصيتي الوحيدة هي إضافة المزيد أسئلة داخل الفيديو.",
+    "aspect": [
+      "أسئلة داخل الفيديو"
+    ],
+    "category": [
+      "assignments quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أستطيع أن أشعر بمدى الجهد الذي بذلتموه لإيصال هذه المواد إلينا.",
+    "aspect": [
+      "المواد"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه دورة رائعة !",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "فهو مناسب للطلاب في المدرسة وكذلك للبالغين الذين يحاولون تعلم شيء جديد والذي قد يكون صعبًا للغاية في سنهم.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يسعدني جدًا أنني أخذت هذه الدورة دورة وانتهيت منها.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "دكتور تشاك لجميع المواد والاختبارات والواجبات.",
+    "aspect": [
+      "دكتور تشاك"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المعلومات جيدة ولكنها تسير بسرعة كبيرة ولا أشعر أنني تعلمت منها الكثير.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course quality",
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يمكن أن يستفيد منه كبار السن والشباب على حد سواء.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "- دورة عملية تدريس يقدمها أستاذ قادر.",
+    "aspect": [
+      "تدريس",
+      "أستاذ"
+    ],
+    "category": [
+      "course quality",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أحببته لأنه يوفر رؤى عظيمة للشركات أو المشاريع من خلال ربط النظريات الاقتصادية بالأعمال التجارية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لا أستطيع أن أصدق أنه من الممكن العثور على مثل هذا المؤهل دورة مجانًا!",
+    "aspect": [
+      "دورة",
+      "دورة"
+    ],
+    "category": [
+      "course quality",
+      "course value"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه يستحق بالتأكيد المال الذي دفعته مقابله!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course value"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد وجدت هذه الدورة الدورة متقدمة جدًا بالنسبة لمستوى معرفتي بالإحصاء.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يوصى به بشدة لأي شخص في أي مرحلة من مراحل التعلم.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "آمل أن أكون قادرًا على أخذ المزيد من الفصول الدراسية من جامعة ديوك.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": ". صعبة ) ) لذا فهي توفر لك إمكانية التفكير خارج الصندوق )",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "assignments quality",
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا لجميع أعضاء هيئة التدريس على هذه التجربة التعليمية الرائعة.",
+    "aspect": [
+      "أعضاء هيئة التدريس",
+      "أعضاء هيئة التدريس"
+    ],
+    "category": [
+      "faculty general",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أحببته كله تقريبًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أعجبتني حقًا المحاضرات التفاعلية بتنسيق المجموعات الصغيرة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تجربة عظيمة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الدورة هي تجديد جيد جدًا للأساسيات و الدكتور وايتمان شرح الأمور بوضوح ودقة شديدين.",
+    "aspect": [
+      "الدورة",
+      "الدكتور وايتمان"
+    ],
+    "category": [
+      "course general",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "السير هيتوشي موراياما كان مذهلاً.",
+    "aspect": [
+      "السير هيتوشي موراياما"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مقاطع الفيديو تعمل بسرعة كبيرة عندما يعمل شخص ما بين نوافذ متعددة لإنجاز المهام.",
+    "aspect": [
+      "مقاطع الفيديو"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الواجبات جيدة ومثيرة للتفكير، ولكنها غير مكتوبة بوضوح.",
+    "aspect": [
+      "الواجبات",
+      "الواجبات"
+    ],
+    "category": [
+      "assignments quality",
+      "assignments comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالإضافة إلى ذلك، لا تحتاج إلى مهارات البرمجة لإكمال المهام، لكن الأمر يستغرق الكثير من الوقت لتعلم أدوات datavis الجاهزة والمجانية وهي محدودة للغاية لتقديم النتائج التي نريدها.",
+    "aspect": [
+      "المهام"
+    ],
+    "category": [
+      "assignments workload"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ربما يكون ذلك مفيدًا أكثر لشخص لديه بعض الخبرة السابقة، ووقت محدود وبعض المشاكل التي يريد حلها، وليس طالبًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنها فئة أساسية جدًا في التعلم الآلي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الدورة هي وصف مطول لمجال البحث أكثر من كونها جزءًا مناسبًا من التعليم العام.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقدم هذا الكتاب معلومات عامة حول كيفية إنشاء صفحات ويب بسيطة، وبعض علامات HTML الأساسية وبعض الممارسات.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الأستاذ يقرأ كل شيء تقريبًا.",
+    "aspect": [
+      "الأستاذ"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا يعجبني أن بالطبع يجعلني أشعر بأنني يجب أن أعتمد على منتج معين لحل المشكلات.",
+    "aspect": [
+      "بالطبع"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إن أسلوب التدريس لا يتحدى أو يقدم رؤية حقيقية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذا أكثر أساسية ويقدم رؤية أساسية حول جميع لغات البرمجة وليس فقط بايثون.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان رائعاً، لا يوجد الكثير من الحسابات، ولكن التركيز أكثر على المفاهيم، مثل النسبية، والنموذج القياسي للجسيمات، وميكانيكا الكم.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أتمنى أن تكون معلمتي في الكلية : ( جاجا .",
+    "aspect": [
+      "معلمتي"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت هذه الفئة رائعة!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ألهمتني وحفزتني على مواصلة الدورة  على الرغم من صعوبتي في فهم بعض المفاهيم.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لن تتعلم الكثير من المفاهيم أو النظريات أو تمارس أي برمجة R هنا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "نتيجة لذلك، أمضيت كل أسبوع عدة ساعات على المنتديات وStackoverflow لمعرفة ما يريده المصحح التلقائي، بدلاً من تعلم الباندا فعليًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course workload"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنها دورة مثيرة للاهتمام .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الاسبوع الرابع أفضل .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جميل !",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أعطتني الدورة  نظرة عامة على الصناعة، وأنواع اللاعبين فيها، والنماذج والاستراتيجيات المختلفة التي يمكن تطبيقها.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مع الوتيرة المضبوطة بشكل صحيح لهذه الفئة، حتى مع معرفة الحساب فقط وعدم وجود أي برمجة على الإطلاق، يجب أن تنجح في هذه الفئة بشرط أن تبذل جهدًا معتدلاً على الأقل!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرا لكم على جهودكم، لإعطائي تحية بالطبع.",
+    "aspect": [
+      "بالطبع"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان هناك توازن جيد بين الكثير من الاتساع والوقت المستثمر.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد تعلمت الكثير في هذه الدورة .",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وكانت القصة رائعة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إذا كنت انطوائيًا أو مجرد شخص يقدر الخصوصية، فهذه ليست الدورة  المناسبة لك.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "5+ نجوم .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم تدريسها بشكل جيد للغاية .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "المعلم يعقوب هو مدرس رائع، ومهامه واجبات مكتوبة بتفاصيل كبيرة وخطوات واضحة للغاية، لذا من السهل فهمها وتنفيذها.",
+    "aspect": [
+      "يعقوب",
+      "واجبات",
+      "واجبات",
+      "واجبات"
+    ],
+    "category": [
+      "faculty general",
+      "assignments quality",
+      "assignments comprehensiveness",
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقوم المعلم وكذلك هيئة التدريس دائمًا بالإجابة بسرعة وبشكل عميق على أسئلتك أو تعليقاتك في المنتدى.",
+    "aspect": [
+      "المعلم",
+      "هيئة التدريس"
+    ],
+    "category": [
+      "faculty response",
+      "faculty response"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "في رأيي، أندرو نج يتفوق في تدريس هذه الدورة.",
+    "aspect": [
+      "أندرو نج"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت هذه دورة ممتازة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "2 * فقط بسبب المشكلة الفنية التي واجهتها في معظم مقاطع الفيديو لا يتم تحميلها بشكل صحيح. سوف تتعطل في مكان ما وسيستمر الصوت فقط. لذلك لم أتمكن من إنهاء الدورة. بصرف النظر عن ذلك فإن التدريس جيد حقًا. آمل أن تعملوا عليه لإصلاحه.",
+    "aspect": [
+      "مقاطع الفيديو",
+      "NULL"
+    ],
+    "category": [
+      "presentation quality",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرا جزيلا لك على الفرصة للخوض في هذه الدورة الدورة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أحببت الدورة  .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لذلك فإن الواجبات ليست صعبة بشكل خاص - تحصل في هذه الفئة على ما تبذله من جهد!",
+    "aspect": [
+      "الواجبات"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أعترف أن لهجة المعلم كانت تشتت انتباهي في البداية.",
+    "aspect": [
+      "المعلم"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إلا أنه رائع.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أنا حقا أستمتع باكتشاف عالم المعلم والأصدقاء.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أشعر بالارتياح مع المفاهيم والخوارزميات.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "polarity positive"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان من الجميل أن تكون هناك بطاقات تعليمية على الكمبيوتر، أو حتى اختبارات صغيرة إضافية في كل درس.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "material quantity"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "المعلم ممتاز .",
+    "aspect": [
+      "المعلم"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المادة  المقدمة جيدة لدورة تمهيدية في تغذية الأطفال.",
+    "aspect": [
+      "material"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مقدمة جيدة للاقتصاد الكلي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك، فإن بعض محاضرات الفيديو هي ذات جودة متوسطة فقط.",
+    "aspect": [
+      "محاضرات الفيديو"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه مقدمة ممتازة لـ R.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا لك أندرو نج على مقاطع الفيديو القصيرة الممتازة مقاطع الفيديو التي قدمت الكثير من المعرفة في فترة قصيرة.",
+    "aspect": [
+      "مقاطع الفيديو",
+      "أندرو نج"
+    ],
+    "category": [
+      "presentation quality",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم يستغرق إكمال أي مهمة أكثر من ساعة.",
+    "aspect": [
+      "مهمة"
+    ],
+    "category": [
+      "assignments workload"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مصنوع بشكل جيد للغاية، ومحتويات رائعة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "من المحتمل أن تكون إحدى المشكلات المتعلقة بالدورة هي المحاضرات.",
+    "aspect": [
+      "المحاضرات"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أيضًا، اللغة التي يتم تدريسها في هذه (الدورة التدريبية 1) (بايثون) أكثر سهولة في الاستخدام من العديد من لغات البرمجة الأخرى التي جربتها (",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم تصميم الدورة التدريبية دورة بأكملها لإثقال كاهلك بالمصطلحات لتتمكن من مواكبة الدورات التدريبية دورة التالية.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course workload"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالإضافة إلى ذلك، لم أتمكن بعد من فهم منتدى المناقشة لأنه في رأيي ليس جذابًا.",
+    "aspect": [
+      "منتدى المناقشة"
+    ],
+    "category": [
+      "faculty response"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أستطيع أن أقول أنني حصلت بالفعل على معلومات يمكنني تطبيقها في مسيرتي المهنية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان السرد رائعا ومباشرا من القلب.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سيدل أجرى دورة عملية ومفيدة للغاية.",
+    "aspect": [
+      "سيدل"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقوم المعلم بتوضيح كل التفاصيل، على الرغم من أنك قد تواجه مشاكل أصعب بكثير في الواجبات.",
+    "aspect": [
+      "الواجبات"
+    ],
+    "category": [
+      "assignments comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "معظمها غير قابلة للقراءة - العديد من الخطوط، والعديد من الألوان، بعضها يحتوي على صور معقدة، وبعضها لا يحتوي على أي معلومات على الإطلاق.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أشعر الآن أنني أمتلك فهمًا جيدًا جدًا للانحدار الخطي واللوجستي والشبكات العصبية بالإضافة إلى طرق التعلم الأخرى التي تطرقنا إليها.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مفيد للغاية دورة .",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا من القلب على هذه الدورة الرائعة  : )",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك، لا يوجد الكثير من التدريب في هذه الدورة: كما كنت أتوقع.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز دورة ، أوصي به بشدة!",
+    "aspect": [
+      "دورة",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لم أرى تاريخًا محددًا ولكنني أعتقد أن هذا الدورة تم بناؤه في عام 2013 - 2014، لذا فإن المعلومات محدثة بالتأكيد.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قد تكون بعض المفاهيم في JavaScript صعبة بالنسبة للطلاب الذين ليس لديهم خلفية في علوم الكمبيوتر، ولكن هذه (الدورة التدريبية 1) تجعل الأمور أسهل للفهم حقًا.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سأستخدم بالتأكيد الأدوات التي علموني إياها في سنتي الثانية حتى أكون معلمًا أكثر فعالية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ومن ناحية أخرى، سوف يستفيد الأشخاص الذين لديهم خبرة سابقة في الميكانيكا الإحصائية من إدراج الروابط الأكثر ارتباطًا بميكانيكا الكم والكيمياء الفيزيائية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أصبح لدي فهم أفضل بكثير للدافع والتسويف.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "على الرغم من أنني كنت ملتزمًا جدًا بجدولي خلال الأسبوع الرابع، إلا أنني استمتعت حقًا بالدورة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "المستوى العالي النصوص والرسوم البيانية والمراجع.",
+    "aspect": [
+      "النصوص والرسوم البيانية والمراجع"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالإضافة إلى زيادة التركيز على المواد المكتوبة، أعتقد أن المزيد من الأمثلة الواقعية للنجاحات والإخفاقات الدبلوماسية ستكون استخدامًا أكثر فعالية وترفيهًا لوقت المحاضرة من الفلسفة الباطنية التي يبدو أنها تميزها في هذه الطبعة.",
+    "aspect": [
+      "المواد المكتوبة"
+    ],
+    "category": [
+      "material relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا لك أستاذ!",
+    "aspect": [
+      "أستاذ"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أكبر شكواي هي أن العديد من البرامج التمارين تحتوي على أخطاء لم يتم إصلاحها، على الرغم من أن هذه الدورة كانت تعمل منذ سنوات.",
+    "aspect": [
+      "التمارين"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "في حين أن هذه أسس ممتازة، أتمنى أن يكون هناك جزء ثانٍ تقريبًا لمزيد من أحدث التقنيات المواد، وخاصة التعلم العميق وتوسيع الشبكات العصبية.",
+    "aspect": [
+      "المواد"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد وجدت التمرين مربكًا ومثيرًا للانتباه، ولا يوجد أي مؤشر أو مراجعة لما فعلته خطأً بالفعل.",
+    "aspect": [
+      "التمرين",
+      "التمرين"
+    ],
+    "category": [
+      "assignments quality",
+      "assignments comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كل قسم واضح ويتدفق إلى القسم التالي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد وجدت أن السرعة، أسلوب المحتوى نجحا معي مما سمح لي بالاستمرار في الدورات الأخرى.",
+    "aspect": [
+      "السرعة",
+      "أسلوب المحتوى"
+    ],
+    "category": [
+      "presentation quality",
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بدلاً من الخوف من الفصل الدراسي، وجدت نفسي متحمسًا للحضور كل يوم وتمكنت من التقدم بشكل أسرع من الخطوط العريضة الدورة بسبب أسلوبه التعليمي الواضح والداعم للغاية.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شرح مفصل .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت المادة  استثنائية، ولكن كما اكتشفت، فإن الواجبات كانت مخففة مقارنة بالإصدار السابق من الدورة الذي كان متاحًا في عام 2014.",
+    "aspect": [
+      "material",
+      "الواجبات"
+    ],
+    "category": [
+      "material quality",
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا جزيلا لك على هذه الدورة : لقد استمتعت بها حقًا!",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد تعلمت واستمتعت كثيرًا هذه الأسابيع.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إن استخدام الحدس أو الفطرة السليمة كافٍ بالفعل لحل هذه المشاكل.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إن إكمال هذه الدورة دورة يجعلني أشعر بطريقة ما بأنني مستعد بشكل أفضل لدراسة كتب GR ذات المستوى المتوسط / المتقدم التي أملكها منذ فترة طويلة!",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لذا أوصي بهذه الدورة الدورة لأي شخص يرغب في تحسين مهاراته وزيادة كفاءته في التعلم.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد جداً : أستاذ صبور ولطيف .",
+    "aspect": [
+      "أستاذ",
+      "أستاذ",
+      "أستاذ"
+    ],
+    "category": [
+      "faculty general",
+      "faculty general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سيكون من الرائع لو تمكنوا من العودة بدورة  لحساب التفاضل والتكامل متعدد المتغيرات.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أحببت هذه الفئة حقًا، كثيرًا جدًا!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت (المهام 1) صعبة للغاية واختبرت بالفعل معرفتك بالبايثون.",
+    "aspect": [
+      "assignments",
+      "NULL"
+    ],
+    "category": [
+      "assignments comprehensiveness",
+      "presentation comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم إعداد الفصل بشكل جيد، وهو بمثابة مقدمة رائعة للطلاب الذين يسعون إلى التعرف على التسويق الرقمي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان التنوع والتركيز على التفاصيل مثيرًا للإعجاب وكان (المحاضر رقم 3) دائمًا جذابًا ومستثمرًا بقوة في المادة.",
+    "aspect": [
+      "NULL",
+      "lecturer",
+      "lecturer"
+    ],
+    "category": [
+      "course comprehensiveness",
+      "faculty response",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مفيدة جدًا للمبتدئين. تتحدث ببطء شديد وتستمر في تكرار الكلمات حتى تفهمها.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "faculty general",
+      "course general",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أندرو نج يقدم تعليمات قيمة حول الحدس وتنفيذ خوارزميات التعلم الآلي.",
+    "aspect": [
+      "أندرو نج"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا لك باربرا وفريق الدورة على مشاركة قصصك الشخصية الملهمة.",
+    "aspect": [
+      "باربرا"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ينبغي عليهم استبدال هذه الاختبارات بالمشروع، حيث تكتب كودًا حقيقيًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جيد دورة ولكن قد يكون أكثر تحديًا.",
+    "aspect": [
+      "دورة",
+      "دورة"
+    ],
+    "category": [
+      "course general",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إذا كنت مبتدئًا تمامًا، فابدأ في بداية هذا التخصص وفقًا لجدولك الزمني الخاص (حسب الطلب بسرعة الضوء) وبسعر مناسب (0 دولار) وكن واثقًا من التقدم الكبير في معرفتك بوظيفة الإنترنت بشكل عام، وبايثون بشكل خاص.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course value"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لم يكن من المثير للاهتمام بالنسبة لي الاستماع إلى وظائف iPhone وSamsung",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الأستاذ لديه قدر هائل من الكاريزما وطريقة موجزة في تحليل المفاهيم.",
+    "aspect": [
+      "الأستاذ",
+      "الأستاذ"
+    ],
+    "category": [
+      "faculty general",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا لك، دكتور تشاك .",
+    "aspect": [
+      "دكتور تشاك"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان من الممكن أن يكون الأمر أفضل لو كانت مشكلة التتبع تحتوي على المزيد من الأمثلة التي توضح التطبيق العملي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع دورة ، غطى حقًا العديد من التفاصيل!",
+    "aspect": [
+      "دورة",
+      "دورة"
+    ],
+    "category": [
+      "course general",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يركز بشكل كبير على التطبيقات الملموسة، ولكن أيضًا على توفير مستوى معين من العمق على الجانب النظري.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "course general",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد عرفت بعض الأشياء في الدورة : لكنني لم أكن أعرف شيئًا عن بعض الأشياء الأخرى.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قد لا أتفق مع كل شيء في (الدورة الثانية)، وربما جعلتني بعض تصريحاته أشعر بعدم الارتياح قليلاً، ولكن بشكل عام هذه الدورة الثانية جذابة ومفيدة.",
+    "aspect": [
+      "NULL",
+      "الدورة"
+    ],
+    "category": [
+      "faculty general",
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مع ذلك، كانت الدورة  منظمة بشكل جيد للغاية، وكانت تحتوي على أمثلة رائعة، ومحاضرات ممتازة (على الرغم من أنه كان من الممكن توضيح الصوت كثيرًا باستخدام ميكروفون أعلى مستوى، ومضخم صوت مسبق، وواجهة، وبرامج إنتاج صوتية بأسعار معقولة مثل Reaper لتوضيح الصوت).",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "محاضرات"
+    ],
+    "category": [
+      "course quality",
+      "course relatability",
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "البروفيسور يعقوب تشايكين هو مرشد موهوب.",
+    "aspect": [
+      "البروفيسور يعقوب تشايكين"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مفيد للغاية .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الدورة  جيدة جدًا، ولكن أود أن أقدم ثلاثة اقتراحات: 1) ليس لديك ردود فعل على ما فعلته خطأ في التمارين.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أوصي بشدة بكل من يريد فهم الفروق الدقيقة للقوة والتأثير واستخدامها لتوصيل أفكاره الصحيحة وتجنب التأثر بالأفكار الخاطئة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هاريس يعلم الأشياء المعقدة بطريقة سهلة.",
+    "aspect": [
+      "هاريس"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قمت بعمل عظيم!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد ساعدني هذا (الدورة التدريبية رقم 1) كثيرًا في أن أصبح قائدًا صاحب رؤية.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالإضافة إلى ذلك، فهو يتمتع بمهارات عرض ممتازة، مما يجعل محاضراته ممتعة وسهلة المتابعة.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "faculty general",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "(1: قامت الدكتورة مايا آدم بعمل جيد جدًا مع مقاطع فيديو المحاضرات ومحتوى الدورة وما إلى ذلك.",
+    "aspect": [
+      "Dr . Maya Adam"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أعجبت كثيرًا بـ المعلم (لهجته وطريقة شرحه جعلت الأمر ممتعًا للغاية).",
+    "aspect": [
+      "المعلم"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بعض المشاكل مع مهمة البرمجة.",
+    "aspect": [
+      "مهمة البرمجة"
+    ],
+    "category": [
+      "assignments comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إن الطريقة خطوة بخطوة لشرح هذا المجال المعقد بعبارات بسيطة مفيدة حقًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "presentation comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "استثنائي العرض التقديمي .",
+    "aspect": [
+      "العرض التقديمي"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه دورة ممتازة دورة لأي شخص لفهم ما هو التعلم الآلي.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "خيبة أمل قليلة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لكنها دورة متميزة دورة، ومن المدهش، إذا فكرت في الأمر، أن يكون لديك ساعات من الوصول المجاني إلى غاري بيرتون.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قد يكون تنزيل الكود خيارًا، ولكن من الأفضل لنا كتابة الكود باتباع المحاضرة، لأن التنزيل يجعلني كسولًا، وكتابة الكود بأنفسنا هي طريقة جيدة للتعلم.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا جزيلاً لـ السيد كيم على التدريس الاحترافي العالي والوقت الممتع.",
+    "aspect": [
+      "السيد كيم",
+      "السيد كيم"
+    ],
+    "category": [
+      "faculty comprehensiveness",
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لأن القراءة هي التي نستطيع من خلالها أن نقوم بأنفسنا - والكثير المحتوى متوفر مجانًا.",
+    "aspect": [
+      "المحتوى"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الدورة جيدة حقًا.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بفضل دورة HTML وCSS دورة في CODECADEMY، أصبحت قادرًا على كتابة HTML بسيط، وقراءة كود شخص آخر والعثور على الموارد اللازمة لبدء صفحتي الخاصة.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مرحبًا، لقد أحببت هذا الدورة.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت حقًا بهذه الدورة الدورة بشكل عام (وكانت سهلة إلى حد ما بالنسبة لي لأن لدي بعض الخلفية في هذا بالفعل)، ولكن كانت هناك بعض المشكلات الفنية خاصة فيما يتعلق بالوصول إلى المهام.",
+    "aspect": [
+      "الدورة",
+      "المهام"
+    ],
+    "category": [
+      "course general",
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد نجح هذا الفصل في تدريس أساسيات R، لكنه لم يفعل أي شيء نحو تدريس اختبار كود R (جزء أساسي من كتابة الكود!) وأفضل الممارسات للتجزئة والتحليل إلى عوامل، وما إلى ذلك.",
+    "aspect": [
+      "الفصل"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قمت بمراجعة 7 أوراق (متطلب 3) وأظهر أنها ناقصة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مع الجزء الأول من دورة سأوصي به لجميع الطلاب العاملين في مجال تكنولوجيا النانو.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لدي الكثير من الأسئلة، ولكن حتى أرى الدورة النهائية الدورة، لا أستطيع أن أقول ما إذا كان سيتم تناولها أم لا.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شعرت أن (الدورة 1) تركز بشكل أكبر على المملكة المتحدة، كما أن القليل من التبصر في التعليم بالإشارة إلى التربويين القدامى يجب أن يكون ميزة إضافية!",
+    "aspect": [
+      "الدورة",
+      "NULL"
+    ],
+    "category": [
+      "polarity neutral",
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إن المحاضرات تشرح الأساسيات الأساسية في Swift، والتي تعد مفيدة حقًا، ولكنها ليست شاملة بما فيه الكفاية.",
+    "aspect": [
+      "المحاضرات"
+    ],
+    "category": [
+      "presentation comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرا لك على هذه المحاضرة - إنها حقا تجربة تغيير حياة بالنسبة لي!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أعتقد أن معظم المحاضرين قاموا بعمل رائع في شرح المواد الموجودة في الدورة.",
+    "aspect": [
+      "المحاضرين"
+    ],
+    "category": [
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت تجربة جيدة .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أعتقد أنني قضيت حوالي 20 ساعة في الأسبوع لمحاولة استيعاب المادة.",
+    "aspect": [
+      "المادة"
+    ],
+    "category": [
+      "material workload"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أنا أحب محاضرات الدكتورة أوكلي (2: استخدامها للاستعارات والزومبي يجعل الدورة ممتعة حقًا.",
+    "aspect": [
+      "محاضرات الدكتورة أوكلي",
+      "lectures"
+    ],
+    "category": [
+      "faculty value",
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكرًا لك دكتور. بيشيري على إرشادي خلال هذه الدورة.",
+    "aspect": [
+      "دكتور. بيشيري"
+    ],
+    "category": [
+      "faculty general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بحلول النهاية، شعرت أنني أمتلك حقًا فهمًا قويًا للبرمجة منخفضة المستوى ومفاهيم البرمجة الأساسية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أنا مرتبط جدًا بهذا الدورة وسأجد أنه من الصعب للغاية عدم وجود رد فعل عاطفي تجاهه.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سيكون التدوين الوظيفي والتسلسل مفيدًا بشكل خاص.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أنا ممتن إلى الأبد .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "عادةً ما يكون حل المشكلات بسيطًا للغاية، ولكنه لا ينطبق على مجموعة كبيرة من المشكلات، بل ينطبق فقط على مجموعة البيانات المعينة (ولم يتم تحديد خصائص هذه المجموعة من البيانات؛ لذا ينتهي بي الأمر بالتفكير في جميع الاحتمالات التي قد تحدث لهذه المجموعة من البيانات، مما يجعل المشكلة أكثر صعوبة).",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "assignments quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أكملت هذه الدورة الدورة في وقت قصير ولكن الدورة الدورة رائعة وتوفر معلومات من الأساسيات و مقاطع الفيديو تساعد كثيرًا.",
+    "aspect": [
+      "الدورة",
+      "مقاطع الفيديو"
+    ],
+    "category": [
+      "course general",
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المعلومات التي يقدمها لك بجانب الدورة نفسها مفيدة حقًا في إنشاء ألعابك الخاصة! والتدرب عليها بنفسك.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "faculty relatability"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد شعرت أيضًا أن الأقسام الخاصة بالبرمجة الديناميكية بدت متسرعة بعض الشيء وكنت بحاجة إلى قضاء بعض الوقت في البحث عن هذا الأمر لدى أطراف ثالثة قبل أن أشعر بالراحة في إكمال التمارين.",
+    "aspect": [
+      "الأقسام الخاصة بالبرمجة الديناميكية"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الأستاذ يعقوب موهوب بشكل لا يصدق ويحافظ على ديناميكية الدروس ويدخل في التفاصيل دون أن يجعلها مرهقة.",
+    "aspect": [
+      "الأستاذ يعقوب",
+      "الأستاذ يعقوب",
+      "الأستاذ يعقوب"
+    ],
+    "category": [
+      "faculty general",
+      "faculty general",
+      "faculty comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه (الدورة 1) رائعة .",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تحتوي الشرائح على العديد من الأخطاء والأخطاء المطبعية، مما يجعلك تشك في الدورة بأكملها.",
+    "aspect": [
+      "الشرائح"
+    ],
+    "category": [
+      "presentation quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم تقديم النص اللازم الذي كان ينبغي تدريسه بعناية، دون خنق الطالب.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "material quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أوصي بهذه الدورة الدورة للمطورين الحاليين الذين ليس لديهم خلفية في علوم الكمبيوتر.",
+    "aspect": [
+      "الدورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الكثير من الآراء مبنية على أدلة ضئيلة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course quality"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذه السلسلة من الدروس تستحق أكثر من الوقت والتكلفة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course value"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذا رائع حقا .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إنها دورة موصى بها دورة لأي معلم هناك.",
+    "aspect": [
+      "دورة"
+    ],
+    "category": [
+      "course general"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم تغطي الدورة المادة ما نحتاجه للاختبارات الأسبوعية (خاصة في الأسبوع 3 و 4) وكان الاختبار النهائي صعبًا للغاية.",
+    "aspect": [
+      "الاختبار النهائي",
+      "المادة"
+    ],
+    "category": [
+      "assignments workload",
+      "material comprehensiveness"
+    ],
+    "domain": "coursera",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  }
+]

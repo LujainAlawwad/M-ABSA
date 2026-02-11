@@ -1,0 +1,1279 @@
+﻿sentence,aspect,category,domain,type
+لقد جربنا مساحيق أخرى وهذا بالتأكيد هو الأفضل بالنسبة لنا.,NULL,food general,food,implicit
+يبدو أنه لا يزال طازجًا بعد ثلاثة أيام.,NULL,food general,food,implicit
+كانت هذه العلامة التجارية والنكهة الأفضل على الإطلاق.,NULL,food quality,food,implicit
+أثناء ممارسة الأنشطة الشاقة، أحب الطريقة التي يستقر بها في معدتي قبل المباريات والطاقة التي يمنحني إياها.,NULL,food general,food,implicit
+"أفعل هذا أحيانًا لأرى المدة التي يمكنني الاستمرار فيها، ولكن تحريكه يحل أي ""حرق"" أو أي شيء على الفور وينتشر عبر الفم بشكل ممتع.",NULL | NULL,food general | food general,food,implicit | implicit
+إن وضع حفنة منها في فمك سوف يبقيك مشغولاً لفترة من الوقت ويشعرك بالشبع.,NULL,NULL,food,implicit
+جديد منتج لمنزلنا .,منتج,food general,food,explicit
+هذا هو أحد الأطعمة المفضلة لدي على الإطلاق الأطعمة، والذكريات العالقة لدي عن البرازيل.,الأطعمة,food general,food,explicit
+نحن نحب هذا الشاي المثلج، ذو نكهة عرق السوس اللذيذة.,الشاي | الشاي,food general | food quality,food,explicit | explicit
+هذا رائع بكل بساطة، ولذيذ للغاية في أي وصفة تتطلب نكهة اللوز القوية.,NULL | NULL | NULL,food general | food general | food quality,food,implicit | implicit | implicit
+إنه سماوي تمامًا.,NULL,food general,food,implicit
+لقد تأثرت كثيرا .,NULL,NULL,food,implicit
+حيث أن هذه دائما طازجة!,NULL,NULL,food,implicit
+هذه القهوة تنتج تحميصًا متوسطًا لطيفًا مع نكهات الأزهار والتوت الغريبة.,القهوة,food quality,food,explicit
+سي اف اتش,NULL,NULL,food,implicit
+عند تحويل PB2 إلى زبدة الفول السوداني، لا تضيف الكثير من الماء، وإلا فإن القوام سيكون غريبًا وسيصبح الطعم مخففًا قليلاً.,NULL,NULL,food,implicit
+جيد جدًا !,NULL,food general,food,implicit
+إنه لذيذ ومالح ومقرمش.,NULL,food quality,food,implicit
+موصى به للغاية!,NULL,food recommendation,food,implicit
+كلبي مجنون بهذه العصي!,العصي,food quality,food,explicit
+أحب حليب الصويا Silk Very Vanilla Soymilk في العبوات الكبيرة، وكنت سعيدًا جدًا عندما كنت أتصفح Amazon ووجدت هذه العبوات الفردية بحجم 8 أونصات,حليب الصويا Silk Very Vanilla Soymilk | Amazon,food general | amazon availability,food,explicit | explicit
+لقد كتبت أمازون وأعادوا لي المبلغ على الفور، لذا فإن خدمة العملاء لديهم ممتازة. لقد فتحنا منذ ذلك الحين بعض الأكياس الإضافية ولا تبدو قديمة، لكنني ما زلت لا أعتقد أنها ذات مذاق طازج مثل تلك الموجودة في البقالة.,أمازون | NULL,food general | food quality,food,explicit | implicit
+ربما يكون أفضل قليلاً من البريتزل العادي.,NULL,food general,food,implicit
+إنه فقط 0.54 دولارًا لكل علبة في وول مارت.,NULL,NULL,food,implicit
+من الواضح أن هذا هو مزيج المكسرات المفضل لدي.,NULL,food general,food,implicit
+تم حل المشكلة!,NULL,NULL,food,implicit
+رائع المنتج .,المنتج,food general,food,explicit
+أبدأ كل يوم بكوب من الشوكولاتة الساخنة.,الشوكولاتة الساخنة,food general,food,explicit
+أنا لست متأكدًا حتى من مجموعة اللحوم التي يبيعونها.,NULL,NULL,food,implicit
+إنهم جميعًا يحبون هذا الطعام، وهو مغذي جدًا بالنسبة لهم، ولا يحتوي على أي منتجات حيوانية.,NULL | NULL,food general | food quality,food,implicit | implicit
+لقد كان الوقت المطلوب في كل منهما مختلفًا تمامًا - من الحاجة إلى أقل (لتجنب الغليان) إلى الحاجة إلى المزيد.,NULL,NULL,food,implicit
+فظيعة تماما .,NULL,food general,food,implicit
+القهوة كانت جيدة، لكنها لم تكن ذات النكهة التي كنت أتوقعها.,القهوة | NULL,food general | food quality,food,explicit | implicit
+أحب الماء المعبأ بدلاً من لزوجة الزيت.,NULL,food quality,food,implicit
+إنهم الأفضل من كلا العالمين ويستمرون لفترة طويلة مع الكثير من النكهة!,NULL,food quality,food,implicit
+أنا لا أقترب أبدًا من هذا العدد لأنني عادةً أحصل على إصلاحتي في حوالي 20.,NULL,food general,food,implicit
+والنكهات الأخرى جيدة بنفس القدر أيضًا! ),NULL,food quality,food,implicit
+لا يُسمح لي بتناول الكثير من الكافيين لأنه يسبب عدم انتظام ضربات القلب لدي.,NULL,NULL,food,implicit
+إنه لطيف، وليس بشكل ساحق، حلو.,NULL,food quality,food,implicit
+لقد أصبح لدي تكسر أقل وشعري يبدو أكثر كثافة ونعومة.,NULL,NULL,food,implicit
+اعتقدت أن هذا سيكون مختلفًا، لكنه ليس كذلك.,NULL,NULL,food,implicit
+إنه ملح رائع لإنهاء اللحوم أيضًا!,NULL,food general,food,implicit
+لقد قمت بتحضير القهوة بالطريقة المعتادة ولكنها لم تكن قوية بما فيه الكفاية.,القهوة,food general,food,explicit
+لقد حصلت عليها أثناء وجودها للبيع هذا الشهر من أمازون، وبنفس سعر المكان الآخر، لكنني لن أشتريها من أمازون مقابل 25 دولارًا للحالة,أمازون,amazon prices,food,explicit
+"""لم أكن من محبي قهوة كيوريج، بسبب طبيعة المشروب الضعيفة.""",قهوة كيوريج,food quality,food,explicit
+الافتراض المعتاد هو أن الدرجة (أ) أفضل من الدرجة (ب) ولكن على عكس البيض أو اللحوم، تشير الدرجة إلى وقت حصاد الشراب، بينما تكون الدرجة (ب) ذات نكهة أكثر كثافة.,NULL,food quality,food,implicit
+وصلوا بسرعة في حالة ممتازة، واستمتعت حقًا بكل قضمة منهم!,NULL | NULL | NULL,shipment quality | shipment delivery | food general,food,implicit | implicit | implicit
+أنا متأكد من أن هذا يشبه 75٪ من الكمثرى مع قليل من الخضار ولكنه أفضل من لا شيء.,NULL,food quality,food,implicit
+أحب أن بار كان طريًا ومضغوطًا.,بار | بار | بار,food general | food style_options | food style_options,food,explicit | explicit | explicit
+ليست صلبة مثل جلد الفاكهة.,NULL,NULL,food,implicit
+كنت أتناول هذه الأطعمة عندما كنت طفلاً ولا أزال أفعل ذلك في بعض الأحيان.,NULL,NULL,food,implicit
+هذا المنتج غير متوفر حتى في مدينتنا؛ وربما ليس في جزء من العالم الذي نعيش فيه!,NULL,NULL,food,implicit
+ليس لدي أي فكرة عن كيفية مقارنة هذا المنتج بالعلامات التجارية الأخرى من حيث السعر لأنه لا يتم بيعه في ولايتي.,NULL,food prices,food,implicit
+جيد القهوة وهو منتج للتجارة العادلة، لذلك يمكنك أن تشعر بشعور رائع للغاية عند استنشاق الرائحة والنكهات المعقدة والبسيطة مع العلم أنك ساعدت الأرض والأشخاص عليها قليلاً بطريقتك الصغيرة.,القهوة | القهوة,food quality | food general,food,explicit | explicit
+هذا الشاي متبل بشكل لذيذ!,الشاي,food quality,food,explicit
+لم يعجبني هذا القهوة على الإطلاق.,القهوة,food general,food,explicit
+غير قادر حقًا على التمييز من موقع Natural Balance. شكرًا.,NULL,NULL,food,implicit
+لقد شعرت بخيبة أمل في النكهة وقمت بإعداد شاي أفضل بنفسي عن طريق إضافة قطرة من نكهة حلوى اليانسون إلى الشاي الأخضر.,NULL,food quality,food,implicit
+لقد تذوقت هذه القهوة لأول مرة في لافاييت، لويزيانا.,NULL,NULL,food,implicit
+أنا لست مقتنعًا بأن الثقافة ستكون خالية من اللاكتوز، ولكن من المفترض أن تكون كذلك.,NULL,food general,food,implicit
+لقد أعطتني بعضًا منها كهدية في عيد الميلاد لأنها كانت تعلم أنني لا أستطيع الحصول على أي من الأشياء الأخرى التي كان الناس يحضرونها.,NULL,NULL,food,implicit
+إنه يصنع كوبًا شهيًا بدون طعم مرير.,NULL,food quality,food,implicit
+أنا أحب إعادة الاستخدام وعدم الهدر وفي هذا الصدد فإن المنتج My - Kap هو منتج جيد بسعر منخفض.,My - Kap | My - Kap,food general | food prices,food,explicit | explicit
+تجنبه قدر الإمكان، ولكن ليس إهدارًا كاملاً.,NULL | NULL,food recommendation | food general,food,implicit | implicit
+إنه يعمل بشكل مثالي .,NULL,food quality,food,implicit
+قطتي تحب طعام القطط Fancy Feast.,طعام القطط Fancy Feast,food general,food,explicit
+يجب أن أصفيها ثلاث مرات.,NULL,NULL,food,implicit
+الآن أتمنى أن تحصلوا على بسكويت أوريو,NULL,NULL,food,implicit
+بالطبع، هذه ستكون مشكلتي إذا كان الوصف دقيقًا، لكنه ليس كذلك.,NULL,NULL,food,implicit
+أبحث عنه بسعر أرخص على الإنترنت، ولكن يا رب، 6.,NULL,NULL,food,implicit
+كانت الحقيبة أصغر مما توقعت، ولكن ربما يكون هذا مجرد سوء تقدير مني للأشياء.,NULL,food style_options,food,implicit
+من بين جميع الحبوب الساخنة الأخرى من Bob's Red Mill هذا هو المفضل لدي.,NULL,NULL,food,implicit
+نحن الاثنان من المعجبين بقهوة البندق منذ البداية، لذا كان هذا مثاليًا.,NULL,food general,food,implicit
+لذا جرب هذه اللذيذة قطع الجبن اليوم! : ),قطع الجبن,food quality,food,explicit
+صفقة رائعة لجودة هذا ملح الهيمالايا!,ملح الهيمالايا | ملح الهيمالايا,food quality | food prices,food,explicit | explicit
+لا يحتاج إلى سكر .,NULL,NULL,food,implicit
+اعتقدت أن هذا كان جيدًا، ولكن عندما جربت هذا، أدركت أن هناك فرقًا كبيرًا من حيث الجودة بين الاثنين.,NULL,NULL,food,implicit
+أنا لا أتفق مع المراجعات الإيجابية.,NULL,NULL,food,implicit
+العنصر المعروض في الصفحة ليس هو العنصر الذي تلقيته.,NULL,shipment quality,food,implicit
+إذا كنت تشعر بالملل من شرب الماء، فحاول تجربة التلميح,NULL,NULL,food,implicit
+حصلنا على 35 كوبًا وتكرارًا واحدًا.,NULL,NULL,food,implicit
+لقد وجدت أن هذه أيضًا هي أفضل طريقة للحصول عليها.,NULL,food general,food,implicit
+حقيقة أنها عضوية ومحلاة بعصير قصب طبيعي بدلاً من إضافة السكر مثل النوع الموجود في متاجر البقالة ذات العلامات التجارية يجعلها أفضل.,NULL,food quality,food,implicit
+"طعم الرويبوس الخام، بدون هذه ""التحسينات"" مثل الفانيليا، هو كامل الجسم وله طعمه الفريد.",NULL | NULL,food quality | food quality,food,implicit | implicit
+المنتج  جيد جدًا، ولكن إجبارك على ترك المراجعات/التعليقات يمنعك حتى من الحصول على مراجعة بثلاث نجوم.,المنتج,food general,food,explicit
+هذا هو 325 ملغ من سترات المغنيسيوم فقط، وهو لاذع حقا !!,NULL,food quality,food,implicit
+ومع ذلك، أشعر أن هناك آخرين قد يقدرون القهوة الخفيفة.,NULL,food general,food,implicit
+إنه رائع للكعك الصغير أو الكعك القياسي ؛ ومن الممتع إضافة الفاكهة في الأعلى مثل الفراولة.,NULL,food style_options,food,implicit
+هذه ليست ساخنة جدًا.,NULL,food quality,food,implicit
+كان هذا الشراء بلا طعم ولا نكهة.,NULL,food quality,food,implicit
+ومنتجاتهم رائعة .,منتجاتهم,food general,food,explicit
+جودة ممتازة منتج يعمل كما هو معلن عنه - شكرًا لك على إنشائه !!,منتج,food quality,food,explicit
+كان هذا الشاي جيد جداً .,NULL,food general,food,implicit
+اعتقدت أن هذا كان كوبًا لذيذًا من القهوة بشكل استثنائي - على قدم المساواة مع القهوة التي تم تحضيرها في آلة صنع القهوة.,NULL,food quality,food,implicit
+يظهر الصندوق بسرعة كبيرة إذا كان لديك خدمة الشحن Prime من UPS.,NULL,shipment delivery,food,implicit
+أنت تعرف كيف تسير الأمور مع وجبات خفيفة للكلاب - في بعض الأحيان يأكلها كلبك على الفور ويهز ذيله - وفي أحيان أخرى سيكون عنيدًا جدًا بشأنها لذلك عليك ترك الوجبات الخفيفة في طبقه بجوار وعاء الماء الخاص به.,NULL,NULL,food,implicit
+أنا أحب النكهة كثيرا,NULL,food quality,food,implicit
+نحن نحب هذه الكرز، لقد كنت أشتريها لعدة سنوات.,الكرز,food general,food,explicit
+الثالث لم يقرر بعد .,NULL,NULL,food,implicit
+أنا لست من محبي القهوة كثيرًا ولكن هذه العلامة التجارية Wolfgang Vienna جيدة.,Wolfgang Vienna,food general,food,explicit
+أعتقد أن الأمر يعتمد فقط على ذوقك.,NULL,NULL,food,implicit
+إن حقيقة أنها عضوية ومصنوعة من الشعير هي ميزة كبيرة أيضًا.,NULL,food quality,food,implicit
+أحصل على مجموعة متنوعة من النكهات، ولا يوجد نكهة واحدة لا يتم استنشاقها.,NULL,food quality,food,implicit
+يستمر الناس في مقارنة أسعار الصناديق المختلفة دون مراعاة عدد الأكواب.,NULL,NULL,food,implicit
+من المثالي أن تأتي في عبوة مكونة من 12 قطعة.,NULL,food style_options,food,implicit
+وأعطيها أيضًا طعام نيومان الجاف للكلاب مرتين يوميًا.,NULL,NULL,food,implicit
+فائز!,NULL,NULL,food,implicit
+لا تزال جيدة بالنسبة لي، ومع ذلك، سأستمر في تناولها حتى تنتهي الحقيبة.,NULL,NULL,food,implicit
+إنه مجرد منتج عالي الجودة منتج.,منتج,food quality,food,explicit
+لذيذة صلصة الشواء .,صلصة الشواء,food quality,food,explicit
+إذا كنت تستمتع بالحصول على النشوة الفموية بعد النشوة الفموية، فسوف تقع في حب Hello Pandas.,Hello Pandas,food general,food,explicit
+رقائق الشوكولاتة وزيت جوز الهند تذوب معًا ثم يتم تجميدها في قوالب مكعبات الثلج.,زيت جوز الهند,food style_options,food,explicit
+إن matcha الموجودة بالأسفل تكتسب بالتأكيد نكهة ترابية، ولا يسعني إلا أن أتساءل عما إذا كانت التوابل ليست على الأقل جزئيًا من matcha التي تجلبها نكهة الفستق إلى المقدمة.,matcha | matcha,food quality | food quality,food,explicit | explicit
+كانت الكمية التي تناولتها في علبة أخرى مالحة للغاية بالنسبة لذوقي وتبلغ أكثر من نصف الحد الشخصي الذي أتناوله وهو 1500 ملجم من الصوديوم يوميًا.,NULL | NULL,food quality | food quality,food,implicit | implicit
+ليس صادقا مع عملائه .,NULL,food general,food,implicit
+مزيج الزبيب والشوكولاتة الداكنة رائع!,NULL,food quality,food,implicit
+كلابي تحب هذه الأطعمة حقًا!,NULL,food general,food,implicit
+أعتقد أنه يمتلك تأثير مدر للبول وربما ملين، ومن المفترض أنه مفيد للكبد.,NULL,food general,food,implicit
+سأخبرك كيف أحب كعكة الفاكهة كلاكتون.,كعكة الفاكهة كلاكتون,food general,food,explicit
+تنحّى جانباً أيها المصاصات المثيرة للاشمئزاز المليئة بالمواد الكيميائية / الصبغة!,NULL,NULL,food,implicit
+انا سعيد .,NULL,food general,food,implicit
+هذا هو السبب وراء 4 نجوم,NULL,NULL,food,implicit
+لقد أكلت للتو العلبة الأخيرة.,NULL,food general,food,implicit
+كانت الكاجو كبيرة وقليلة جدًا من المكسور.,الكاجو,food style_options,food,explicit
+مقزز تماما!,NULL,food general,food,implicit
+من المؤكد أنه يأكل أحيانًا الجزر والبازلاء والفاصوليا الخضراء، لكنه يأكلها بالفعل.,NULL,NULL,food,implicit
+ولكن .......... عند التعرفة الحالية ( 9 أبريل 2010 ) البالغة 7 دولارات.,NULL,food prices,food,implicit
+يسعدني أن وجدته هنا!,NULL,amazon availability,food,implicit
+كل من جرب هذا المنتج أعجب بالنكهة.,NULL,food general,food,implicit
+ايرين,NULL,NULL,food,implicit
+لذيذ جداً .,NULL,food quality,food,implicit
+لكن البائع كان بطيئًا جدًا في الخدمة، اعتقدت أنه لن يصل إلى هنا أبدًا.,NULL,shipment delivery,food,implicit
+إنها متبلة بشكل جيد مع كمية وفيرة من الفلفل الأسود.,NULL,food quality,food,implicit
+وأنا أيضا أحب أنهم يبدو أنهم يذوبون في فمه بسرعة كبيرة.,NULL,food general,food,implicit
+أخبرني أنهم استخدموا ماء جوز الهند ليحل محل بلازما الدم في الحرب العالمية الثانية.,NULL,NULL,food,implicit
+مكسرات مقرمشة، فواكه لذيذة، زبادي لذيذ!,NULL,NULL,food,implicit
+أفضل نوعين من القهوة في العالم (برأيي المتواضع) هما كونا وجامايكا بلو ماونتن.,كونا وجامايكا بلو ماونتن,food quality,food,explicit
+لقد استخدمت هذا المنتج في بار التوفي الذي قمت بخبزه.,المنتج,food general,food,explicit
+إنه يتمتع بطعم خفيف منعش، لكنه لا يحتوي على ذلك الطعم العشبي الذي يجعلك تشعر وكأنك تشرب شيئًا كان جزءًا من حديقتك.,NULL,food quality,food,implicit
+سأبحث في مكان آخر - لم أعد أرغب في دفع سعر أعلى مقابل منتجات متوسطة الجودة .,المنتج,food general,food,explicit
+لحسن الحظ، الشخص الذي اشتريت له لا يمانع، ولكن احذر من أن هذا ليس العنصر الفعلي الذي يظهرونه على صفحة الشراء.,NULL,NULL,food,implicit
+إنه لذيذ، ويأتي في صناديق أصغر (هل يريد أحد التحكم في الحصص؟) ولا يمكنك التغلب على هذا السعر أمازون.,NULL | أمازون,food quality | amazon prices,food,implicit | explicit
+أعطاني أحد أصدقائي عبوة واحدة لقطتي.,NULL,NULL,food,implicit
+"أفضل فائدة هي أن ""مشاكل البطن"" أصبحت أفضل بكثير.",NULL,food general,food,implicit
+أنا وخطيبي نحب صنع المشروبات، فهي تجعلنا نشعر بأننا مميزون :),NULL,NULL,food,implicit
+بدلاً من ذلك، هناك فقط الفراولة الاصطناعية وقليلاً من الطعم اللاذع.,NULL,food quality,food,implicit
+أحب هذه الأكياس القابلة لإعادة الإغلاق، لأن الباندا تميل إلى الجفاف. هذه هي المشكلة التي أجدها مع الصناديق، حتى بعد إغلاقها بشكل صحيح.,NULL,food general,food,implicit
+اشتريته لغرض النقل بعد استخدامه ولكن هذا غير ممكن.,NULL,NULL,food,implicit
+هذه العظام تدوم معه إلى الأبد، على الأقل لمدة 3 - 4 أشهر في المرة الواحدة.,العظام,food general,food,explicit
+إنه جيد، جيد حقًا!,NULL,food general,food,implicit
+لكن بالنسبة لي، فإن جهاز Keurig يمكنه صنع كوب من القهوة، وكوب من القهوة منزوعة الكافيين، وكوب من الشاي في أقل من ثلاث دقائق.,NULL,NULL,food,implicit
+طعم وملمس جيدان ولا يتغلب الفلفل أو القيقب على هذا لحم مقدد.,لحم مقدد | لحم مقدد,food quality | food style_options,food,explicit | explicit
+على الرغم من الإعجاب الأولي بالزهور الزرقاء الجميلة، إلا أن هذا شراء مؤسف.,NULL | NULL,food general | food style_options,food,implicit | implicit
+يمكنك جعلها حلوة حسب رغبتك أو عدم إضافة أي سكر على الإطلاق.,NULL,food general,food,implicit
+أفضل البطاطس المهروسة التي تناولتها على الإطلاق,البطاطس المهروسة,food general,food,explicit
+أبحث عن عظام جلدية خام مثل هذه المصنوعة في الولايات المتحدة الأمريكية.,NULL,NULL,food,implicit
+مذاقه جيد وهو جيد للترطيب والإلكتروليتات، على الرغم من أنه يمكنك تناول الماء النقي العادي وإضافة بعض المعادن وعصير الليمون أو الخضار للحصول على فوائد مماثلة.,NULL | NULL,food quality | food quality,food,implicit | implicit
+أحب استخدام الخل بدلاً من الماء معه لأنني أعتقد أن مذاقه أفضل بهذه الطريقة,NULL,food quality,food,implicit
+إنها ناعمة ولذيذة المذاق، وتأتي أيضًا مع الكثير من السوائل.,NULL | NULL | NULL,food style_options | food quality | food general,food,implicit | implicit | implicit
+وصل في الوقت المناسب .,NULL,shipment delivery,food,implicit
+السلبيات - يتم مضغها بسهولة، وبالتالي، من المرجح أن ينتهي منها كلبك بسرعة.,NULL,food general,food,implicit
+إنها لذيذة حقًا ويمكنك توفير دولار واحد لكل كيس من خلال أمازون مقابل .,NULL | أمازون,food quality | amazon prices,food,implicit | explicit
+لقد تم دهنها جميعًا أو تم تلطيخها بنكهة البط - لقد تركها كلبي، الذي كان متحمسًا للغاية عادةً للحصول على إحدى هذه الأطعمة، على الأرض دون أن يمسها.,NULL,food quality,food,implicit
+لقد قضمت أول قطعة بريتزل خالية من الغلوتين بخوف، لكنها جيدة!,بريتزل خالية من الغلوتين,food general,food,explicit
+أعتقد أنه قد يسبب اضطراب في المعدة.,NULL,food general,food,implicit
+لقد تبرعت بزجاجاتي.,NULL,NULL,food,implicit
+هذه هي القهوة الوحيدة التي أطلبها لجهاز Keurig الخاص بي.,NULL,food general,food,implicit
+وهذا يعتبر ربح اضافي لهم,NULL,NULL,food,implicit
+لا يوجد طعم لاحق أيضاً.,NULL,NULL,food,implicit
+لقد جربت الحانات الفاخرة، والحانات المحلية، والحانات المصبوبة يدويًا، والحانات العضوية، وكل شيء تقريبًا، وهذا هو المفضل لدي.,NULL,food general,food,implicit
+جيد جدًا، سأفعل هذا مرة أخرى.,NULL,food general,food,implicit
+سأشتريها مرة أخرى بهذه الكمية.,NULL,food recommendation,food,implicit
+أنا فقط أتساءل هل حصلت على دفعة سيئة من التين.,NULL,NULL,food,implicit
+إنهم يقدمون وجبة تحتوي على دجاج مطبوخ مع كالاماتا والتي ستذهلك.,NULL,food style_options,food,implicit
+كانت النكهات ممتعة إلى حد ما وذكرتني بالرقائق على متن رحلات الخطوط الجوية عندما يكون الاختيار بين الرقائق أو البسكويت المملح.,NULL,food quality,food,implicit
+سأستمر بشراء هذا المشروب اللذيذ أينما أستطيع العثور عليه.,NULL,food general,food,implicit
+انه يحبهم!,NULL,NULL,food,implicit
+ما تلقيته كان يحتوي على قائمة مكونات مختلفة تمامًا، بما في ذلك أشياء معينة لا أتناولها (مثل السكرالوز / السبليندا).,NULL,food general,food,implicit
+ومع ذلك، فهو طاغٍ حقًا، وعلى الرغم من أنه يتمتع بنكهة دخانية لائقة، إلا أن الملح أكثر من اللازم.,NULL,food quality,food,implicit
+قيل لي أنني سأحصل على استرداد المبلغ ولكن البريد الإلكتروني من أمازون يشير إلى أنه سيتم إرسال بديل.,أمازون,shipment delivery,food,explicit
+لم أتمكن من تذوق الديدان، لأنه عندما وصلوا إلي، كانت العبوة مفتوحة والديدان كلها موجودة في صندوق الكرتون!,NULL | NULL,food quality | shipment quality,food,implicit | implicit
+حتى أن أطفالي جميعًا يحبونه.,NULL,food general,food,implicit
+أفضل صلصة اشتريتها على الإطلاق .,NULL,food general,food,implicit
+أنا أحب رائحة الدا-أوو.,NULL,NULL,food,implicit
+لقد جربنا العديد من أنواع الجبن الأزرق المختلفة على شرائح اللحم المشوية في نيويورك.,NULL,NULL,food,implicit
+أنا أستمتع بهذا المنتج ولكن لن أشتريه مرة أخرى بسبب القمح.,NULL,food general,food,implicit
+أنا أحب مزيج الخبز الخاص بـ Pamela لكل شيء تقريبًا، ولكن Bob هو مزيج الفطائر المفضل لدي بالتأكيد.,مزيج الخبز الخاص بـ Pamela | Bob,food general | food general,food,explicit | explicit
+لقد كان رائعا، حتى هطل المطر.,NULL,food general,food,implicit
+لقد فوجئت تمامًا بطعمهم، الذي كان جيدًا جدًا.,NULL,food quality,food,implicit
+في الواقع لم أستخدم هذا الإصدار، أنا أستخدم Rose Pride Aerosol و Organic RX 3 in 1، والذي لا يحتاج إلى خلط ويمكن رشه مباشرة من العلبة.,NULL,NULL,food,implicit
+إنه انتقائي للغاية ويجب أن أعترف أن طعمها أفضل من البريتزل العادي.,NULL,food quality,food,implicit
+قم بشراء هذا المنتج للجميع في KFORDHEALTH CARE STAFFING، وغني عن القول أنهم يحبونه.,NULL,food general,food,implicit
+كريم بروليه من كوفي ماسترز هو متعة حقيقية!,كريم بروليه من كوفي ماسترز,food quality,food,explicit
+كمية كبيرة من الملح .,NULL,food quality,food,implicit
+أحب هذا المنتج .,المنتج,food general,food,explicit
+اكتشفت الآن أن هذا المنتج غير مؤهل للإرجاع .,المنتج,food general,food,explicit
+إنها مثالية للكلاب متوسطة الحجم التي لديها قدرة قوية على المضغ.,NULL,food general,food,implicit
+شكرًا لك .,NULL,NULL,food,implicit
+أنا أحب كعك القمع ولكن كنت خائفة من أن هذا لن يكون مذاقه مثل الشيء الحقيقي في الكرنفالات. أحبه الأصدقاء والعائلة!,NULL,food general,food,implicit
+إنه ليس شيئًا أرغب فيه بسبب مذاقه، ولكن بالنسبة لمشروب البروتين فهو جيد جدًا حقًا!,NULL,food general,food,implicit
+أنا متأكد من أنني سأشتري هذا المنتج في المستقبل.,NULL,food general,food,implicit
+أطلب بعضًا منها على أمازون وأقوم بتوصيلها إلى منزلها.,أمازون,shipment delivery,food,explicit
+استمتع كثيرًا.,NULL,NULL,food,implicit
+اختيار جيد كـ قهوة لن يكرهها أحد ولكنها ليست ذات نكهة لأولئك الذين يحبون الاستيقاظ القوي حقًا.,قهوة,food general,food,explicit
+واحدة من المفضلة لدي .,NULL,food general,food,implicit
+لذا فهم يستمرون في القدوم الآن وأنا أستمتع بـ أشرطة ثلاثية كل مساء كجزء من وجبتي الخفيفة قبل النوم.,أشرطة ثلاثية,food general,food,explicit
+كان له نكهة خفيفة ولكنها قوية بما يكفي بالنسبة لي لدرجة أنني أستطيع شربه في الصباح واحتساء كوب بعد الظهر عندما أشعر بالخمول.,NULL,food quality,food,implicit
+أثناء بحثي عن جذر الهندباء، صادفت الكثير من الادعاءات المختلفة والمتناقضة في بعض الأحيان، والتي لا يبدو أن أيًا منها مدعوم بأي بحث جاد.,جذر الهندباء,food general,food,explicit
+غير متوفر في السوبر ماركت .,NULL,NULL,food,implicit
+قطتي تتجاهل هذه النكهة تمامًا.,NULL,food quality,food,implicit
+لقد كانت رطبة ولذيذة للغاية.,NULL,food quality,food,implicit
+لذا اشتريتها من خلال أمازون واسمحوا لي أن أخبركم أن هذه هي الطريقة الوحيدة التي سأشتري بها هذه المنتجات مرة أخرى.,أمازون,amazon availability,food,explicit
+حسنًا، نعم، أوافق، على الرغم من أنني كنت سأعطي هذا المنتج الممتاز طعام القطط أعلى تقييم.,طعام القطط,food general,food,explicit
+لا أحد ينتقد التفاحة لأنها لا تشبه البرتقال في طعمها.,NULL,NULL,food,implicit
+لا حاجة للحليب!,NULL,food style_options,food,implicit
+لذا أنا عالق مع 3 أكياس من الشوكولاتة الساخنة.,NULL,NULL,food,implicit
+فقط ما أحتاجه .,NULL,food general,food,implicit
+النكهة تشبه كعكة التوت الأزرق أكثر من التوت الأزرق الحقيقي.,NULL,food quality,food,implicit
+"هو عبارة عن ""شوربة"" من الجبن والمعكرونة.",NULL,food quality,food,implicit
+هذا مشروب لذيذ جدًا ويحتوي على كمية مناسبة من النكهات.,NULL | NULL,food quality | food quality,food,implicit | implicit
+لقد انتهى الأمر تقريبًا وحتى الآن، كل الأسود ليس عرق السوس (وهذه هي النكهة الجيدة مقارنة بالآخر، يا له من أمر مقزز!) وينطبق نفس الشيء على الأبيض ولم يتبق سوى زوج واحد من اللون الأزرق ليتم لعبه : (,NULL,food quality,food,implicit
+استخدم فقط حوالي 1/3 الكمية للحصول على نفس القوة.,NULL,food quality,food,implicit
+لا تشتري إلا إذا كنت متأكدًا من أنك تحصل على المنتج غير المغشوش.,NULL,NULL,food,implicit
+أنا لا أحب جميع المكونات ولكن أعتقد أنني يجب أن أتعايش معها. أعمل بجد للحفاظ على أسنان كلابي نظيفة.,NULL,food general,food,implicit
+منظف المجاري ؟,NULL,NULL,food,implicit
+كما أنها رائعة أيضًا لإعطاء الحبوب، حيث تتلاءم بشكل مريح في المنتصف ويتم تناولها على الفور دون تفكير ثانٍ.,NULL,food general,food,implicit
+لقد استخدمت هذا المنتج لسنوات عديدة، وأنا سعيد لأنه موجود على أمازون!,أمازون,amazon availability,food,explicit
+بعد قراءة المراجعة الأخرى لهذا الطعام الرائع للقطط، تساءلت لماذا قرر المراجع السابق إعطائه أقل من 5 نجوم؟,NULL,NULL,food,implicit
+سأوصي بهذا المنتج بالتأكيد المنتج !!!,المنتج,food recommendation,food,explicit
+موصى به بشدة .,NULL,food recommendation,food,implicit
+لقد تلقت أختي هذه الهدية في عيد ميلادها.,NULL,NULL,food,implicit
+هذه هي التحميص المتوسط المثالي K - كوب.,K - كوب,food general,food,explicit
+"نظرًا لأن أي قطة لا تأكل علبة كاملة في جلسة واحدة، فإن تلك الكائنات المسكينة التي اضطرت إلى ""الاكتفاء"" بسمك السلمون المرقط أو ما شابه ذلك تتجول لاحقًا وتحصل على نصيبها العادل من الحساء.",NULL,NULL,food,implicit
+هذا هو المفضل لدي مزيج الفطائر الخالية من الغلوتين حتى الآن.,مزيج الفطائر الخالية من الغلوتين,food general,food,explicit
+لقد كنت مخطئا .,NULL,food general,food,implicit
+هذه هي أفضل مذاق كوكيز على الإطلاق!,كوكيز,food quality,food,explicit
+"كنت أقوم بحفر جذور رقيقة أو ""تقشير"" بعض الأشجار للحصول على شاي لذيذ.",NULL,NULL,food,implicit
+أشرب 3 - 4 أكواب يوميًا ببساطة لأنه لا يوجد شيء آخر له طعم جيد مثل هذا.,NULL,food quality,food,implicit
+"اعتقدت أن الاثنين معًا يشكلان هدية ""راحة دافئة"" لبعض الأمسيات الشتوية الباردة.",NULL,food general,food,implicit
+كوب لائق وقوي مع نكهة التحميص الإيطالي أو الفرنسي.,NULL,food general,food,implicit
+كما أشار المراجعون الآخرون، فأنا لا أعرف مدى ملاءمة العبوة للبيئة، نظرًا لأنك تقوم باستبدال كوب بلاستيكي صغير بحقيبة بلاستيكية صغيرة.,NULL,shipment quality,food,implicit
+هذه تعمل حقا!,NULL,food general,food,implicit
+ولكنني وجدت هذه أشرطة التي تلبي ذلك وأيضا طعمها رائع.,أشرطة,food quality,food,explicit
+لقد كان من الجميل أن يكون لدينا حقيبة ذات حجم أكبر.,NULL,food style_options,food,implicit
+لقد قرأت في مكان آخر أن مستخدمي الكافيين العاديين لا يستفيدون من هذا النوع من مشروبات الطاقة -,NULL,food general,food,implicit
+تلك الأيام الحارة قادمة قريبا .,NULL,NULL,food,implicit
+لقد استمتعت بـ الفشار وكذلك فعل معظم زملائي في الغرفة ( 8 ).,الفشار,food general,food,explicit
+لا أفهم لماذا لا تحمل المتاجر المحلية هذا العنصر.,NULL,NULL,food,implicit
+أعتقد أن الأشخاص الذين يحبون إضافة السكر إلى زبدة الفول السوداني سوف يعجبهم ذلك، ولكنني لا أحب ذلك.,NULL,food general,food,implicit
+المشكلة الأكبر هي محاولة عدم تناولهم جميعًا على الفور.,NULL,NULL,food,implicit
+ربما سأحصل عليها مرة أخرى من أجله لأن أسنانه لامعة حقًا.,NULL,NULL,food,implicit
+هذا هو أفضل مشروب لتناوله مع الثلج في يوم حار.,مشروب,food general,food,explicit
+قالت أنهم جميلين للغاية!,NULL,NULL,food,implicit
+إن المسترد الذهبي الخاص بي يحب هذه الأشياء تمامًا.,NULL,food general,food,implicit
+تحافظ الحقيبة القابلة لإعادة الإغلاق على المنتج طازجًا.,المنتج,food quality,food,explicit
+لو يبيعونه في أماكن أكثر!,NULL,NULL,food,implicit
+إنها صغيرة وسهلة الحمل في جيبك.,NULL | NULL,food style_options | food general,food,implicit | implicit
+3 علب تعادل حاوية واحدة كبيرة وهي أرخص من شرائها في محلات البقالة.,NULL,food prices,food,implicit
+ومع ذلك، نظرًا لحقيقة أن الفوضى أقل إلى حد ما مع كبسولة Keurig، فإن المستهلكين أكثر ميلًا إلى اختيار هذه الراحة بدلاً من جانب إعادة التدوير.,NULL,NULL,food,implicit
+إن نكهة الزنجبيل قوية ولها تأثير قوي.,NULL,food quality,food,implicit
+هناك الكثير من المعلومات الخاطئة حول البروتين، القنب هو مصدر ممتاز سهل الهضم وهو بروتين عالي التوافر البيولوجي.,القنب,food quality,food,explicit
+أو، قدميها مع القهوة والعصير والبيض والكعك الإنجليزي للحصول على وجبة إفطار على الطراز البريطاني القديم، مثل تلك التي تناولتها في رحلة إلى إنجلترا منذ سنوات عديدة.,NULL,food general,food,implicit
+. . إنه لذيذ حبوب الإفطار وإلا .,حبوب الإفطار,food quality,food,explicit
+من المدهش ما يمكن أن يفعله القليل من المغنيسيوم!,NULL,food general,food,implicit
+لقد سعدت بالعثور عليه على أمازون .,أمازون,amazon availability,food,explicit
+لا يكون له بالضرورة طعم سيء، فقط طعم غير متوقع.,NULL,food quality,food,implicit
+أنا أحب زبدة الفول السوداني، ولكن حاول ألا تأكل الكثير منها لأنها غنية بالسعرات الحرارية.,زبدة الفول السوداني,food general,food,explicit
+نكهة الليمون والفلفل الحار هي المفضلة لدي وتأتي نكهة Habanero BBQ في المرتبة الثانية.,NULL,food quality,food,implicit
+كن حذرًا، فهو مكتوب عليه لاتيه توابل اليقطين، لذلك عندما ينتج الكوب رغوة، فقد تم تصميمه للقيام بذلك.,لاتيه توابل اليقطين,food general,food,explicit
+لقد كنت أبحث منذ فترة طويلة عن شاي أخضر رائع، غير مرّ للغاية، وهذا الشاي من نومي يحتوي على كل شيء!,شاي أخضر | شاي أخضر,food general | food quality,food,explicit | explicit
+وهذا مليء بالمعادن النادرة التي يحتاجها جسمك.,NULL,food quality,food,implicit
+بالتأكيد سأطلب هذا مرة أخرى !!,NULL,NULL,food,implicit
+شراء رائع لأولئك الذين يريدون نكهة زبدة الفول السوداني الطبيعية دون كل السعرات الحرارية والدهون.,NULL,food general,food,implicit
+Goya's Tembleque (بودنج جوز الهند على الطريقة البورتوريكية) لذيذ للغاية!,NULL,NULL,food,implicit
+أستخدمه لفك تشابك الشعر بعد الاستحمام، ومزيل للمكياج، ومرطب للوجه والجسم، وبلسم للشفاه.,NULL,NULL,food,implicit
+أما بالنسبة للطعم فهو خفيف جدًا وجوزي قليلاً.,NULL | NULL,food quality | food quality,food,implicit | implicit
+آمل أن يساعدك هذا.,NULL,NULL,food,implicit
+أنا لا أحب حساء الطماطم ولكن زوجتي جعلتني أجرب حساء الطماطم الذي تصنعه إيمي.,NULL,NULL,food,implicit
+عندما ينفد مخزوني (ربما في وقت ما من العام المقبل!)، سأشتري على الأرجح رقائق جالابينو من ماركة Miss Vicky، وأخطط لتجربة النكهات الأخرى من رقائق ماركة Kettle.,NULL,NULL,food,implicit
+لقد تلقينا هذا في عبوة متنوعة للعشاء وجربناه للمرة الأولى اليوم.,NULL,NULL,food,implicit
+يا له من راحة. نحن نستخدمه بكل سرور مرة أخرى وقد تحسن طعامنا!,طعامنا,food general,food,explicit
+إنه يتمتع بالملمس والطعم المثاليين ليكملا اللحوم ويذوب بشكل مثالي.,NULL | NULL | NULL,food style_options | food quality | food general,food,implicit | implicit | implicit
+الإغراءات والديك الرومي هو المفضل لديها.,NULL,food general,food,implicit
+لم يكن الأمر مناسبا لنا,NULL,NULL,food,implicit
+وأعتقد أيضًا أنها تعمل بسرعة إلى حد ما.,NULL,food general,food,implicit
+هذا هو أفضل ليمون كوكيز تذوقته على الإطلاق.,كوكيز | كوكيز,food general | food quality,food,explicit | explicit
+إنه يستمر بسلاسة ويبقى لفترة من الوقت.,NULL,NULL,food,implicit
+أنا من أشد المعجبين بـ رقائق الصويا جينيسوي (نكهة أعماق البحار المملحة).,رقائق الصويا جينيسوي,food general,food,explicit
+مشابه جدًا للمشروبات التي شربتها في Joyful في اليابان.,NULL,NULL,food,implicit
+عندما أحتاج إلى الزهور مرة أخرى، أعرف من أين سأطلبها.,NULL,NULL,food,implicit
+Flamin 'Buffalo Chick + A1 هي المفضلة لدي في جميع الأوقات.,NULL,NULL,food,implicit
+"الملمس جيد، ولكن ليس ما أتوقعه من ""لحم مقدد"".",NULL | NULL,food style_options | food style_options,food,implicit | implicit
+إنها تبدو مثل الزبيب قليلاً ولكنها أكثر سمكًا وحلاوة.,NULL,food quality,food,implicit
+نظرًا لأنها عبارة عن وجبة خفيفة طرية، يمكنك بسهولة تقسيمها إلى قطع أصغر إذا كنت تريد ذلك.,NULL,food quality,food,implicit
+مجرد ملعقة صغيرة في نصف كوب من الماء وتختفي.,NULL,NULL,food,implicit
+أوصي بهم بشدة للجميع .,NULL,food recommendation,food,implicit
+هذا العلكة طعمه رائع حقًا. لكن النكهة لا تدوم طويلاً.,العلكة | العلكة,food quality | food quality,food,explicit | explicit
+مشروب إيميريل ممتاز.,مشروب إيميريل,food general,food,explicit
+يبدو أن أشرطة اللوز والمشمش قد تم تغييرها عندما قاموا بالتبديل من العبوة التي تحتوي على 8 إلى العبوة التي تحتوي على 12 قطعة بحيث أضافوا المزيد من المشمش أو الحلاوة بطريقة ما.,أشرطة اللوز والمشمش,food general,food,explicit
+محبط للغاية في هذا المنتج!,المنتج,food general,food,explicit
+إذا كنت معتادًا على تناول زبدة الفول السوداني العادية (مثل JIF أو Peter Pan)، فمن المحتمل أن هذا لن يكون لذيذًا بالنسبة لك.,NULL,NULL,food,implicit
+كان البند صفقة جيدة.,NULL,amazon prices,food,implicit
+عظيم كوكيز .,كوكيز,food general,food,explicit
+لا يمكن شراؤه من أي مكان بالقرب من حيث أعيش ولكنه يصنع أفضل ذرة الكراميل على الإطلاق.,ذرة الكراميل,food quality,food,explicit
+إنه جيد حقًا وتستمتع به العائلة أيضًا.,NULL | NULL,food general | food general,food,implicit | implicit
+أنا مرتبك بالرغم من فوائده كونه عضويًا.,NULL,NULL,food,implicit
+لقد قمت بالاشتراك والحفظ وأنا سعيد لأنهم عرضوا هذا لأننا لن نفد !!,NULL,food prices,food,implicit
+"أفضل وصف يمكنني أن أتوصل إليه هو ""نشارة الخشب محاطة بالشمع"".",NULL,NULL,food,implicit
+أنا أحب طعم الفول السوداني والهشاشة.,NULL,food quality,food,implicit
+من حسن الحظ أن هناك الكثير من قذيفة في هذه وإلا لم يكن لدي منزل بعد الآن.,قذيفة,food style_options,food,explicit
+تم تقديم هذه رقائق لي من قبل صديق. لم أتمكن من العثور عليها محليًا، لذلك حصلت عليها هنا. إنها الأفضل رقائق تسبب الإدمان بشكل كبير. حتى أختي التي تتقيأ عند طعم البصل تحب هذه رقائق. كان التسليم سريعًا ويستحق طلب صندوق. لذيذ للغاية!,رقائق | رقائق | NULL | التسليم,food general | food general | amazon availability | shipment delivery,food,explicit | explicit | implicit | explicit
+يشرب ابني جالونات من الشاي الأخضر.,NULL,NULL,food,implicit
+وصلت المكسرات في الوقت المناسب .,NULL,shipment delivery,food,implicit
+من الصعب وصف طعم هذه الكعكة الساخنة وهي خارجة من الفرن، وهي رائعة بنفس القدر وهي باردة.,NULL,food quality,food,implicit
+يضفي الكربون الخفيف المزيد من الانتعاش.,NULL,food general,food,implicit
+كما قال المراجعون الآخرون، هذا الفشار لا يعمل في آلة صنع الفشار الهوائية.,الفشار,food general,food,explicit
+الشحن سريع .,الشحن,shipment delivery,food,explicit
+ولكن هذا هو السبب الذي يجعلك تشتريه بعد كل شيء...,NULL,food general,food,implicit
+لكنها رائعة سواء كانت ساخنة أو باردة، أنا أستمتع بها حقًا في كل مرة,NULL | NULL,food general | food general,food,implicit | implicit
+- ماذا عن الكؤوس والعلب أيضًا؟,NULL,NULL,food,implicit
+هذه لذيذة!,NULL,food quality,food,implicit
+أنا أتفق مع كافاليير، بعد أن اشتريت 2-3 طلبيات في ديسمبر 2009، والتي احترقت جميعها.,NULL,food quality,food,implicit
+شكرا أورجين .,NULL,NULL,food,implicit
+سأجعل الكلاب تمضغهم في الخارج,NULL,NULL,food,implicit
+لم يقوموا بالإنتاج الضخم Sweet Baby Rays حتى منتصف التسعينيات، لذا فإن مراجعة منتجك تعتمد على منتج مختلف تمامًا أو أنك نقرت على الرابط / المنتج الخطأ للمراجعة.,Sweet Baby Rays,food general,food,explicit
+"أعرف أن الفواكه المجففة لها ""مؤشر جلايسيمي مرتفع"".",NULL,food quality,food,implicit
+هذه الحانات جيدة جدًا.,NULL,food general,food,implicit
+80 لكل كوب .,NULL,NULL,food,implicit
+لا يتعين عليك استخدام كمية كبيرة حتى تدوم الحاوية لفترة طويلة!,NULL,food style_options,food,implicit
+يم .,NULL,NULL,food,implicit
+نكهة الشيدر هي الأفضل.,NULL,food quality,food,implicit
+أفضل بكثير من أكياس الشاي الخاصة بهم.,أكياس الشاي,food general,food,explicit
+انتعشت حبوبتي في وقت أقل من الوقت الموصى به في التعليمات، في 2-3 أيام.,NULL,food general,food,implicit
+مثالية تماما .,NULL,food general,food,implicit
+"نكهة الليمون ليست طاغية ولا تحتوي على طعم ""مزيف"" مثل الذي يبدو أن المنتجات الغذائية الأخرى المنتجات تمتلكه.",المنتجات | المنتجات,food quality | food quality,food,explicit | explicit
+لا أحتاج إلى استخدام كمية كبيرة من ملح الطعام التقليدي,NULL,food style_options,food,implicit
+لم أتمكن من العثور عليهم .,NULL,NULL,food,implicit
+طعمها لطيف وممزوج بشكل جيد للغاية.,NULL | NULL,food quality | food quality,food,implicit | implicit
+هذا سريع ومريح .,NULL,food general,food,implicit
+قم بإلقاء اثنتي عشرة بيضة في الخلاط وقارنها بهذا المنتج، طعمها هو نفسه ولا تحتاج إلى التعامل مع القشرة!,NULL,NULL,food,implicit
+كان لدى أحد الأصدقاء هذا المنتج ، وبعد أن جربته، أصبح مدمنًا عليه.,المنتج,food general,food,explicit
+لقد استخدمته في الطبخ وفي المخبوزات.,NULL,NULL,food,implicit
+لقد حل هذا محل المفضل السابق لدي، Lurpak من الدنمارك.,NULL,NULL,food,implicit
+باعتبارنا من محبي الكمأة، قمنا برحلة بحث عن الكمأة مع Truffle Hunters، صانعي هذا الزيت.,NULL,NULL,food,implicit
+هشاشة كل شيء في ريد,NULL,food quality,food,implicit
+المشوي الإيطالي هو الأفضل الذي تناولناه على الإطلاق.,المشوي الإيطالي,food general,food,explicit
+هذا هو الطعام الوحيد الذي تلتهمه مثل الكلب الحقيقي.,NULL,food general,food,implicit
+لقد وفرت لي شرائها من أمازون مبلغًا كبيرًا من المال أيضًا!,أمازون,amazon prices,food,explicit
+أوصي بشدة بهذا الشاي لمن يريد الاستمتاع بأجود كوب من الشاي.,الشاي,food recommendation,food,explicit
+يصنع الشاي المثلج الأكثر روعة في الصيف.,NULL,food general,food,implicit
+أنا حقا استمتع بهذا القهوة. النكهة جيدة جدا !!,القهوة | القهوة,food general | food quality,food,explicit | explicit
+لاحظ في الصورة أن دب التوت الأزرق أخضر!,NULL,NULL,food,implicit
+لكن مختبري دمر الحبل وأكل السدادة البلاستيكية بسرعة كبيرة.,NULL,NULL,food,implicit
+هذا هو المفضل لدي القهوة من بين جميع القهوة، باستثناء الألمانية القهوة.,القهوة,food general,food,explicit
+أوصي بهذه العظام لأي مالك كلب كبير.,العظام,food recommendation,food,explicit
+هل اشترى شخص ما هذا، وقرر أنه لم يعجبه وقام بإرجاعه إلى شخص آخر؟,NULL,NULL,food,implicit
+ربما يمكنك تقسيمها ووضعها في الحليب وتناولها على الإفطار تمامًا مثل رقائق البطاطس المجمدة.,NULL,food general,food,implicit
+يعتقد بعض الناس أن رائحتهم كريهة بعض الشيء، لكن الرائحة لا تزعجني، والكلاب تحبهم.,NULL,food general,food,implicit
+طعمهم رائع!,NULL,food quality,food,implicit
+إنه حلو لذلك لا حاجة لإضافة السكر وله نكهة لطيفة أيضًا!,NULL | NULL,food quality | food quality,food,implicit | implicit
+كل قضمة هي الجنة النقية .,NULL,food quality,food,implicit
+إذا كنت تحاول الحصول على جرعة وقائية من الجلوكوزامين في علاج ما، فابحث في مكان آخر.,NULL,NULL,food,implicit
+أنا أحبهم بسبب مكوناتهم العضوية، ولا يوجد تلوين أو نكهات اصطناعية، كما أنهم منخفضو السعرات الحرارية، مما يعني أنني أستطيع أن أقدم لها مكافأة إضافية بين الحين والآخر.,NULL | NULL,food style_options | food quality,food,implicit | implicit
+لحسن الحظ، يبدو لطيفًا جدًا عند وضعه على المنضدة.,NULL,food general,food,implicit
+قطع الجبن على شكل مربعات أو مثلثات صغيرة لطيفة.,قطع الجبن,food style_options,food,explicit
+طعم الملح جميل جداً!,NULL,food quality,food,implicit
+هذه كوكيز تمنح محبي الشوكولاتة تجربة شوكولاتة مرضية.,كوكيز,food general,food,explicit
+كنت أتوقع المزيد من النكهة.,NULL,food quality,food,implicit
+تحدث عن تحقيق القتل ! ! ! ! ! ! !,NULL,NULL,food,implicit
+طعمه رائع!,NULL,food quality,food,implicit
+إنها وجبة خفيفة رائعة خالية من الدهون وتحتوي على البطاطا الحلوة فقط كمكون.,NULL | NULL,food quality | food general,food,implicit | implicit
+100% من الدرجة B لها طعم القيقب الأقوى ولا يمكن العثور عليها دائمًا في المتاجر.,NULL | NULL,food quality | amazon availability,food,implicit | implicit
+لقد أعطيت 4 نجوم وليس 5 فقط لأنه سكري بعض الشيء في بعض الأحيان,NULL,food quality,food,implicit
+لا تحتوي العبوات على ما يكفي لصنع كوب رائع من الشوكولاتة الساخنة، لذا فإن هذه علبة مثالية حيث يمكنك وضع الكمية التي تريدها لجعل المذاق مثاليًا!,علبة | علبة,food general | food quality,food,explicit | explicit
+أعتقد أن هذا الشاي هو بديل عادل لتناول حبوب أخرى.,NULL,NULL,food,implicit
+حتى أن كلبي يحب اللعبة بمفردها وسيقوم بقضمها لبعض الوقت.,NULL,NULL,food,implicit
+لقد أحببت هذه البسكويت .,البسكويت,food general,food,explicit
+ولكن كن على علم بأن هذه واحدة من النباتات الأصعب في النمو.,NULL,NULL,food,implicit
+لم يكن حلوًا جدًا وكان ذلك مثاليًا لأن حشوة الفطيرة كانت.,NULL,food quality,food,implicit
+لقد اشتريتها لوضعها في أكياس الترحيب بالضيوف في حفل زفافنا.,NULL,NULL,food,implicit
+أشتري هذه المنتجات من خلال خطة الاشتراك لتوفير المزيد من المال.,NULL,amazon prices,food,implicit
+أشربه بدون محليات، وأيضا باردًا.,NULL,food general,food,implicit
+هذه القضبان ليست استثناءً، فهي مكونة من مكونات صحية بحتة، لذلك أشعر بالرضا عن تناولها.,NULL,food general,food,implicit
+يستحق الثمن جيدا .,NULL,food prices,food,implicit
+يمكنه صنع بعض المعكرونة المريحة حقًا.,NULL,NULL,food,implicit
+"اعتبر نجمتي ""سخية"".",NULL,NULL,food,implicit
+هذا سعر أفضل إلى حد ما مما يمكنني الحصول عليه في متجر البقالة المحلي الصغير الخاص بي، وأكثر طزاجة من أمازون.,أمازون,amazon prices,food,explicit
+إذا كنت تحب تناول كوب جيد من القهوة يوميًا، أعتقد أنك ستحب هذا.,القهوة,food general,food,explicit
+كنت مترددًا بعض الشيء في شراء هذا. الأرز الفوري في الميكروويف سهل للغاية ولم أستطع أن أرى إنفاق المال على هذا.,NULL,NULL,food,implicit
+إنها فقط تمضغ وتعض وتمضغ - مما يبقيها مشغولة لبعض الوقت.,NULL,NULL,food,implicit
+في حين أنه كان على ما يرام، إلا أنه لم يصل إلى الهدف.,NULL,food general,food,implicit
+حبوب كيكس لذيذة للغاية.,حبوب كيكس,food quality,food,explicit
+لدي إضافات في العمل .,NULL,NULL,food,implicit
+كانت ابنتي في سياتل تزورنا هذا العام وسألتني إذا كنت أريد أي شيء من السوق.,NULL,NULL,food,implicit
+لقد وجدت أنني بحاجة إلى القيام ببعض التجارب والأخطاء للحصول على المستوى المناسب من الماء بالنسبة لي.,NULL,food general,food,implicit
+يقول فقط أضف لحم البقر، ولكنك ستحتاج أيضًا إلى توفير الأرز أو البطاطس لوضعه فوقه، فهناك كمية لا بأس بها من الصلصة.,NULL,NULL,food,implicit
+الشيء الوحيد الذي أريد تغييره هو أنني أرغب في الحصول على نسخة مملحة قليلاً؛ فأنا لا أريد دائمًا هذا القدر من الملح.,NULL,NULL,food,implicit
+وفوق كل ذلك يعجبني أن الشركة تتبرع بنسبة من أرباحها.,NULL,NULL,food,implicit
+وكان العشاء بالنسبة لنا.,NULL,NULL,food,implicit
+لقد كانت طازجة حقًا ولذيذة المذاق تمامًا!,NULL | NULL,food quality | food quality,food,implicit | implicit
+إن النكهات القهوة تزعجني وهذا هو مجرد نكهة يومية جيدة القهوة.,القهوة,food quality,food,explicit
+ماذا أقول عن هذا المنتج؟,NULL,NULL,food,implicit
+"له طعم مميز ولكن ليس سيئًا على الإطلاق، ويقطع طعم ""الفاكهة فقط"" الموجود في العصير.",NULL | NULL,food quality | food quality,food,implicit | implicit
+ليس مريرًا ولكنه ممتلئ الجسم، لذيذ جدًا!,NULL,food style_options,food,implicit
+إن الملمس المضاف من البقان المطحون جعله أفضل!,NULL,food style_options,food,implicit
+عندما عثرت على أكواب الكاكاو الساخن هذه، اغتنمت الفرصة.,NULL,NULL,food,implicit
+مذاقها مثل مطعم شرائح اللحم المفضل لدي !!,NULL,food quality,food,implicit
+تحمل عددًا كبيرًا من أكواب K وتبدو أنيقة ومرتبة.,NULL,food style_options,food,implicit
+هذه القضبان هي حقا الفواكه والمضغوطة حتى مع كل المكسرات الموجودة فيها.,NULL | NULL | NULL,food quality | food quality | food quality,food,implicit | implicit | implicit
+لقد صنعت كمية كبيرة جدًا أيضًا!,NULL,food style_options,food,implicit
+إنها مقبولة مع الحليب أو الزبادي، ولكن يمكنني بسهولة شراء الجرانولا العادية دون الحاجة إلى تكسيرها (لا تتكسر بسهولة).,NULL,food general,food,implicit
+أحبها ! ! !,NULL,food general,food,implicit
+قال زوجي أنه يمكن أن يكون أفضل لذلك لست متأكدة إذا كنت أحبه لأنني لا أستطيع أن أتذكر طعم قشرة البيتزا الجيدة أو إذا كان زوجي مجرد شخص انتقائي؟,NULL,food general,food,implicit
+شكرا أمازون .,أمازون,amazon prices,food,explicit
+لقد حصلت على الكثير من الفتات.,NULL,shipment quality,food,implicit
+نحن نشتري الكثير من لحم البقر المجفف وعادةً ما يكون من نوع Jack Links.,NULL,NULL,food,implicit
+طعم مرير قليلاً إذا سألتني.,NULL,food quality,food,implicit
+كاد أن يكسر أسناني الأمامية (على الأقل هكذا شعرت) عندما عضضتها.,NULL,NULL,food,implicit
+عصير الكرز الحامض يساعد ليس فقط في علاج التهاب المفاصل بل في علاج أشياء أخرى أيضًا.,عصير الكرز الحامض,food general,food,explicit
+هذه هي أفضل بريتزل أكلتها.,بريتزل,food quality,food,explicit
+سأعود لجميع احتياجاتي المستقبلية مسحوق الخروب.,مسحوق الخروب,food general,food,explicit
+أضف بقايا الدجاج أو اللحم البقري، وبعض الخضروات، وسيكون لديك وجبة سريعة وسهلة بكمية أقل من الكربوهيدرات.,NULL,NULL,food,implicit
+تعتبر نكهة Choc Rasp هي الأفضل ولكن نكهة Chocolate Hazelnut و Chocolate Mint و Milk Chocolate هي أيضًا ممتازة.,NULL | NULL,food quality | food quality,food,implicit | implicit
+طعمهم لذيذ جدا .,NULL,food quality,food,implicit
+لدي كلب بيكابو يزن 3.4 رطل ولا يأكل.,NULL,NULL,food,implicit
+لقد أحببته!,NULL,food general,food,implicit
+لذلك فكرت لماذا لا أقوم بالتسوق لشراء رقائق البطاطس عبر الإنترنت.,NULL,NULL,food,implicit
+إنها تحتوي على نسبة منخفضة من الصوديوم والعديد من الدهون التي تحتوي عليها من النوع الجيد (من المكسرات).,NULL,food style_options,food,implicit
+لقد قمت بتذوقه من قبل شخصين من العمل وكلاهما أحبه - ذهب أحدهما على الفور إلى الإنترنت وطلبه من Amazon .com .,Amazon | NULL,amazon availability | food quality,food,explicit | implicit
+99 فقط .,NULL,NULL,food,implicit
+سعر رائع .,NULL,food prices,food,implicit
+ج .,NULL,NULL,food,implicit
+كل كيس يحتوي على 4 أكياس شاي.,شاي,food general,food,explicit
+لا يوجد في أي مكان عبارة خالية من الكافيين.,NULL,food quality,food,implicit
+"أو جرب علامة تجارية آسيوية تسمى ""G7""، وهي عبارة عن مزيج من القهوة الفورية 3 في 1 مع كريمة ومحلي في كيس واحد.",NULL,NULL,food,implicit
+أنا ممتن جدًا!,NULL,food general,food,implicit
+ماذا يمكنك أن تطلب أكثر من ذلك؟,NULL,NULL,food,implicit
+إنها تتمتع بجسم ونكهة ممتازة. جيدة مثل أي قهوة مطحونة أخرى تناولتها.,NULL | NULL,food style_options | food quality,food,implicit | implicit
+هذا صحيح، ليس الليمون، ولكن عشبة الليمون.,NULL,food quality,food,implicit
+آمل أن يساعد هذا الآخرين.,NULL,NULL,food,implicit
+فهو يحتوي على حبيبات وملمس رائع.,NULL,food quality,food,implicit
+كما أنه يتحمل الانخفاضات بشكل رائع! : ),NULL,food general,food,implicit
+أعتقد أنني أعلم أنه من الأفضل ألا أتوقع تلك المتعة الموسمية التي يقدمها ستاربكس عادةً؛ ولكنني كنت آمل أن تكون قريبة بما يكفي لإرضاء هذا الشغف.,NULL,food general,food,implicit
+لم يكن لدي أي فكرة على وجه التحديد عن الثمن الذي سيكلفه رطل الزهور.,NULL,NULL,food,implicit
+نحن نستمتع بهذا الشاي مع سبليندا وأحيانًا مع الليمون لمزيد من النكهة.,NULL,NULL,food,implicit
+سأشتريه مرة أخرى عندما أحتاج إليه .,NULL,amazon availability,food,implicit
+لقد قضيت السنوات الخمس الأولى من حياتي في البرازيل وكان والديّ الأمريكيان يتحدثان البرتغالية بطلاقة وقد قدما لي الطعام والثقافة البرازيلية.,NULL,NULL,food,implicit
+علبة 5 أونصة.,NULL,NULL,food,implicit
+أحب المنتج وطعم الفانيليا رائع!,NULL | NULL,food general | food quality,food,implicit | implicit
+هذا هو المفضل الجديد لدي K - Cup .,K - Cup,food general,food,explicit
+أنا من الأشخاص الذين يفضلون نكهة الموكا وأخلطها مع الموز والحليب خالي الدسم.,NULL,NULL,food,implicit
+إنها جيدة بشكل عادي وستكون رائعة في السلطات.,NULL | NULL,food general | food general,food,implicit | implicit
+كانت نباتاتنا المنزلية مليئة بالبعوض، وكان كل غرفة في منزلنا أيضًا.,NULL,NULL,food,implicit
+إذا كنت تحب الشوكولاتة المكثفة، فسوف تحب هذه الأشياء.,NULL,food recommendation,food,implicit
+لقد صنع طفلي وجهًا فظيعًا عندما أعطيته هذا له.,NULL,food general,food,implicit
+أمازون، هذا هو عامل حاسم.,أمازون,amazon prices,food,explicit
+اشتريت هذا المنتج كمكمل غذائي للكالسيوم والمغنيسيوم لأطفالي.,NULL,food general,food,implicit
+أوصي بهذا المنتج لأي شخص يبحث عن بديل جيد لدقيق القمح.,المنتج | المنتج,food recommendation | food general,food,explicit | explicit
+التحرير والسرد كاموت والكينوا كان ممتعًا للغاية.,التحرير والسرد كاموت والكينوا,food general,food,explicit
+لقد قمت بالشراء عبر الإنترنت لأن زيت جوز المكاديميا ليس من السهل العثور عليه في متجر البقالة المحلي.,زيت جوز المكاديميا,amazon availability,food,explicit
+السعرات الحرارية لا تزال مرتفعة جدًا (100 سعرة حرارية للـ 8.,NULL,food general,food,implicit
+مجرد تحذير لأولئك الذين لديهم أيضًا مشاكل مع القمح / الجلوتين.,NULL,NULL,food,implicit
+الشيء الإيجابي الوحيد الذي يمكنني قوله ) ) ),NULL,food general,food,implicit
+احبهم .,NULL,food general,food,implicit
+يجب أن أعترف أنه قبل أن أشتري هذه المجموعة لم أكن أدرك أنك بحاجة أيضًا إلى شراء جميع المعدات الضرورية لصنع النبيذ النبيذ.,النبيذ,food general,food,explicit
+لقد نشأت في جنوب كاليفورنيا، لذا فقد تناولت نصيبي من كعكات الذرة الحلوة في المطاعم المحلية.,NULL,NULL,food,implicit
+"اشتريته مع العلم أنه طعام ""حمية""، لكن لم أتوقع أن يكون سيئًا إلى هذا الحد.",NULL,food general,food,implicit
+عندما رأيت المنتج على أمازون، لم أكن أعرف حجم العبوة.,أمازون,amazon availability,food,explicit
+خبز النخالة الاسكندنافي GG ، 3 .,خبز النخالة الاسكندنافي GG,amazon availability,food,explicit
+أتساءل لماذا يجب على شركة Quaker التي تشتهر بدقيق الشوفان أن تكون مخادعة إلى حد ما ولا تكشف مقدمًا أن هذا ليس دقيق شوفان تمامًا ثم تستمر في تقديم ادعاءات حول خفض الكوليسترول في حين أنه ليس دقيق الشوفان بالكامل.,NULL,food quality,food,implicit
+ولكن بعد فتح العبوة، شعرت بخيبة أمل.,NULL,food quality,food,implicit
+لقد كان مذاقها مرًا بالنسبة لي مع القليل من اللدغة.,NULL,food quality,food,implicit
+قططتي تحب جميع النكهات وستعود دائمًا للحصول على المزيد.,NULL,food quality,food,implicit
+إنه حقا نوع مختلف تماما من الطعام.,NULL,food general,food,implicit
+طلبته في 14 مارس، وحصلت عليه في 16 مارس.,NULL,shipment delivery,food,implicit
+هذا المنتج قوي جدًا ورائع.,المنتج | المنتج,food general | food quality,food,explicit | explicit
+إنه يحب طعمها وهي أكثر صحة من الحلوى.,NULL | NULL,food quality | food quality,food,implicit | implicit
+لم يكن طعمه مثل صلصة الشواء.,صلصة الشواء,food quality,food,explicit
+رائع !,NULL,NULL,food,implicit
+من السهل جدًا تحضيره وهناك العديد من الطرق التي يمكنك من خلالها تحسينه إذا كنت تريد ذلك - لحم الخنزير، قطع لحم الخنزير المقدد، المحار - والمزيد من الخضروات.,NULL,food general,food,implicit
+لسوء الحظ، فإنه ليس مختلطا بشكل جيد.,NULL,food style_options,food,implicit
+يحتوي الطعام الجاف على كمية كبيرة من الكربوهيدرات، واقترح الطعام الرطب لأنه يتكون في الغالب من البروتين والدهون - وهو ما يأكلونه في البرية.,NULL,NULL,food,implicit
+ستاربكس كافيه فيرونا، داكن، عبوة من 54 كوبًا لآلات صنع القهوة كيريج كيه كاب,NULL,NULL,food,implicit
+أعني أنهم ورديون، ولكن ليس ورديًا ساطعًا كما يظهر.,NULL,NULL,food,implicit
+العيب الرئيسي هو أنه لا يوجد مكان لخروج العسل من الزجاجة إلا بعد فك الغطاء بالكامل وسكب العسل من الزجاجة.,NULL,NULL,food,implicit
+اعتقدت أنه كان على ما يرام.,NULL,food general,food,implicit
+كان كلبي صعب الإرضاء إلى حد ما، لكننا لم نجد أي طعام ميريك لا يحبه.,ميريك,amazon availability,food,explicit
+أنا أشعر بخيبة أمل شديدة ولا أستطيع أن أصدق أن هذا المنتج لا يزال موجودًا على الرفوف.,NULL,NULL,food,implicit
+وأنا أكره الاعتراف بذلك، ولكن الرائحة اللطيفة وغياب المنتجات الثانوية دغدغت جانبي الفضولي أيضًا.,NULL,food quality,food,implicit
+وأود أيضًا أن أوصي بتجربته مع كريمة الفانيليا.,NULL,food recommendation,food,implicit
+فهي قابلة للهضم وتساعد على تنظيف الأسنان.,NULL,food general,food,implicit
+الطعم رائع والطاقة الطبيعية المنبعثة من الثيوبرومين تبقي زوجي متيقظًا أثناء العمل ليلاً، دون أعراض انسحاب الكافيين المزعجة الشائعة مع مشروبات القهوة.,القهوة,food quality,food,explicit
+كل ما أعرفه هو أنه يلتصق بسقف فمك مثل أي زبدة فول سوداني أخرى!,NULL,food general,food,implicit
+حتى الآن فإن نكهة البرتقال والمانجو هي المفضلة لدي ولكنني لم أجربها كلها بعد.,NULL,food quality,food,implicit
+"لا أوصي بهذا المنتج - استخدم العلامة التجارية "" Wholesome Sweetness "" من Erythritol نظرًا لعدم وجود أي مكون آخر مدرج في المنتج.",المنتج,food recommendation,food,explicit
+استمر في العمل الجيد ! ! ! !,NULL,food general,food,implicit
+كوجبة خفيفة في المساء...,NULL,NULL,food,implicit
+لقد اشتريت هذا الشراب لأنه كان شراءً جيدًا.,NULL,food general,food,implicit
+لكنها كانت جيدة وأرخص قليلاً من بعض البسكويت الخالية من الجلوتين الأخرى التي أشتريها.,NULL | NULL | NULL,food prices | food general | food quality,food,implicit | implicit | implicit
+الطعم جيد جدًا لدرجة أنك لا تفتقد الملح حقًا.,NULL,food quality,food,implicit
+جوان من ماريلاند,NULL,NULL,food,implicit
+لقد تحدث بعض الناس عن مذاق أو نكهات مختلفة، ولكن بالنسبة لي، فإن مذاقها يشبه طعم المياه المعبأة الأخرى، حتى عند شربها مرة واحدة تلو الأخرى.,NULL,food quality,food,implicit
+وداعا !,NULL,NULL,food,implicit
+هذا الأشياء طعمه رائع وهو في الواقع إضافة صحية للنظام الغذائي، باعتدال.,الأشياء | الأشياء,food quality | food general,food,explicit | explicit
+أنا أحب نفخات الجبن تشيتوس الأصلية، ولكن ليس حقيقة أن أصابعي في النهاية مغطاة بطبقة برتقالية اللون على النفخات.,نفخات الجبن تشيتوس الأصلية,food general,food,explicit
+والمكونات تبدو جيدة، باستثناء الزيت المعدني ربما.,NULL,food quality,food,implicit
+أنا في عملية الاستبدال الثانية خلال عامين.,NULL,NULL,food,implicit
+حتى الآن لا يوجد تمزق، فهو يحمل كمية كبيرة من نفايات الطعام.,NULL,NULL,food,implicit
+يمكنك تذوق المكونات ذات الجودة العالية .,NULL,food general,food,implicit
+00لـ 24/11 .,NULL,NULL,food,implicit
+تقول العبوة أنه يجب استخدام 4 ملاعق كبيرة من شاي لكل كوب وتصفية - لذلك اشتريت هذه العبوة المكونة من 4 قطع (معتقدًا أن 4 ملاعق كبيرة لكل كوب ستستهلك الأشياء بسرعة كبيرة).,شاي,food general,food,explicit
+لقد كان من الرائع العثور على جميع منتجات الـ 100 سعرة حرارية المتوفرة في أمازون.,أمازون,amazon availability,food,explicit
+الحل : الطماطم المجففة .,NULL,NULL,food,implicit
+ربما يكون أفضل شاي,NULL,food quality,food,implicit
+"الآن، تم إدراجه على أنه ""غير متوفر"" للتسليم العادي، ولكن في الواقع أمازون يبيع نفس المنتج مقابل 38 دولارًا (أيضًا عبوة من 12 قطعة، نفس العلامة التجارية، نفس الحجم لكل علبة).",أمازون | أمازون,amazon availability | amazon prices,food,explicit | explicit
+كانت معتدلة إلى حد ما، لذا فإن النكهة لا ترقى إلى مستوى النكهة الكاملة التي يتوقعها المرء من تحميص داكن قهوة.,قهوة,food quality,food,explicit
+نكهة رائعة بمفردها أو في كوكتيلات ماء التونيك الممزوجة.,NULL,food quality,food,implicit
+شاي مفيد جدًا لك وسيساعد في العديد من الأشياء في جسمك.,شاي,food general,food,explicit
+اشتريت هذه المنتجات أولاً من كوستكو، ولكن بما أنني لا أراها دائمًا هناك، فقد اغتنمت الفرصة لطلبها عندما رأيتها على أمازون.,أمازون,amazon availability,food,explicit
+هذا هو أفضل شاي التوت الأزرق الذي تناولته على الإطلاق.,NULL,food quality,food,implicit
+يمكن تخزينه على الرف، لذا أقوم بصنع ما أحتاجه، ويمكنك صنع نصف الصندوق فقط إذا قمت بقياسه.,NULL,food general,food,implicit
+طفلي يحب هذا!,NULL,food general,food,implicit
+بدت معاطفهم أفضل على Canidae مقارنة بأي طعام آخر تناولناه منهم.,NULL,NULL,food,implicit
+اشتريت صندوقين لتساعدني في قضاء فصل الشتاء.,NULL,NULL,food,implicit
+كان علي أن أطلبه من أمازون، لأنه كان متاحًا فقط في ولاية يوتا حيث كنت أعيش.,أمازون,amazon availability,food,explicit
+هذه كمية كبيرة من الطعام .,NULL,NULL,food,implicit
+إن لديهم رائحة حنين لطيفة ذكرتني بمؤخرة جدي القديم عندما كان يمر.,NULL,food quality,food,implicit
+كنت على وشك إعادتهم، عندما قرأت المراجعات، لذلك قمت بوضع واحد فقط، و,NULL,NULL,food,implicit
+إنهم يستمتعون باللحوم المقطعة وقطع البطاطس والخضروات.,NULL,food style_options,food,implicit
+إذا كنت من محبي شرب القهوة والإسبريسو فلا داعي للبحث أكثر.,NULL,food recommendation,food,implicit
+يتطلب الأمر كوبين من القهوة منزوعة الكافيين لصنع كوب عادي من القهوة منزوعة الكافيين.,NULL,food quality,food,implicit
+لقد حصلت على 2 تاجين بعد تناول هذا.,NULL,NULL,food,implicit
+من المرجح أن أتناول هذه الأطعمة في الصباح لبدء يومي.,NULL,food general,food,implicit
+أنا في الواقع أفقد الوزن عندما ألتزم بهذا في وجبة الإفطار.,NULL,food general,food,implicit
+أستطيع أن أستمتع بكوب دافئ من القهوة ذات الجودة الرائعة في حوالي دقيقة واحدة، من البداية إلى النهاية.,NULL,food quality,food,implicit
+نستخدمها في كلاب الفلفل الحار، في تورتيلا الذرة الساخنة مع الجبن، أو في وعاء مع البصل المفروم في الأعلى.,NULL,NULL,food,implicit
+النكهة معبأة!,NULL,food quality,food,implicit
+لقد قمت بإعطاء هذه المراجعة نجمة واحدة لأن هذه الجرار مصنوعة من البلاستيك وليس الزجاج.,NULL,food general,food,implicit
+سوف نستمر في طلب هذه الحلويات باللوز المحمص بالفرن حتى يكون لدينا دائمًا بعضًا منها متاحًا.,NULL,food recommendation,food,implicit
+قامت صفنا بتشريح ضفادع العشب.,NULL,NULL,food,implicit
+يجب عليك تجربته، لن تشعر بخيبة أمل !!!,NULL,food recommendation,food,implicit
+أي نوع كانوا يأكلون؟,NULL,NULL,food,implicit
+أمازون أمر سخيف.,أمازون,amazon availability,food,explicit
+لقد فوجئت عندما أبلغتني الشركة بأنني دفعت مبلغًا زائدًا للشحن وقاموا برد سعر الشحن.,NULL,NULL,food,implicit
+كنت قلقًا في البداية لأن لديها نظامًا هضميًا حساسًا للغاية، لكنني لم أر أي مشكلة حتى الآن، وقد كنت أستخدمها لأكثر من أسبوع.,NULL,food general,food,implicit
+استغرق الأمر مني بعض الوقت حتى أدركت أن الزر الفضي الصغير الموجود على الجانب لم يكن زرًا، بل كان بدلاً من ذلك مقبضًا دوارًا لتعيين المكسب.,NULL,NULL,food,implicit
+إنه كريمي وله طعم رائع من زبدة الفول السوداني.,NULL,food quality,food,implicit
+العودة إلى Twizzlers!,NULL,NULL,food,implicit
+وهذا يجعل الشاي ذو جودة رائعة.,NULL,food quality,food,implicit
+إنه مثالي ساخنًا أو مثلجًا - كما هو تمامًا.,NULL,food quality,food,implicit
+أخطط لشراء المزيد عندما أتناول هذه الدفعة!,NULL,food general,food,implicit
+العيوب هي أن الكيس يحتوي على كمية صغيرة جدًا والقطع هشة وقابلة للكسر.,NULL | NULL,food style_options | food style_options,food,implicit | implicit
+عندما وصل هذا كانت فتاة سعيدة. وصل في الوقت المحدد في حالة ممتازة.,NULL | NULL | NULL,food general | shipment delivery | shipment quality,food,implicit | implicit | implicit
+إنه رائع حقًا وهو مرطباني المفضل، لذا فهو يوضع على المنضدة مع مرطبان واحد على الأقل احتياطيًا (أحيانًا عدة مرطبانات لأنني أقدمها مجانًا).,NULL,food general,food,implicit
+أقوم بخلط ملعقة من طعام Wellness / الخلاط مع طعام Wellness Core الجاف لكلا كلبي وهم يحبونه!,طعام Wellness,food general,food,explicit
+بعد ذلك، أصبح طعم القهوة جيدًا.,القهوة,food quality,food,explicit
+لقد شعرت بخيبة أمل كبيرة في هذا القهوة.,القهوة,food general,food,explicit
+لقد قمت بتعديل إعداد مطحنة القهوة الخاصة بي وخفضت الكمية (3 ملاعق كبيرة مكدسة لكل 18 أونصة من الماء العذب المصفى من خلال مخروط رقم 4)، أفضل نكهة لحبوب القهوة,NULL,food quality,food,implicit
+لقد أعادت ذكريات لزوجي، الذي تناولها عندما كان طفلاً صغيراً.,NULL,NULL,food,implicit
+سأبقي هذا مختصرا.,NULL,NULL,food,implicit
+السعر للبيع بالتجزئة الموضح بوضوح على كل حزمة هو 2 دولار.,NULL,NULL,food,implicit
+الملمس يشبه جيلي بودنغ والنكهة قد تكون شبيهة بشكل سيئ بعلامة سحرية برائحة الكراميل.,NULL | NULL,food style_options | food quality,food,implicit | implicit
+أفضل من الملح والخل العادي رقائق.,رقائق,food quality,food,explicit
+أنا سعيد جدًا لأنني أمرت به!,NULL,amazon availability,food,implicit
+لم أفقد وزني أو أمارس الرياضة - باستثناء المضغ!,NULL,NULL,food,implicit
+"لسوء الحظ، فهي تطاردهم بجنون حتى أنهم ""يختفون"" في النهاية (أي يعلقون في أماكن بعيدة عن الطريق بحيث لا أستطيع العثور عليهم بعد الآن) ويبدو أنني أشتري لها دائمًا مجموعة جديدة من هذه للانقضاض عليها.",NULL,NULL,food,implicit
+أنا أحب ملح الهيمالايا الوردي!,NULL,food general,food,implicit
+آمل ذلك، فقد واجه أحد الديكين مشكلة طفيفة في تلك المنطقة.,NULL,NULL,food,implicit
+لقد جربنا أيضًا نكهات أخرى من هذا الطعام، ولكن هذا هو المفضل لديهم!,NULL,food general,food,implicit
+إنها مشروبات الصودا ذات النكهة البرتقالية الأكثر انتعاشًا التي جربتها على الإطلاق.,NULL,food quality,food,implicit
+فشل الغلاف الفقاعي الموجود داخل صندوق المنتج في منع التمزق.,NULL,shipment quality,food,implicit
+بمجرد أن أدركت ذلك، كان عليّ استخدام مكافآت أكبر لإبقائها مشغولة لفترة أطول.,NULL,NULL,food,implicit
+من المؤكد أن هذه هي أول ووحيدة ماكينة صنع القهوة Keurig التي امتلكتها، فهي تفعل كل ما ينبغي لها.,ماكينة صنع القهوة Keurig,food general,food,explicit
+لم أحب أبدًا أيًا منها شريط جرانولا، ولكنني تناولت حرفيًا مئات منها.,شريط جرانولا,food general,food,explicit
+أي سبب ؟,NULL,NULL,food,implicit
+أنا أستمتع أيضًا بأنواع أخرى حبوب Nature's Path.,NULL,NULL,food,implicit
+لا أريد أن أتناول أيًا من ألواح الحلوى ذات العلامة التجارية الكبيرة التوفي مرة أخرى أبدًا!,التوفي,food general,food,explicit
+انا احبهم .,NULL,food general,food,implicit
+"[آلة عمرها 8 سنوات] إلى القمح الكامل RAPID - قشرة متوسطة - تُظهر الصور نتائج الخبز وسيُظهر محيط الخصر قريبًا ""الاستمتاع"" بهذا الخبز الرائع.",NULL,food general,food,implicit
+شراء رائع بسعر رائع!,NULL,NULL,food,implicit
+إنها ذات جودة عالية على الإطلاق وتشكل علاجًا لطيفًا.,NULL | NULL,food general | food general,food,implicit | implicit
+جالون واحد من الزيت سوف يستمر لفترة طويلة بالنسبة لي!,NULL,NULL,food,implicit
+هذا الطعم يشبه إلى حد كبير Hubba - Bubba أو علكة غير ذات علامة تجارية صديقة للأطفال، ولا ينبغي أن تسمى في الواقع بنكهة الحلوى.,NULL,NULL,food,implicit
+إنه أمر سيء فقط.,NULL,food quality,food,implicit
+يبدو أنهم مذهلين وطعمهم رائع.,NULL | NULL,food quality | food general,food,implicit | implicit
+"من المؤكد أن مذاقها وملمسها أفضل من بعض المعكرونة ""الصحية"" المتوفرة، لكنني لست مقتنعًا بهذا.",NULL,food quality,food,implicit
+اعتقدت أنه سيرفع أنفه في هذا الأمر.,NULL,NULL,food,implicit
+أما بالنسبة للبائع، فكان كل شيء رائعًا هناك أيضًا.,NULL,amazon availability,food,implicit
+كان لدى كلبي من فصيلة كوكير سبانيل مشاكل حادة في الأذن (كما هو الحال مع العديد من كلاب كوكير) وأوصى الطبيب البيطري بطعام الكلاب الموصوف، وبعد إجراء البحث، قررت استخدام Holistic Select بدلاً من ذلك، وأصبحت أذنيه أفضل بكثير!,Holistic Select,food general,food,explicit
+لذا فإن التحميص المتوسط رائع إذا كان هذا ما تفضله.,NULL,food general,food,implicit
+ماريا ايرين رييس,NULL,NULL,food,implicit
+لقد أصبحوا مدمنين.,NULL,food general,food,implicit
+يبدو أنني بحاجة إلى إعطاء كلبي كيسًا كاملاً للحصول على 500 ملغ من الجلوكوزامين.,NULL,food general,food,implicit
+أحب أنه عضوي وفي وعاء زجاجي.,NULL,food quality,food,implicit
+إذا كان بإمكانك شراءه بسعر أرخص في محطة البنزين الخاصة بك فافعل ذلك.,NULL,NULL,food,implicit
+مرحبًا أمازون، متى ستبيعون هذه العبوة المكونة من 80 قطعة؟,NULL,NULL,food,implicit
+ينبغي أن يفعل ذلك.,NULL,NULL,food,implicit
+أنا أحب الفلفل الحار وأحب أمازون.,الفلفل الحار,food general,food,explicit
+أنا أيضًا أحب حقًا مربى التوت - المشمش.,مربى التوت - المشمش,food general,food,explicit
+لقد قمت بتجربة هذه المكسرات لأول مرة من خلال Sams في عيد الميلاد الماضي ووجدت أن المكسرات الخاصة بك طازجة.,NULL,NULL,food,implicit
+لقد اشتريت هذا المنتج في الأصل من Petfood Express في سان فرانسيسكو.,NULL,food general,food,implicit
+لقد كانت هدية رائعة لعيد الأم، حيث لا يوجد مكان في هذه المنطقة يبيع أي شيء قريب منها.,NULL,amazon availability,food,implicit
+أنا لست متعجرفًا بأي حال من الأحوال الشاي لذلك لا يمكنني تحليل هذا المنتج بتفصيل كبير كما قد يفعل الآخرون.,الشاي,food general,food,explicit
+أقل طراوة بكثير من النسخة النباتية الأمريكية.,NULL,food general,food,implicit
+Wholesome Sweeteners هو منتج عضوي / تجارة عادلة، عالي الجودة منتج قمت بالاشتراك فيه.,منتج,food quality,food,explicit
+يمكنك إعطائه له كمكافأة تدريب أو مجرد وجبة خفيفة.,NULL,NULL,food,implicit
+أنا لا أفعل غموس المحار,NULL,NULL,food,implicit
+لقد أوصى بهذا المنتج لي العديد من الأشخاص باعتباره أفضل منتج خالٍ من الجلوتين خبز منذ أن فقدت الأمل في العثور على منتج خالٍ من الجلوتين خبز لائق.,خبز,food recommendation,food,explicit
+"لقد أخذت كلا من أكياس القهوة ""المحضرة في الكوب"" ماكسويل هاوس وفولجرز، ووجدتها مقبولة (بدلاً من كوب قهوة طازج من وعاء قهوة حقيقي)، لذلك كانت توقعاتي أن تكون هذه القهوة مماثلة في المذاق والجودة.",ماكسويل هاوس وفولجرز | ماكسويل هاوس وفولجرز | ماكسويل هاوس وفولجرز,food general | food quality | food quality,food,explicit | explicit | explicit
+سأعيد طلب هذه بالتأكيد!,NULL,food recommendation,food,implicit
+بالتأكيد اكتشاف عظيم.,NULL,food general,food,implicit
+لقد جربتهم جميعًا وهذا هو الأكثر سلاسة ولذة وهدوءًا على الإطلاق,NULL | NULL | NULL,food quality | food quality | food quality,food,implicit | implicit | implicit
+أنا لست متأكدًا من سبب تخزين المتاجر لـ IAMS فقط مع الدجاج.,NULL,NULL,food,implicit
+طعام القطط الذواقة Petite Cuisine كان نجاحًا حقيقيًا مع قطتي المستحيلة.,طعام القطط الذواقة Petite Cuisine,food general,food,explicit
+سأشتريه طوال الوقت الآن. تسليم سريع وسعر جيد أيضًا.,NULL | NULL | NULL,food recommendation | shipment quality | food prices,food,implicit | implicit | implicit
+لا حصى.,NULL,food quality,food,implicit
+مشكلتنا هي تحديد المكان الذي يمكننا شراء هذا المنتج.,المنتج,amazon availability,food,explicit
+في الواقع معظم رقائق بولدر هي حقا شهية ولذيذة.,رقائق بولدر,food quality,food,explicit
+أنا سعيد جدًا لأنني أستطيع طلبه من خلال Amazon.,Amazon,amazon availability,food,explicit
+نعيش في منتصف الطريق حيث لا يوجد لدينا أماكن محلية لشراء الأطعمة عالية الجودة لكلابنا.,NULL,NULL,food,implicit
+نحن عادة ما نجد أن الأمر يتطلب المزيد من الماء والوقت أكثر مما تنص عليه التعليمات وإلا سيكون لديك بعض الأرز أو الفاصوليا غير المطبوخة.,NULL,NULL,food,implicit
+اعتقدت أن منتجات نيلبون ستدوم ولكن أعتقد أنه الوقت المناسب للبدء في البحث عن منتجات أخرى لن تدمرها في جلسة واحدة...,NULL,NULL,food,implicit
+ما الذي لا يعجبك؟,NULL,NULL,food,implicit
+ليس للقلب الضعيف .,NULL,NULL,food,implicit
+يؤدي هذا Icicle أداءً خاليًا من العيوب مع جودة صوت ممتازة بالنسبة لميكروفون المكثف القلبي من Audio - technica.,NULL,NULL,food,implicit
+لا أعلم إن كان الأمر يتعلق بالنكهة أو الملمس (لطيف مع بعض القطع الصغيرة فيه)، لكنها تلتهمه بسرعة.,NULL | NULL,food quality | food style_options,food,implicit | implicit
+أنا أزرع الثوم، ولكن,NULL,NULL,food,implicit
+أحب هذه النكهة .,NULL,food quality,food,implicit
+لقد جربناه أنا وزوجي وله طعم غير سار وقوي للغاية.,NULL,food quality,food,implicit
+أستخدم هذه العلكة لأنها جيدة لصحة أسنانك، ولا تؤثر على نسبة السكر في الدم، وأحب طعم القرفة، ونكهة الفاكهة أيضًا جيدة.,NULL | NULL | NULL | NULL,food general | food quality | food quality | food quality,food,implicit | implicit | implicit | implicit
+هذه وجبات خفيفة رائعة.,NULL,food general,food,implicit
+لقد أعجبني حقيقة أن البلاستيك لم يكن عليه أي كتابة (أكره ذلك).,NULL,food general,food,implicit
+هل تستمتع بشاي ليبتون؟,NULL,NULL,food,implicit
+ولكن سعره أرخص في Trader Joe's إذا كان هناك واحد بالقرب منك. سعر الزجاجة 2 دولار فقط,NULL,NULL,food,implicit
+كان الأمر كما لو أن أحدهم ألقى نصف كوب من السكر هناك.,NULL,food quality,food,implicit
+لا تقم بتبريده.,NULL,NULL,food,implicit
+شكرا لك أمازون على عملك الجيد.,NULL,NULL,food,implicit
+يمكن مقارنته بـ Poppycock ولكنه أكثر نكهة وأخف وزناً على المكسرات، وهو تغيير جيد جدًا في الوتيرة.,NULL,food quality,food,implicit
+غالية الثمن بعض الشيء، ولكن كما هو الحال دائمًا، يتعين عليك دفع مبلغ أعلى مقابل الحصول على عناصر فعالة.,NULL,food prices,food,implicit
+طعمه جيد .,NULL,food quality,food,implicit
+لذيذة وفعالة جداً .,NULL | NULL,food quality | food general,food,implicit | implicit
+الآن إذا رأى كلبي الحقيبة يبدأ في سيلان اللعاب.,NULL,food general,food,implicit
+أوصي بشدة بطعام الكلاب الخاص بالشيف مايكل فيليه مينيون!,فيليه مينيون,food recommendation,food,explicit
+أضعها في طبق، ونأكلها كوجبات خفيفة، وكذلك في المخبوزات، والحبوب، والسلطات وما إلى ذلك.,NULL,NULL,food,implicit
+بضعة جرامات من الألياف، بضعة جرامات من البروتين، بضعة جرامات من الدهون = الوجبة الخفيفة المثالية لمستويات السكر في الدم الصحية بالنسبة لي.,NULL,food quality,food,implicit
+شيء يمكن أن يقنع شاربي الصودا بالتحول إلى شيء فظيع بالنسبة لك.,NULL,NULL,food,implicit
+أود أن أقول أنها حلوة ومرة شوكولاتة ومصنوعة بشكل جيد للغاية.,شوكولاتة,food quality,food,explicit
+من الصعب العثور على هذه النكهة.,NULL,food general,food,implicit
+كما أنها مصنوعة من الأسماك التي يتم اصطيادها محليًا، وعلى الرغم من أنها معلبة في آسيا، فإن العلب خالية من مادة BPA، وهو أمر غير شائع في الصناعة.,NULL | NULL,food general | shipment quality,food,implicit | implicit
+لم أرى أي فرق بعد شرب هذا لمدة تزيد عن 3 أسابيع.,NULL,food general,food,implicit
+فقط كلمة تحذير .,NULL,NULL,food,implicit
+ممتاز مع الخبز المحمص والبيض المسلوق.,NULL,food style_options,food,implicit
+لكنني أرفض أن أدفع 4 دولارات + لكل صندوق في السوبر ماركت العادي !!,NULL,food prices,food,implicit
+لا يوجد شوكولاتة أفضل منها في العالم أجمع، في رأيي.,NULL,NULL,food,implicit
+لذا فإن التحميص المتوسط رائع إذا كان هذا ما تفضله.,NULL,NULL,food,implicit
+لا تحتوي هذه الزجاجة على الكالسيوم كما هو موضح على ملصق التغذية.,NULL,food quality,food,implicit
+المنتج مثالي لاحتياجاتي.,المنتج,food general,food,explicit
+هذا بيبروني مطاطي وزيتي قليلاً - جيد إذا كنت من محبي ذلك.,بيبروني | بيبروني,food general | food quality,food,explicit | explicit
+كلابي تحب هذا الطعام!,NULL,food general,food,implicit
+إنه خفيف، نباتي وناعم للغاية.,NULL,food quality,food,implicit
+لقد أحب كلابي Loving Pet Sticks ولكن عندما قرأت أنها مصنوعة في الصين، قمت بالتخلص منها ورفضت شراء العديد من المنتجات الأخرى لشركة Loving Pet حتى يتم تصنيعها في الولايات المتحدة.,Loving Pet Sticks,food general,food,explicit
+حسنًا، باستثناء أنه عندما يتعلق الأمر بأذواقي وصحتي، فأنا أفضّل أن أتخذ القرارات بنفسي، بدلاً من أن يمليها عليّ المتحمسون والبيروقراطيون والأغبياء في الحكومة!,NULL,NULL,food,implicit
+ومع ذلك، فإن هذا المنتج هو عبارة عن بروتين نقي وبالتالي فهو ليس جيدًا لكلاهم إذا تناولوا الكثير منه.,المنتج | المنتج,food quality | food general,food,explicit | explicit
+كان ينبغي لي أن أقطع,NULL,NULL,food,implicit
+عائلتي تحب هذه البسكويت.,البسكويت,food general,food,explicit
+لقد فكرت للتو في طرح ذلك لأي شخص يفكر في شراء هذا المنتج ويحاول معرفة عدد العصي التي يحتاج إلى استخدامها في الشاي أو القهوة، لول!,NULL,food quality,food,implicit
+من فضلك لا تأخذه بعيدا أبدا .,NULL,NULL,food,implicit
+لقد صادفتهم أثناء سفري إلى أستراليا - والآن عندما أتيحت لي الفرصة للوصول إلى أستراليا، فإن إحدى محطاتي الأولى ستكون في متجر البقالة.,NULL,NULL,food,implicit
+تخيل هذا: عصير الدبس المخفف بأجزاء متساوية من الماء والكربونات.,NULL,NULL,food,implicit
+لقد جربت العديد من النكهات، وأعجبتهم جميعها.,NULL | NULL,food style_options | food quality,food,implicit | implicit
+ولكنه كان منقذ حياة.,NULL,food quality,food,implicit
+استمتع! - تشارلي,NULL,food general,food,implicit
+سأطلب هذا مرة أخرى بالتأكيد.,NULL,food general,food,implicit
+إذا لاحظت، فهذا هو عدد صناديق البذور التي تم تعبئتها.,NULL,NULL,food,implicit
+إنه يستحق الثمن!,NULL,food prices,food,implicit
+لأنه مليء بالذباب الميت.,NULL,food quality,food,implicit
+يستحق كل قرش!,NULL,food prices,food,implicit
+نعم، من المفترض أن تتناوله باعتدال، لذلك عندما تضيف ملح إلى طعامك، يجب أن يكون ذلك بهذا ملح.,ملح,food general,food,explicit
+لذيذ !,NULL,food quality,food,implicit
+لقد طلبنا حزقيال 4: 9 وتم شحنه إلينا في حالة ممتازة وبطريقة سريعة.,شحنه | شحنه,shipment quality | shipment delivery,food,explicit | explicit
+هذا المنتج بالضبط سعره 3 دولار .,NULL,NULL,food,implicit
+لكن الآن أصبح سعره أكثر من ضعف ما دفعته عندما اشتريته من السوق العام الماضي.,NULL,food prices,food,implicit
+أفضل جزء في هذه الأكواب هو أنها ليست مصنوعة بالكامل من البلاستيك مثل بقية الأكواب.,NULL,NULL,food,implicit
+أضع بعض الطماطم المجففة في محضرة الطعام أولاً، ثم أضيف الحمص والماء وزيت الزيتون.,NULL,NULL,food,implicit
+ما أعجبني أكثر هو أن الجوز كان على مستوى ما تم الإعلان عنه!,NULL,food general,food,implicit
+لقد استخدمت دائمًا حجم الجهاز اللوحي من قبل، ولكن على سبيل النزوة اشتريت الإصدار كبسولة (نفس السعر).,كبسولة,food prices,food,explicit
+لقد احتفظت به في الحقيبة الأصلية مع المشبك.,NULL,shipment quality,food,implicit
+Baconnaise هو خارج هذا العالم.,Baconnaise,food general,food,explicit
+أحمل معي حقيبة إلى السينما لتجنب السعرات الحرارية والملح في الفشار الموجود في صالة السينما. :),NULL,NULL,food,implicit
+"كانت العلبة التي يبلغ وزنها 6 رطل فقط هي العنصر ""الرئيسي"".",NULL,amazon availability,food,implicit
+لقد أسقطت نجمة لأن هذه ليست الأطعمة المفضلة لدى كلبي.,NULL,food general,food,implicit
+إنه لذيذ للغاية مع الفراولة الطازجة المقطعة في الأعلى.,NULL,food quality,food,implicit
+بهارات متوازنة بشكل مثالي مع لمسة من الحرارة من الفلفل الأسود.,NULL,food quality,food,implicit
+أوصي به بشدة لأولئك الذين يريدون فنجانًا جيدًا من القهوة دون الالتزام بإبريق كامل - أو حمل ماكينة تحضير القهوة من النوع K - cup إلى العمل أو على الطريق.,NULL,food recommendation,food,implicit
+إنها تحتوي على لمسة من الحلاوة التي (على عكس العلامات التجارية الشعبية الأخرى) لن تمنحك اندفاعًا من السكر.,NULL | NULL,food quality | food general,food,implicit | implicit
+شخصياً، لن أشتري هذه مربعات الشوفان وسأختار حبوب إفطار مغذية ذات طعم أكثر.,مربعات الشوفان,food recommendation,food,explicit
+كنت هناك في الأسبوع الأول من شهر مايو 2010يريدون مضاعفة السعر هنا.,NULL,amazon prices,food,implicit
+لقد اتصلت بالبائع - ولم أتلق أي رد,NULL,NULL,food,implicit
+مقابل 210 أو 250 سعرة حرارية، أعتقد أنه يجب أن يكون له المزيد من النكهة، ولكن بالنسبة لأولئك الذين لا يحبون أي سكر في الحبوب، فهذا يعمل بشكل جيد، وخاصة إذا كانوا يفضلون الحبوب الغنية بالألياف.,NULL,food quality,food,implicit
+أستخدم لحرق معظم اللحوم المشوية.,NULL,NULL,food,implicit
+"في حين أن العبوة تشير إلى ""ماسالا""، إلا أنها في الواقع لها نكهتها اللذيذة المميزة.",NULL,food quality,food,implicit
+"كان هذا المنتج جذابًا بالنسبة لي لأنه يحتوي على نسبة دهون أقل إلى حد ما (أي نسبة إلى معظم ""الوجبات الجاهزة للأكل"" الموجودة في آسيا أو شبه القارة).",NULL | NULL,food general | food general,food,implicit | implicit
+لقد كنت سعيدًا بهذه الأصداف.,الأصداف,food general,food,explicit
+لا أريد أن أكون بدون!,NULL,NULL,food,implicit
+لقد قاموا بسحب منتج الجراء طوعًا حتى عندما تم اختباره دون أي تلوث.,NULL,food general,food,implicit
+إن العثور على بعض الأطعمة الخالية من الجلوتين يعد أمرًا صعبًا أيضًا.,NULL,NULL,food,implicit
+إنها الكمية المثالية من السخونة إذا كنت لا تبحث عن حرق فمك ولكن عن تكملة طعامك.,NULL,food quality,food,implicit
+دهني وعديم الطعم / بلا طعم ولكنه صالح للأكل.,NULL | NULL | NULL,food quality | food quality | food quality,food,implicit | implicit | implicit
+لم أرى ذلك في المتاجر أبدًا.,NULL,NULL,food,implicit
+سيساعد هذا في منع كسر البرطمان، ويصبح الزبادي جيدًا، ولكن بعد ذلك، عندما تنقل ربع كوب للدفعة التالية وتضيف الحليب، من الأفضل عدم تسخين الحليب كثيرًا، راقبه.,الزبادي,food general,food,explicit
+على الرغم من أن والدي شعر بأنه ملزم باستخدام هذه القهوة في أسرع وقت ممكن لأنه كان قلقًا من أن الثقوب قد تؤثر على مدة بقائها طازجة، وهو ما لا أريده أن يشعر به تجاه حاضره.,NULL,NULL,food,implicit
+شكواي الوحيدة هي أنه قادر على قضم قطع صغيرة (بحجم حبة البازلاء) من العظم البلاستيكي الأبيض.,NULL,NULL,food,implicit
+"منذ ذلك الوقت كان يقوم بتجربة العديد من ""النكهات"" المختلفة لكؤوس K.",NULL,NULL,food,implicit
+أقوم بتفتيت بعضًا منها ورشها على طعامه المعلب العادي فيأكل طعامه بشكل أسرع كثيرًا بسبب هذه المكافآت.,NULL,food general,food,implicit
+لذلك قررت أن أشتري له هذا من أمازون .,أمازون,amazon availability,food,explicit
+لا أزال أبحث عن ذلك الكأس الأفضل مرة أخرى.,NULL,NULL,food,implicit
+لقد قمت فقط بأخذ بضع قضمات من توت العليق الأزرق الخاص بي.,NULL,NULL,food,implicit
+كنت سأعطيها 5 نجوم ولكن كلبي يواجه صعوبة في مضغها، صعبة نوعًا ما.,NULL,food style_options,food,implicit
+"قررت الشهر الماضي أن أطلب مرة أخرى وهذا المنتج لم يعد مكتوبًا عليه ""خالي من الغلوتين"" على العبوة ويحتوي على القمح.",NULL,food quality,food,implicit
+تتناوله بناتي في الليل ويساعدهن على الهدوء قبل النوم.,NULL,NULL,food,implicit
+طعمه جيد .,NULL,food quality,food,implicit
+يجب عليه تناوله كل يوم حتى يعمل.,NULL,NULL,food,implicit
+يوجد في كل زجاجة 150 قرنفل.,NULL,NULL,food,implicit
+أعتقد أنهم بحاجة إلى مراقبة الجودة بشكل أفضل.,NULL,food general,food,implicit
+أفترض أن هذا المنتج يحتوي على فول الصويا لأنه نباتي ولا يستخدم أي مصدر آخر للبروتين.,NULL,NULL,food,implicit
+لقد أحببت كل واحد منهم.,NULL,food general,food,implicit
+لقد جربنا العديد من نكهات القهوة المختلفة ولكن التحميص الإيطالي هو المفضل لدى زوجي.,التحميص الإيطالي,food quality,food,explicit
+هذه الوجبات الخفيفة رائعة للأطفال.,NULL,food general,food,implicit
+إنه جيد ومملوء لطفلي ولكن عندما أعطيته له بمفرده فإنه لا يحب النكهة.,NULL | NULL,food general | food quality,food,implicit | implicit
+ربما حصلت على دفعة سيئة، ولكن مهما كان الأمر أنا بالتأكيد لن أشتري هذه الماركة مرة أخرى، وتعلمت ألا أشتري منتجات لم أجربها بهذه الكمية الكبيرة.,الماركة | NULL,food general | food general,food,explicit | implicit
+أنا و Scottyboy نأكل هذه بالعشرات، وقد طلبت منها الكثير حتى أن Scottyboy القديم، الذي يتولى مسؤولية شراء الوجبات الخفيفة، اشترى هذه بكميات كبيرة، وهو ما يعوض عن الأسبوع الذي اشترى فيه عشرة صناديق من الملابس الداخلية الصالحة للأكل بنكهة الفراولة للمكتب.,NULL,NULL,food,implicit
+موصى به للغاية!,NULL,food recommendation,food,implicit
+حسنًا، لقد جربت معظم النكهات، وحتى الآن، ابتعدوا عن جميعها.,NULL,food quality,food,implicit
+هذه رقائق رائعة.,رقائق,food general,food,explicit
+إذا كنت تقوم بتسخين الماء في الميكروويف، تأكد من أنه أصبح ساخنًا جيدًا للحصول على أقصى استفادة من كيس الشاي الخاص بك؛ إذا لم يكن الماء ساخنًا بدرجة كافية، فستكون النكهة ضعيفة قليلاً.,NULL,NULL,food,implicit
+ماذا أفعل به الآن؟؟؟,NULL,NULL,food,implicit
+هذا الشيء مذهل، لا أعرف حتى ماذا أقول غير ذلك.,NULL,food general,food,implicit
+إنه جيد جدًا سواء ساخنًا أو مثلجًا.,NULL,food style_options,food,implicit
+ماذا حدث ؟,NULL,NULL,food,implicit
+كان علي أن أطلبهم فقط.,NULL,NULL,food,implicit
+"أوصي بشدة بجميع ""معاجين كونغ اللذيذة"" - فهي سهلة الاستخدام، ولا يبدو أنها تسبب أي فوضى، وهي بمثابة مكافأة إضافية رائعة للكلاب.","""معاجين كونغ اللذيذة"" | ""معاجين كونغ اللذيذة"" | ""معاجين كونغ اللذيذة"" | ""معاجين كونغ اللذيذة""",food recommendation | food general | food general | food general,food,explicit | explicit | explicit | explicit
+إنه ليس سيئًا، ولكن هناك مساحيق أخرى أحبها بشكل أفضل - الميزة الرئيسية التي يتمتع بها هذا المسحوق عن غيره هي أنه منخفض السعرات الحرارية.,NULL | NULL | NULL,food general | food general | food general,food,implicit | implicit | implicit
+لقد فقدت ملكيتي بعد شهر واحد تقريبًا من حصولي عليها.,NULL,NULL,food,implicit
+يتميز هذا العنصر بطعم جيد، قوي بما فيه الكفاية ولكن ليس مرًا.,NULL | NULL,food quality | food quality,food,implicit | implicit
+قططتي تحب هذا الأشياء .,الأشياء,food general,food,explicit
+Appletini له طعم مشابه حقًا، لكنني أعتقد أن طعم Apple Martini هو نفسه.,Appletini,food quality,food,explicit
+نحن نستمتع بهذا خليط الملح على الخضار المشوية، واللحوم المشوية، وأي شيء أفكر في وضعه عليه.,خليط الملح,food general,food,explicit
+ولكن بالنسبة لأولئك منا الذين يحبون فنجانًا رائعًا من القهوة، فهذه ليست العلامة التجارية التي يجب شراؤها.,NULL,food general,food,implicit
+يجب علي أن أجربه مرة واحدة!,NULL,NULL,food,implicit
+التوازن المثالي بين الحلو والحامض والمقرمش.,NULL,food quality,food,implicit
+"لم أتناول جبن بهذه الجودة خارج فرنسا، وهذه هي المرة الأولى التي أجد فيها جبن ""مثالي"" في الولايات المتحدة.",جبن,food quality,food,explicit
+هذا هو الصابون الوحيد الذي سأغسل به وجهي.,NULL,NULL,food,implicit
+أنا لست متأكدًا من صحة ذلك، لكنني أستهلك الكافيين يوميًا.,NULL,food general,food,implicit
+طعم رائع عضوي المنتج!,المنتج,food quality,food,explicit
+لا يمكنني التحدث عن صحة مزيج التوابل لأنني لا أملك أي خبرة سابقة به، ولكنني استخدمته في وصفة حساء الدجاج والعدس الإثيوبية التي حصلت عليها من Eating Well وكانت لذيذة ودافئة بشكل لطيف.,NULL | NULL | NULL,food quality | food quality | food general,food,implicit | implicit | implicit
+لا أعرف عنهم بعد ولكن أعتقد أنه لا يمكن إرجاعهم.,NULL,NULL,food,implicit
+هذا هو الشاي!,الشاي,food general,food,explicit
+عار عليك يا والينفورد على الخداع !!,NULL,food general,food,implicit
+إنه من أفضل الأطعمة الموجودة على الإطلاق.,NULL,food general,food,implicit
+هناك القليل من البقان، ولكن هناك الكثير من الكاجو.,NULL,food style_options,food,implicit
+هذا ليس منتجًا صناعيًا منتج يختلف مع كل دفعة؛ هذا هو نفس خلاصة الفانيليا تمامًا في زجاجة بعد زجاجة.,منتج,food general,food,explicit
+خائب الأمل .,NULL,food general,food,implicit
+أحب خلطه مع الخردل العادي لإضفاء المزيد من النكهة على الخردل العادي. الحاوية كبيرة جدًا لذا ستدوم لفترة طويلة,NULL,NULL,food,implicit
+أنا حقا أحب حقيقة أن المجموعة تشمل جميع المكونات للنبيذ بالإضافة إلى الفلين والملصقات والأكمام لعنق الزجاجة بحيث يبدو المنتج النهائي احترافيًا للغاية ويمكن تقديمه كهدايا، وبعض النبيذ الأكثر تكلفة المجموعة من الشركات المصنعة الأخرى لا تشمل تلك العناصر الإضافية.,المجموعة | NULL,food general | food quality,food,explicit | implicit
+قم بإزالة تلك الأجزاء غير الضرورية وسوف تحصل على خمس نجوم بالتأكيد.,NULL,food general,food,implicit
+لا أستطيع أن أفهم لماذا من الصعب العثور عليهم في المتاجر!,NULL,NULL,food,implicit
+لم أتذوق النسخة الأصلية ولكن مزيج البندق لذيذ.,NULL,food quality,food,implicit
+إنهم المفضلين لديهم .,NULL,food general,food,implicit
+أفضل ما في الأمر هو أنه يأتي إلى باب منزلي.,NULL,shipment delivery,food,implicit
+لو تمكنت من العثور على رقم 1800 كنت سأتصل به وأغضب، لكن لا يوجد رقم.,NULL,NULL,food,implicit
+4 ألوان مختلفة. الأخضر، البرتقالي، الأحمر، الأصفر.,NULL,NULL,food,implicit
+لقد اشتريت 5 صناديق من هذه.,NULL,amazon availability,food,implicit
+مصنوعة للحصول على حاوية حلوى ذات مظهر لطيف للغاية.,NULL,NULL,food,implicit
+إنه ليس فظيعًا ولكن ليس رائعًا.,NULL,food general,food,implicit
+لا يوجد شيء خاطئ في الشراب ولكن الزجاجة تشبه إلى حد كبير شراب البندق الخالي من السكر وقد اشتريت هذا عن طريق الخطأ.,NULL | NULL,food general | food general,food,implicit | implicit
+لقد شعرت بخيبة أمل كبيرة من المنتج .,المنتج,food general,food,explicit
+كان هذا بمثابة إيقاف تشغيل كبير، ولكن كانت لدي تجارب جيدة مع الغلوتين القمح في الماضي، لذلك أعطيته فرصة.,NULL,food quality,food,implicit
+يبدو أن الرائحة تبقى في الداخل أيضًا.,NULL,NULL,food,implicit
+أساسًا فقط الماء مع فوائد صحية مخفية.,الماء,food quality,food,explicit
+قد يستغرق الأمر دقيقة واحدة للتعود على النكهات، فقط لأنها ذات نكهة فاكهية أصيلة، ولا طعمها مثل العلكة الحلوة للغاية التي ربما اعتدت عليها، ولكنها تستحق المحاولة بالتأكيد.,NULL,food quality,food,implicit
+في المرة الأخيرة التي اشتريت فيها صندوقًا من الأرز الإسباني، ألقيت عبوة التوابل وأضفت ملعقتين كبيرتين من هذا بدلاً من ذلك.,NULL,NULL,food,implicit
+الطبق الأكثر شعبية لدي هو الخرشوف .,الخرشوف,food general,food,explicit
+نظرًا لأن العبوات أكبر حجمًا، فإنها لا توفر أي تحكم في الحصص، ولكن يمكن إصلاح ذلك بسهولة باستخدام أكياس بلاستيكية بحجم الوجبات الخفيفة.,NULL,NULL,food,implicit
+لا أعلم السبب لأن جميع أنواع الكريمة الأخرى التي جربتها كانت تعمل بشكل جيد.,NULL,food general,food,implicit
+لديهم طعم محمص طازج.,NULL,food quality,food,implicit
+هذا الحبوب في الواقع صحي بالنسبة لك.,الحبوب,food quality,food,explicit
+لقد حقق نجاحًا كبيرًا مع ابني البالغ من العمر 14 عامًا وابنة أختي في سن الجامعة، والتي أخذت عدة أكواب معها إلى المدرسة.,NULL,food general,food,implicit
+الجبل الأخضر يحتوي على العديد من الخلطات والنكهات من القهوة للاختيار من بينها.,الجبل الأخضر,food quality,food,explicit
+طعمها فظيع وقد جربت جميع إعدادات الحجم الثلاثة على جهاز التخمير الخاص بي.,NULL,food quality,food,implicit
+دوغ في كاليفورنيا . . .,NULL,NULL,food,implicit
+مكتوب على العلبة أنه يمكنك استخدامه لتخزين الخضروات في الثلاجة لأنه يساعد على بقاء الخضروات طازجة.,NULL,NULL,food,implicit
+شاي إيرل جراي هو أحد أنواع الشاي المفضلة لدي.,شاي إيرل جراي,food general,food,explicit
+هذه هي نكهتي المفضلة الجديدة.,NULL,NULL,food,implicit
+المكون الثاني والثالث هما السكر والسكر البني.,NULL,food quality,food,implicit
+نحن نحبها .,NULL,food general,food,implicit
+لقد اشتريت هذه الصلصة لعمل وصفة من مجلة كنت أقرأها.,NULL,food general,food,implicit
+نحن نشتري حزمة من 12 مرة واحدة في الشهر تقريبًا.,NULL,NULL,food,implicit
+أنا أشتهي هذه النكهة على الدجاج، ولكن في المستقبل سأضطر إلى صنع الجيرك الخاص بي.,NULL,food quality,food,implicit
+يتم تخفيف الجرأة والظلام تحميص بواسطة اللون الأخف تحميص.,تحميص,food quality,food,explicit
+الطعام رائع والقطط تحبه.,NULL | NULL,food general | food general,food,implicit | implicit
+من النادر أن تتعامل مع شركة تتمتع بخدمة عملاء ممتازة كهذه.,NULL,NULL,food,implicit
+فقط تأكد من اتباع التعليمات الخاصة بنقل الرائحة.,NULL,NULL,food,implicit
+هذا زيت رائع للشعر .,NULL,food general,food,implicit
+أملاح لحم الخنزير المقدد ذات النكهات المختلفة ممتازة وتعمل بشكل جيد مع اختيارات الإفطار والغداء والعشاء.,NULL,food quality,food,implicit
+لقد اشتريت هذا لوضعه في بوفيه الحلوى لابنتي في حفل زفافها.,الحلوى,food general,food,explicit
+كما أنها تحب أكياس السبانخ والمانجو والكمثرى السعيدة للأطفال والتي تكون أكبر حجمًا.,NULL,NULL,food,implicit
+أعتقد أن مذاقها قوي مثل فنجان عادي من القهوة ماكسويل هاوس، وهي أكثر ملاءمة بـ 100 مرة.,ماكسويل هاوس | ماكسويل هاوس,food quality | food general,food,explicit | explicit
+أجدهم حلوين جدًا.,NULL,food quality,food,implicit
+هذه البريتزل هي وجبتي الخفيفة الرئيسية وحتى عائلتي تحبها.,البريتزل,food general,food,explicit
+لقد كنت متحمسًا جدًا لرؤية أكواب الكابتشينو التي تقدمها أمازون ... بعد رشفة واحدة من هذه الأشياء، عرفت أن هناك شيئًا ما خطأ.,أكواب الكابتشينو | NULL,amazon availability | food general,food,explicit | implicit
+رائع القهوة .,رائع,food general,food,explicit
+كما أنها تعمل بشكل رائع مع حماتي عندما ينخفض مستوى السكر في دمها.,NULL,NULL,food,implicit
+لقد نشأت في ولاية أوهايو وعشت في الغابات حيث كانت أشجار الساسافراس وفيرة.,NULL,NULL,food,implicit
+لقد اشتريت هذا كهدية عيد الميلاد لأخت زوجي وأخي وهم يحبونه!,NULL,food general,food,implicit
+س .,NULL,NULL,food,implicit
+لقد جعلني ذلك أتخلص من عادة الكافيين التي استمرت 28 عامًا بسهولة أكبر.,NULL,NULL,food,implicit
+أحد الأسباب التي دفعتني إلى شراء هذا المنتج صانعة الزبادي هو أنها كانت أقل متاعب واستخدمت طاقة أقل، ولكن الحل البديل لتجنب الحاوية البلاستيكية مزعج بعض الشيء.,صانعة الزبادي,food general,food,explicit
+مستوردة من كندا القديمة الطيبة.,NULL,NULL,food,implicit
+وكان السعر رائعًا حيث بلغ حوالي 0.46 دولارًا للأونصة.,NULL,food prices,food,implicit
+دوغ في كاليفورنيا . . .,NULL,NULL,food,implicit
+لطيفة و مطبوخة جيدا.,NULL,food general,food,implicit
+أنا متأكد من أن لا أحد يعرف أفضل بعد كل شيء، فالتجميد يصلح كل شيء.,NULL,NULL,food,implicit
+9 أونصة سائلة، وأنا سعيد جدًا بها، لذلك اشتريت هذا لزوجي.,NULL,NULL,food,implicit
+هل تعلم كيف عندما تعض قطعة لطيفة من الفاكهة اللذيذة عرق السوس؟ تلك اللحظة الرائعة عندما تضرب الحمضيات براعم التذوق وأنت تعلم أن المضغ الناعم الذي سيأتي بعد ذلك سيطلق المزيد من النكهة؟ هذا ما ستحصل عليه مع هذا الرمان عرق السوس! الحمد لله أن أمازون أرسل كيسًا صغيرًا فقط ، لأنه لا توجد طريقة يمكن أن تدوم بها مخزون كبير لفترة طويلة في المنزل! هذه بعض الأشياء الجيدة!,عرق السوس | عرق السوس | عرق السوس | أمازون | NULL,food general | food quality | food quality | amazon availability | food general,food,explicit | explicit | explicit | explicit | implicit
+أنا أحب الطعم. ولكن الحبوب تصبح مقرمشة حقًا في الواقع في مناسبتين منفصلتين تسببت في تشقق أسناني!,NULL | الحبوب,food quality | food style_options,food,implicit | explicit
+ابنتي تحب هذا، وتحصل عليه ثلاث مرات في اليوم.,NULL,food general,food,implicit
+يبدو أن السعر معقول بالنسبة للطعام عالي الجودة. وكان الأمر كذلك، والمشكلة هي أن رجالي لن يلمسوه، ويفضلون طعام القطط الرخيص!,NULL | NULL,food prices | food quality,food,implicit | implicit
+"كانت عبوة البوليسترين هي الوعاء المثالي للتسليم؛ حيث وصل الجبن ""حيًا"" لأنه لم يتم تبريده بشكل مفرط.",NULL | الجبن,shipment quality | food quality,food,implicit | explicit
+حتى أن أحدهم جعلني أشعر بالغثيان.,NULL,NULL,food,implicit
+أقترح عليك تناول مشروب دايت كوك بارد مثلج لغسل كل تلك الأشياء في حلقك.,NULL,NULL,food,implicit
+يفكر في الأمر أمازون .com,أمازون,amazon availability,food,explicit
+لكن العثور على شيء مرضي ولذيذ حقًا، وبأقل من 3 دولارات، هو أمر مذهل!,NULL | NULL,food quality | food prices,food,implicit | implicit
+"لقد استمتعت دائمًا بـ انظر ""حلوى"" في الماضي.","انظر ""حلوى""",food general,food,explicit
+نحن فقط نضع الكبسولة بالداخل، ونضغط على المكافأة معًا في الأعلى، ثم تلتهمها.,NULL,NULL,food,implicit
+لقد جربت العديد من أنواع الشاي الأخضر في نفس النطاق السعري، ولكنني أعود دائمًا إلى Stash Organic Green.,Stash Organic Green,food general,food,explicit
+على أية حال، فإنه يؤدي المهمة، ويقتل العث والحشرات المزعجة الأخرى بسرعة، وله فائدة إضافية وهي أنه إذا كنت تستخدمه على النباتات الصالحة للأكل، فيمكنك تناولها على الفور!,NULL,NULL,food,implicit
+لا شيء يضاهي مذاقه الفريد.,NULL,NULL,food,implicit
+عدت إلى المنزل وبحثت عن صلصة تشولولا الحارة في أمازون وطلبت بعضًا منها.,أمازون,amazon availability,food,explicit
+لقد وجدت أخيرًا واحدًا يرقى إلى معاييري ويصنع رغيفًا جيدًا حقًا من خبز العجين المخمر.,NULL,NULL,food,implicit
+يعاني بودلنا القياسي من مشكلة في الحفاظ على وزنه على الرغم من أنه يأكل بشراهة.,NULL,NULL,food,implicit
+تضيف النكهات المختلفة المزيد من التنوع، كما يسهل خلطها مع بعض الزبدة والبارميزان والتوابل.,NULL,food style_options,food,implicit
+لا بد أن يكون هذا ليس أقل من شركة تخدع عملائها المحتملين.,NULL,NULL,food,implicit
+هذه الفول السوداني لها قرمشة ونكهة رائعة.,الفول السوداني | الفول السوداني,food quality | food quality,food,explicit | explicit
+أعتقد أنها أقل بقليل من تصنيف 5 نجوم.,NULL,food quality,food,implicit
+إنها ليست مدعمة بالفيتامينات والمعادن ولكن يمكنك دائمًا تناول الفيتامينات المتعددة إذا كنت تريد ذلك.,NULL,food general,food,implicit
+سعر الفلفل كان أقل من المواقع الأخرى التي زرتها.,سعر الفلفل,amazon prices,food,explicit
+الأفضل ! !,NULL,food general,food,implicit
+موثوقة وفي الوقت المحدد وفي حالة جيدة.,NULL,NULL,food,implicit
+إذا كنت تعرف أين، يرجى إعلامي.,NULL,NULL,food,implicit
+بالتأكيد سأشتري مرة أخرى!,NULL,food general,food,implicit
+ما فتحته هذا الصباح لم يكن ما كنت أتوقعه.,NULL,NULL,food,implicit
+لقد تمكنت من عمل أي وصفة باستخدام هذا المنتج كبديل 1: 1 وهو يعمل، والأهم من ذلك، طعمه رائع!!,المنتج | المنتج,food general | food quality,food,explicit | explicit
+أتمنى .,NULL,NULL,food,implicit
+إنه لذيذ حقا.,NULL,food quality,food,implicit
+لا أعتقد أن أي شخص سوف يشتري الدبس عبر الإنترنت إذا كان يريد فقط طعامًا لذيذًا، لذا أعتقد أنه فائز.,NULL,food recommendation,food,implicit
+أتمنى أن أتمكن من شرائه في أكياس 5 رطل.,NULL,NULL,food,implicit
+أعتقد أن هذا أمر طبيعي بالنسبة لمنتج مركب مثل هذا لأنه يحتوي أيضًا على مبيد للقراد ومبيد للفطريات، ولكن إذا اشتريت صابونًا مبيدًا للحشرات مستقلًا، فلن ترى هذا عادةً.,NULL,NULL,food,implicit
+"كانت هذه رقائق البطاطا الحلوة لذيذة وكان اعتراضي الحقيقي الوحيد هو مالتوديكسترين الذي لا يعد ""طبيعيًا تمامًا ولا شيء مزيفًا أو مزيفًا"" كما هو معلن.",رقائق البطاطا الحلوة,food quality,food,explicit
+جاءت العبوة مع تعليمات تحضير سهلة المتابعة وقامت بطهي المنتج وفقًا لذلك.,NULL,food general,food,implicit
+ابنتي تأكل واحدة من هذه القضبان كل يوم تقريبًا.,NULL,NULL,food,implicit
+احصل على الاشتراك وسيكون أرخص.,NULL,amazon prices,food,implicit
+بالنسبة لفنجان القهوة العادي، أحب المذاق السلس لمزيج Donut House Extra Bold أو Green Mountain Breakfast.,NULL,NULL,food,implicit
+وأنا متأكد من أن هذا أفضل لها.,NULL,food general,food,implicit
+كانت ألوانها الوردي، الفضي، والأبيض.,NULL,food style_options,food,implicit
+هذه الكوكيز لذيذة للغاية!,الكوكيز,food quality,food,explicit
+حسنًا، الآن أعتقد أنني بحاجة إلى إبريق شاي جديد.,NULL,NULL,food,implicit
+احتفظت باللفافة حتى أتمكن من شرائها عبر الإنترنت.,NULL,NULL,food,implicit
+قطتي تحب هذه الأشياء .,NULL,NULL,food,implicit
+أشتريه بالعلبة، وغالبًا ما أقوم بتوزيع الزجاجات على الأصدقاء الذين يستمتعون أيضًا بمذاقه.,NULL,food general,food,implicit
+يجعل من السهل وضع المزيد في الثلاجة أو صندوق الثلج.,NULL,food general,food,implicit
+لقد أعطاني صاحب متجر الحيوانات الأليفة هذه النصيحة.,NULL,NULL,food,implicit
+زوجي يشرب القهوة بكثرة.,NULL,NULL,food,implicit
+أنا لست متعجرفًا تمامًا أو أي شيء من هذا القبيل، فأنا غالبًا ما أشرب الفولجرز أو العلامة التجارية للمتجر ولكنني أردت تجربة هذا بسبب كل المراجعات الإيجابية ولا أفهم ذلك.,NULL,food quality,food,implicit
+قررت أن أجربها لأن ابنتي مدمنة على العلامة التجارية الخالية من النكهة Donunt House Coffee.,Donunt House Coffee,food quality,food,explicit
+99 لـ 12 أونصة.,NULL,NULL,food,implicit
+حسنًا، نعم، بالطبع لن نستخدمها إلا تحت الإشراف، ولكن لا ينبغي لي أن أتوقع أن أخرجها من فم ابني لمنعه من الاختناق.,NULL,NULL,food,implicit
+أنا سعيد لأنه كان صادقًا معي لأنني لا أريد أن أضيع المال على شيء لن يستمتع به.,NULL,food recommendation,food,implicit
+ربما يأتي جزء من النكهة المالحة من الجبن، ولكن هذا كثير جدًا.,NULL,food quality,food,implicit
+السعر ليس سيئا أيضا .,NULL,food prices,food,implicit
+أستخدمه أيضًا لصنع مقشر طبيعي للوجه والجسم!,NULL,food general,food,implicit
+الرواسب موجودة في كل مكان .,NULL,NULL,food,implicit
+لن أشتري هذا مرة أخرى .,NULL,food general,food,implicit
+لا يوجد طعم غير مرغوب فيه.,NULL,food quality,food,implicit
+سمعت عن هذا المنتج، مثل غيره، على موقع الدكتور.,NULL,NULL,food,implicit
+أعطيته ثلاث نجوم لأنه كما يقول ولكنه ليس بالطعم.,NULL,food quality,food,implicit
+هناك 6 صناديق كل منها يحتوي على 10 أكياس.,NULL,food general,food,implicit
+كان التسليم في الوقت المحدد ووضعتهم على الفور في الثلاجة.,التسليم,shipment delivery,food,explicit
+لقد تناولت هذا الشاي اللذيذ في مطعم محلي، ثم عدت على الفور إلى المنزل لأطلب بعضًا منه للمنزل.,الشاي | NULL,food general | amazon availability,food,explicit | implicit
+اشتريت منهم ثم اشتريت من أمازون (أرخص).,أمازون,amazon prices,food,explicit
+أنا أحب كيوريج .,كيوريج,food general,food,explicit
+6.00 على Nespresso.com,NULL,NULL,food,implicit
+احتفظ بهم دائمًا في متناول يدك.,NULL,NULL,food,implicit
+مع التكهنات حول احتفاظهم بنفس الوصفة، طلبنا جرة ولم نشعر بخيبة أمل !!,NULL,food general,food,implicit
+من الأفضل أن يتم تسليمها إلى باب منزلي بسرعة ومجانًا!,NULL,shipment delivery,food,implicit
+كان الطعام الذي جاء من أمازون أفتح لونًا وكان به المزيد من جزيئات الطعام المتربة / الصغيرة في كل مكان.,أمازون,food quality,food,explicit
+أنا وأصدقائي نستمتع بهذا حقًا.,NULL,food general,food,implicit
+نحن الاثنان نحبه .,NULL,food general,food,implicit
+باحتوائها على 120 سعرة حرارية و6 جرام من الدهون، تعد هذه الوجبة جيدة جدًا لمن يهتمون بالسعرات الحرارية أيضًا (؟),NULL,food quality,food,implicit
+أنا شخصيا أخلطه مع 50٪ من الماء المصفى.,NULL,food general,food,implicit
+سعر معقول علاج !!,علاج,food prices,food,explicit
+ولكن لحسن الحظ أصبح متاحًا مرة أخرى وطلبت ما يكفي ليدوم لفترة من الوقت.,NULL,amazon availability,food,implicit
+استمتع بـجون س.,NULL,food general,food,implicit
+شكرا دكستر .,NULL,NULL,food,implicit
+لقد نشأت في ماساتشوستس وأحببت هذه رقائق البطاطس.,رقائق البطاطس,food general,food,explicit
+رائحتها تشبه رائحة الورود وتضفي على مشروبي نكهة حلوة لطيفة.,NULL | NULL,food quality | food quality,food,implicit | implicit
+تفضيلي الشخصي هو الشاي القوي ذو الشخصية المميزة.,NULL,NULL,food,implicit
+من الممكن تقسيم الجزء الكبير إلى ثلاثة أو أربعة أجزاء أصغر.,NULL,food general,food,implicit
+إنها حلوة جدًا وشوكولاتية.,NULL,food quality,food,implicit
+قرون Senseo أسهل بكثير في التركيب نظرًا لعدم وجود بلاستيك في الحاوية، فقط الورق.,قرون Senseo,food general,food,explicit
+القوام هو بين دقيق الشوفان ونخالة الشوفان، وهو ناعم وكريمي.,NULL,food style_options,food,implicit
+عادة ما أتركه جانبًا مع الحليب لبضع دقائق حتى يصبح طريًا بعض الشيء؛ ولكنني أستمتع به أيضًا دون نقعه في الحليب، على أي حال,NULL,food style_options,food,implicit
+شوربة الكسكس بالكاري والعدس من توابل النيل عبارة عن مزيج خفيف من الكاري والكركم والتوابل الهندية الشرقية / الغربية الأخرى.,شوربة الكسكس بالكاري والعدس من توابل النيل,food quality,food,explicit
+زوجي لا يحب القهوة مع أي قضمة منها وهو يحب هذا.,NULL,food quality,food,implicit
+إبريق زجاجي رائع ويحتوي على خطوط للمياه والخل والزيت أو انخفاض الزيت مع المزيد من الماء.,إبريق زجاجي,food general,food,explicit
+أنا أسميها مكوني السري.,NULL,NULL,food,implicit
+وصلت بسرعة كبيرة .,NULL,shipment delivery,food,implicit
+50 دولارًا مقابل 10 كبسولات، بينما يمكنك شراؤها على موقع Nespresso الإلكتروني بأقل من نصف هذا السعر؟,NULL,NULL,food,implicit
+ديفيد ريو فلامنجو شاي لاتيه الخالي من السكر لذيذ للغاية وكريمي، كل ما عليك فعله هو إضافة الماء.,ديفيد ريو فلامنجو,food quality,food,explicit
+لقد كنت سعيدًا بالنسخة الأقل حلاوة، لكن الطعم لا يزال إلهيًا.,NULL,food quality,food,implicit
+إنها تخرج مقرمشة ورائعة في مكواة الوافل البلجيكية الخاصة بي.,NULL,food style_options,food,implicit
+"القضبان ليست ""عسلية ذهبية"" اللون كما هو الحال في العديد من منتجات العسل المفترضة في الوقت الحاضر، ولكن أرى ذلك كشيء جيد، لأن هذا اللون يأتي عادة من الكراميل والسكر المحروق، وليس العسل.",القضبان,food style_options,food,explicit
+لكن بعد تجربة هذا، لم تعد تطلب أي مكافآت.,NULL,food general,food,implicit
+أنا سعيد جدًا لأنني تمكنت من شرائه من أمازون وآمل أن يظلوا قادرين على تخزينه - لأنه المكان الوحيد الذي يمكنني شراء هذا الحساء منه الآن.,أمازون,amazon availability,food,explicit
+لقد وجدت قهوة منزوعة الكافيين، قوية وطعمها عادي.,NULL,food quality,food,implicit
+لقد أحب طفلي البالغ من العمر 3 سنوات ونصف هذا كوكيز!,كوكيز,food general,food,explicit
+لقد أحبها طفلي الصغير ذو التسعة أشهر على الفور.,NULL,food general,food,implicit
+لذيذ بشكل عام .,NULL,food quality,food,implicit
+إنها منخفضة الدهون وتوفر فوائد أوميغا 3.,NULL | NULL,food quality | food quality,food,implicit | implicit
+إنهم صعبون جدًا!,NULL,food quality,food,implicit
+إنه مكلف ولكن أشعر أنني أفعل الشيء الصحيح بالنسبة لهم مع الطعام الذي أعتقد أنه ربما يكون طعامًا لحميًا جيدًا حقًا.,NULL | NULL,food prices | food quality,food,implicit | implicit
+الزجاج قوي والجهاز الذي يحمله قوي.,NULL,NULL,food,implicit
+يأكل كلا الكلبين كل قطعة من طعامهم في مواعيد وجباتهم المقررة، وهو ما كان مفيدًا للغاية في تدريب كلبتي الجديدة على استخدام المرحاض.,طعامهم,food general,food,explicit
+نحن نستخدم مقلاة دجاج ذات جوانب عميقة.,NULL,NULL,food,implicit
+إنه قوي ويصنع قهوة إسبريسو لذيذة للغاية ونحن نحبها بشكل خاص لتناول القهوة بعد العشاء بسبب الحلاوة.,NULL,food general,food,implicit
+أحب أيضًا أن أتمكن من الاستمتاع بهذه الأطعمة دون أن أشعر بالندم على تناول الكثير من السعرات الحرارية.,NULL,NULL,food,implicit
+لقد قمت دائمًا بشراء Kirkland Extra Fancy Mixed Nuts بسبب جودتها العالية وطعمها.,Kirkland Extra Fancy Mixed Nuts,food quality,food,explicit
+أنا مدمن عليهم لدرجة أنني أحاول كل النكهات.,NULL,food quality,food,implicit
+هذه المراجعة هي بعض الأبحاث حول ما إذا كان هذا المنتج هو في الواقع رابادورا أم لا.,NULL,NULL,food,implicit
+سأشتري بالتأكيد المزيد في المستقبل، لأنها لذيذة.,NULL | NULL,food general | food quality,food,implicit | implicit
+أعتقد أن هذه كمية كبيرة من السعرات الحرارية في وجبة خفيفة لطفل صغير.,NULL,food quality,food,implicit
+كما أنها ذات رائحة كريهة ومثيرة للاشمئزاز تماما.,NULL,food quality,food,implicit
+اشتريته بعد القراءة عن فوائده الصحية العديدة.,NULL,food quality,food,implicit
+على الرغم من المراجعات، كنت متشككًا في إمكانية أن يكونا نفس الشيء، لكنهما في الحقيقة وصدقًا كذلك.,NULL,food general,food,implicit
+الجانب السلبي الوحيد هو أنه يتعين عليك أن تتذكر إعادة ترتيبه,NULL,NULL,food,implicit
+إنه ماء منعش مع نكهات لطيفة للغاية من جوز الهند والمانجو.,NULL,food quality,food,implicit
+طعمهم مثل,NULL,food quality,food,implicit
+تحتوي على بعض التوابل.,NULL,NULL,food,implicit
+ربما يكون أكثر من مكعب ثلج واحد إذا لم يكن لديك حجارة بمثابة كارثة - فهذا شيء جيد حقًا بوربون.,بوربون,food general,food,explicit
+هذه ضرورية بالنسبة لي.,NULL,NULL,food,implicit
+لقد كنت سعيدًا جدًا بنكهة هذا المنتج.,المنتج,food style_options,food,explicit
+"على الرغم من أنني اخترت عدم تلقي ""تذكيرات البريد الإلكتروني"" لترك التعليقات / المراجعات، إلا أنني تلقيت للتو واحدة من هذه الشركة، لذا إليك مراجعتي: لقد تركت بالفعل مراجعة لجهاز SodaStream، وهي ليست مجانية بسبب الاحتكار على ثاني أكسيد الكربون.",NULL,NULL,food,implicit
+"اختيار النكهات ممتاز - هناك حقًا شيء يناسب الجميع ولا يوجد نكهة ""غير مرغوب فيها"" في المجموعة.",NULL | NULL,food quality | food quality,food,implicit | implicit
+نعم Larabars تأتي في عبوة، لكنها لا تحتوي على أي مواد حافظة أو مواد كيميائية أو مكونات لا أستطيع نطق أسمائها.,Larabars,food general,food,explicit
+أرسلتها إلى ثلاثة أشخاص كهدايا.,NULL,NULL,food,implicit
+الشوكولاتة هي المفضلة لدي، تليها زبدة الفول السوداني.,الشوكولاتة,food general,food,explicit
+لا يوجد أشياء اصطناعية .,NULL,food quality,food,implicit
+لا أزال لا أستطيع استخدامه كثيرًا لأنه صاخب جدًا.,NULL,food general,food,implicit
+يجب أن أصفيها ثلاث مرات.,NULL,NULL,food,implicit
+هذه أشرطة رائعة!,أشرطة,food general,food,explicit
+لقد قمت بتجربة العديد من الأنواع السائبة شاي تشاي ويجب أن أقول أن هذا هو الأفضل على الإطلاق.,شاي تشاي,food quality,food,explicit
+إنه يحبه ويحب أيضًا حلوى الكبد المجففة المجمدة.,NULL | NULL,food general | food general,food,implicit | implicit
+لقد وجدنا عددًا من الموردين على الويب واستخدمناهم، حتى وجدنا أخيرًا Coffeebean Direct ونطلب منهم حصريًا منذ عام 2005!,NULL,NULL,food,implicit
+أفضل جزء هو أنه مصنوع في الولايات المتحدة الأمريكية.,NULL,NULL,food,implicit
+هذه وجبات خفيفة جيدة ولكنني أحب أنواع الجرانولا الأخرى بشكل أفضل.,NULL,food general,food,implicit
+لقد كانت قطة حفيدتي,NULL,NULL,food,implicit
+أشير إلى أصدقائي هنا طوال الوقت، لأن العديد منهم لا يدركون حقيقة أنك تبيع أكثر بكثير من الكتب والألعاب الإلكترونية والأفلام.,NULL,food recommendation,food,implicit
+لقد بحثت عن معلومات المكونات وأنا سعيد جدًا بالعثور على هذا المنتج خاليًا من السكر المنتج !!,المنتج,food general,food,explicit
+لقد جربت العديد من أنواع شاي الخوخ التي كانت إما مريرة، أو شاحبة، أو ذات مذاق غير طيب.,NULL,NULL,food,implicit
+نحن نعيش خارج البلاد وإذا كنت تستطيع أن تصدق ذلك ... لا يوجد ستاربكس في أي مكان بالقرب منا.,NULL,NULL,food,implicit
+أنها أفضل بكثير من رقائق البطاطس الدهنية!,NULL,food general,food,implicit
+يقع ماء جوز الهند هذا ضمن الفئة الممتازة.,NULL,food quality,food,implicit
+لقد أحببنا هذا العرقسوس حقًا عندما تم بيعه في المتجر.,NULL,NULL,food,implicit
+لقد تلقيت بار الموز المخبوز الناعم من خلال Influenster.,NULL,NULL,food,implicit
+أنا مصاب بمرض السكري وأحببت هذه الجيلي تمامًا.,الجيلي,food general,food,explicit
+لن آكله (ولن يأكله أحفادي أيضًا).,NULL,food general,food,implicit
+لقد طلبت من والدي أن يخبرني بصراحة ما يعتقده بشأن شرائح اللحم التي أرسلتها له في عيد الميلاد.,NULL,NULL,food,implicit
+يمكنك الحصول على نفس الحقيبة هذه في المتجر مقابل 8.00 دولارًا وهي جديدة جدًا هناك، ولم تعد موجودة على أمازون.,NULL,food quality,food,implicit
+نكهتها نظيفة وحادة.,NULL | NULL,food quality | food quality,food,implicit | implicit
+هاهاها عدت على الفور واشتريت حوالي 5 أخرى لتناولها كوجبة خفيفة أثناء العمل!,NULL,food general,food,implicit
+كان ماء جوز الهند المعبأ المفضل لدي حسب الترتيب من الأفضل مذاقًا هو زيكو، ثم (1)، ثم فيتا كوكو.,زيكو | فيتا كوكو,food quality | food quality,food,explicit | explicit
+نكهة رائعة .,NULL,food quality,food,implicit
+أتمنى أن يصنعوا جرة معدنية، إذا كان ذلك ممكنا.,NULL,NULL,food,implicit
+لقد قمت بتخزين هذه العظام لإشغال كلبي لمدة 30 - 60 دقيقة على الأقل في المرة الواحدة.,العظام,food general,food,explicit
+التوت البري، من ناحية أخرى، كثير العصير، ممتلئ الجسم، لذيذ، حلو قليلا، أفضل بكثير من التوت البري المجفف.,التوت البري | التوت البري | التوت البري | التوت البري | التوت البري,food quality | food quality | food quality | food quality | food quality,food,explicit | explicit | explicit | explicit | explicit
+ومع ذلك، عند الطلب عبر الإنترنت، قد يكون هناك أحيانًا انتظار طويل لوصول طلبك الشحن بسبب شعبية هذا المنتج.,NULL | الشحن,amazon availability | shipment delivery,food,implicit | explicit
+لقد قامت شركة Barnum's، والتي كانت المعيار الذهبي للبسكويت الحيواني، بتغيير وصفتها إلى هذه أيضًا وهي سيئة بنفس القدر.,NULL,food general,food,implicit
+لقد كنت مستاء للغاية,NULL,NULL,food,implicit
+لو لم يكن البرطمان الموجود بالداخل مصنوعًا من البلاستيك، مما يجعلني أشعر بالتوتر، خاصة مع احتمال تسرب مركبات سامة من الماء المغلي.,NULL,NULL,food,implicit
+لم تتمكن من ذلك وفي العديد من المناسبات اشتكت من مدى إعجابها بالبومي ولماذا لا تستطيع العثور عليه في كاليفورنيا.,NULL,NULL,food,implicit
+هذه الوجبة الخفيفة اللذيذة، الصحية، والصديقة للبيئة وجبة خفيفة هي كل ما يجب أن تكون عليه صلصة التفاح.,وجبة خفيفة,food quality,food,explicit
+لقد كنت سعيدًا جدًا بالقيمة الإجمالية.,NULL,food general,food,implicit
+لدي تاريخ من نقص المغنيسيوم بما في ذلك التشنجات العضلية الشديدة ومتلازمة تشارلي هورس لفترات طويلة.,NULL,NULL,food,implicit
+مزيج لزج، مقرمش، وشوكولاتي من الفوضى.,NULL,food quality,food,implicit
+لا يوجد خالٍ من الجلوتين على العلبة، لكن الشركة تقول إنه لا يحتوي على مكونات تحتوي على الجلوتين مع وجود فرصة ضئيلة للتلوث المتبادل.,NULL,food quality,food,implicit
+هذه أفضل قشرة بيتزا خالية من الجلوتين تناولتها على الإطلاق.,NULL,food general,food,implicit
+هذه زبدة الفول السوداني مقرمشة قليلاً.,زبدة الفول السوداني,food quality,food,explicit
+سأحاول استخدامه كزينة لكعكة السلحفاة محلية الصنع التي تصنعها والدتي قريبًا.,NULL,NULL,food,implicit
+أنا بالتأكيد لن أحصل على هذا مرة أخرى.,NULL,food general,food,implicit
+لن أزعجكم بإحصائيات حول الملح، الجيد والسيئ والقبيح.,NULL,NULL,food,implicit
+أنا مندهش من أن أمازون تسعيرها أعلى بكثير من وول مارت.,أمازون,amazon prices,food,explicit
+من الواضح أنه لم يكن 6 رطل نظرًا لأن الزجاجة أقل من 1 رطل.,NULL,food style_options,food,implicit
+هذا هو أفضل مذاق ماء جوز الهند هناك.,ماء جوز الهند,food quality,food,explicit
+إنها تُطهى بشكل رائع سواء وضعناها على الشواية، أو في الميكروويف، أو الفرن، أو على الموقد.,NULL,NULL,food,implicit
+يساعد عصير الليمون بشكل كبير في الحفاظ على انتعاش أنفاسك (وهذا عادة ما يكون مشكلة مع السردين) كما أن شريحة الليمون الموجودة في كل علبة تعتبر مكافأة إضافية وممتعة للغاية.,NULL | NULL,food general | food general,food,implicit | implicit
+أعتقد أن هذا المنتج يحمل رسالة ممتازة؛ ومع ذلك، يبدو أنه يحول مشروب الصودا الجديد إلى شيء غير صحي.,NULL,NULL,food,implicit
+لقد اشتريت هذا المنتج بشكل أساسي لأن ابني يعاني من اضطراب فرط الحركة ونقص الانتباه بشكل سيئ إلى حد ما وأردت تجربة المزيد من الطرق الطبيعية قبل أشياء مثل الأدوية.,NULL,NULL,food,implicit
+لا أحتاج إلى شراء أشياء حقيقية في كثير من الأحيان.,NULL,NULL,food,implicit
+لقد كنت أتناول هذه الأطعمة على الغداء مع بعض أعواد الجزر وأجد أنني لا أشعر بالجوع في فترة ما بعد الظهر.,NULL,food general,food,implicit
+لقد استمتعت بهذا المنتج المنتج لبعض الوقت. ومع ذلك، أشعر بالاشمئزاز من حقيقة أن السعر يستمر في الارتفاع! فعند 35 دولارًا للعلبة، يدفع العملاء أكثر من 4 دولارات للعلبة مقابل 5 قطع صغيرة ألواح بسكويت - إنه أمر سخيف! سأبحث عن وجبة خفيفة أكثر صحة وبأسعار معقولة لتناولها. عار على نانا وأمازون...,المنتج | NULL | ألواح بسكويت,food quality | amazon prices | food prices,food,explicit | implicit | explicit
+لقد وصلوا مصابين بكدمات من الشحن ويبدو أنهم كانوا قبل عشر سنوات جافين ومُعلَّمين).,NULL,shipment quality,food,implicit
+كعكة الأرز البني المزروعة بيئيًا، خالية من الملح، 8.5 أونصة (عبوة من 12 قطعة) أريد أن أجرب كعكة الأرز بالكراميل بالزبدة المزروعة بيئيًا من لوندبيرج، 9.5 أونصة (عبوة من 12 قطعة) أعتقد أنه إذا رأى الناس أنني أحبها، فسيكون من الصعب الحصول عليها: - },NULL,NULL,food,implicit
+الأفضل جرانولا في السوق!,جرانولا,food general,food,explicit
+ليس لدينا آلة تحضير القهوة، لذا نضع اثنين منها في وعاء القهوة وننقع الماء من خلالها.,NULL,NULL,food,implicit
+ومع ذلك، فإن الحبوب رائعة حقًا.,الحبوب,food general,food,explicit
+"ابحث في جوجل عن ""البروبيلين جليكول"" لمعرفة السبب.",NULL,NULL,food,implicit
+الأشخاص الذين أعطوها نجمة واحدة وكان لديهم مثل هذه الأشياء السلبية ليقولوها عنها؟,NULL,NULL,food,implicit
+جرب النكهات الأخرى، فهي جيدة ولكن فكر مرتين قبل تجربة هذه النكهات.,NULL,food recommendation,food,implicit
+لقد تناولت للتو الماء المغلي من الغلاية وأنا على ما يرام.,NULL,food general,food,implicit
+لقد كانت رطبة ورقيقة.,NULL,food quality,food,implicit
+إنه مثل تناول الفول السوداني غير المملح، النكهة نقية زبدة الفول السوداني وتمتزج بسهولة مع النكهات الأخرى.,زبدة الفول السوداني | زبدة الفول السوداني,food quality | food quality,food,explicit | explicit
+أقدر الحجم الأكبر لأن هذا يجعل استخدام هذا المنتج بانتظام أكثر بأسعار معقولة.,المنتج | المنتج,food style_options | food prices,food,explicit | explicit
+إذا كنت تحب الخبز البني، جربه.,NULL,NULL,food,implicit
+ربما كان هناك واحد في الماضي - ولكن ليس الآن.,NULL,NULL,food,implicit
+هذا هو المنتج الذي سيحبه كلبك.,المنتج,food general,food,explicit
+لا يوجد مرارة فيه ورائحته في المنزل أثناء تخميره كانت كما لو كنت في منشأة قهوة كاريبو.,NULL,food quality,food,implicit
+"ينبغي لنا أن ""نطعم"" بشرتنا فقط بما نضعه في أفواهنا!",NULL,NULL,food,implicit
+مجرد إدمان تقريبا.,NULL,food general,food,implicit
+هذا هو المنتج الوحيد الذي وجدته أنه لا يحتوي على أي مُحلي، لذا فهو يحتوي على نكهة ولكنه يحتوي على 0 سعرات حرارية ولا يحتوي على مُحلي مزيف أيضًا.,NULL | NULL,food general | food quality,food,implicit | implicit
+"أنا من أشد المعجبين باللوز من العلامة التجارية Blue Diamond وأحب بشكل خاص النكهات ""الجريئة"".",Blue Diamond | Blue Diamond,food general | food quality,food,explicit | explicit
+لقد خططت لتجربة هذه البسكويت مع العديد من الإضافات المختلفة، ولكنني أكلت معظم الكيس قبل أن أتوقف لفترة كافية لتجربة بعضها مع جبن الموزاريلا.,NULL,NULL,food,implicit
+إنها ذات حجم رائع للتدريب، ومع ذلك فهي أكثر مضغًا قليلاً مما كنت أعتقد.,NULL | NULL,food style_options | food style_options,food,implicit | implicit
+علق أحد المراجعين على وجود شقوق في العبوة الورقية الداخلية وقام برمي المنتج - والغرض من الشقوق هو تسهيل عملية التجفيف بالتجميد كما هو مذكور على الغلاف.,NULL,NULL,food,implicit
+هذا هو أفضل منتج على الإطلاق منتج للاستيقاظ عليه كل صباح.,منتج,food general,food,explicit
+لقد وصل هذا إلى 1 دولار.,NULL,food prices,food,implicit
+هذا طعام الكلاب عالي الجودة وكلبي الكوكر سبانيل البالغ من العمر 9 سنوات يحبه.,NULL | NULL,food quality | food general,food,implicit | implicit
+هذه مصاصات رائعة!,مصاصات,food general,food,explicit
+لكن، يجب أن أقول أن أمازون تتقاضى رسومًا أعلى بكثير من متاجر البقالة.,أمازون,amazon prices,food,explicit
+أمازون تقدم هذا بسعر رائع أيضًا.,أمازون,amazon prices,food,explicit
+أنا محبط .,NULL,food general,food,implicit
+لكن هذا الفخ لا يقارن بالفخ السهل الذي كان لدي بالفعل.,NULL,NULL,food,implicit
+من المؤكد أن القراءة الدقيقة أظهرت أن الوزن يعكس الصندوق بأكمله.,NULL,NULL,food,implicit
+هذا بديل رائع .,NULL,food quality,food,implicit
+لذيذ!,NULL,food quality,food,implicit
+لا أوصي بهذا الحجم 3 أونصة!,NULL,food recommendation,food,implicit
+لقد أعجبت كثيرًا بمدى سلاسة هذا الأمر - فهو يجعل Rare Breed يبدو رخيصًا.,NULL | NULL | NULL,food general | food quality | food general,food,implicit | implicit | implicit
+الطعم أحلى وكنت بحاجة لاستخدام كمية أقل من الأكياس.,NULL | NULL,food quality | food style_options,food,implicit | implicit
+بعد أن عانت إحدى قططي من بعض مشاكل البطن، قررت البحث عن بعض الخيارات الخالية من الحبوب.,NULL,NULL,food,implicit
+ومع ذلك، فإن معظم القطع مالحة للغاية.,NULL,food quality,food,implicit
+شكرًا لك أمازون على تقديم هذا المنتج.,أمازون,amazon availability,food,explicit
+إنه يوفر القليل من التميز عن ملح البحر الكوشر، وهو عبارة عن كلوريد الصوديوم (NaCL) معتدل.,ملح البحر الكوشر,food general,food,explicit
+لقد طلبت هذا المنتج في نهاية شهر يناير عندما تم الإعلان عنه مقابل 19 دولارًا.,NULL,amazon prices,food,implicit
+كما أنها تحتوي على مفاجأة في شكل طعم قوي من الفلفل الحلو والذي يبدأ في الظهور بعد حوالي 10 ثوانٍ من تناول قطعة (أو قطعتين، أو أي عدد من القطع التي ستتناولها في تلك اللحظة).,NULL,food general,food,implicit
+يعد هدية رائعة لأي شخص يحب حلوى الجيلي / الفشار.,NULL,NULL,food,implicit
+أستخدم كيسًا واحدًا فقط في الأسبوع لحفظ جميع مخلفات الطعام الخاصة بي.,NULL,NULL,food,implicit
+سأطلب المزيد!,NULL,food general,food,implicit
+طعم لذيذ، قوي قليلاً بالنسبة لأولئك الذين يحبونه قوياً.,NULL,food quality,food,implicit
+معاطفهم لها صبغة وملمس مذهل.,NULL,NULL,food,implicit
+لقد كنت سعيدًا بشكل خاص لأنها لا تحتوي على نسبة عالية من الصوديوم ولا تحتوي على مكونات مكونة من ستة مقاطع لفظية.,NULL,food quality,food,implicit
+أنا أحب الشاي الساخن، ولكنني وجدت أن هناك بعض العلامات التجارية والأنماط التي أستمتع بها أكثر من غيرها.,NULL,NULL,food,implicit
+إنه أصلي للغاية ويضرب الكثير من النكهات.,NULL,food quality,food,implicit
+أنا أحب الرائحة فهي تجعل شعري لامعًا وأكثر كثافة وناعمًا جدًا.,NULL,NULL,food,implicit
+أنا أحب نكهة البرتقال الأولية ثم نكهة الزنجبيل الحارة في النهاية.,NULL,food quality,food,implicit
+أبحث في كل مكان أذهب إليه ) ويتقاضون 2 دولار فقط.,NULL,NULL,food,implicit
+سأشتري المزيد مرة أخرى قريبًا.,NULL,food general,food,implicit
+مزيج حلو ومالح لطيف.,NULL,food quality,food,implicit
+لكن الحزمة والعرض التقديمي منخفضة الميزانية.,الحزمة والعرض التقديمي,shipment quality,food,explicit
+أنا أحب القهوة الطازجة، غير منتهية الصلاحية تقريبًا.,NULL,food quality,food,implicit
+لقد رأيت أن هذه مضغ Petrodex كانت غير مكلفة إلى حد ما وحصلت على تقييمات جيدة، لذلك قررت تجربتها.,مضغ Petrodex | مضغ Petrodex,food prices | food general,food,explicit | explicit
+في العام الماضي شربت هذا المشروب العضوي اللذيذ شاي أثناء اتباع خطة التخلص من السموم وكان مرضيًا للغاية وشعرت بالانحطاط.,شاي | شاي | شاي,food general | food quality | food general,food,explicit | explicit | explicit
+لقد أصبح رائعا.,NULL,food general,food,implicit
+أنا مصاب بمرض الاضطرابات الهضمية وجميع الوجبات الخفيفة، باستثناء واحدة، خالية من الجلوتين والقمح.,NULL,NULL,food,implicit
+أحب تجربة الكثير من الأنواع المختلفة القهوة وحتى أنني قمت بتحميص قهوتي الخاصة من حين لآخر وهذه هي من أفضل أنواع القهوة التي تناولتها إن لم تكن الأفضل على الإطلاق.,القهوة,food general,food,explicit
+قهوة مزيج الكاريبو مزيج لطيف، ليس قوياً جداً.,قهوة مزيج الكاريبو | قهوة مزيج الكاريبو,food quality | food quality,food,explicit | explicit
+أوصي بهم بشدة :),NULL,food recommendation,food,implicit
+كعكة الفانيليا الكلاسيكية من باميلا هذا المزيج ضروري لمخزنك.,كعكة الفانيليا الكلاسيكية من باميلا,food general,food,explicit
+إذا كنت تتناول منتجات تجارية زبدة الفول السوداني، فقد تبدو مملة في البداية.,زبدة الفول السوداني,food general,food,explicit
+كانت معظم لحم مقدد جيدة، لكنني صادفت قطعة واحدة أكثر من اللازم كانت دهنية أو شعرت وكأنها قطعة مالحة من الدهون.,لحم مقدد | NULL,food general | food quality,food,explicit | implicit
+. . ستشعر بنفس الطريقة!,NULL,food general,food,implicit
+لن أستهلك أكثر من كيس واحد يوميًا، ولكن الأمر متروك لك ولجسدك.,NULL,food general,food,implicit
+اشتريت دجاج هالو وفتته على الطعام المعلب وبدأت قططي في التهامه.,دجاج هالو,food general,food,explicit
+لذا فهم مزيج رائع من السهل ولكن ليس المعالجة المسبقة بشكل مفرط.,NULL,food quality,food,implicit
+حتى أن أصدقائي غير النباتيين يأكلون حفنة منها كل يوم. يقولون إن اتباع نظام غذائي يتضمن المكسرات والبذور سوف يجعلك تعيش سنوات أطول وأكثر صحة.,NULL,NULL,food,implicit
+لقد حظيت مكافآت الكلاب Canidae باستقبال جيد من قبل كلبي Presa Canarios الذي يبلغ من العمر عامًا واحدًا.,مكافآت الكلاب Canidae,food general,food,explicit
+بالتأكيد سأتعامل معهم مرة أخرى!,NULL,food general,food,implicit
+أنا أيضًا أحب حقيقة أنه يتم تحضيره على البارد - مما يوفر بعض الوقت في عملية التخمير!,NULL,food general,food,implicit
+لقد استخدمت ستيفيا حلوة المذاق لسنوات وجربت أنواعًا أخرى ولكن سويتلياد هو المفضل لدي للغاية.,ستيفيا حلوة المذاق | سويتلياد,food general | food general,food,explicit | explicit
+نظرًا لأن هذه مراجعة للمنتج، فسوف أركز على المنتج نفسه.,NULL,NULL,food,implicit
+لقد وصفت والدتي هذه بأنها رقائق التي ذهبت بشكل خاطئ بشكل رهيب.,رقائق,food general,food,explicit
+بات جرينوغ، بويسي، أيداهو.,NULL,NULL,food,implicit
+إنها وجبات خفيفة رائعة لأولئك الذين هم على الطريق، أو حتى جزء من وجبة الإفطار أثناء الاندفاع خارج الباب.,NULL,food general,food,implicit
+تسليم سريع حقا!,NULL,shipment delivery,food,implicit
+كوكيز الكاجو جيد جدًا أيضًا.,كوكيز الكاجو,food general,food,explicit
+كما لا يوجد ملصق كما هو موضح.,NULL,NULL,food,implicit
+أنا أحب الشوكولاتة المليئة بالخمور و Mon Cheri نفسها لا تخيب أملي.,الشوكولاتة | الشوكولاتة,food general | food general,food,explicit | explicit
+إنها ليست الأفضل مذاقًا، ولكنها مريحة للغاية.,NULL | NULL,food quality | food general,food,implicit | implicit
+نتناول هذا كمكمل غذائي يومي في منزلنا.,NULL,food general,food,implicit
+إنها تتمتع بنكهة مذهلة دون الشعور بالذنب.,NULL,food quality,food,implicit
+لا يمكن العثور عليه في المتاجر حيث أعيش، لذلك كنت سعيدًا جدًا بالعثور عليه عبر الإنترنت.,NULL,amazon availability,food,implicit
+جربهم!,NULL,food recommendation,food,implicit
+هذه هي أفضل كعكات براونيز تناولتها على الإطلاق.,NULL,food general,food,implicit
+احذر,NULL,NULL,food,implicit
+سأشتريه مرارًا وتكرارًا، طعمه لذيذ ولا يحتوي على طعم البروتين الغريب الذي تمتلكه بعض المساحيق.,NULL | NULL,food general | food quality,food,implicit | implicit
+قشور البرتقال والليمون تجعل هذا الشاي نكهة هيبية للغاية.,NULL,NULL,food,implicit
+يمكنك تجربته بمفرده أو مع شاي الخوخ الأخضر والزنجبيل ستاش، أو أي شيء آخر.,NULL,food general,food,implicit
+قططي تستمتع بهذا الطعام ولكن العلبة صعبة الفتح للغاية.,NULL,food general,food,implicit
+لقد اشتريت هذا المنتج على سبيل النزوة - محاولًا تجربة أنواع أخرى جرانولا كانت حلوة ولذيذة في نفس الوقت.,جرانولا,food quality,food,explicit
+لقد تلقيت طلبي الأول اليوم، وهو جيد جدًا لدرجة أنني قمت بإعادة الطلب.,NULL,shipment delivery,food,implicit
+"لقد طلبت هذا الشاي لأن أحد المراجعين ذكر أن هذا الشاي يحتوي على مادة ""الجارسينيا"" ولكنني لا أرى ذلك في قائمة المكونات.",NULL,NULL,food,implicit
+إذا كنت تحب القهوة الأمريكية العامة بدون نكهة أو تلميح إلى التحميص الداكن، فقد تكون هذه القهوة مناسبة لك.,NULL,NULL,food,implicit
+لا أستطيع الانتظار لتجربة النكهات الأخرى!!,NULL,food general,food,implicit
+لقد جربت جميع أشرطة النوع تقريبًا.,NULL,NULL,food,implicit
+وبالإضافة إلى ذلك فهو خالي من السكر ومفيد لأسنانك.,NULL | NULL,food general | food general,food,implicit | implicit
+واحدة من العديد من الأطعمة المعلبة التي نادرًا ما يخلو مخزني منها.,NULL,food general,food,implicit
+اشتريت نكهتين لتجربة العلامة التجارية و,العلامة التجارية,food general,food,explicit
+اشتريت صندوقين من العادي تشيكس وخلطته مع القرفة تشيكس وبرستو لذيذ.,تشيكس,food quality,food,explicit
+منذ عام أو نحو ذلك، كنت أشتري هذه المنتجات في كثير من الأحيان لأنها خالية من الجلوتين.,NULL,food quality,food,implicit
+نحن عالقون في حالة من هذا القمامة.,NULL,food general,food,implicit
+أنا أحب Popchips ولها طعم رقائق البطاطس على عكس المنتجات الأخرى التي جربتها.,Popchips,food general,food,explicit
+كما يقال، عش وتعلم.,NULL,NULL,food,implicit
+إنه حساء دسم حساء ويتركك راضيًا.,حساء,food general,food,explicit
+لذلك، على الرغم من أنني أحب هذا الإصدار العضوي، فمن المحتمل أن أختار في المستقبل بديلاً طبيعيًا أرخص، ما لم يقدم لي أحد سببًا وجيهًا للالتزام بالنوع العضوي.,NULL,food recommendation,food,implicit
+إذا كنت سأنفق المال على المياه المعبأة، فمن الأفضل أن يكون هناك شيء إضافي.,NULL,NULL,food,implicit
+تدفع أكثر قليلاً ولكن الأمر يستحق ذلك في رأيي,NULL,food prices,food,implicit
+أشعر أن جميع أعواد Jack Links التي جربتها أفضل بكثير من Slim Jims.,أعواد Jack Links,food general,food,explicit
+حسنًا، تحكم في نفسك، ولكن لا يزال بإمكانك الحصول على ثمارك بسهولة بهذه الطريقة.,NULL,NULL,food,implicit
+هذا ليس الطعام المثالي، ولكنه طعام محدد لدورتهم,NULL,food general,food,implicit
+ها!,NULL,NULL,food,implicit
+لقد أعجبت أيضًا بالتسليم السريع، حيث حصلت على القهوة بعد يومين من طلبها.,NULL | القهوة,shipment delivery | amazon availability,food,implicit | explicit
+إنه مثالي كوجبة إفطار أو قهوة حلوى لأنه يتناسب جيدًا مع الطعام.,NULL,food general,food,implicit
+أفضل شريحة متوفرة حاليًا هي Lant Chips على موقعك Amazon .com .,Amazon,amazon availability,food,explicit
+كما أنها تشكل قاعدة رائعة لفطائر الخضار أو الرغيف.,NULL,food style_options,food,implicit
+تأتي صديقتي تينا إليّ ومعها شاي الأعشاب هذا، وتضيف إليه، من بين كل الأشياء، السكر والقشدة.,NULL | NULL,food general | food quality,food,implicit | implicit
+لقد تفاجأت بسرور عندما ظهر هذا المنتج معبأ في علبتين رقم 10 (فكر في علبة قهوة كبيرة).,المنتج,food general,food,explicit
+هذا يذكرني بما أكلته في إنجلترا.,NULL,food quality,food,implicit
+أحسنت .,NULL,NULL,food,implicit
+إن أطباق الشواء والجبن هي المفضلة لدي، ولكنني طلبت مؤخرًا البطاطا الحلوة ووجدت أنها تفتقر إلى الطعم.,NULL,food quality,food,implicit
+إنه خفيف وغني في نفس الوقت!,NULL,food quality,food,implicit
+يتمتع !,NULL,food general,food,implicit
+الأفضل .,NULL,NULL,food,implicit
+كان سعر أمازون للطعام مناسبًا، وقامت شركة UPS بتسليم الكيس الثقيل إلى باب منزلي مباشرةً.,أمازون | NULL,amazon prices | shipment delivery,food,explicit | implicit
+"صادم ""المعكرونة بالماء البارد تصنع كل الفرق في العالم!""",NULL,NULL,food,implicit
+الألواح قابلة للمضغ بدرجة كافية بحيث يكون طعمها قديمًا نوعًا ما مثل شريط الجرانولا أو وجبة خفيفة بمفردها.,الألواح | الألواح,food quality | food quality,food,explicit | explicit
+كل ما أقوم به هو رفع الجزء العلوي قليلاً عندما أكون فقيرًا لتجاوز هذه المشكلة.,NULL,NULL,food,implicit
+أوصي بـ المنتج ولكن أعتقد أنه يعتمد على ما إذا كنت تحب الخبز البني أم لا.,المنتج,food recommendation,food,explicit
+إنه ليس متاحًا دائمًا لذا أشتري عدة أحواض عندما يكون على الرفوف.,NULL,amazon availability,food,implicit
+لا يزال لذيذًا جدًا، على الرغم من أنهم قاموا بتقليل محتوى الدهون، مما يجعله ليس لذيذًا كما كان من قبل (شكرًا لك مربية الدولة [رازززبيري الكبيرة]. ماذا يمكنني أن أقول أكثر من ذلك؟,NULL | NULL,food quality | food general,food,implicit | implicit
+أحب شراء هذه الطلبات السائبة الكبيرة منك.,NULL,amazon availability,food,implicit
+سأوصي به للجميع .,NULL,food recommendation,food,implicit
+في رأيي الشخصي، Kettle - رقائق البطاطس ذات العلامة التجارية ممتازة وأوصي بها لجميع رقائق البطاطس 'effection - ados'.,Kettle | NULL | Kettle,food quality | food general | food recommendation,food,explicit | implicit | explicit
+لقد قمت بالفعل بصنع بعض مستخلص الفانيليا وسكر الفانيليا وبعض الحلويات، هذه الفاصوليا مذهلة.,الفاصوليا,food general,food,explicit
+فقط لا تأخذ الكثير!,NULL,NULL,food,implicit
+ذهبت إلى سوق المزارعين المحليين مؤخرًا وكان لديهم كريم بروليه الخوخ المذهل.,كريم بروليه الخوخ,food general,food,explicit
+أكلت واحدة قبل أن ألاحظ العفن، وكان طعمها جيدًا، ولكن,NULL,food quality,food,implicit
+أود أن تكون الحرارة أقل بنسبة 50٪، ولكن نفس النكهة الرائعة.,NULL,NULL,food,implicit
+إنها لذيذة بشكل مدهش لدرجة أنك ستجد نفسك مع علبة فارغة قبل أن تدرك أنك أكلت هذا العدد.,NULL,food general,food,implicit
+أنها طعام جيد ومكافآت لكلابنا.,NULL,food quality,food,implicit
+إن تسليم المنتج مقابل ثلاثة عشر دولارًا عندما لا يتوفر هذا المنتج في المتجر المحلي الخاص بي هو أمر إيجابي.,NULL,shipment prices,food,implicit
+عندما تسحب الجزء العلوي المنبثق، لا يمكنك إلا أن تتعرض للرش به.,NULL,food general,food,implicit
+مقهى فيرونا هو القهوة المفضلة لدينا.,مقهى فيرونا,food general,food,explicit
+نحن نشتري الكثير من لحم البقر المجفف وعادةً ما يكون من نوع Jack Links.,NULL,NULL,food,implicit
+بعد أن عانت إحدى قططي من بعض مشاكل البطن، قررت البحث عن بعض الخيارات الخالية من الحبوب.,NULL,NULL,food,implicit
+لقد كنت سعيدًا جدًا بالعثور على هذا اليقطين العضوي بهذا السعر الرائع!,اليقطين العضوي,amazon prices,food,explicit
+لقد كنا,NULL,NULL,food,implicit
+أوز .,NULL,NULL,food,implicit
+ومع ذلك فهو يستمتع بها.,NULL,food general,food,implicit
+لا طعمه حلوًا بشكل مفرط، ولا يترك لك طعمًا كيميائيًا.,NULL,food quality,food,implicit
+أنا في شهر أكتوبر، اشتركت في التوصيل كل شهرين وتلقيت شحنات فقط في شهري أكتوبر وديسمبر (الآن هو 18 مارس، لكنني ألغيت جميع اشتراكاتي أمس).,شحنات,shipment delivery,food,explicit
+كمية مثالية من رقائق الشوكولاتة.,NULL,food quality,food,implicit
+الآن أصبح مذاقها مثل القهوة بالنسبة لي (لاحظ أنني أشرب الشاي أكثر من غيري).,NULL,food quality,food,implicit
+أقوم بتحضير هذا المشروب على ثاني أكبر حجم للكوب للحصول على مشروب جريء قهوة يتحمل كل الكريمة.,قهوة | قهوة,food general | food quality,food,explicit | explicit
+بشكل عام، القهوة لها طعم مسحوق مقارنة بأكواب K المعبأة مسبقًا.,NULL,food quality,food,implicit
+يجب تجنب و منع شرب أي شيء يسبب الصداع .,NULL,NULL,food,implicit
+الآن إذا تمكنت فقط من العثور على بديل لذيذ للبيتزا!,NULL,NULL,food,implicit
+لقد حدث تغيير طفيف في الجودة في الآونة الأخيرة.,NULL,food quality,food,implicit
+إنه حار بدرجة كافية ليكون ساخنًا، ولكن ليس ساخنًا لدرجة أن يتعين عليك توخي الحذر.,NULL,food style_options,food,implicit
+لا يحتفظ متجر الحيوانات الأليفة الخاص بي بكمية كبيرة من المخزون، لذا كنت سعيدًا جدًا بالعثور عليه على أمازون!,أمازون,amazon availability,food,explicit
+مشروب الزنجبيل منعش بشكل لا يصدق في يوم صيفي حار.,مشروب الزنجبيل,food general,food,explicit
+أتمنى فقط ألا يحاولوا التظاهر بأنهم شيء آخر غير ما هم عليه - إنهم مجرد وجبات خفيفة - نتوقع بعض الجوانب السلبية,NULL,NULL,food,implicit
+أصبح تنفسي أفضل بعد الكوب الأول.,NULL,food general,food,implicit
+إن شرائه هنا في أمازون أرخص بكثير من متاجر الأغذية الصحية أيضًا.,أمازون,amazon prices,food,explicit
+الأنبوب الذي يبلغ حجمه 7 أونصة صغير إلى حد ما وأتمنى أن يصنعوا حجمًا أكبر، ولكن العبوة المتعددة هي خيار لطيف لهذا السبب.,NULL,food prices,food,implicit
+بالإضافة إلى النكهة، فإن هذه العلامة التجارية تبذل قصارى جهدها لتكون صديقة للبيئة.,NULL,food quality,food,implicit
+لقد اشتريت هذه في Whole Foods في اليوم الآخر لأنها نفدت من رقائق الشوكولاتة العادية.,NULL,NULL,food,implicit
+إن القطع التي يتم تشكيلها وتشكيلها لتبدو مثل لحم البقر المشوي تكون طرية قليلاً ومضغية ويتم صبغ القطع الصلبة من الطعام، وهو أمر يبدو غير ضروري.,القطع,food style_options,food,explicit
+بدلاً من شرب المشروبات الغازية التي تجعلك تشعر بمزيد من العطش، تناول علبة ليبتون جاهزة التي ستروي عطشك، وتتركك راضيًا تمامًا.,علبة ليبتون جاهزة,food general,food,explicit
+سعر رائع والشحن.,NULL | الشحن,food prices | shipment quality,food,implicit | explicit
+"لقد أوصيت بهذا المنتج لصديق رد قائلاً ""لدي Double Black Diamond ويحتاج إلى Geritol"".",NULL,food recommendation,food,implicit
+هذا مثل حقيبة صغيرة رائعة!,NULL | NULL,food style_options | food general,food,implicit | implicit
+أحبها .,NULL,food general,food,implicit
+سعر رائع (أرخص حتى من ما تمكنا من العثور عليه في متجر البقالة).,NULL,amazon prices,food,implicit
+كنت قلقًا بشأن طلب هذا لأنه يأتي مع ثلاثة دلاء، وأنا انتقائي بعض الشيء بشأن مشروبات المارجريتا الخاصة بي -,NULL,NULL,food,implicit
+سأشتري مرة أخرى .,NULL,food recommendation,food,implicit
+في عمر 13 عامًا، أصبحت متطلبة للغاية، وهذه الأشياء ستجذب انتباهها بالكامل.,NULL,NULL,food,implicit
+تحتوي كل وجبة على 100 سعرة حرارية فقط وهي وجبة خفيفة صحية رائعة.,NULL | NULL,food quality | food quality,food,implicit | implicit
+هذا القهوة ليس رخيصًا إلى الحد الذي يجعلك تتخلص من هذا العدد الكبير من الأكواب ولا يزال الأمر يستحق ذلك.,القهوة,food prices,food,explicit
+إذا كنت تريد أن تتمكن من رش العسل من فوهة الزجاجة، فأنت بحاجة إلى عمل ثقب فيها بنفسك.,NULL,NULL,food,implicit
+تشيك تشيك له نكهة لطيفة وخفيفة وملمس لطيف.,تشيك تشيك | تشيك تشيك,food quality | food style_options,food,explicit | explicit
+عائلتي تحب هذا الكاكاو!,الكاكاو,food general,food,explicit
+أتمنى أن أخبرك لماذا طعم هذه القهوة لذيذ جدًا، ولكن,القهوة,food quality,food,explicit
+7 .,NULL,NULL,food,implicit
+مارميت أفضل!,مارميت,food quality,food,explicit
+هذا هو المنتج الوحيد على أمازون الذي لدينا اشتراك للحصول عليه كل شهرين.,أمازون,amazon availability,food,explicit
+سمعت عن هذا في مطبخ الاختبار الأمريكي.,NULL,NULL,food,implicit
+سأحصل عليهم فقط في WF، ما لم يذهبوا إلى نفس المكان مرة أخرى بالطبع!,NULL,food recommendation,food,implicit
+"أعتقد أن أحد المراجعين الآخرين الذي وصفه بنكهة ""محترقة"" قد يكون على حق.",NULL,NULL,food,implicit
+بعد تذوق هذا الحبوب أصبحت مدمنًا.,الحبوب,food quality,food,explicit
+يقولون أن اللعبة غير صالحة للأكل ولكن إذا كانت سهلة الأكل، ربما يجب عليهم إما التفكير في جعلها صالحة للأكل أو جعلها أكثر متانة.,NULL,NULL,food,implicit
+الزوج هنا: القهوة تم تسليمها في يومين وبدا طازجًا جدًا.,القهوة | القهوة,shipment delivery | food general,food,explicit | explicit
+أنا بالتأكيد لن أحصل على هذا مرة أخرى.,NULL,food general,food,implicit
+أستطيع أن أقول ذلك أكثر الآن بعد أن نفد مخزوني واضطررت إلى استكمال عملية الشراء الخاصة بي أمازون بالركض إلى المتجر.,أمازون,amazon availability,food,explicit
+أوصي بشدة بالحفاظ على هذه الأشياء.,NULL,food recommendation,food,implicit
+عادةً ما أقوم بسكب هذا العسل في زجاجة مختلفة حتى أتمكن من استخدامه بسهولة أكبر.,NULL,NULL,food,implicit
+لقد كانت طازجة ومقرمشة ولها نكهة لطيفة.,NULL | NULL | NULL,food quality | food quality | food quality,food,implicit | implicit | implicit
+. . لكن صورة المنتج أربكتني قليلاً.,المنتج,food general,food,explicit
+لقد قمت للتو بتخزين 12 صندوقًا.,NULL,food general,food,implicit
+أضفت البطاطا الحلوة وقليلاً من القرفة.,NULL,NULL,food,implicit
+سيأكل زوجي الباقي كوجبة خفيفة ولن نشتريها مرة أخرى أبدًا.,NULL,food general,food,implicit
+من المؤكد أنه من الجيد التبديل والاستمتاع به في منتصف النهار كوجبة حلوة.,NULL,NULL,food,implicit
+عندما حصلت على خاصتي قمت بمشاركتها مع بعض أفراد عائلتي، ومعظمهم لم يطلبوا المزيد.,NULL,NULL,food,implicit
+شكواي الوحيدة هي أنني اشتريت حزمة مكونة من 12 قطعة بحوالي 22 - 23 دولارًا على موقع أمازون قبل بضعة أشهر، بعد الاشتراك في خدمة التوصيل العادية.,NULL,NULL,food,implicit
+لكن على مدار آخر 3 عمليات شراء، انتهى المطاف بثلث الكيس على شكل مسحوق، والذي يلتصق في حلوق حيواناتي الأليفة.,NULL,food quality,food,implicit
+في كل مرة أذهب لتجديد المخزن بهم، إما أنهم نفدوا أو لم يتبق سوى صندوقين، فأشتريهما.,NULL,amazon availability,food,implicit
+لحسن الحظ أنهم لن يرخصوا إنتاج الرقائق في الولايات المتحدة (لأن الرقائق لن يكون لها نفس الطعم).,NULL,NULL,food,implicit
+يقل اهتمامي بالأنواع الأخرى من القهوة كلما شربت هذه القهوة.,القهوة,food general,food,explicit
+إن تناول الهليون في وجبة الإفطار ليس بالأمر الرائع، ولكنني سأحاوله.,NULL,NULL,food,implicit
+إنها ملونة جدًا ولكنها ليست الأفضل مذاقًا.,NULL | NULL,food general | food quality,food,implicit | implicit
+أستطيع أن أستمر وأستمر.,NULL,NULL,food,implicit
+ذكرت أن قطتها لم تهتم بالسلمون الموجود فيه، ومع ذلك، فإن فكرة الطعام ممتازة.,الطعام,food general,food,explicit
+كان من الجيد العثور عليهم في عبوات تحتوي على 100 سعرة حرارية.,NULL,food style_options,food,implicit
+جرب حساء الكسكس بالكاري والعدس وبهارات النيل اليوم وانغمس في رائحة فريدة من نوعها قادمة من النصف الآخر من العالم.,حساء الكسكس بالكاري والعدس وبهارات النيل,food recommendation,food,explicit
+العنبر المتوسط من الدرجة A من Hidden Springs Maple Vermont رائع بكل بساطة.,العنبر المتوسط من الدرجة A,food quality,food,explicit
+لا أزال غير قادر على معرفة ذلك، هناك شيء مفقود، لا بأس، ليس رائعًا.,NULL,food general,food,implicit
+يحصل طفلاي من فصيلة البابيون على واحدة من هذه كل مساء بعد نزهتهما، وهما يحبانها!,NULL,food general,food,implicit
+لقد طلبت هذه الباقة ليتم تسليمها في عيد ميلاد ابنتي، 17 أغسطس.,NULL,NULL,food,implicit
+babycok سهل الاستخدام ويقوم بعمل رائع حتى مع الجزر والأطعمة الصلبة الأخرى.,babycok | babycok,food quality | food quality,food,explicit | explicit
+إنه يحتوي على توازن جيد بين النكهات ولكنه لا يزال جريئًا في نفس الوقت.,NULL,food quality,food,implicit
+أشربه يوميا .,NULL,NULL,food,implicit
+لقد جربت العديد من الأنواع وهذا النوع هو رقم 1 يليه اختيار جيرميا ثم الفاصوليا الخضراء وميرليتا.,NULL,food quality,food,implicit
+لقد كانت قططي تتناول نظام Hill's Science الغذائي منذ عودتها إلى المنزل وهي قطط صغيرة.,NULL,NULL,food,implicit
+لقد وجدت هذه التلميحة الصغيرة في كتاب الشفاء البديل.,NULL,food general,food,implicit
+مجرد تنبيه .,NULL,NULL,food,implicit
+مضحك جداً,NULL,NULL,food,implicit
+"وبعد ذلك، قمت بـ""علاجهم"" بأرجل الضفادع المقلية!",NULL,NULL,food,implicit
+- ) أحب هذا تمامًا المنتج!,المنتج,food general,food,explicit
+أشعر أنني بحالة جيدة جدًا عندما أقدم له هذا الطعام عالي الجودة وأنا سعيد لأن طفلي الذي يأكل بشكل انتقائي يريد شيئًا مفيدًا جدًا له.,NULL | NULL,food quality | food quality,food,implicit | implicit
+أفضّل أن يكون أقوى قليلاً، ولكن بشكل عام يعد هذا المنتج رائعًا منتج للسفر والتخييم.,منتج,food general,food,explicit
+لقد صنعنا وعاءً لحفلة عشاء وأعطاه الجميع الإبهام للأعلى!,NULL,NULL,food,implicit
+لقد كان من الرائع أن أتمكن من تناول فنجان حقيقي من القهوة في غرفتي!,NULL,food general,food,implicit
+أنا أحب هذا المنتج كثيرًا، ولكن سعره 6 دولارات.,المنتج,food general,food,explicit
+لقد فوجئت بأنه كان هناك وسهل الطلب من خلاله أمازون.,أمازون,amazon availability,food,explicit
+يأتي هذا القهوة مطحونًا مسبقًا بشكل مثالي لمشروبات الإسبريسو.,القهوة,food quality,food,explicit
+نظرًا لأن هذا الدقيق يحتوي على بعض الحبوب الكاملة، فإن المنتجات التي أخبزها به تكون أغمق قليلاً في اللون وأكثر خشونة في الملمس من شيء مصنوع من دقيق القمح الأبيض متعدد الأغراض، لكننا لم نجد الاختلافات مثيرة للاعتراض.,المنتجات | المنتجات,food style_options | food style_options,food,explicit | explicit
+كان هذا ليكون - 1 إذا كان ذلك ممكنا.,NULL,NULL,food,implicit
+أنا لست ناقدًا أو خبيرًا في الطعام بأي حال من الأحوال، ولكن هذه تافي - إيتس هي الحلوى اللذيذة الأكثر إدمانًا التي تناولتها منذ سنوات!,تافي - إيتس,food quality,food,explicit
+سأطلب المزيد!,NULL,NULL,food,implicit
+أعترف بأنني مدمن على أغلب Kind Bars .,Kind Bars,food general,food,explicit
+على أية حال، عندما تضع النعناع في فمك لأول مرة لن تجد أي طعم.,النعناع,food quality,food,explicit
+لم يكن لدي حقيبة لم يكن أداؤها جيدًا.,NULL,food general,food,implicit
+هذه رقائق مذهلة.,رقائق,food general,food,explicit
+ملاحظة .,NULL,NULL,food,implicit
+لقد التقطت والدتي هذا طعام نيومان لأنه كان متوفرًا في متجر البقالة.,طعام نيومان,food general,food,explicit
+أنها قديمة، كدمات ومطبوخة أكثر من اللازم.,NULL | NULL | NULL,food general | food general | food general,food,implicit | implicit | implicit
+أضفت المعكرونة والخضروات إلى الحساء دون إضافة ملح إضافي.,NULL,NULL,food,implicit
+أحب هذا المنتج أكثر من منتج نيومان العادي، لأنه يحتوي على مكونات أقل.,NULL,food general,food,implicit
+كأحد أفضل خبراء جوز الهند، أستطيع أن أخبرك أن هذا المنتج لذيذ. رقائق عريضة مقرمشة وحلوة قليلاً.,المنتج | المنتج | المنتج | المنتج,food quality | food quality | food quality | food style_options,food,explicit | explicit | explicit | explicit
+لها نكهة رائعة - نظيفة، طبيعية، فاكهية وليست صناعية.,NULL | NULL | NULL | NULL | NULL,food quality | food general | food general | food general | food general,food,implicit | implicit | implicit | implicit | implicit
+يمضغ كل شيء آخر في المنزل، على أية حال.,NULL,food general,food,implicit
+ولكن بعد ذلك، الكلب يحب ذلك!,NULL,food general,food,implicit
+لقد وجدت أيضًا أن هذا الشاي متسامح بشكل خاص مع الإفراط في التخمير.,الشاي,food quality,food,explicit
+أريد أن أصدق أن كونه عضويًا يجعله ذو جودة أفضل، لكن مذاقه يشبه شراب القيقب الطبيعي.,NULL,food quality,food,implicit
+لقد اشترينا له مجموعة متنوعة عبر الإنترنت وسمحنا له باختيار المنتج الذي يعجبه أكثر وكان هذا هو المنتج.,NULL,NULL,food,implicit
+إنه يحافظ على السلام في منزلنا ورائحته رائعة!,NULL,food general,food,implicit
+أقوم غالبًا بخلط هذا شاي مع النعناع المتساقط أو الياسمين الأخضر أو غيرها من أوراق الأعشاب السائبة شاي لأنه على الرغم من أنه جيد جدًا بمفرده، إلا أن الشاي الأخضر العادي شاي يمكن أن يصبح مملًا يومًا بعد يوم.,شاي | NULL,food style_options | food quality,food,explicit | implicit
+جسدك والبيئة سوف تشكرك!,NULL,NULL,food,implicit
+سعر رائع، صفقة رائعة، حبوب رائعة.,NULL | NULL | NULL,food prices | food general | amazon prices,food,implicit | implicit | implicit
+لقد التقطت هذا في متجر للمواد الغذائية عندما كنت في سانت.,NULL,NULL,food,implicit
+يتم تعبئتها بشكل ملائم في أكياس صغيرة بحيث يسهل حملها وأخذها معنا عندما نركب.,NULL,shipment quality,food,implicit
+تحتوي على صمام أحادي الاتجاه على الكيس لدفع الهواء للخارج.,NULL,shipment quality,food,implicit

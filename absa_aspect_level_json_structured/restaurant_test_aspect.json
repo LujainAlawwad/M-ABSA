@@ -1,0 +1,5595 @@
+﻿[
+  {
+    "sentence": "انتظرت لمدة 10-15 دقيقة خدمة وطلبت بيرة ولم يتم تقديمها لي مرة أخرى.",
+    "aspect": "خدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الجو استراحة هادئة ومريحة بين جميع الأطفال الذين يركضون حول وسط مدينة ديزني.",
+    "aspect": "الجو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جوهرة صغيرة مخفية",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "ذهبت هناك مع صديق من خارج المدينة ... وكنا معجبين جدًا!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنه رائع السوشي وأفضل الخدمة.",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه رائع السوشي وأفضل الخدمة.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جميع عناصر القائمة الخاصة بهم ناجحة، ويقدمون مشروب الميموسا.",
+    "aspect": "عناصر القائمة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- ... وأفضل تجربة في فصل الصيف السطح -- حتى أنهم سيحضرون لك بطانية إذا شعرت بالبرد في طقس سياتل المسائي.",
+    "aspect": "السطح",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- ... وأفضل تجربة في فصل الصيف السطح -- حتى أنهم سيحضرون لك بطانية إذا شعرت بالبرد في طقس سياتل المسائي.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- بعد 12 عامًا في سياتل راي يُصنف باعتباره المكان الذي نعود إليه دائمًا.",
+    "aspect": "راي",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا يمكنك أن تخطئ هنا .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أعتقد أنني ربما قمت بتجربة كل عنصر في القائمة مرة واحدة على الأقل، كل شيء ممتاز.",
+    "aspect": "القائمة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- قطع البيبروني سميكة جدًا -- لذيذة.",
+    "aspect": "البيبروني",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كريم بروليه الشاي الأخضر يصبح أفضل في كل مرة أتناوله.",
+    "aspect": "كريم بروليه الشاي الأخضر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ليس جيدًا جدًا، فكرت أنك تشعر بعدم الارتياح وتضطر إلى ارتداء ملابس جيدة.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الجو كان لطيفا.",
+    "aspect": "الجو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع للغاية !!!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "تجنب المكان",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لأكون صادقا، لقد تناولت أفضل مجمدة بيتزا.",
+    "aspect": "بيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الخدمة كانت استثنائية - في بعض الأحيان كان هناك شعور بأننا كنا نخدم من قبل جيش من النوادل الودودين.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الخدمة كانت استثنائية - في بعض الأحيان كان هناك شعور بأننا كنا نخدم من قبل جيش من النوادل الودودين.",
+    "aspect": "النوادل",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "وقد قاموا بتغليف كل شيء بشكل جيد حتى لا ينسكب.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "جيد جدًا !",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الطعام حرام .",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "للبدء، فإن حوالي 8-10 أونصات من عصير البرتقال سوف تكلفك 3 دولارات.",
+    "aspect": "عصير البرتقال",
+    "category": "drinks prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جيد اختيار الساكي .",
+    "aspect": "اختيار الساكي",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في حين أنني كان من الممكن أن أستغني عن الشباب الذين شاركوا المساء معنا، إلا أن الخادم و الطعام الرائعين جعلا التجربة إيجابية للغاية.",
+    "aspect": "الخادم",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في حين أنني كان من الممكن أن أستغني عن الشباب الذين شاركوا المساء معنا، إلا أن الخادم و الطعام الرائعين جعلا التجربة إيجابية للغاية.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في حين أنني كان من الممكن أن أستغني عن الشباب الذين شاركوا المساء معنا، إلا أن الخادم و الطعام الرائعين جعلا التجربة إيجابية للغاية.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "يا له من اكتشاف!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "– Mioposto لديه قائمة طعام مبتكرة ولذيذة للغاية قائمة بيتزا.",
+    "aspect": "قائمة بيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– Mioposto لديه قائمة طعام مبتكرة ولذيذة للغاية قائمة بيتزا.",
+    "aspect": "قائمة بيتزا",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في إحدى رحلاتنا الأخيرة، كان النادل الخاص بنا متجاهلاً للغاية، بينما كان ما لا يقل عن ثلاثة من أفراد الطاقم يخدمون بكل لطف فتاتين يابانيتين تجلسان في مكان قريب.",
+    "aspect": "النادل",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عادةً لا أنهي بروكلي عندما أطلب هذا النوع من الطعام، ولكن للمرة الأولى، كانت كل قطعة مليئة بالأحداث مثل القطعة الأولى... كانت إسكالوب وروبيان طازجة للغاية ومطبوخة بشكل جيد.",
+    "aspect": "إسكالوب",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عادةً لا أنهي بروكلي عندما أطلب هذا النوع من الطعام، ولكن للمرة الأولى، كانت كل قطعة مليئة بالأحداث مثل القطعة الأولى... كانت إسكالوب وروبيان طازجة للغاية ومطبوخة بشكل جيد.",
+    "aspect": "إسكالوب",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عادةً لا أنهي بروكلي عندما أطلب هذا النوع من الطعام، ولكن للمرة الأولى، كانت كل قطعة مليئة بالأحداث مثل القطعة الأولى... كانت إسكالوب وروبيان طازجة للغاية ومطبوخة بشكل جيد.",
+    "aspect": "روبيان",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عادةً لا أنهي بروكلي عندما أطلب هذا النوع من الطعام، ولكن للمرة الأولى، كانت كل قطعة مليئة بالأحداث مثل القطعة الأولى... كانت إسكالوب وروبيان طازجة للغاية ومطبوخة بشكل جيد.",
+    "aspect": "روبيان",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عادةً لا أنهي بروكلي عندما أطلب هذا النوع من الطعام، ولكن للمرة الأولى، كانت كل قطعة مليئة بالأحداث مثل القطعة الأولى... كانت إسكالوب وروبيان طازجة للغاية ومطبوخة بشكل جيد.",
+    "aspect": "بروكلي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه ليس الأرخص السوشي ولكن الأمر يستحق ذلك في كل مرة.",
+    "aspect": "السوشي",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه ليس الأرخص السوشي ولكن الأمر يستحق ذلك في كل مرة.",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لن تشعر أبدًا بالاشمئزاز أو الشبع بعد تناول الطعام هناك.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كجزء من مجموعة صغيرة مكونة من أربعة أشخاص، تم تسليم طعامنا دون أي تعليق؛",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أتمنى أن يعود Scooner أو لاحقًا إلى ما كان عليه في يوم من الأيام.",
+    "aspect": "Scooner أو لاحقًا",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أولاً، وصل الطعام سريعًا ومتكاملًا :) أحب ذلك... أكره التظاهر بالأشياء التي تأتي واحدة تلو الأخرى.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كان الطعام رائعًا!",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إذا كان هناك خط في كل يوم من أيام الأسبوع طوال الوقت الذي يكون فيه (مكان) مفتوحًا، فأنت تعلم أنه أمر رائع.",
+    "aspect": "مكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "وكانت المفاجأة السارة هي الشيك الذي لم يتجاوز توقعاتي كما يحدث دائمًا في معظم الأماكن.",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "في أحسن الأحوال، كان الطعام جيدًا ومبالغًا في سعره بالتأكيد.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في أحسن الأحوال، كان الطعام جيدًا ومبالغًا في سعره بالتأكيد.",
+    "aspect": "الطعام",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "تحتوي منطقة الفناء الخارجية على قائمة مختصرة .",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الأفضل الطعام الهندي في لوس أنجلوس.",
+    "aspect": "الطعام الهندي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "انتقل مباشرة إلى الموضوع - هذا أمر مدهش!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الطعام ليس كما كان من قبل ( الجرعات شهدت انخفاضًا كبيرًا) ارتفعت الأسعار، والخدمة هي الأسوأ التي واجهتها في أي مكان (بما في ذلك أوروبا القارية).",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام ليس كما كان من قبل ( الجرعات شهدت انخفاضًا كبيرًا) ارتفعت الأسعار، والخدمة هي الأسوأ التي واجهتها في أي مكان (بما في ذلك أوروبا القارية).",
+    "aspect": "الجرعات",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام ليس كما كان من قبل ( الجرعات شهدت انخفاضًا كبيرًا) ارتفعت الأسعار، والخدمة هي الأسوأ التي واجهتها في أي مكان (بما في ذلك أوروبا القارية).",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام ليس كما كان من قبل ( الجرعات شهدت انخفاضًا كبيرًا) ارتفعت الأسعار، والخدمة هي الأسوأ التي واجهتها في أي مكان (بما في ذلك أوروبا القارية).",
+    "aspect": "الطعام",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أكل لبناني ! لذيذ !",
+    "aspect": "أكل لبناني",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان البروكلي طازجًا ولذيذًا جدًا.",
+    "aspect": "البروكلي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ويعطون كمية جيدة مقابل السعر.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "مخيب للآمال للغاية",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أفضل الأماكن في سياتل قائمة النبيذ",
+    "aspect": "قائمة النبيذ",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لا أستطيع أن أقول ما يكفي عن هذا المكان.",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لقد كنت أتناول الطعام في هذا المكان منذ أكثر من 8 سنوات ولم أتناول أبدًا وجبة سيئة وجبة.",
+    "aspect": "وجبة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عدت إلى المنزل وبحثت عنهم عبر الإنترنت مرة أخرى حيث اكتشفت أن هناك رابطًا لتقديم هدية لا يعمل، لذا أرسلت بريدًا إلكترونيًا إلى المطعم حول الخدمة غير الموجودة والرابط الخادع.",
+    "aspect": "المطعم",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عدت إلى المنزل وبحثت عنهم عبر الإنترنت مرة أخرى حيث اكتشفت أن هناك رابطًا لتقديم هدية لا يعمل، لذا أرسلت بريدًا إلكترونيًا إلى المطعم حول الخدمة غير الموجودة والرابط الخادع.",
+    "aspect": "المطعم",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قطع فاخرة من أسماك غريبة على طبق بقيمة 100 دولار طبق ولم تكن أي منها صالحة للأكل.",
+    "aspect": "طبق",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قطع فاخرة من أسماك غريبة على طبق بقيمة 100 دولار طبق ولم تكن أي منها صالحة للأكل.",
+    "aspect": "أسماك غريبة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قطع فاخرة من أسماك غريبة على طبق بقيمة 100 دولار طبق ولم تكن أي منها صالحة للأكل.",
+    "aspect": "أسماك غريبة",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تناولت طعامًا لذيذًا لحم خروف كورما، صاج بانير، سمبوسة، نان، إلخ.",
+    "aspect": "لحم خروف كورما",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تناولت طعامًا لذيذًا لحم خروف كورما، صاج بانير، سمبوسة، نان، إلخ.",
+    "aspect": "صاج بانير",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تناولت طعامًا لذيذًا لحم خروف كورما، صاج بانير، سمبوسة، نان، إلخ.",
+    "aspect": "سمبوسة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تناولت طعامًا لذيذًا لحم خروف كورما، صاج بانير، سمبوسة، نان، إلخ.",
+    "aspect": "نان",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يقدم جيدًا حقًا السوشي.",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كما هو الحال دائمًا، لم يخيب أوميكاسي الآمال في النضارة، على الرغم من حصوله على درجة منخفضة في الإبداع والاختيار.",
+    "aspect": "أوميكاسي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كما هو الحال دائمًا، لم يخيب أوميكاسي الآمال في النضارة، على الرغم من حصوله على درجة منخفضة في الإبداع والاختيار.",
+    "aspect": "أوميكاسي",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الأرز جاف جدًا، التونة لم تكن طازجة أيضًا.",
+    "aspect": "الأرز",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الأرز جاف جدًا، التونة لم تكن طازجة أيضًا.",
+    "aspect": "التونة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بيض السلطعون بنديكت هو إدمان.",
+    "aspect": "بيض السلطعون بنديكت",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "احتفظ بمساحة للحلويات اللذيذة الحلويات.",
+    "aspect": "الحلويات",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان (خادمنا) محترفًا وودودًا للغاية.",
+    "aspect": "خادمنا",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد ذهبت إلى هنا بناءً على توصية وسأعود بالتأكيد مرارًا وتكرارًا.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كان الطعام جيدًا ولكنه كان معتدلاً للغاية.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الطعام جيدًا ولكنه كان معتدلاً للغاية.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– أنا وزوجي نحب تناول الطعام في مقهى Mioposto.",
+    "aspect": "مقهى Mioposto",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لقد كانت تجربة طعام رائعة.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كان الموظفين ودودين حقًا.",
+    "aspect": "الموظفين",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد أنفقنا بسهولة أكثر من 40 دولارًا للشخص الواحد (لا يشمل الكحول) وما زلنا جائعين.",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد أنفقنا بسهولة أكثر من 40 دولارًا للشخص الواحد (لا يشمل الكحول) وما زلنا جائعين.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "يعتبر هذا المكان على نفس مستوى الأماكن الموجودة في طوكيو فيما يتعلق بالنضارة.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "Groovy الموسيقى جعلت العشاء غير رسمي.",
+    "aspect": "الموسيقى",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بعد أن تم صدم أحد أعضاء مجموعتنا بشكل متكرر من قبل نادلة، أدى الطلب المهذب بعدم صدمه إلى إرسال نادلة إلى خطاب مسيء.",
+    "aspect": "نادلة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– يحتوي Ray's (بشكل مدهش) على أفضل وأكثر أنواع النبيذ تنوعًا في المدينة قائمة النبيذ.",
+    "aspect": "قائمة النبيذ",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ربما لن أعود لأنني لا أعرف إذا كان الأمر يستحق ذلك.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "رقائق البطاطس والصلصة لذيذة جدًا، والأسعار رائعة.",
+    "aspect": "رقائق البطاطس والصلصة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رقائق البطاطس والصلصة لذيذة جدًا، والأسعار رائعة.",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الساقي رائع، واقعي، وذو معرفة واسعة للغاية.",
+    "aspect": "الساقي",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الساقي رائع، واقعي، وذو معرفة واسعة للغاية.",
+    "aspect": "الساقي",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كبير سميك بيبروني",
+    "aspect": "بيبروني",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا يستحق الأمر الذهاب إلى هناك وإنفاق أموالك هناك على الإطلاق !!!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "مبالغ في سعره بشكل مهين",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الأجواء الداخلية كانت حديثة.",
+    "aspect": "الأجواء الداخلية",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا تذهب!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "حتى يحدث هذا، نصيحتي هي البقاء بعيدًا.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أوه لقد نسيت أن أذكر أنهم لا يقدمون خدمة الخبز.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أنها ليست دهنية أو أي شيء.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الموسيقى رائعة، لا توجد ليلة أفضل أو أسوأ، عمال البار سخيون في السكب، والجو الخفيف سيرفع معنوياتك.",
+    "aspect": "الموسيقى",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الموسيقى رائعة، لا توجد ليلة أفضل أو أسوأ، عمال البار سخيون في السكب، والجو الخفيف سيرفع معنوياتك.",
+    "aspect": "عمال البار",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الموسيقى رائعة، لا توجد ليلة أفضل أو أسوأ، عمال البار سخيون في السكب، والجو الخفيف سيرفع معنوياتك.",
+    "aspect": "الجو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لطيف الأجواء، ولكن مبالغ في تقديره إلى حد كبير المكان.",
+    "aspect": "الأجواء",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لطيف الأجواء، ولكن مبالغ في تقديره إلى حد كبير المكان.",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "السوشي هنا لذيذ!",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– يسعدني للغاية أن أبلغكم أن عشائي في Ray's Boathouse يوم الجمعة الماضي قد تجاوز توقعاتي تمامًا.",
+    "aspect": "NULL",
+    "category": "NULL",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "العشاء كان دائمًا ممتازًا من حيث جودة الطعام.",
+    "aspect": "العشاء",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "تطبيقاتهم كلها لذيذة .",
+    "aspect": "تطبيقاتهم",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الشريط الأزرق يرقى إلى سمعته الرائعة.",
+    "aspect": "الشريط الأزرق",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "شعرت بالارتباك وفي المرة التالية ذهبت إلى حمام الكازينو.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- قررت تناول الطعام في Stack بسبب سعر ثابت للعشاء قبل العرض.",
+    "aspect": "سعر ثابت للعشاء قبل العرض",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لقد أخذت والدي إلى هنا للاحتفال بذكرى زواجهما - لقد خاب أملي حقًا !!!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لا يهزم السوشي!",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لبدء الأمور، كان خادمنا اللطيف بروك متاحًا بسرعة لتلقي طلبي للمشروب.",
+    "aspect": "بروك",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في كل مرة يتم استدعاء `` 0-sixtynine `` يشتري الساقي للجميع المشروبات!",
+    "aspect": "الساقي",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "متعة لا نهاية لها، رائعة الموسيقى، عظيمة الموظفين! ! !",
+    "aspect": "الموسيقى",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "متعة لا نهاية لها، رائعة الموسيقى، عظيمة الموظفين! ! !",
+    "aspect": "الموظفين",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "متعة لا نهاية لها، رائعة الموسيقى، عظيمة الموظفين! ! !",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "معرض اختيار القائمة .",
+    "aspect": "اختيار القائمة",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جلس طفلان شقيان بالقرب منا في الجزء الأول من عشائنا ... وتم استبدالهما بفتاة مراهقة لطيفة كانت تتظاهر بالغثيان في كل مرة يتم فيها ذكر المأكولات البحرية على طاولتها.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "رفضته لأنه أثناء محاولتي إصلاح البيض كسروا شيئًا آخر في (الطبق) وكنت محبطًا جدًا بحيث لم أتمكن من الاستمرار.",
+    "aspect": "الطبق",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان لدينا العديد من الأطباق ولكن الأفضل كان جراد البحر بثلاث طرق.",
+    "aspect": "جراد البحر بثلاث طرق",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت المقبلات مثيرة للاهتمام، ولكن الكريم بروليه كانت لذيذة للغاية.",
+    "aspect": "المقبلات",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت المقبلات مثيرة للاهتمام، ولكن الكريم بروليه كانت لذيذة للغاية.",
+    "aspect": "الكريم بروليه",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت المقبلات مثيرة للاهتمام، ولكن الكريم بروليه كانت لذيذة للغاية.",
+    "aspect": "الكريم بروليه",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الديكور جميلًا وفريدًا من نوعه.",
+    "aspect": "الديكور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه طازج، مرحِّب، لذيذ، ومريح.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنه طازج، مرحِّب، لذيذ، ومريح.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنه طازج، مرحِّب، لذيذ، ومريح.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنه طازج، مرحِّب، لذيذ، ومريح.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "مُدمن!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "حتى الحمص، الذي أجد عادة أنه جاف للغاية، كان جيدًا.",
+    "aspect": "الحمص",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "هذا المكان الصخور !!",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنها مجاملة كبيرة، خاصة في مجال المطاعم المتقلب،... كفى بالفعل!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "بعد الجلوس هناك مع كوبي الفارغ لأكثر من 20 دقيقة غادرت.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "تأكد من تجربة رول المحار.",
+    "aspect": "رول المحار",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنا مندهش من أن هذا مطعم يصنف على أنه $ $ $ وليس $ $ $ $.",
+    "aspect": "مطعم",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد كان لائقًا ولكن ليس استثنائيًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الخدمة كانت بطيئة نوعًا ما، استغرقت النادلة وقتًا طويلاً لتعطينا فاتورتنا على الرغم من أنها لم تكن مشغولة للغاية.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الخدمة كانت بطيئة نوعًا ما، استغرقت النادلة وقتًا طويلاً لتعطينا فاتورتنا على الرغم من أنها لم تكن مشغولة للغاية.",
+    "aspect": "النادلة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- رائع مشروبات، هاش لحم البقر بالذرة، قهوة، ب بوريتوس سريع، خالٍ من الجلوتين قائمة الطعام.",
+    "aspect": "مشروبات",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- رائع مشروبات، هاش لحم البقر بالذرة، قهوة، ب بوريتوس سريع، خالٍ من الجلوتين قائمة الطعام.",
+    "aspect": "هاش لحم البقر بالذرة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- رائع مشروبات، هاش لحم البقر بالذرة، قهوة، ب بوريتوس سريع، خالٍ من الجلوتين قائمة الطعام.",
+    "aspect": "قهوة",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- رائع مشروبات، هاش لحم البقر بالذرة، قهوة، ب بوريتوس سريع، خالٍ من الجلوتين قائمة الطعام.",
+    "aspect": "ب بوريتوس سريع",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- رائع مشروبات، هاش لحم البقر بالذرة، قهوة، ب بوريتوس سريع، خالٍ من الجلوتين قائمة الطعام.",
+    "aspect": "قائمة الطعام",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قائمة الغداء صفقة رائعة!",
+    "aspect": "قائمة الغداء",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "استغرق الأمر وقتًا طويلاً حتى تم قبول طلبنا، وكانت إعادة تعبئة المياه أكثر مما نطلبه، والوقت الوحيد الذي كانت سريعة فيه كان عندما طلبنا فاتورتنا عندما تمكنا من الحصول على اهتمامها.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كان النادل غير ودود بعض الشيء وكان الشعور بالمطعم مزدحمًا.",
+    "aspect": "النادل",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان النادل غير ودود بعض الشيء وكان الشعور بالمطعم مزدحمًا.",
+    "aspect": "الشعور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لقد حظيت مؤخرًا بمتعة تناول الطعام في هذا المطعم الرائع مطعم في شارع الثاني ويا له من أمسية رائعة قضيناها.",
+    "aspect": "مطعم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "التخصص هنا هو الفاسد الفطائر، ولكنني عدت الآن أربع مرات، وكنت منبهرًا في كل مرة.",
+    "aspect": "الفطائر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- رخيص جدًا للجلوس والطعام المكسيكي ووسط المدينة.",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- رخيص جدًا للجلوس والطعام المكسيكي ووسط المدينة.",
+    "aspect": "NULL",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "مقبلات من المحار، جراد البحر، سرطان البحر (حجم صغير) كانت وجبة رئيسية مثالية لزوجتي.",
+    "aspect": "مقبلات من المحار، جراد البحر، سرطان البحر (حجم صغير",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد اكتشفت للتو أنه يمكنك الحصول على مكان لنفسك في الليل وفي عطلات نهاية الأسبوع لحفلة خاصة - لا أستطيع الانتظار للاحتفال بعيد ميلادي القادم هناك.",
+    "aspect": "مكان",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- كما هو الحال مع معظم المطاعم في سياتل، كان مطعم Mioposto الخدمة سيئًا وكان الطعام باهظ الثمن.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- كما هو الحال مع معظم المطاعم في سياتل، كان مطعم Mioposto الخدمة سيئًا وكان الطعام باهظ الثمن.",
+    "aspect": "الطعام",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يمكنك سماعه بسهولة على الرغم من أنه كان صوتًا لطيفًا وغير متسلط.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "يمكنك سماعه بسهولة على الرغم من أنه كان صوتًا لطيفًا وغير متسلط.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "فقط اذهب إلى هناك وشاهد بنفسك .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنه مكان صغير رائع مكان به الكثير من الإمكانات ليكون مكانًا للجيران إذا لم تكن الخدمة غير شخصية وتشبه الشركات.",
+    "aspect": "مكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه مكان صغير رائع مكان به الكثير من الإمكانات ليكون مكانًا للجيران إذا لم تكن الخدمة غير شخصية وتشبه الشركات.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه مكان صغير رائع مكان به الكثير من الإمكانات ليكون مكانًا للجيران إذا لم تكن الخدمة غير شخصية وتشبه الشركات.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "وجبة برانش في مورفي هي وجبة لذيذة للغاية، تخصصي ... عجة بياض البيض، الطعام يتم تحضيره دائمًا طازجًا.",
+    "aspect": "وجبة برانش",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "وجبة برانش في مورفي هي وجبة لذيذة للغاية، تخصصي ... عجة بياض البيض، الطعام يتم تحضيره دائمًا طازجًا.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "وجبة برانش في مورفي هي وجبة لذيذة للغاية، تخصصي ... عجة بياض البيض، الطعام يتم تحضيره دائمًا طازجًا.",
+    "aspect": "عجة بياض البيض",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ماما ميا - أعيش في الحي وأشعر بالسعادة لأنني أعيش بجوار مثل هذا المكان الرائع مطعم بيتزا.",
+    "aspect": "مطعم بيتزا",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- مخفية بالقرب من مركز بيفرلي.",
+    "aspect": "NULL",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الموظفين ودودون جدًا.",
+    "aspect": "الموظفين",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "وكانت الخدمة ببساطة رائعة - ممتعة للغاية.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "حسنًا... - ربما دخلت في يوم سيء لشخص ما...",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد تناولت قنديل البحر، الماكريل الحصاني، سمك التونة ذو الزعانف الزرقاء ولفائف ساكي إيكورا وغيرها، وكانت جميعها جيدة.",
+    "aspect": "قنديل البحر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تناولت قنديل البحر، الماكريل الحصاني، سمك التونة ذو الزعانف الزرقاء ولفائف ساكي إيكورا وغيرها، وكانت جميعها جيدة.",
+    "aspect": "الماكريل الحصاني",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تناولت قنديل البحر، الماكريل الحصاني، سمك التونة ذو الزعانف الزرقاء ولفائف ساكي إيكورا وغيرها، وكانت جميعها جيدة.",
+    "aspect": "سمك التونة ذو الزعانف الزرقاء",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تناولت قنديل البحر، الماكريل الحصاني، سمك التونة ذو الزعانف الزرقاء ولفائف ساكي إيكورا وغيرها، وكانت جميعها جيدة.",
+    "aspect": "لفائف ساكي إيكورا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ماذا يمكنك أن تقول أيضًا لطيف الناس مذهل الطعام رائع",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ماذا يمكنك أن تقول أيضًا لطيف الناس مذهل الطعام رائع",
+    "aspect": "الناس",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "دائما جيدة .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "شعرت بجفاف شديد في فمي بعد ذلك وظل ذلك المذاق المميز \"غلوتامات أحادية الصوديوم\" باقيًا في حلقي بعد أن غادرت المطعم.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أوه نعم ... المنظر كان جيدًا أيضًا.",
+    "aspect": "المنظر",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قاطعتنا المديرة باستمرار قائلة: \"هل هناك أي شيء آخر يمكنني فعله من أجلك؟\"، وهو تعليق غريب لأنها لم تستمع تقريبًا، ناهيك عن الاستجابة لتعبيرنا عن خيبة أملنا في تجربتنا.",
+    "aspect": "المديرة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "تتراوح الخدمة  من المتوسطة إلى الهجومية.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "طازج المكونات ولذيذ للغاية.",
+    "aspect": "المكونات",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "طازج المكونات ولذيذ للغاية.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أجواء المطعم كانت جميلة وجيدة لتناول الطعام الفاخر.",
+    "aspect": "أجواء",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "والـ الطابق العلوي هو مكان رائع للتسكع.",
+    "aspect": "الطابق العلوي",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- ليس سيئًا .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كان عندي طبق كفتة وكان مثاليًا.",
+    "aspect": "طبق كفتة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– هذا المكان مشهور بـ وجبة الإفطار .",
+    "aspect": "وجبة الإفطار",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "انتظرت 35 دقيقة للحصول على طاولة لـ 8 أشخاص وهو أمر جيد لمثل هذا الحشد الكبير.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كان جميع الموظفين الموظفين متعاونين للغاية واهتموا بكل احتياجاتي.",
+    "aspect": "الموظفين",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان المكان لطيفًا حقًا أجواء ... جيد موسيقى، جو ومظهر سعيد أشخاص.",
+    "aspect": "موسيقى",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان المكان لطيفًا حقًا أجواء ... جيد موسيقى، جو ومظهر سعيد أشخاص.",
+    "aspect": "جو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان المكان لطيفًا حقًا أجواء ... جيد موسيقى، جو ومظهر سعيد أشخاص.",
+    "aspect": "أجواء",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان المكان لطيفًا حقًا أجواء ... جيد موسيقى، جو ومظهر سعيد أشخاص.",
+    "aspect": "أشخاص",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جرب اختيار الشيف للسوشي حيث كان سمك القد المدخن رائعًا وكان اللفائف لذيذًا أيضًا.",
+    "aspect": "اللفائف",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جرب اختيار الشيف للسوشي حيث كان سمك القد المدخن رائعًا وكان اللفائف لذيذًا أيضًا.",
+    "aspect": "سمك القد المدخن",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جرب اختيار الشيف للسوشي حيث كان سمك القد المدخن رائعًا وكان اللفائف لذيذًا أيضًا.",
+    "aspect": "اختيار الشيف للسوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "السوشي طازج للغاية؟ قد تعتقد أن المحيط كان في حديقتهم الخلفية، لا مزاح!",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام كان جيدًا، مع بعض الصلصة اللذيذة أكثر من المعتاد الصلصة.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام كان جيدًا، مع بعض الصلصة اللذيذة أكثر من المعتاد الصلصة.",
+    "aspect": "الصلصة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بالنسبة لآكلي السوشي المتطلبين وأولئك الذين تذوقوا أفضل ما تقدمه مدينة نيويورك، فإن الأسماك هي الأحدث والخدمة رائعة.",
+    "aspect": "الأسماك",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بالنسبة لآكلي السوشي المتطلبين وأولئك الذين تذوقوا أفضل ما تقدمه مدينة نيويورك، فإن الأسماك هي الأحدث والخدمة رائعة.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قديم موثوق",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "واحد من أفضل مكان السوشي في المدينة.",
+    "aspect": "مكان السوشي",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام جيد ولكنه باهظ الثمن بعض الشيء مقابل ما تحصل عليه مع الأخذ في الاعتبار أن المطعم ليس مكانًا فاخرًا.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام جيد ولكنه باهظ الثمن بعض الشيء مقابل ما تحصل عليه مع الأخذ في الاعتبار أن المطعم ليس مكانًا فاخرًا.",
+    "aspect": "المطعم",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام جيد ولكنه باهظ الثمن بعض الشيء مقابل ما تحصل عليه مع الأخذ في الاعتبار أن المطعم ليس مكانًا فاخرًا.",
+    "aspect": "المطعم",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- أحب البيتزا، وخاصة بيتزا الفطر.",
+    "aspect": "البيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- أحب البيتزا، وخاصة بيتزا الفطر.",
+    "aspect": "بيتزا الفطر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد جاءوا في صندوق خاص بهم مع بعض الصقيع محلي الصنع ؛ خفيف جدًا وغير حلو جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد جاءوا في صندوق خاص بهم مع بعض الصقيع محلي الصنع ؛ خفيف جدًا وغير حلو جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "استمتعت بـ الطعام",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد ذهبت إلى هذا المطعم أكثر من اثنتي عشرة مرة دون أي شكاوى حتى الآن.",
+    "aspect": "المطعم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أفضل أن أطلبه وأستلمه على الرغم من أنني لا أحب الخوادم، واحدة الشابة على وجه الخصوص.",
+    "aspect": "الخوادم",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أفضل أن أطلبه وأستلمه على الرغم من أنني لا أحب الخوادم، واحدة الشابة على وجه الخصوص.",
+    "aspect": "الشابة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "اكتشاف رائع",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لم يكن طازجًا مأكولات بحرية على الإطلاق، لكن الطعم والتقديم كانا جيدين.",
+    "aspect": "مأكولات بحرية",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لم يكن طازجًا مأكولات بحرية على الإطلاق، لكن الطعم والتقديم كانا جيدين.",
+    "aspect": "مأكولات بحرية",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لم يكن طازجًا مأكولات بحرية على الإطلاق، لكن الطعم والتقديم كانا جيدين.",
+    "aspect": "مأكولات بحرية",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ومع ذلك، فإن القيمة والخدمة كلاهما ناقصان بشدة.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ومع ذلك، فإن القيمة والخدمة كلاهما ناقصان بشدة.",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "في جرامرسي/يونيون سكوير/إيست فيليج هذا هو جيراني ومكاني المفضل مكان.",
+    "aspect": "مكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جانب البطاطس لذيذ للغاية، كما هو الحال مع اللبنة (صلصة الزبادي).",
+    "aspect": "جانب البطاطس",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جانب البطاطس لذيذ للغاية، كما هو الحال مع اللبنة (صلصة الزبادي).",
+    "aspect": "اللبنة (صلصة الزبادي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مدهش .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "يا لها من وجبة لذيذة ومتقشرة!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "يا لها من وجبة لذيذة ومتقشرة!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "رائع الطعام، أفضل مارغريتا!",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع الطعام، أفضل مارغريتا!",
+    "aspect": "مارغريتا",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الخدمة هي حقا منتبهة وساحرة.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الأهم من ذلك كله أننا كنا متحمسين للغاية للطعام بعد رؤية القائمة الإبداعية للغاية.",
+    "aspect": "القائمة",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مكان مريح مكان لشخصين",
+    "aspect": "مكان",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "وأفضل شيء هو أن الأسعار معقولة جدًا أيضًا.",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد وعدت بالتحدث إلى النادلة التي هربت غاضبة، لكننا لم نستطع أن نأخذ وعدها على محمل الجد، حيث أنها لم تهتم بالحصول على اسم النادلة.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "تشانا ماسالا (حبوب الحمص) ممتازة أيضًا.",
+    "aspect": "تشانا ماسالا (حبوب الحمص",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد شهد هذا المنشأة تراجعًا ملحوظًا بعد (وهذه قصة متكررة) بث برنامج FOOD TELEVISIONS `` DINERS , DRIVE-INS , AND DIVES `` الذي استضافه جاي فييري، والذي كان Schooner or Later موضوعًا له.",
+    "aspect": "المنشأة",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنا أحب سرطان البحر دونجينيس وفي راي يمكنك الحصول عليها مقدمة في حوالي 6 طرق مختلفة!",
+    "aspect": "سرطان البحر دونجينيس",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام كان جيدًا وشهيًا.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد كان مذهلاً تمامًا.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "هذا مكان رائع للحصول على وجبة لذيذة وجبة.",
+    "aspect": "وجبة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بالإضافة إلى ذلك، أنا مصاب بحساسية من الأرز، وكان طاقم الخدمة متعاونًا بشكل لا يصدق - ولم يرف له جفن حتى!",
+    "aspect": "طاقم الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لقد شعرت بخيبة أمل كبيرة في الطعام في باجودا.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "باهظ الثمن",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنه أمر محزن لما كان في يوم من الأيام أحد أفضل الأماكن التي يمكنك تناول الطعام فيها على الإطلاق.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "بمجرد دخولك، تبدأ التجربة الحقيقية.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "واقترح النادل ساكيه مثالي !!",
+    "aspect": "ساكيه",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المالك عدواني تجاه الضيوف الذين لديهم شكوى.",
+    "aspect": "المالك",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كل ما تريد وأكثر، طازج جدًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كل ما تريد وأكثر، طازج جدًا.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "استمتع صديقي بـ سمك السلمون الملكي الألاسكي المشوي مع بطاطس واشنطن الكريمية اللذيذة و الفاصوليا الخضراء المقرمشة.",
+    "aspect": "سمك السلمون الملكي الألاسكي المشوي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "استمتع صديقي بـ سمك السلمون الملكي الألاسكي المشوي مع بطاطس واشنطن الكريمية اللذيذة و الفاصوليا الخضراء المقرمشة.",
+    "aspect": "بطاطس واشنطن الكريمية",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "استمتع صديقي بـ سمك السلمون الملكي الألاسكي المشوي مع بطاطس واشنطن الكريمية اللذيذة و الفاصوليا الخضراء المقرمشة.",
+    "aspect": "الفاصوليا الخضراء",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام كان جيدًا جدًا، شرائح اللحم البقري كان على الأرجح الأفضل الذي جربته على الإطلاق.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام كان جيدًا جدًا، شرائح اللحم البقري كان على الأرجح الأفضل الذي جربته على الإطلاق.",
+    "aspect": "شرائح اللحم البقري",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- مطعم مرسيدس لذيذ للغاية، الخدمة لا يمكن إنكارها رائعة!",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- مطعم مرسيدس لذيذ للغاية، الخدمة لا يمكن إنكارها رائعة!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أستطيع أن أوصي بشدة بمنتجاتهم المتنوعة ساج و بانير و كورما.",
+    "aspect": "ساج",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أستطيع أن أوصي بشدة بمنتجاتهم المتنوعة ساج و بانير و كورما.",
+    "aspect": "بانير",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أستطيع أن أوصي بشدة بمنتجاتهم المتنوعة ساج و بانير و كورما.",
+    "aspect": "كورما",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام رائع ويقدمون ماري الدموية بشكل رائع.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام رائع ويقدمون ماري الدموية بشكل رائع.",
+    "aspect": "ماري الدموية",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لطيف طعام ولكن بدون بهارات!",
+    "aspect": "طعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لطيف طعام ولكن بدون بهارات!",
+    "aspect": "طعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "من المزايا الإضافية هي الشعور المفتوح  للمطعم مع جدران زجاجية على جميع الجوانب.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "من المزايا الإضافية هي الشعور المفتوح  للمطعم مع جدران زجاجية على جميع الجوانب.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "يم!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الحمام نفسه صغير جدًا ويحتوي على مرحاضين ومغسلة واحدة فقط، وكانت الفتاة تبقى في الطريق تمامًا وهي تعلق المناشف الورقية من الموزع.",
+    "aspect": "الحمام",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أحب الانتشيلادا و حساء الدجاج - وتأكد من إلقاء نظرة على العروض الخاصة.",
+    "aspect": "الانتشيلادا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أحب الانتشيلادا و حساء الدجاج - وتأكد من إلقاء نظرة على العروض الخاصة.",
+    "aspect": "حساء الدجاج",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أحب الانتشيلادا و حساء الدجاج - وتأكد من إلقاء نظرة على العروض الخاصة.",
+    "aspect": "العروض الخاصة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام لا ينسى على الإطلاق!",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ينبغي على الإدارة أن تنتبه حقًا وتدرب طاقم الخدمة وتعلمهم بعض الأخلاق الصحيحة.",
+    "aspect": "طاقم الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الموظفين ودودون و الديكور كان أخلاقيًا وملونًا.",
+    "aspect": "الموظفين",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الموظفين ودودون و الديكور كان أخلاقيًا وملونًا.",
+    "aspect": "الديكور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الموظفين ودودون و الديكور كان أخلاقيًا وملونًا.",
+    "aspect": "الديكور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أفضل تشوام موشي تناولته على الإطلاق.",
+    "aspect": "تشوام موشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أجزاء كانت كافية بالنسبة لي، ولكن قد لا تكون مناسبة للأشخاص الذين يتناولون كميات كبيرة من الطعام.",
+    "aspect": "أجزاء",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جرب بيتزا إنسالاتا!",
+    "aspect": "بيتزا إنسالاتا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا أزال أوصي بهذا المكان.",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– السوشي هنا جيد تمامًا، ولكن مقابل 5 دولارات للقطعة، يجب أن تكون شرائح السمك أكبر، أو لا ينبغي أن يكون هناك أي تظاهر بأن هذا مطعم مطعم ذو أسعار معتدلة (حتى بالنسبة لمدينة نيويورك).",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– السوشي هنا جيد تمامًا، ولكن مقابل 5 دولارات للقطعة، يجب أن تكون شرائح السمك أكبر، أو لا ينبغي أن يكون هناك أي تظاهر بأن هذا مطعم مطعم ذو أسعار معتدلة (حتى بالنسبة لمدينة نيويورك).",
+    "aspect": "مطعم",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– السوشي هنا جيد تمامًا، ولكن مقابل 5 دولارات للقطعة، يجب أن تكون شرائح السمك أكبر، أو لا ينبغي أن يكون هناك أي تظاهر بأن هذا مطعم مطعم ذو أسعار معتدلة (حتى بالنسبة لمدينة نيويورك).",
+    "aspect": "السوشي",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– السوشي هنا جيد تمامًا، ولكن مقابل 5 دولارات للقطعة، يجب أن تكون شرائح السمك أكبر، أو لا ينبغي أن يكون هناك أي تظاهر بأن هذا مطعم مطعم ذو أسعار معتدلة (حتى بالنسبة لمدينة نيويورك).",
+    "aspect": "السوشي",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "من المؤكد أنك ستقضي وقتًا ساحرًا للغاية.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد عدنا منذ ذلك الحين وكانت لدينا أيضًا تجربة رائعة، حيث قمنا بتذوق المزيد من الأطباق الصغيرة ومجموعة متنوعة من البيرة (الباردة والجيدة).",
+    "aspect": "البيرة",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد عدنا منذ ذلك الحين وكانت لدينا أيضًا تجربة رائعة، حيث قمنا بتذوق المزيد من الأطباق الصغيرة ومجموعة متنوعة من البيرة (الباردة والجيدة).",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الأفضل السوشي في المدينة.",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الموظفون لطيفين للغاية ومهذبين ومن الواضح أنهم صينيون.",
+    "aspect": "الموظفون",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الموظفون لطيفين للغاية ومهذبين ومن الواضح أنهم صينيون.",
+    "aspect": "الموظفون",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد طلبنا مجموعة مختارة من الأطباق الصغيرة، وبصل صغير، بيتزا جبن الماعز، هليون مشوي وجبن بري مقلي مع الفاكهة كانت جميعها جيدة جدًا.",
+    "aspect": "بصل صغير",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد طلبنا مجموعة مختارة من الأطباق الصغيرة، وبصل صغير، بيتزا جبن الماعز، هليون مشوي وجبن بري مقلي مع الفاكهة كانت جميعها جيدة جدًا.",
+    "aspect": "بيتزا جبن الماعز",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد طلبنا مجموعة مختارة من الأطباق الصغيرة، وبصل صغير، بيتزا جبن الماعز، هليون مشوي وجبن بري مقلي مع الفاكهة كانت جميعها جيدة جدًا.",
+    "aspect": "هليون مشوي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد طلبنا مجموعة مختارة من الأطباق الصغيرة، وبصل صغير، بيتزا جبن الماعز، هليون مشوي وجبن بري مقلي مع الفاكهة كانت جميعها جيدة جدًا.",
+    "aspect": "جبن بري مقلي مع الفاكهة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عمل جيد!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "ومع ذلك، أدركت شيئًا واحدًا لاحقًا وهو أن المطعم استخدم إما الجلوتامات أحادية الصوديوم (MSG) أو مطري اللحوم على شريحة لحم.",
+    "aspect": "شريحة لحم",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع مجموعة مختارة من الساكي .",
+    "aspect": "مجموعة مختارة من الساكي",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "شكرا لهؤلاء الرجال .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "ما لم تكن تتوقف فقط لتناول بعض المشروبات، فلن أوصي بالذهاب إلى هنا.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "عظيمة زجاجة نبيذ .",
+    "aspect": "زجاجة نبيذ",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "طبق السمسم المفتوح هو صفقة جيدة مقابل كمية الطعام المقدمة.",
+    "aspect": "طبق السمسم المفتوح",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "طبق السمسم المفتوح هو صفقة جيدة مقابل كمية الطعام المقدمة.",
+    "aspect": "طبق السمسم المفتوح",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مبالغ في تقييمه كثيرًا! ! ! !",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "يستحق الانتظار",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لا يمكن أن يكون أفضل من ذلك .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أفضل روبيان العسل والنيت الذي تذوقناه جميعًا.",
+    "aspect": "روبيان العسل والنيت",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تم عرضهم على شبكة الغذاء وهم يستحقون ذلك.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أنا أحب البيئة الدافئة والمريحة البيئة.",
+    "aspect": "البيئة",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "موقف متغطرس",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الجو طموح و الديكور احتفالي ومذهل ...",
+    "aspect": "الجو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الجو طموح و الديكور احتفالي ومذهل ...",
+    "aspect": "الديكور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الجو طموح و الديكور احتفالي ومذهل ...",
+    "aspect": "الديكور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لفائفهم المتخصصة مثيرة للإعجاب، على الرغم من أنني لا أستطيع أن أتذكر ما كان لدينا.",
+    "aspect": "لفائفهم المتخصصة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لقد أحببت رافيولي اليقطين و نيودلهي جبن الماعز (5 نيودلهي كبيرة في طبق بدلاً من 20 نيودلهي صغيرة) وأعجبت أختي شرائح لحم بقري فوق السبانخ والبطاطس المهروسة.",
+    "aspect": "رافيولي اليقطين",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لقد أحببت رافيولي اليقطين و نيودلهي جبن الماعز (5 نيودلهي كبيرة في طبق بدلاً من 20 نيودلهي صغيرة) وأعجبت أختي شرائح لحم بقري فوق السبانخ والبطاطس المهروسة.",
+    "aspect": "نيودلهي جبن الماعز",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لقد أحببت رافيولي اليقطين و نيودلهي جبن الماعز (5 نيودلهي كبيرة في طبق بدلاً من 20 نيودلهي صغيرة) وأعجبت أختي شرائح لحم بقري فوق السبانخ والبطاطس المهروسة.",
+    "aspect": "نيودلهي جبن الماعز",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لقد أحببت رافيولي اليقطين و نيودلهي جبن الماعز (5 نيودلهي كبيرة في طبق بدلاً من 20 نيودلهي صغيرة) وأعجبت أختي شرائح لحم بقري فوق السبانخ والبطاطس المهروسة.",
+    "aspect": "شرائح لحم بقري فوق السبانخ والبطاطس المهروسة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ليست الأكبر أجزاء ولكنها كافية.",
+    "aspect": "أجزاء",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "اذهب مع بعض الأصدقاء، وانتظر لمدة نصف ساعة أو نحو ذلك مع كوب من القهوة، واستمتع بأكثر من المتوسط وجبة الإفطار.",
+    "aspect": "وجبة الإفطار",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "اذهب مع بعض الأصدقاء، وانتظر لمدة نصف ساعة أو نحو ذلك مع كوب من القهوة، واستمتع بأكثر من المتوسط وجبة الإفطار.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "رائعة خدمة .",
+    "aspect": "خدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ثم تم محاسبتنا على أغلى أنواع الساكي (أكثر من 20 دولارًا لكل وجبة) بينما شربنا في الواقع ساكيًا بسعر أقل من نصف هذا السعر.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لذيذ",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كاري الدجاج و دجاج تيكا ماسالا هما أطباق اللحوم المفضلة لدي.",
+    "aspect": "كاري الدجاج",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كاري الدجاج و دجاج تيكا ماسالا هما أطباق اللحوم المفضلة لدي.",
+    "aspect": "دجاج تيكا ماسالا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الأفضل مطعم في العالم، رائع ديكور، رائع خدمة العملاء، ودود مدير",
+    "aspect": "مطعم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الأفضل مطعم في العالم، رائع ديكور، رائع خدمة العملاء، ودود مدير",
+    "aspect": "ديكور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الأفضل مطعم في العالم، رائع ديكور، رائع خدمة العملاء، ودود مدير",
+    "aspect": "خدمة العملاء",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الأفضل مطعم في العالم، رائع ديكور، رائع خدمة العملاء، ودود مدير",
+    "aspect": "مدير",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المشروبات كانت جيدة.",
+    "aspect": "المشروبات",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان عرض الطعام بمثابة مكافأة إضافية، حيث كان يبدو رائعًا تمامًا مثل مذاقه!",
+    "aspect": "الطعام",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان عرض الطعام بمثابة مكافأة إضافية، حيث كان يبدو رائعًا تمامًا مثل مذاقه!",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "حتى ذلك الحين، لم يكن الطلب صحيحا ومازلنا ننتظر بعض العناصر.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- لقد تم التعامل معنا بوقاحة شديدة هنا في إحدى المرات لتناول الإفطار.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "رائع الطعام، مذهل الموقع، وودود الخدمة يجعلنا نعود عامًا بعد عام.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع الطعام، مذهل الموقع، وودود الخدمة يجعلنا نعود عامًا بعد عام.",
+    "aspect": "الموقع",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع الطعام، مذهل الموقع، وودود الخدمة يجعلنا نعود عامًا بعد عام.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع ! ! ! ! ! ! ! !",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- وفر على نفسك إضاعة الوقت ولا تقم بالزيارة.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الطعام كان جيدًا ورخيصًا.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام كان جيدًا ورخيصًا.",
+    "aspect": "الطعام",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ممم... جيد!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنه أمر رائع إذا قضيت اليوم هناك ولم ترغب في القيادة لتناول الطعام.",
+    "aspect": "NULL",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "بعد النظر في كل شيء، يجب أن أقول أن Ray's Boathouse يستحق لقب مؤسسة سياتل.",
+    "aspect": "NULL",
+    "category": "NULL",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "قيمة رائعة سوشي بجودة عالية ولطيفة إعداد.",
+    "aspect": "سوشي",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قيمة رائعة سوشي بجودة عالية ولطيفة إعداد.",
+    "aspect": "سوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قيمة رائعة سوشي بجودة عالية ولطيفة إعداد.",
+    "aspect": "إعداد",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد كان الأمر كثيرًا لدرجة أنني بالكاد تمكنت من إنهاءه ولكنني فعلت ذلك لأنه كان لذيذًا.",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد كان الأمر كثيرًا لدرجة أنني بالكاد تمكنت من إنهاءه ولكنني فعلت ذلك لأنه كان لذيذًا.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "انا احب هذا مطعم",
+    "aspect": "مطعم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا ينصح به !!!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "وقفنا هناك لمدة 10 دقائق بينما كان الموظفين يتجولون ذهابًا وإيابًا متجاهليننا.",
+    "aspect": "الموظفين",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد اتفقنا أنا وصديقتي على أن الطعام كان متوسطًا جدًا خاصة بالنظر إلى السعر.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد اتفقنا أنا وصديقتي على أن الطعام كان متوسطًا جدًا خاصة بالنظر إلى السعر.",
+    "aspect": "الطعام",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- الطعام الموجود هنا لا يصدق، على الرغم من أن الجودة غير متسقة أثناء الغداء.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- الطعام الموجود هنا لا يصدق، على الرغم من أن الجودة غير متسقة أثناء الغداء.",
+    "aspect": "الغداء",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ليس لدي شيء سيئ لأقوله عن هذا المكان .",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المشكلة الوحيدة هي أنه يتعين عليك حقًا تسخين البيتزا قبل أن تصبح صالحة للأكل، حتى عندما تطلبها مسبقًا.",
+    "aspect": "البيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- هذا هو \"المطعم الذي يجب أن أحضره لضيوفي من خارج المدينة\" المطعم وهم يستمتعون به دائمًا ويثنون عليه.",
+    "aspect": "المطعم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تناولت طبق كفتة واستمتعت به.",
+    "aspect": "طبق كفتة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد كان واضحا أنه لا يهتم حقًا.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "سلطة سيزر التي طلبتها كانت تحتوي على الكثير من الليمون ولم أستطع تناولها.",
+    "aspect": "سلطة سيزر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "واصل الخادم انتباهه طوال الليل، ولكنني ظللت حائرًا بشأن قضية واحدة: من يعتقد أن راي هو مكان مناسب لأخذ الأطفال الصغار لتناول العشاء؟",
+    "aspect": "الخادم",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "واصل الخادم انتباهه طوال الليل، ولكنني ظللت حائرًا بشأن قضية واحدة: من يعتقد أن راي هو مكان مناسب لأخذ الأطفال الصغار لتناول العشاء؟",
+    "aspect": "راي",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جيد طعام، رائع خدمة، أسعار متوسطة (بالنسبة للمنطقة)",
+    "aspect": "طعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جيد طعام، رائع خدمة، أسعار متوسطة (بالنسبة للمنطقة)",
+    "aspect": "خدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جيد طعام، رائع خدمة، أسعار متوسطة (بالنسبة للمنطقة)",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الساعة 6 مساءً يوم السبت قبل مسرحية برودواي وتم إجلاسنا بسرعة وتقديم الخدمة لنا.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنهم يهتمون كثيرًا بكل شيء من حساء ميسو إلى المعقد اللفائف.",
+    "aspect": "حساء ميسو",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنهم يهتمون كثيرًا بكل شيء من حساء ميسو إلى المعقد اللفائف.",
+    "aspect": "اللفائف",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "6 دولار مع الإكرامية.",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الجو كان رائعا.",
+    "aspect": "الجو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بعبارة أخرى، إذا لم يكونوا يكسبون أموالاً منك، فلن تحصل على تقييم مرتفع على مقياس \"الخدمة\" الخاص بهم.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– لقد استمتعت حقًا بـ وجبة هنا.",
+    "aspect": "وجبة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت الموسيقى التشغيل عصرية للغاية، من نوع موسيقى البوب (الموسيقى) التي تعود إلى عشرينيات أو ثلاثينيات القرن العشرين، ولكن مكبر الصوت الفرعي لنظام الصوت كان موجودًا أسفل مقعدي، الأمر الذي أصبح مزعجًا في منتصف العشاء.",
+    "aspect": "التشغيل",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت الموسيقى التشغيل عصرية للغاية، من نوع موسيقى البوب (الموسيقى) التي تعود إلى عشرينيات أو ثلاثينيات القرن العشرين، ولكن مكبر الصوت الفرعي لنظام الصوت كان موجودًا أسفل مقعدي، الأمر الذي أصبح مزعجًا في منتصف العشاء.",
+    "aspect": "مكبر الصوت الفرعي لنظام الصوت",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مقدس الحمص!",
+    "aspect": "الحمص",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بالنسبة لوجبتي الرئيسية، استمتعت تمامًا بـ إسكالوب البحر الألاسكي المحمر مع السلق، وقلوب الخرشوف، واليانسون، وجبن البكورينو توسكانو.",
+    "aspect": "إسكالوب البحر الألاسكي المحمر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بالنسبة لوجبتي الرئيسية، استمتعت تمامًا بـ إسكالوب البحر الألاسكي المحمر مع السلق، وقلوب الخرشوف، واليانسون، وجبن البكورينو توسكانو.",
+    "aspect": "إسكالوب البحر الألاسكي المحمر",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الديكور ريفي، ياباني تقليدي.",
+    "aspect": "الديكور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا يمكن أن يكون الاختيار مبتكرًا فحسب، بل يوجد أيضًا توازن جيد بين التقليدي السوشي.",
+    "aspect": "الاختيار",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا يمكن أن يكون الاختيار مبتكرًا فحسب، بل يوجد أيضًا توازن جيد بين التقليدي السوشي.",
+    "aspect": "السوشي",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا يمكن أن يكون الاختيار مبتكرًا فحسب، بل يوجد أيضًا توازن جيد بين التقليدي السوشي.",
+    "aspect": "السوشي",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "من المرجح أن تشعر بخيبة الأمل.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الطعام رائع، والسقاة يبذلون قصارى جهدهم.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام رائع، والسقاة يبذلون قصارى جهدهم.",
+    "aspect": "السقاة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يقدم المطعم قائمة نبيذ واسعة النطاق و أجواء لن تنساها!",
+    "aspect": "قائمة نبيذ",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يقدم المطعم قائمة نبيذ واسعة النطاق و أجواء لن تنساها!",
+    "aspect": "أجواء",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان نان من أفضل ما تناولته واستمتعت حقًا بـ بهاراتا، ليس كثيرًا بالطماطم.",
+    "aspect": "نان",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان نان من أفضل ما تناولته واستمتعت حقًا بـ بهاراتا، ليس كثيرًا بالطماطم.",
+    "aspect": "بهاراتا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إلى أصحاب افتح يا سمسم... برافو... لا أستطيع الانتظار حتى أعود لتناول العشاء في مطعمكم!",
+    "aspect": "افتح يا سمسم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت السمكة طازجة، على الرغم من أنها كانت مقطعة بشكل رقيق للغاية.",
+    "aspect": "السمكة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت السمكة طازجة، على الرغم من أنها كانت مقطعة بشكل رقيق للغاية.",
+    "aspect": "السمكة",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد كنت هناك كثيرًا منذ ذلك الحين وكان دائمًا وقتًا ممتعًا.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "المفضل لدي مطعم بيتزا في سياتل",
+    "aspect": "مطعم بيتزا",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أوصي بشدة بهذا المكان لكل من يريد تجربة الطعام الهندي لأول مرة.",
+    "aspect": "الطعام الهندي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مبالغ فيه",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الأسوأ الخدمة التي حصلت عليها على الإطلاق",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كما اتضح أن المالك كان يجلس بجوارنا مباشرة وعندما جاء للتحقق من مشاكلنا كان متجاهلاً للغاية وعرض خصمًا رمزيًا بنسبة 20٪ على فاتورتنا.",
+    "aspect": "المالك",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ذهبت هناك مع بعض الأصدقاء في إحدى الليالي للعب البينغو ومشاهدة مباراة سوكس وكان الأمر ممتعًا للغاية!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "تم تقييمه بشكل مبالغ فيه تماما!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- بيض، فطائر، بطاطس، فاكهة طازجة وزبادي -- كل ما يقدمونه لذيذ.",
+    "aspect": "بيض",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- بيض، فطائر، بطاطس، فاكهة طازجة وزبادي -- كل ما يقدمونه لذيذ.",
+    "aspect": "فطائر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- بيض، فطائر، بطاطس، فاكهة طازجة وزبادي -- كل ما يقدمونه لذيذ.",
+    "aspect": "بطاطس",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- بيض، فطائر، بطاطس، فاكهة طازجة وزبادي -- كل ما يقدمونه لذيذ.",
+    "aspect": "فاكهة طازجة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- بيض، فطائر، بطاطس، فاكهة طازجة وزبادي -- كل ما يقدمونه لذيذ.",
+    "aspect": "زبادي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- بيض، فطائر، بطاطس، فاكهة طازجة وزبادي -- كل ما يقدمونه لذيذ.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "– راي هو المكان المناسب للذهاب للحصول على جودة عالية عشاء المأكولات البحرية.",
+    "aspect": "عشاء المأكولات البحرية",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنا أيضًا أستمتع حقًا ببساطة الديكور والخصوصية الشعور في المطعم الصغير.",
+    "aspect": "الديكور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنا أيضًا أستمتع حقًا ببساطة الديكور والخصوصية الشعور في المطعم الصغير.",
+    "aspect": "الديكور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنا أيضًا أستمتع حقًا ببساطة الديكور والخصوصية الشعور في المطعم الصغير.",
+    "aspect": "الشعور",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "نحن عائدون . :D",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كان ينبغي لي أن أفكر في طرح هذا الموضوع ولكن لم أتوقع أبدًا أن يكون الطعام معتدلاً إلى هذا الحد.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عندما دخلت، أذهلتني ديكوراتهم الخشبية المذهلة .",
+    "aspect": "ديكوراتهم الخشبية",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه مكان صغير  لذا إذا وصلت إلى هناك قبل الساعة 8 مساءً في عطلة نهاية الأسبوع (الخميس؟ الأحد) فسوف تجد أنه من الأسهل الحصول على طاولة أو مقعد في بار السوشي.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أفضل حي إستعداد .",
+    "aspect": "إستعداد",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "سأعود إلى هناك في لمح البصر.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "سعره معقول جدًا، وخاصةً بالنسبة لجودة الطعام.",
+    "aspect": "الطعام",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الكثير من الطعام، صدقني.",
+    "aspect": "الطعام",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه المكان المثالي مكان لموعد رومانسي لشخصين أو لقاء سري!",
+    "aspect": "مكان",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه المكان المثالي مكان لموعد رومانسي لشخصين أو لقاء سري!",
+    "aspect": "مكان",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لدي أيضًا مارغريتا رائعة!",
+    "aspect": "مارغريتا",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه متواضع وتحت الأرض.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنه متواضع وتحت الأرض.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "هذا المكان هو أفضل شيء بعد طبخ أمي.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أفضل مكان لتناول وجبة إفطار ترفيهية يوم الأحد وسط اليخوت، ثم القيام بجولة سيرًا على الأقدام في سوق المزارعين القريب.",
+    "aspect": "مكان",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إذا كان بوسعك، تعال إلى هذا (المكان) بالقارب واستمتع بالمساء بأكمله.",
+    "aspect": "المكان",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بالنسبة للحلوى كان لدينا كريم بروليه المانجو والزنجبيل ... أوه لا لا لذيذ! ! !",
+    "aspect": "كريم بروليه المانجو والزنجبيل",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه يستحق الانتظار، خاصة أنهم سوف يتصلون بك عندما تكون الطاولة جاهزة.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لديهم مجموعة واسعة من الأسماك وحتى أنهم يسردون المحيطات التي يأتون منها ؛ المحيط الأطلسي أو المحيط الهادئ.",
+    "aspect": "الأسماك",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "حسنًا، أعتقد أنه من الصعب الجلوس عندما يكون الشخص غير مرئي لـ الموظفين.",
+    "aspect": "الموظفين",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع ومفتوح وودود الأجواء.",
+    "aspect": "الأجواء",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت المحادثة القصيرة مع المدير في نهاية الوجبة بمثابة خيبة أمل كبيرة - أن نقول إننا قد تم \"تجاهلنا\" سيكون أقل من الحقيقة.",
+    "aspect": "المدير",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يعد Ray's أحد مؤسسات سياتل، ولكن نظرًا لإطلالاته الرائعة الصوت، كنت أتوقع أن يكون الثناء قد نال هذا الثناء بسبب المناظر الطبيعية أكثر من الطعام والخدمة.",
+    "aspect": "الصوت",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد أقسمت أنني لن أعود أبدًا لتناول وجبة دافئة بيرة ووجبة متوسطة وجبة.",
+    "aspect": "بيرة",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد أقسمت أنني لن أعود أبدًا لتناول وجبة دافئة بيرة ووجبة متوسطة وجبة.",
+    "aspect": "وجبة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إذا كان الجو لطيفًا بالخارج، اطلب طاولة في الشرفة.",
+    "aspect": "الشرفة",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع طعام مع جو رائع!",
+    "aspect": "طعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع طعام مع جو رائع!",
+    "aspect": "جو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "اختتمت الوجبة بالطبق غير المعتاد حلوى بورتو وتذوق الشوكولاتة ... لذيذ!",
+    "aspect": "حلوى بورتو وتذوق الشوكولاتة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "حصلت على مقبلات المحار والروبيان وكانت جيدة.",
+    "aspect": "مقبلات المحار والروبيان",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "البيتزا ذات قشرة رقيقة والقائمة تقدم مجموعات وإضافات مبتكرة للغاية.",
+    "aspect": "القائمة",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "البيتزا ذات قشرة رقيقة والقائمة تقدم مجموعات وإضافات مبتكرة للغاية.",
+    "aspect": "البيتزا",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه مكان رائع مكان للاستمتاع بالطعام والتعرف على الأصدقاء.",
+    "aspect": "بالطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه مكان رائع مكان للاستمتاع بالطعام والتعرف على الأصدقاء.",
+    "aspect": "مكان",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت الخدمة ممتازة، والقهوة كانت جيدة حتى بمقاييس ستاربكس والطعام كان رائعًا.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت الخدمة ممتازة، والقهوة كانت جيدة حتى بمقاييس ستاربكس والطعام كان رائعًا.",
+    "aspect": "القهوة",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت الخدمة ممتازة، والقهوة كانت جيدة حتى بمقاييس ستاربكس والطعام كان رائعًا.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "هذا هو المكان للاسترخاء والاستمتاع بأجود الطعام التي يمكن أن تقدمها الصناعة.",
+    "aspect": "المكان",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "هذا هو المكان للاسترخاء والاستمتاع بأجود الطعام التي يمكن أن تقدمها الصناعة.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "سأعود لتجربة النبيذ وحدها.",
+    "aspect": "النبيذ",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الأفضل حبار في سياتل!",
+    "aspect": "حبار",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "العرض التقديمي لـ Snooze ممتاز وهو أحد تلك الأماكن التي تشعر فيها بمزيد من التطور لمجرد وجودك هناك؛ ولكن إذا قمت بإزالة الطبقات، فستحصل على IHOP باهظ الثمن مع قائمة طعام عالية الجودة .",
+    "aspect": "Snooze",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "العرض التقديمي لـ Snooze ممتاز وهو أحد تلك الأماكن التي تشعر فيها بمزيد من التطور لمجرد وجودك هناك؛ ولكن إذا قمت بإزالة الطبقات، فستحصل على IHOP باهظ الثمن مع قائمة طعام عالية الجودة .",
+    "aspect": "NULL",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "العرض التقديمي لـ Snooze ممتاز وهو أحد تلك الأماكن التي تشعر فيها بمزيد من التطور لمجرد وجودك هناك؛ ولكن إذا قمت بإزالة الطبقات، فستحصل على IHOP باهظ الثمن مع قائمة طعام عالية الجودة .",
+    "aspect": "Snooze",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد اشتكيت إلى المدير لكنه لم يعتذر حتى.",
+    "aspect": "المدير",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أكثر من مجرد منظر رائع !",
+    "aspect": "NULL",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الجو كان جيدا فقط.",
+    "aspect": "الجو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بمجرد الجلوس استغرق الأمر حوالي 30 دقيقة للحصول على الوجبة أخيرًا.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- في عصر خفض التكاليف التدريجي في المطاعم، من الجيد أن نرى مكانًا يقاوم هذا الاتجاه، ويقدم جودة عالية طعام وخدمة جيدة، نقطة.",
+    "aspect": "طعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- في عصر خفض التكاليف التدريجي في المطاعم، من الجيد أن نرى مكانًا يقاوم هذا الاتجاه، ويقدم جودة عالية طعام وخدمة جيدة، نقطة.",
+    "aspect": "خدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد أعجبني الجو كثيرًا ولكن الطعام لم يكن يستحق السعر.",
+    "aspect": "الجو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد أعجبني الجو كثيرًا ولكن الطعام لم يكن يستحق السعر.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد أعجبني الجو كثيرًا ولكن الطعام لم يكن يستحق السعر.",
+    "aspect": "الطعام",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يقع في مركز تجاري بالقرب من مركز بيفرلي، وهو ليس الأفضل الموقع، ولكن الطعام يجعلني أعود إليه مرة أخرى.",
+    "aspect": "الموقع",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يقع في مركز تجاري بالقرب من مركز بيفرلي، وهو ليس الأفضل الموقع، ولكن الطعام يجعلني أعود إليه مرة أخرى.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في (وجبتي) كان عليّ إعادة (بيضتي) بسبب طلب بسيط وهو كسر الصفار قبل الطهي، وكان عليّ إعادتهما مرة أخرى إذا لم أرفض (وجبة)بالكامل.",
+    "aspect": "بيضتي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في (وجبتي) كان عليّ إعادة (بيضتي) بسبب طلب بسيط وهو كسر الصفار قبل الطهي، وكان عليّ إعادتهما مرة أخرى إذا لم أرفض (وجبة)بالكامل.",
+    "aspect": "وجبة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت الفرقة  جيدة جدًا وكانت الخدمة  جيدة.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كانت الفرقة  جيدة جدًا وكانت الخدمة  جيدة.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- كيف تصف أفضل سوشي في نيويورك: هههههه، لذيذ، مذهل، رائع، شهي، مثالي، لا، كل ما سبق.",
+    "aspect": "سوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– مطعم Schooner or Later الساحر موقعه على طول المرسى في لونج بيتش والمتوسط الطعام لا يعوض، للأسف، عن خدماته الرديئة للغاية خدمة العملاء.",
+    "aspect": "موقعه على طول المرسى في لونج بيتش",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– مطعم Schooner or Later الساحر موقعه على طول المرسى في لونج بيتش والمتوسط الطعام لا يعوض، للأسف، عن خدماته الرديئة للغاية خدمة العملاء.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– مطعم Schooner or Later الساحر موقعه على طول المرسى في لونج بيتش والمتوسط الطعام لا يعوض، للأسف، عن خدماته الرديئة للغاية خدمة العملاء.",
+    "aspect": "خدمة العملاء",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد جلسنا على الفور، وكانت (الطاولة) خاصة وجميلة.",
+    "aspect": "الطاولة",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد جلسنا على الفور، وكانت (الطاولة) خاصة وجميلة.",
+    "aspect": "الطاولة",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جيد ساكيه، جيد طعام - أنا بصراحة لا أعرف الكثير عن اللغة اليابانية طعام على الإطلاق.",
+    "aspect": "ساكيه",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جيد ساكيه، جيد طعام - أنا بصراحة لا أعرف الكثير عن اللغة اليابانية طعام على الإطلاق.",
+    "aspect": "طعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "احضر هاتفك المحمول لأنك قد تضطر إلى الانتظار لدخول أفضل مطعم سوشي في العالم: BLUE RIBBON SUSHI.",
+    "aspect": "BLUE RIBBON SUSHI",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في النهاية، وصل فاتورتنا إلى 27 دولارًا مقابل 4 فطائر صغيرة، وبوريتو إفطار، وعصير برتقال، وشاي مثلج (كان لدي ماء).",
+    "aspect": "فطائر صغيرة",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في النهاية، وصل فاتورتنا إلى 27 دولارًا مقابل 4 فطائر صغيرة، وبوريتو إفطار، وعصير برتقال، وشاي مثلج (كان لدي ماء).",
+    "aspect": "فطائر صغيرة",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في النهاية، وصل فاتورتنا إلى 27 دولارًا مقابل 4 فطائر صغيرة، وبوريتو إفطار، وعصير برتقال، وشاي مثلج (كان لدي ماء).",
+    "aspect": "بوريتو إفطار",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في النهاية، وصل فاتورتنا إلى 27 دولارًا مقابل 4 فطائر صغيرة، وبوريتو إفطار، وعصير برتقال، وشاي مثلج (كان لدي ماء).",
+    "aspect": "عصير برتقال",
+    "category": "drinks prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في النهاية، وصل فاتورتنا إلى 27 دولارًا مقابل 4 فطائر صغيرة، وبوريتو إفطار، وعصير برتقال، وشاي مثلج (كان لدي ماء).",
+    "aspect": "شاي مثلج",
+    "category": "drinks prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جيد طعام!",
+    "aspect": "طعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "تقديم الطعام خارج هذا العالم، وحساء الدجاج والخضار من راؤول يهز عالمي! ! !",
+    "aspect": "حساء الدجاج والخضار من راؤول",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "تقديم الطعام خارج هذا العالم، وحساء الدجاج والخضار من راؤول يهز عالمي! ! !",
+    "aspect": "تقديم الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان ينبغي لي أن أطلب الشيك عندما رأيت ذلك؛ ولكن القائمة كانت فريدة من نوعها لدرجة أنني واصلت.",
+    "aspect": "القائمة",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع وجبة الإفطار",
+    "aspect": "وجبة الإفطار",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "سمك البحر على ريزوتو جراد البحر كان الأفضل.",
+    "aspect": "سمك البحر على ريزوتو جراد البحر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– الجو رائع لأي مناسبة خاصة قد ترغب في الاحتفال بها.",
+    "aspect": "الجو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع أسماك موسمية و مأكولات بحرية، مع أجواء راقية واجهة بحرية.",
+    "aspect": "أسماك موسمية",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع أسماك موسمية و مأكولات بحرية، مع أجواء راقية واجهة بحرية.",
+    "aspect": "مأكولات بحرية",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع أسماك موسمية و مأكولات بحرية، مع أجواء راقية واجهة بحرية.",
+    "aspect": "واجهة بحرية",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "البيتزا ليست ضخمة و القشرة رقيقة ... ضع ذلك في الاعتبار عند الطلب.",
+    "aspect": "البيتزا",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "البيتزا ليست ضخمة و القشرة رقيقة ... ضع ذلك في الاعتبار عند الطلب.",
+    "aspect": "القشرة",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الشيء الإيجابي الوحيد في Mioposto هو الموقع الجميل .",
+    "aspect": "موقع",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أقدر لهم التسليم أيضًا.",
+    "aspect": "التسليم",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مخيبة للآمال للغاية .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "البيتزا لذيذة و السلطات رائعة.",
+    "aspect": "البيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "البيتزا لذيذة و السلطات رائعة.",
+    "aspect": "السلطات",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أحدث سوشي – أحب هذا مطعم.",
+    "aspect": "سوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أحدث سوشي – أحب هذا مطعم.",
+    "aspect": "مطعم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "تم طهي شريحة لحم حسب رغبتي تمامًا (متوسطة النضج) وكانت لذيذة وعصيرة.",
+    "aspect": "شريحة لحم",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بجدية، لا يمكنك أن تخطئ، إذا كنت تبحث عن متعة محلية متواضعة.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "بجدية، لا يمكنك أن تخطئ، إذا كنت تبحث عن متعة محلية متواضعة.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "المالكين ممتعون للغاية واختيار البيرة يستحق البقاء من أجله.",
+    "aspect": "المالكين",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المالكين ممتعون للغاية واختيار البيرة يستحق البقاء من أجله.",
+    "aspect": "اختيار البيرة",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع اختيار المسودة والزجاجة والبيتزا رائعة.",
+    "aspect": "البيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع اختيار المسودة والزجاجة والبيتزا رائعة.",
+    "aspect": "اختيار المسودة والزجاجة",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أضمن لك أنك لن تشعر بخيبة الأمل، وهناك أيضًا خدمة صف السيارات.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أضمن لك أنك لن تشعر بخيبة الأمل، وهناك أيضًا خدمة صف السيارات.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "تناول العشاء في وقت متأخر من الليل مع طعام استثنائي.",
+    "aspect": "طعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رغم أن أجزاء كبيرة، لذا لا تطلب الكثير.",
+    "aspect": "أجزاء",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بالتأكيد لديه واحد من أفضل صندوق الموسيقى الذي رأيته منذ وقت طويل.",
+    "aspect": "صندوق الموسيقى",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الخدمة كانت لائقة.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لذيذ للغاية .",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أوه، والبطاطس المقلية بالجبن رائعة!",
+    "aspect": "البطاطس المقلية بالجبن",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "اتفق جميع من جلسوا في الخلف بالخارج على أن هذه كانت أسوأ خدمة تلقيناها على الإطلاق.",
+    "aspect": "خدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قد لا أكون خبيرًا في السوشي ولكن يمكنني أن أخبرك أن الطعام هنا جيد جدًا ولا يوجد الكثير غير ذلك.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ممتاز الطعام، لطيف الأجواء، غالي الثمن إلى حد ما",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ممتاز الطعام، لطيف الأجواء، غالي الثمن إلى حد ما",
+    "aspect": "الأجواء",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ممتاز الطعام، لطيف الأجواء، غالي الثمن إلى حد ما",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "تذوب في فمك نيجيري و ساشمي، ولذيذة جدًا لفائف أيضًا.",
+    "aspect": "نيجيري",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "تذوب في فمك نيجيري و ساشمي، ولذيذة جدًا لفائف أيضًا.",
+    "aspect": "ساشمي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "تذوب في فمك نيجيري و ساشمي، ولذيذة جدًا لفائف أيضًا.",
+    "aspect": "لفائف",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "وأخيرا وجبة التي سوف تتذكرها لفترة طويلة!",
+    "aspect": "وجبة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الأفضل الطعام، رائع الخدمة",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الأفضل الطعام، رائع الخدمة",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أوصي به لقضاء ليلة عندما تريد التبذير! (كان باهظ الثمن بعض الشيء)",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أوصي به لقضاء ليلة عندما تريد التبذير! (كان باهظ الثمن بعض الشيء)",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "على الرغم من أن هذا المطعم كان جيدًا إلى حد معقول الطعام، إلا أن موظفي المطعم بدوا غير مبالين تمامًا بوجودنا، وقد انعكس هذا الموقف في الافتقار إلى الخدمة.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "على الرغم من أن هذا المطعم كان جيدًا إلى حد معقول الطعام، إلا أن موظفي المطعم بدوا غير مبالين تمامًا بوجودنا، وقد انعكس هذا الموقف في الافتقار إلى الخدمة.",
+    "aspect": "موظفي المطعم",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا مجال للمقارنة",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أما بالنسبة لـ الروبيان، فكان طازجًا وله قرمشة خفيفة عن الخليط... كان جيدًا جدًا... أما الجوز فقد تم تقطيعه إلى قطع أصغر ومقرمش للغاية ولذيذ.",
+    "aspect": "الروبيان",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أما بالنسبة لـ الروبيان، فكان طازجًا وله قرمشة خفيفة عن الخليط... كان جيدًا جدًا... أما الجوز فقد تم تقطيعه إلى قطع أصغر ومقرمش للغاية ولذيذ.",
+    "aspect": "الخليط",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أما بالنسبة لـ الروبيان، فكان طازجًا وله قرمشة خفيفة عن الخليط... كان جيدًا جدًا... أما الجوز فقد تم تقطيعه إلى قطع أصغر ومقرمش للغاية ولذيذ.",
+    "aspect": "الجوز",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أما بالنسبة لـ الروبيان، فكان طازجًا وله قرمشة خفيفة عن الخليط... كان جيدًا جدًا... أما الجوز فقد تم تقطيعه إلى قطع أصغر ومقرمش للغاية ولذيذ.",
+    "aspect": "الجوز",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنا سعيد جدًا بوجود مطعم إيطالي رائع في حيي.",
+    "aspect": "مطعم إيطالي",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "انتظرنا لمدة ساعة حتى نتمكن من الجلوس.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "قدمنا طلبنا، ورغم أننا طلبنا 4 مقبلات، إلا أن الطعام لم يصل حتى بعد 45 دقيقة... مع الطبق الرئيسي.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لا أستطيع الانتظار حتى أعود مرة أخرى في نهاية الأسبوع المقبل!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إذا كنت مهتمًا بالتذوق الجيد (بدون طعم أو رائحة السمك) والوجبات الكبيرة أجزاء والإبداعية أطباق السوشي فهذا هو المكان المناسب لك ...",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إذا كنت مهتمًا بالتذوق الجيد (بدون طعم أو رائحة السمك) والوجبات الكبيرة أجزاء والإبداعية أطباق السوشي فهذا هو المكان المناسب لك ...",
+    "aspect": "أجزاء",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إذا كنت مهتمًا بالتذوق الجيد (بدون طعم أو رائحة السمك) والوجبات الكبيرة أجزاء والإبداعية أطباق السوشي فهذا هو المكان المناسب لك ...",
+    "aspect": "أطباق السوشي",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مكان مثالي مكان لاستقبال الضيوف من خارج المدينة في أي وقت من السنة.",
+    "aspect": "مكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تذوقت جميع العناصر الثلاثة الموجودة عليها طبق، وكانت رائعة.",
+    "aspect": "طبق",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مناسب لتناول الطعام في وقت متأخر من الليل (التخطيط في اللحظة الأخيرة) دون حجز.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أنا لا أشعر بخيبة أمل أبدًا هناك الطعام.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- الأفضل على الإطلاق بار في قرية إيست ...",
+    "aspect": "بار",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنه مكان رائع مكان لمشاهدة الناس.",
+    "aspect": "مكان",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المساحة كانت محدودة، لكن الطعام عوض عنها.",
+    "aspect": "المساحة",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المساحة كانت محدودة، لكن الطعام عوض عنها.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المحار يتم طهيها على ما يبدو في زبدة الزيتون الأسود مما يجعلها فريدة من نوعها (ناهيك عن كونها لذيذة).",
+    "aspect": "المحار",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المحار يتم طهيها على ما يبدو في زبدة الزيتون الأسود مما يجعلها فريدة من نوعها (ناهيك عن كونها لذيذة).",
+    "aspect": "المحار",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "هذا المكان ساحر ومريح.",
+    "aspect": "المكان",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "غير مطاطية على الإطلاق .",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد قضينا ليلة واحدة فقط في سياتل وأنا سعيد للغاية لأننا اخترنا رايز لتناول العشاء!",
+    "aspect": "رايز",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لن أنسى أبدًا الوجبة، الخدمة، و الأجواء المذهلة التي وجدتها في هذا المطعم.",
+    "aspect": "الوجبة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لن أنسى أبدًا الوجبة، الخدمة، و الأجواء المذهلة التي وجدتها في هذا المطعم.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لن أنسى أبدًا الوجبة، الخدمة، و الأجواء المذهلة التي وجدتها في هذا المطعم.",
+    "aspect": "الأجواء",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مدهش مقبلات خاصة من الماكريل الإسباني ومثالي صندوق سوشي (ذلك ثعبان البحر مع الأفوكادو -- أم أم أم).",
+    "aspect": "مقبلات خاصة من الماكريل الإسباني",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مدهش مقبلات خاصة من الماكريل الإسباني ومثالي صندوق سوشي (ذلك ثعبان البحر مع الأفوكادو -- أم أم أم).",
+    "aspect": "صندوق سوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مدهش مقبلات خاصة من الماكريل الإسباني ومثالي صندوق سوشي (ذلك ثعبان البحر مع الأفوكادو -- أم أم أم).",
+    "aspect": "ثعبان البحر مع الأفوكادو",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في عطلات نهاية الأسبوع، قد تضطر إلى الانتظار لبضع ساعات.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- الطعام لم يكن رائعًا و النوادل كانوا وقحين.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- الطعام لم يكن رائعًا و النوادل كانوا وقحين.",
+    "aspect": "النوادل",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ثم جاءت شريحة اللحم 9 أونصة وكانت لذيذة، على الأقل في البداية.",
+    "aspect": "9 أونصة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عندما وصلت هناك جلست في الطابق العلوي حيث كان الجو مريحًا و الخدمة كانت فظيعة!",
+    "aspect": "الجو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عندما وصلت هناك جلست في الطابق العلوي حيث كان الجو مريحًا و الخدمة كانت فظيعة!",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قائمة النبيذ مذهلة وواسعة ومتنوعة، الطعام كله لا يصدق والموظفون كانوا جميعًا لطيفين للغاية وجيدين في عملهم ومثقفين.",
+    "aspect": "قائمة النبيذ",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قائمة النبيذ مذهلة وواسعة ومتنوعة، الطعام كله لا يصدق والموظفون كانوا جميعًا لطيفين للغاية وجيدين في عملهم ومثقفين.",
+    "aspect": "قائمة النبيذ",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قائمة النبيذ مذهلة وواسعة ومتنوعة، الطعام كله لا يصدق والموظفون كانوا جميعًا لطيفين للغاية وجيدين في عملهم ومثقفين.",
+    "aspect": "قائمة النبيذ",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قائمة النبيذ مذهلة وواسعة ومتنوعة، الطعام كله لا يصدق والموظفون كانوا جميعًا لطيفين للغاية وجيدين في عملهم ومثقفين.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قائمة النبيذ مذهلة وواسعة ومتنوعة، الطعام كله لا يصدق والموظفون كانوا جميعًا لطيفين للغاية وجيدين في عملهم ومثقفين.",
+    "aspect": "الموظفون",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لا يمكن أن يصبح الأمر أفضل من ذلك ! ! ! !",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "في أيام الأحد بعد الظهر، هناك فرقة موسيقية تعزف وتكون ممتعة للغاية.",
+    "aspect": "فرقة موسيقية",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كل شيء، وأعني كل شيء في القائمة لذيذ.",
+    "aspect": "القائمة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أعرف أن العديد من الأشخاص لديهم أنواعهم المفضلة من بيتزا و بيتزا الأماكن، لكن بيتزا ميوبوستو تفتقر إلى الجودة والذوق الجيد.",
+    "aspect": "بيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا يوجد سوى مكان واحد مكان على الساحل الشرقي يحتوي على كل شيء، بالإضافة إلى المزيد.",
+    "aspect": "مكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الفائز دائما .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "قالت المراجعات السابقة أنها صديقة للأطفال ... امنحني استراحة مع طفلين صغيرين، وهذا يبعد سنوات ضوئية.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "البيتزا خفيفة ولذيذة.",
+    "aspect": "البيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "البيتزا خفيفة ولذيذة.",
+    "aspect": "البيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "قم بإلقاء نظرة على الفن على الجدران، ملون للغاية!",
+    "aspect": "الفن على الجدران",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "متوسط طعام",
+    "aspect": "طعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لن أعود مرة أخرى .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد واجهنا صعوبة بالغة في جذب انتباه النادلة واضطررنا في النهاية إلى النهوض والدخول للتحدث إلى المدير.",
+    "aspect": "النادلة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "غير مزدحم أبدًا ودائمًا ما يكون رائعًا الخدمة.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "غير مزدحم أبدًا ودائمًا ما يكون رائعًا الخدمة.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "أنت في موعد ساخن ولديه رغبة في السوشي ... ثم قد يكون هذا هو المكان.",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لا أستطيع أن أصدق أن مورفي موجود منذ أكثر من 25 عامًا، إنه أمر مذهل.",
+    "aspect": "مورفي",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يمكن أن يكون المكان مزدحمًا يوم الجمعة بسبب عدم توفر طاولة، ولكن بمجرد الجلوس، تكون الخدمة  فعالة للغاية بحيث يمكنك الدخول والخروج بسرعة.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "يتم تقديمه مع صلصة الفلفل أو صلصة النبيذ الأحمر، على الرغم من أن كلاهما لا يمكن التمييز بينهما في الطعم.",
+    "aspect": "صلصة الفلفل",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يتم تقديمه مع صلصة الفلفل أو صلصة النبيذ الأحمر، على الرغم من أن كلاهما لا يمكن التمييز بينهما في الطعم.",
+    "aspect": "صلصة النبيذ الأحمر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أجمل النوادل في المدينة .",
+    "aspect": "النوادل",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الخدمة كانت مهذبة ومهتمة.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في وقت كتابة هذا، حاولت للتو إرسال رابط مجانًا مرة أخرى ولا يزال لا يعمل.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لم يكن من الممكن تلبية أي احتياجات أخرى قد تكون لدينا نظرًا لعدم توقف أحد عند الطاولة.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "جيد سوشي وسعر مرتفع",
+    "aspect": "سوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جيد سوشي وسعر مرتفع",
+    "aspect": "سوشي",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لكن الخوادم كانوا منتبهين للغاية وودودين للغاية.",
+    "aspect": "الخوادم",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد ذهبت إلى هذا (المكان) ، يا رفاق ، إنه سيء.",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع خدمة",
+    "aspect": "خدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الأمر وكأنني أتناول العشاء في مطعم مختلف تمامًا.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "ابهمامان للأعلى!",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "تخيل مفاجأتي السعيدة عندما اكتشفت أن المشاهدات هي ثالث أفضل شيء في راي!",
+    "aspect": "المشاهدات",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "تخيل مفاجأتي السعيدة عندما اكتشفت أن المشاهدات هي ثالث أفضل شيء في راي!",
+    "aspect": "راي",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بدون أدنى شك، أفضل تونة تناولتها على الإطلاق.",
+    "aspect": "تونة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إذا كنت ذاهبًا لرؤية داني جانز أو مجرد البقاء في ميراج، فلا تفوت هذا المكان.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "رائع مكان لتناول الغداء",
+    "aspect": "مكان لتناول الغداء",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنا أحب الإفطار هنا.",
+    "aspect": "الإفطار",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الساشيمي هو الأكثر نضارة وطراوة على الإطلاق.",
+    "aspect": "الساشيمي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لن تشعر بخيبة أمل من القائمة الخاصة بهم.",
+    "aspect": "القائمة",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يتحدث الكثير من الناس عن الخدمة الرائعة البيتزا والرديئة الخدمة، لذا لا يمكن أن تكون مجرد هذيانات لعدد قليل من العملاء غير الراضين.",
+    "aspect": "البيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يتحدث الكثير من الناس عن الخدمة الرائعة البيتزا والرديئة الخدمة، لذا لا يمكن أن تكون مجرد هذيانات لعدد قليل من العملاء غير الراضين.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لن أعود .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كانت الخدمة الخاصة بي ممتازة!",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "نحن بالتأكيد سنعود إلى هذا المطعم.",
+    "aspect": "المطعم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بالتأكيد سأعود .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "ربما يكون من الجيد أن تكون تلك الليلة مرة واحدة في القمر الأزرق عندما يقرر الطهاة استخدام الأسماك التي تكون لائقة إلى حد ما.",
+    "aspect": "الأسماك",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "– لقد ذهبت إلى افتح يا سمسم مرة واحدة فقط، ولكنني لا أزال أشعر بالدهشة من التجربة!!",
+    "aspect": "افتح يا سمسم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت فطائر مبتكرة بالتأكيد ولكن 8.50 دولارًا مقابل 3 - 6 `` فطائر (واحدة منها كانت أقرب إلى 5 ``) في رحلة الفطائر (عينة من 3 فطائر) مختلفة هو سعر مبالغ فيه إلى حد كبير.",
+    "aspect": "فطائر",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت فطائر مبتكرة بالتأكيد ولكن 8.50 دولارًا مقابل 3 - 6 `` فطائر (واحدة منها كانت أقرب إلى 5 ``) في رحلة الفطائر (عينة من 3 فطائر) مختلفة هو سعر مبالغ فيه إلى حد كبير.",
+    "aspect": "فطائر",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ومع ذلك، في أحد أيام الأحد بعد الظهر، ذهبت أنا وزوجي (على الرغم من احتجاجاتي الصاخبة) وكانت المفاجأة سارة.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنه يستحق ذلك",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "تنبيه - إنه حقيقي الطعام للأشخاص الذين يحبون الأفضل.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لدي لكن هنا - كان هناك عامل حمام في الحمام وهو أمر غريب.",
+    "aspect": "الحمام",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أفضل طبق هو روبيان الجوز الهندي -- رائع للغاية.",
+    "aspect": "روبيان الجوز الهندي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يجب أن تكون الفطائر أكبر (8 بوصات على الأقل) لتبرير التكلفة حتى مع العروض الفريدة.",
+    "aspect": "الفطائر",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- كانت المرة الأولى التي تناولت فيها العشاء في هذا المطعم مع ابني وكان الأمر فظيعًا تمامًا!",
+    "aspect": "المطعم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ممتاز",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "مواقف السيارات جيدة إلى حد ما، لديهم موقف سيارات خاص بهم ويمكنك ركن السيارة في الحديقة القريبة.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "سلطة سيزر كانت رائعة.",
+    "aspect": "سلطة سيزر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لا أفهم كيف كنت غريبًا عن هذا المكان لفترة طويلة ... سلطة الفاهيتا، كولورادو، الفاهيتا - كل شيء لذيذ.",
+    "aspect": "سلطة الفاهيتا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لا أفهم كيف كنت غريبًا عن هذا المكان لفترة طويلة ... سلطة الفاهيتا، كولورادو، الفاهيتا - كل شيء لذيذ.",
+    "aspect": "كولورادو",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- لا أفهم كيف كنت غريبًا عن هذا المكان لفترة طويلة ... سلطة الفاهيتا، كولورادو، الفاهيتا - كل شيء لذيذ.",
+    "aspect": "الفاهيتا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أفضل طعام صيني تذوقته منذ فترة طويلة",
+    "aspect": "طعام صيني",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "وكان السعر مناسبا أيضا.",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لذيذ ... !",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "وضعنا اسمنا، وعلى الرغم من وجود طاولات مفتوحة، قيل لنا أن الانتظار سيكون لمدة 30 دقيقة.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "القهوة جيدة جدًا أيضًا.",
+    "aspect": "القهوة",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "انتظرنا أكثر من 30 دقيقة للحصول على مشروباتنا وأكثر من ساعة ونصف للحصول على طعامنا.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الخوادم خلف الكاونتر دائمًا ودودون ومتعاونون.",
+    "aspect": "الخوادم خلف الكاونتر",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان (النادل) غير موجود، وبعد أن وصل طعامنا أخيرًا بعد أكثر من ساعة من طلبنا، لم يُمنح لنا أي ماء أو أدوات.",
+    "aspect": "النادل",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- هذا المكان مبالغ في تقديره بشكل لا يصدق.",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "سيئة للغاية خدمة العملاء .",
+    "aspect": "خدمة العملاء",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا نستطيع أن نقول ما يكفي عن مأكولاتهم اللذيذة البيتزا!",
+    "aspect": "البيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "علاوة على ذلك، في حين أن السمك طازج بلا شك، فإن اللفائف تميل إلى أن تكون مملة بشكل لا يمكن تفسيره.",
+    "aspect": "السمك",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "علاوة على ذلك، في حين أن السمك طازج بلا شك، فإن اللفائف تميل إلى أن تكون مملة بشكل لا يمكن تفسيره.",
+    "aspect": "اللفائف",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "العيب الوحيد هو الازدحام المقاعد والبطء الخدمة.",
+    "aspect": "المقاعد",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "العيب الوحيد هو الازدحام المقاعد والبطء الخدمة.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لم يتبق الكثير من الأماكن المخصصة للتدخين في نيويورك، ولكنني وجدت مكاني المفضل للتدخين الشرفة في المدينة.",
+    "aspect": "الشرفة",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تقاسمنا الطبق العائلي واستمتعت بشكل خاص بـ سمك القد الأسود في كاسو الساكي.",
+    "aspect": "سمك القد الأسود في كاسو الساكي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لكن المساحة صغيرة وجميلة، والخدمة مفيدة.",
+    "aspect": "المساحة",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لكن المساحة صغيرة وجميلة، والخدمة مفيدة.",
+    "aspect": "المساحة",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لكن المساحة صغيرة وجميلة، والخدمة مفيدة.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد كان الأمر يستحق الانتظار .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لذيذ .",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لذيذ",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- متوسط الخدمة / الجودة",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- هذا هو أحد أفضل أماكن الغداء بالنسبة لي، ضخم أجزاء، سريع خدمة ومذهل مارغريتا !!",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- هذا هو أحد أفضل أماكن الغداء بالنسبة لي، ضخم أجزاء، سريع خدمة ومذهل مارغريتا !!",
+    "aspect": "أجزاء",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- هذا هو أحد أفضل أماكن الغداء بالنسبة لي، ضخم أجزاء، سريع خدمة ومذهل مارغريتا !!",
+    "aspect": "خدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- هذا هو أحد أفضل أماكن الغداء بالنسبة لي، ضخم أجزاء، سريع خدمة ومذهل مارغريتا !!",
+    "aspect": "مارغريتا",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أفضل كعك السلطعون في المدينة",
+    "aspect": "كعك السلطعون",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كل ما تناولته هنا كان جيدًا، سلطات التاكو، البوريتو، الانتشلادا أحب هذا المكان.",
+    "aspect": "سلطات التاكو",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كل ما تناولته هنا كان جيدًا، سلطات التاكو، البوريتو، الانتشلادا أحب هذا المكان.",
+    "aspect": "البوريتو",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كل ما تناولته هنا كان جيدًا، سلطات التاكو، البوريتو، الانتشلادا أحب هذا المكان.",
+    "aspect": "الانتشلادا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كل ما تناولته هنا كان جيدًا، سلطات التاكو، البوريتو، الانتشلادا أحب هذا المكان.",
+    "aspect": "place",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كل ما تناولته هنا كان جيدًا، سلطات التاكو، البوريتو، الانتشلادا أحب هذا المكان.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "رائع بيتزا، رديء خدمة",
+    "aspect": "بيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع بيتزا، رديء خدمة",
+    "aspect": "خدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد تناولت صديقتي المفضلة شاورما الدجاج وما زالت تتحدث عنها بإعجاب باعتبارها الأفضل في أي مكان!",
+    "aspect": "شاورما الدجاج",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "شينزي أجزاء",
+    "aspect": "أجزاء",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "جيد يأكل .",
+    "aspect": "يأكل",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عادة ما تسأل الأماكن عن درجة الحرارة التي تريدها، لكنهم لم يفعلوا ذلك.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد وجدت دائمًا أن طاقم الانتظار، وإذا جلست في البار، فإن الطهاة ودودون للغاية.",
+    "aspect": "الطهاة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا يوجد شيء في (القائمة) أقل من المذهل.",
+    "aspect": "القائمة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان حفلتي المكونة من شخصين طموحًا بشكل خاص، وقد أنفقنا الكثير على Shilshole Sampler ... تشكيلة رائعة من روبيان الخليج الأبيض، والتونة البيضاء المدخنة، وبلح البحر مانيلا الرائعة من راي المتبلة بالشبت، والاسكالوب في صلصة الصويا اللذيذة، وكمية صغيرة من سلطعون دونجينيس فوق صلصة الزبدة الرائعة.",
+    "aspect": "روبيان الخليج الأبيض",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان حفلتي المكونة من شخصين طموحًا بشكل خاص، وقد أنفقنا الكثير على Shilshole Sampler ... تشكيلة رائعة من روبيان الخليج الأبيض، والتونة البيضاء المدخنة، وبلح البحر مانيلا الرائعة من راي المتبلة بالشبت، والاسكالوب في صلصة الصويا اللذيذة، وكمية صغيرة من سلطعون دونجينيس فوق صلصة الزبدة الرائعة.",
+    "aspect": "بلح البحر مانيلا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان حفلتي المكونة من شخصين طموحًا بشكل خاص، وقد أنفقنا الكثير على Shilshole Sampler ... تشكيلة رائعة من روبيان الخليج الأبيض، والتونة البيضاء المدخنة، وبلح البحر مانيلا الرائعة من راي المتبلة بالشبت، والاسكالوب في صلصة الصويا اللذيذة، وكمية صغيرة من سلطعون دونجينيس فوق صلصة الزبدة الرائعة.",
+    "aspect": "صلصة الصويا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان حفلتي المكونة من شخصين طموحًا بشكل خاص، وقد أنفقنا الكثير على Shilshole Sampler ... تشكيلة رائعة من روبيان الخليج الأبيض، والتونة البيضاء المدخنة، وبلح البحر مانيلا الرائعة من راي المتبلة بالشبت، والاسكالوب في صلصة الصويا اللذيذة، وكمية صغيرة من سلطعون دونجينيس فوق صلصة الزبدة الرائعة.",
+    "aspect": "صلصة الزبدة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان حفلتي المكونة من شخصين طموحًا بشكل خاص، وقد أنفقنا الكثير على Shilshole Sampler ... تشكيلة رائعة من روبيان الخليج الأبيض، والتونة البيضاء المدخنة، وبلح البحر مانيلا الرائعة من راي المتبلة بالشبت، والاسكالوب في صلصة الصويا اللذيذة، وكمية صغيرة من سلطعون دونجينيس فوق صلصة الزبدة الرائعة.",
+    "aspect": "Shilshole Sampler",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد صدمت بصراحة عندما قرأت المراجعات السيئة - هذا المكان رائع ؛ لم يخيب أملنا بأي شكل من الأشكال، وقد تناولنا الطعام هنا أكثر من 10 مرات.",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنت من محبي السوشي، وتحب السمك المقطع بخبرة، والرائع الساكي، والقاتل موقع سوهو، وبالطبع: سمك السلمون، والتونة، والفلوكي، والذيل الأصفر، وسمك القد، والماكريل، وهلامي السمك، وقنفذ البحر، والروبيان، وجراد البحر، والدنيس، والسلمون المرقط، وسمك الحليب، والتونة ذات الزعانف الزرقاء، والثعبان، وسرطان البحر، والسردين، وسمك الراهب، والبيض، والأسقلوب، والمحار، ومجموعة متنوعة من تورو.",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنت من محبي السوشي، وتحب السمك المقطع بخبرة، والرائع الساكي، والقاتل موقع سوهو، وبالطبع: سمك السلمون، والتونة، والفلوكي، والذيل الأصفر، وسمك القد، والماكريل، وهلامي السمك، وقنفذ البحر، والروبيان، وجراد البحر، والدنيس، والسلمون المرقط، وسمك الحليب، والتونة ذات الزعانف الزرقاء، والثعبان، وسرطان البحر، والسردين، وسمك الراهب، والبيض، والأسقلوب، والمحار، ومجموعة متنوعة من تورو.",
+    "aspect": "السمك",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنت من محبي السوشي، وتحب السمك المقطع بخبرة، والرائع الساكي، والقاتل موقع سوهو، وبالطبع: سمك السلمون، والتونة، والفلوكي، والذيل الأصفر، وسمك القد، والماكريل، وهلامي السمك، وقنفذ البحر، والروبيان، وجراد البحر، والدنيس، والسلمون المرقط، وسمك الحليب، والتونة ذات الزعانف الزرقاء، والثعبان، وسرطان البحر، والسردين، وسمك الراهب، والبيض، والأسقلوب، والمحار، ومجموعة متنوعة من تورو.",
+    "aspect": "الساكي",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنت من محبي السوشي، وتحب السمك المقطع بخبرة، والرائع الساكي، والقاتل موقع سوهو، وبالطبع: سمك السلمون، والتونة، والفلوكي، والذيل الأصفر، وسمك القد، والماكريل، وهلامي السمك، وقنفذ البحر، والروبيان، وجراد البحر، والدنيس، والسلمون المرقط، وسمك الحليب، والتونة ذات الزعانف الزرقاء، والثعبان، وسرطان البحر، والسردين، وسمك الراهب، والبيض، والأسقلوب، والمحار، ومجموعة متنوعة من تورو.",
+    "aspect": "موقع سوهو",
+    "category": "location general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنت من محبي السوشي، وتحب السمك المقطع بخبرة، والرائع الساكي، والقاتل موقع سوهو، وبالطبع: سمك السلمون، والتونة، والفلوكي، والذيل الأصفر، وسمك القد، والماكريل، وهلامي السمك، وقنفذ البحر، والروبيان، وجراد البحر، والدنيس، والسلمون المرقط، وسمك الحليب، والتونة ذات الزعانف الزرقاء، والثعبان، وسرطان البحر، والسردين، وسمك الراهب، والبيض، والأسقلوب، والمحار، ومجموعة متنوعة من تورو.",
+    "aspect": "تورو",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الخدمة رائعة في هذا المكان الممتع.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الخدمة رائعة في هذا المكان الممتع.",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بالإضافة إلى ذلك، لم يكن هناك سوى واحد مقصورة حمام - ربما نحتاج إلى المزيد لمثل هذه الحشود الكبيرة.",
+    "aspect": "مقصورة حمام",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد غادرنا دون أن نحصل على خدمة أبدًا.",
+    "aspect": "خدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد اعجبني .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- أوصي بشدة بـ Mioposto .",
+    "aspect": "Mioposto",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام رائع، أصيل، لذيذ، وبأسعار معقولة جدًا.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام رائع، أصيل، لذيذ، وبأسعار معقولة جدًا.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام رائع، أصيل، لذيذ، وبأسعار معقولة جدًا.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام رائع، أصيل، لذيذ، وبأسعار معقولة جدًا.",
+    "aspect": "الطعام",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تناولت الطعام هنا ثلاث مرات ووجدت أن الجودة والتنوع في الأسماك ممتاز.",
+    "aspect": "الأسماك",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد تناولت الطعام هنا ثلاث مرات ووجدت أن الجودة والتنوع في الأسماك ممتاز.",
+    "aspect": "الأسماك",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لكنها ودودة للغاية مع بعض الأشخاص، مما يجعل الأمر أكثر إزعاجًا.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "القائمة العادية هنا أعلى قليلاً من المتوسط وهو لا يستحق الموقف المتعجرف الذي تتلقاه.",
+    "aspect": "القائمة العادية",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "القائمة العادية هنا أعلى قليلاً من المتوسط وهو لا يستحق الموقف المتعجرف الذي تتلقاه.",
+    "aspect": "القائمة العادية",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "القائمة العادية هنا أعلى قليلاً من المتوسط وهو لا يستحق الموقف المتعجرف الذي تتلقاه.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "كما أنهم يقدمون أفضل الحمص في أمريكا، مع القليل من زيت الزيتون العطري (والذي أعتقد أنه الطريقة التقليدية)!",
+    "aspect": "الحمص",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كما أنهم يقدمون أفضل الحمص في أمريكا، مع القليل من زيت الزيتون العطري (والذي أعتقد أنه الطريقة التقليدية)!",
+    "aspect": "الحمص",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "عظيم بيرة",
+    "aspect": "بيرة",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المأكولات البحرية زائد",
+    "aspect": "المأكولات البحرية",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "من المحزن أنه لا يوجد الكثير من الأشخاص الذين يرتادون أماكن مثل هذه التي تبدو باهظة الثمن لأنها في الفندق ... لكنها بالتأكيد واحدة من الأماكن التي لا تريد أن تفوتها، خاصة إذا كنت في وسط مدينة سان خوسيه.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنهم يقدمونه في كأس طويل ونحيف على شكل الساعة الرملية لإخفاء حقيقة أنك تحصل على عصير صغير عصير بسعر نصف جالون في السوبر ماركت.",
+    "aspect": "عصير",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنهم يقدمونه في كأس طويل ونحيف على شكل الساعة الرملية لإخفاء حقيقة أنك تحصل على عصير صغير عصير بسعر نصف جالون في السوبر ماركت.",
+    "aspect": "عصير",
+    "category": "drinks prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الطعام جيدًا، لكن الخدمة كانت سيئة للغاية لدرجة أن الطعام كان باردًا بحلول الوقت الذي تم فيه تقديم الطعام للجميع في مجموعتي.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الطعام جيدًا، لكن الخدمة كانت سيئة للغاية لدرجة أن الطعام كان باردًا بحلول الوقت الذي تم فيه تقديم الطعام للجميع في مجموعتي.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع وجبة - السمك على طبق أوميكاسي كان لذيذًا للغاية - لم يكن هناك أي من الخيوط التي تصاحب السوشي العادل أحيانًا - كانت هذه السمكة مثالية! ! !",
+    "aspect": "وجبة",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع وجبة - السمك على طبق أوميكاسي كان لذيذًا للغاية - لم يكن هناك أي من الخيوط التي تصاحب السوشي العادل أحيانًا - كانت هذه السمكة مثالية! ! !",
+    "aspect": "السمك على طبق أوميكاسي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع وجبة - السمك على طبق أوميكاسي كان لذيذًا للغاية - لم يكن هناك أي من الخيوط التي تصاحب السوشي العادل أحيانًا - كانت هذه السمكة مثالية! ! !",
+    "aspect": "السمك على طبق أوميكاسي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المشروبات رائعة، وأشعر وكأنني في دولة من دول العالم الثالث عندما أدخل من الباب.",
+    "aspect": "المشروبات",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "المشروبات رائعة، وأشعر وكأنني في دولة من دول العالم الثالث عندما أدخل من الباب.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "مفتوح و رائع مكان مع الأفضل بيتزا و قهوة",
+    "aspect": "مكان",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مفتوح و رائع مكان مع الأفضل بيتزا و قهوة",
+    "aspect": "بيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مفتوح و رائع مكان مع الأفضل بيتزا و قهوة",
+    "aspect": "قهوة",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كريم بروليه الشاي الأخضر أمر لا بد منه!",
+    "aspect": "كريم بروليه الشاي الأخضر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد وجدت منزلًا جديدًا وانتقلت إليه للتو بعقد إيجار طويل الأمد.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنهم ليسوا الأكثر ثرثرة، ولكن في كل مرة كنت هناك كانوا مشغولين للغاية، وهذا ربما يفسر قلة المحادثة.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "البيتزا نفسها ليست بالضبط الأفضل التي تناولتها على الإطلاق، ولكنها لا تزال جيدة جدًا.",
+    "aspect": "البيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد حصلنا على نفس الشيء النادل في المرة الثانية، لذلك ربما كانت الخدمة متقطعة وحظنا جيد.",
+    "aspect": "النادل",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "- هذا تصريح كبير مع الأخذ في الاعتبار أنني كنت أقوم بسحب مصائد السلطعون وصنع الكعك بنفسي منذ أن كان عمري حوالي سبع سنوات - ولكن هناك شيء ما حول هؤلاء الشياطين الصغار يتحسن في كل مرة.",
+    "aspect": "الكعك",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رائع الطعام الإيطالي!",
+    "aspect": "الطعام الإيطالي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ومع ذلك، هذا المكان هو جوهرة، ولن أتوقف عن العودة.",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "يصبح المكان مزدحمًا حقًا، لذا احرص على الوصول مبكرًا حتى تتمكن من الحصول على مقعد، وإذا كان عليك الانتظار، فهذا ليس سيئًا لأن الخدمة سريعة!",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "استغرق العشاء ساعة واحدة فقط وكانت الأسعار مناسبة للشريط، ما يقرب من 50 دولارًا للشخص الواحد بعد الضريبة والإكرامية (حوالي المتوسط).",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "حلقات البصل رائعة!",
+    "aspect": "حلقات البصل",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إذا كنت في المنطقة فلا ينبغي أن تشعر بخيبة الأمل.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- الحي المالي الكبير بقعة مكسيكية.",
+    "aspect": "بقعة مكسيكية",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لفة خاصة بالمنزل جيدة حقًا.",
+    "aspect": "لفة خاصة بالمنزل",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "النوادل لديهم خبرة كبيرة ويساعدون في إقران اختيار مشروبك بأذواقك الغذائية أو العكس.",
+    "aspect": "النوادل",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الكمال .",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "رديء خدمة العملاء / رديء بيتزا.",
+    "aspect": "خدمة العملاء",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "رديء خدمة العملاء / رديء بيتزا.",
+    "aspect": "بيتزا",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "بشكل عام، سأعود وأتناول الطعام في (مطعم)مرة أخرى.",
+    "aspect": "مطعم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الخادم قدم عدة اقتراحات ساكي والتي كانت جيدة جدًا.",
+    "aspect": "ساكي",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الخادم قدم عدة اقتراحات ساكي والتي كانت جيدة جدًا.",
+    "aspect": "الخادم",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "تعليقي السلبي الوحيد هو أنني أتمنى أن تكون قطعة أكبر قليلاً.",
+    "aspect": "قطعة",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "اخترت الهليون، والذي تبين أنه لا يصدق وتم إعداده بشكل مثالي.",
+    "aspect": "الهليون",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "ما قد يكون مثيرا للاهتمام بالنسبة لمعظم الناس هو أن أسوأ خدمة / موقف يأتي من أصحاب هذه المؤسسة.",
+    "aspect": "أصحاب",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "العيب الوحيد هو أن هذا المكان باهظ الثمن حقًا و الأجزاء صغيرة الحجم.",
+    "aspect": "المكان",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "العيب الوحيد هو أن هذا المكان باهظ الثمن حقًا و الأجزاء صغيرة الحجم.",
+    "aspect": "الأجزاء",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "فظيع الخدمة، الطعام جيد، غالي الثمن",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "فظيع الخدمة، الطعام جيد، غالي الثمن",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "فظيع الخدمة، الطعام جيد، غالي الثمن",
+    "aspect": "NULL",
+    "category": "restaurant prices",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "على الرغم من أن الخدمة يمكن تحسينها بالنظر إلى الأموال التي وضعتها.",
+    "aspect": "الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "من المعتاد أن ترى عائلات وأصدقاء هنود يتناولون الطعام هناك، وهو ما يعد دائمًا علامة جيدة.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إذا كنت أرغب في الوقوف في طابور يوم الأحد لمدة ساعة للحصول على متوسط طعام الغداء، فإنني سأضع مورفي في أعلى القائمة.",
+    "aspect": "طعام الغداء",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إذا كنت أرغب في الوقوف في طابور يوم الأحد لمدة ساعة للحصول على متوسط طعام الغداء، فإنني سأضع مورفي في أعلى القائمة.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "بالنسبة للكمية الطعام التي حصلنا عليها كان ينبغي أن تكون الأسعار أقل.",
+    "aspect": "الطعام",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مشغول دائمًا، لكنهم جيدون في توفير المقاعد لك على الفور ولديهم خدمة سريعة .",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "مشغول دائمًا، لكنهم جيدون في توفير المقاعد لك على الفور ولديهم خدمة سريعة .",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "قائمة النبيذ رائعة والطعام يذكرني برحلتي الأخيرة إلى إيطاليا.",
+    "aspect": "قائمة النبيذ",
+    "category": "drinks style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الطعام رائعًا، والمارجريتا أيضًا، ولكن النادلة كانت مشغولة جدًا بالتعامل بلطف مع مجموعتها الكبيرة الأخرى بدلاً من الاعتناء بي وبصديقي بشكل أفضل.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الطعام رائعًا، والمارجريتا أيضًا، ولكن النادلة كانت مشغولة جدًا بالتعامل بلطف مع مجموعتها الكبيرة الأخرى بدلاً من الاعتناء بي وبصديقي بشكل أفضل.",
+    "aspect": "المارجريتا",
+    "category": "drinks quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان الطعام رائعًا، والمارجريتا أيضًا، ولكن النادلة كانت مشغولة جدًا بالتعامل بلطف مع مجموعتها الكبيرة الأخرى بدلاً من الاعتناء بي وبصديقي بشكل أفضل.",
+    "aspect": "النادلة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لا أستطيع أن أقول ما يكفي من الأشياء الجيدة عن هذا المطعم، وأنا لا أستطيع الانتظار لزياراتي العديدة القادمة.",
+    "aspect": "المطعم",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "احبه في كل مرة",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "نحن من السكان المحليين، ونشعر أن الطريقة الوحيدة التي يظل بها هذا المكان على قيد الحياة مع هذا المتوسط الطعام هي لأن معظم العملاء هم على الأرجح سائحون لمرة واحدة.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أحب أيضًا سلطة سيزر.",
+    "aspect": "سلطة سيزر",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "إنها لا تجعلك تشعر بالترحيب وتعاملك وكأنك مصدر إزعاج.",
+    "aspect": "NULL",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "إنه الحجم المناسب للقائمة.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "الطعام رائع، وطاقم الخدمة كان مثاليًا في كل مرة ذهبنا فيها إلى هناك.",
+    "aspect": "الطعام",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الطعام رائع، وطاقم الخدمة كان مثاليًا في كل مرة ذهبنا فيها إلى هناك.",
+    "aspect": "طاقم الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت الحلوى بمثابة النهاية المثالية لـ العشاء المثالي تقريبًا.",
+    "aspect": "الحلوى",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كانت الحلوى بمثابة النهاية المثالية لـ العشاء المثالي تقريبًا.",
+    "aspect": "العشاء",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد كنت هنا، وأنفقت الكثير من المال على عشاء خاص بالشيف وكان الأمر مخيبا للآمال إلى حد كبير.",
+    "aspect": "عشاء خاص بالشيف",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد كنت هنا، وأنفقت الكثير من المال على عشاء خاص بالشيف وكان الأمر مخيبا للآمال إلى حد كبير.",
+    "aspect": "عشاء خاص بالشيف",
+    "category": "food prices",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد وجدت منزلًا جديدًا في الجادة الثانية ! ! ! ! ! ! ! ! ! ! !",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- اضطررت إلى الانتظار لمدة ثلاثين دقيقة للدخول إلى الباب في صباح يوم الثلاثاء، لكن الأمر كان يستحق ذلك.",
+    "aspect": "NULL",
+    "category": "restaurant miscellaneous",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- اضطررت إلى الانتظار لمدة ثلاثين دقيقة للدخول إلى الباب في صباح يوم الثلاثاء، لكن الأمر كان يستحق ذلك.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "- من المحزن أن نرى مكانًا كان ذات يوم \"المكان 1: للقاء وتناول الإفطار أو الغداء، أصبح الآن مكانًا كبيرًا \"لا تهتم\".",
+    "aspect": "مكانًا",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان طعم دجاج الليمون مثل الكعك الحلو اللزج و روبيان العسل والجوز، القليل الذي قدموه لك بالفعل ... لم يكن جيدًا.",
+    "aspect": "دجاج الليمون",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان طعم دجاج الليمون مثل الكعك الحلو اللزج و روبيان العسل والجوز، القليل الذي قدموه لك بالفعل ... لم يكن جيدًا.",
+    "aspect": "روبيان العسل والجوز",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان طعم دجاج الليمون مثل الكعك الحلو اللزج و روبيان العسل والجوز، القليل الذي قدموه لك بالفعل ... لم يكن جيدًا.",
+    "aspect": "روبيان العسل والجوز",
+    "category": "food style_options",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد كان رومانسيًا - وحتى لطيفًا حتى مع أختي، ذكّرني بإيطاليا، وكان به أعمال فنية وموسيقى حافظت على الشعور بوجودي في فيلا على البحر الأبيض المتوسط.",
+    "aspect": "NULL",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "لقد كان رومانسيًا - وحتى لطيفًا حتى مع أختي، ذكّرني بإيطاليا، وكان به أعمال فنية وموسيقى حافظت على الشعور بوجودي في فيلا على البحر الأبيض المتوسط.",
+    "aspect": "أعمال فنية",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "لقد كان رومانسيًا - وحتى لطيفًا حتى مع أختي، ذكّرني بإيطاليا، وكان به أعمال فنية وموسيقى حافظت على الشعور بوجودي في فيلا على البحر الأبيض المتوسط.",
+    "aspect": "موسيقى",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان السوشي ممتازًا وكان طاقم الخدمة سريعًا.",
+    "aspect": "السوشي",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "كان السوشي ممتازًا وكان طاقم الخدمة سريعًا.",
+    "aspect": "طاقم الخدمة",
+    "category": "service general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "في الواقع، يرغب العديد من الأشخاص بالعودة مرة ثانية أثناء زيارتهم.",
+    "aspect": "NULL",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "implicit"
+  },
+  {
+    "sentence": "– أفضل مكان مكسيكي لتناول الغداء في الحي المالي.",
+    "aspect": "مكان مكسيكي",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "أنا أحب هذا المكان!",
+    "aspect": "المكان",
+    "category": "restaurant general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "الجو رائع .",
+    "aspect": "الجو",
+    "category": "ambience general",
+    "domain": "restaurant",
+    "type": "explicit"
+  },
+  {
+    "sentence": "مثالي في يوم بارد.",
+    "aspect": "NULL",
+    "category": "food quality",
+    "domain": "restaurant",
+    "type": "implicit"
+  }
+]

@@ -1,0 +1,585 @@
+﻿sentence,aspect,category,domain,type
+أوصي بشدة بـ Residence Foch، كانت (المنطقة 2) مثالية، حرفيًا على بعد عشر دقائق سيرًا على الأقدام من Arc de Troimph، آمنة وجميلة (المنطقة 2).,المنطقة | المنطقة | Residence Foch,location general | location general | hotel general,hotel,explicit | explicit | explicit
+كان الموظفين رائعين.,الموظفين,service general,hotel,explicit
+كان الموظفين ممتازين - ودودين للغاية ومتعاونين.,الموظفين | الموظفين | الموظفين,service general | facilities general | facilities general,hotel,explicit | explicit | explicit
+الغرفة : مزينة بشكل جيد، على الرغم من كونها صاخبة وصغيرة الحجم.,الغرفة | الغرفة | الغرفة,rooms design_features | rooms comfort | rooms design_features,hotel,explicit | explicit | explicit
+مطاعم جيدة قريبة (,NULL,location general,hotel,implicit
+أيضًا، الدش يمكن تحسينه بالتأكيد.,الدش,room_amenities quality,hotel,explicit
+لقد كان لطيفا حقا .,NULL,hotel general,hotel,implicit
+اثنان من الإبهامين لأعلى للأسعار المعقولة أماكن الإقامة.,أماكن الإقامة,hotel prices,hotel,explicit
+الموظفين ودودون للغاية ومفيدون.,الموظفين | الموظفين,service general | service general,hotel,explicit | explicit
+USS Constallation على مسافة قريبة سيرًا على الأقدام,USS Constallation,location general,hotel,explicit
+رائع الموقع وسط المدينة، مكان عصري مكان رائع للإقامة في وسط مدينة مانهاتن.,الموقع,location general,hotel,explicit
+عندما اضطررت إلى تغيير التواريخ في اللحظة الأخيرة بسبب مشاكل في الطائرة، كان (الفندق 1) متعاونًا للغاية.,الفندق,hotel general,hotel,explicit
+اللوبي كبير بما يكفي لاستيعاب مائة شخص.,اللوبي,facilities design_features,hotel,explicit
+سأعود بالتأكيد للإقامة هنا مرة أخرى إذا اضطررت إلى العودة إلى سنغافورة للعمل.,NULL,hotel general,hotel,implicit
+الموظفين هو رائع، الغرف ذات حجم لطيف، وموقعه رائع، وهو نظيف، نظيف، نظيف.,الموظفين | الغرف | رائع | الغرف,service general | rooms design_features | location general | rooms cleanliness,hotel,explicit | explicit | explicit | explicit
+كان العيب الوحيد هو أن بعض الموظفين كان من الممكن أن يكونوا أكثر انتباهاً وودية.,الموظفين | الموظفين,service general | service general,hotel,explicit | explicit
+ديكورات جميلة وحديثة في حرارة باريس .,NULL | NULL,hotel design_features | location general,hotel,implicit | implicit
+على الرغم من تصنيفه بنجمتين، إلا أن ذلك يرجع إلى عدم وجود أشياء مثل المصاعد أو ردهة كبيرة أو مكواة للضيوف، ولكن كل شيء آخر فيه كان 4 نجوم!,NULL,facilities design_features,hotel,implicit
+ودود ومتعاون مكتب الاستقبال أيضًا.,مكتب الاستقبال,service general,hotel,explicit
+يقع (الفندق 2) في موقع مثالي بالقرب من المتاحف وساحة Leidisplein.,الفندق | الفندق,location general | location general,hotel,explicit | explicit
+كل شيء رائع: المسبح، الشاطئ، الطعام، الكوكتيلات ولكن هناك مشكلة واحدة فقط مع الغرفة ذات الرائحة الكريهة وبالتأكيد ليست 5 نجوم ولكن 3.,المسبح | الشاطئ | الطعام | الكوكتيلات | الغرفة | الغرفة,facilities general | facilities general | food_drinks quality | food_drinks quality | rooms general | rooms quality,hotel,explicit | explicit | explicit | explicit | explicit | explicit
+من الجانب الجيد أنهم سمحوا لنا بإجراء تسجيل الوصول المبكر وكانت (الغرفة 1) نظيفة.,الغرفة | NULL,rooms cleanliness | service general,hotel,explicit | implicit
+هذا هو بالتأكيد المكان المثالي للإقامة في أمستردام لقضاء إجازة قصيرة في المدينة!,NULL,hotel general,hotel,implicit
+بدأ الفندق  يظهر عليه علامات التقدم في السن، والأسعار القياسية أعلى بعدة مرات مما ينبغي أن تكون.,الفندق | الفندق,hotel design_features | hotel prices,hotel,explicit | explicit
+تجربة رائعة هناك .,NULL,hotel general,hotel,implicit
+الموظفون كانوا مفيدين للغاية في جميع حجوزات السفر والمطاعم والرحلات النهرية - كما قيل الموقع مثالي، كانت المباني نظيفة للغاية وسأوصي بها بالتأكيد لأي أصدقاء / عائلة في المستقبل.,الموظفون | الموقع | NULL | NULL,service general | location general | hotel cleanliness | hotel general,hotel,explicit | explicit | implicit | implicit
+كان الجميع، بما في ذلك موظف الاستقبال، والبواب، ورجل الباب، وموظفي التدبير المنزلي ودودين ومفيدين.,NULL,service general,hotel,implicit
+بشكل عام، لم أحصل على قدر كبير من النوم بسبب هذا,NULL,rooms comfort,hotel,implicit
+قذرة وخانقة الفندق,الفندق | الفندق,hotel cleanliness | hotel general,hotel,explicit | explicit
+يوجد بالقرب من الفندق تاجر صرافة قدم لنا صفقة جيدة مقابل دولاراتنا الأمريكية.,NULL,location general,hotel,implicit
+واو، هذا المكان كان سيئا.,NULL,hotel general,hotel,implicit
+أكثر من مناسب لفئته لقد بقينا في الموناليزا لمدة 4 ليالٍ في أوائل ديسمبر وكانت تجربتنا إيجابية.,الموناليزا | الموناليزا,hotel general | hotel general,hotel,explicit | explicit
+الموظفين بصرف النظر عن الصعوبات الأولية كانوا لطيفين ومفيدين، والفندق بدا نظيفًا.,الموظفين | الفندق,service general | hotel cleanliness,hotel,explicit | explicit
+ليس 5 نجوم - يحتاج إلى تجديد لا يمكن اعتبار هذا فندق فندق 5 نجوم فندق.,فندق | فندق | فندق,hotel general | hotel general | hotel general,hotel,explicit | explicit | explicit
+فندق ميدتاون هو ما ينبغي أن يكون.,فندق ميدتاون,hotel general,hotel,explicit
+لقد كنا في غرفة من الجسر إلى الجسر  - باهظة الثمن - لكننا لم نشعر بالدلال أو التميز أثناء إقامتنا في الفندق بأي شكل من الأشكال.,الغرفة | الغرفة | الفندق,rooms miscellaneous | rooms prices | hotel general,hotel,explicit | explicit | explicit
+لقد نقلونا إلى جناحين بغرفة نوم واحدة على الجانب الآخر من القاعة - أسرة,NULL,service general,hotel,implicit
+كانت (الغرفة 1) نظيفة للغاية.,الغرفة,rooms cleanliness,hotel,explicit
+تفاصيل صغيرة مذهلة تجعلك تشعر وكأنك ملكة (أو ملك) في العطلة. الموظفين مفيدون للغاية ويعرفون الكثير من النصائح التي لن تجدها في دليل سياحي.,NULL | الموظفين,hotel general | service general,hotel,implicit | explicit
+وهي ودودة للغاية، وهي إضافة رائعة لهذا الفندق.,NULL,service general,hotel,implicit
+كان الموظفون رائعين للغاية ومفيدين للغاية.,الموظفون | الموظفون,service general | service general,hotel,explicit | explicit
+إذا كنت تبحث عن عقار في سان فرانسيسكو، فلن تخطئ أبدًا باختيار هذا فندق.,فندق,hotel general,hotel,explicit
+العروض في الليل ترفيهية للغاية.,NULL,hotel miscellaneous,hotel,implicit
+كل شيء 5 نجوم، الغرف، الطعام، الخدمة وما إلى ذلك.,الغرف | الطعام | الخدمة,rooms quality | food_drinks quality | service general,hotel,explicit | explicit | explicit
+ذهبت إلى فندق ميلينيوم مع زوجي ووقعت في حب منطقة السبا / حمام السباحة!,the spa/pool area | فندق ميلينيوم,facilities general | hotel general,hotel,explicit | explicit
+لقد أعجبت كثيرًا بهذا الفندق، رائع الموقع للمعالم السياحية، واسع الغرف، رائع الموظفين.,الفندق | الموقع | الغرف | الموظفين,hotel general | location general | rooms design_features | service general,hotel,explicit | explicit | explicit | explicit
+الفندق رائع، رائع الموقع، أسرة مريحة حقًا، خاصة بعد الرحلة من المملكة المتحدة.,الفندق | الموقع | NULL,hotel general | location general | room_amenities comfort,hotel,explicit | explicit | implicit
+لقد فوجئت بسرور كبير بإطلالة الفندق الجديدة الموقع من غرفتنا في المستوى الحادي والعشرين والإفطار المجاني وجبة الإفطار في الصباح الباكر قبل جولتنا.,الموقع | وجبة الإفطار,location general | food_drinks prices,hotel,explicit | explicit
+إقامة ممتعة للغاية موظفين.,موظفين | موظفين,service general | service general,hotel,explicit | explicit
+الغرفة كانت معاصرة ونظيفة وعاليه المستوى.,الغرفة | الغرفة | الغرفة,rooms design_features | rooms cleanliness | rooms quality,hotel,explicit | explicit | explicit
+كانت الغرفتان : مريحتين للغاية وحظينا بنوم هانئ ليلاً، ولم نتناول الطعام في الفندق حيث كان باهظ الثمن بعض الشيء بالنسبة لنا، وقد أوصوا بأماكن تناول الطعام الجيدة جدًا القريبة والتي تناسب متطلباتنا تمامًا.,غرف | غرف | NULL,rooms comfort | rooms comfort | food_drinks prices,hotel,explicit | explicit | implicit
+كان الموظفين ودودين ومتعاونين.,الموظفين | الموظفين,service general | service general,hotel,explicit | explicit
+يعد ميناء دارلينج مكانًا رائعًا للمطاعم والحانات ويقع الفندق على بعد دقيقتين سيرًا على الأقدام.,NULL,location general,hotel,implicit
+تمت الإجابة على طلبات الوسائد الرغوية والسرير القابل للطي على الفور وأحب أطفالي حزمة الترحيب بالأطفال عند تسجيل الوصول.,NULL,service general,hotel,implicit
+كانت الشكوى الوحيدة هي أن التلفزيون في الغرفة كان صغيرًا جدًا.,التلفزيون,room_amenities design_features,hotel,explicit
+الموظفين رائعين، ودودين وسيساعدونك قدر الإمكان.,الموظفين | الموظفين | الموظفين,service general | service general | service general,hotel,explicit | explicit | explicit
+جيد الموقع، سلبي - عدواني الخدمة,الموقع | الخدمة,location general | service general,hotel,explicit | explicit
+مايك في مكتب الاستقبال مفيد بشكل استثنائي مع المطاعم والجولات السياحية.,مايك في مكتب الاستقبال,service general,hotel,explicit
+لقد قضينا وقتا رائعا هناك .,NULL,hotel general,hotel,implicit
+جميل جدًا غرف، نظيف وهادئ، ودود موظفين وخدمة جيدة.,غرف | غرف | غرف | موظفين | موظفين,rooms general | rooms cleanliness | rooms comfort | service general | service general,hotel,explicit | explicit | explicit | explicit | explicit
+نفدت المناشف عند حمام السباحة، ولم تكن كافية النوادل عند حمام السباحة، شريحة لحم الضلع لـ العشاء سيئة، انتظرنا 45 دقيقة.,النوادل | العشاء,service general | food_drinks quality,hotel,explicit | explicit
+الشكوى الوحيدة هي أن الواي فاي المجاني بطيء للغاية.,الواي فاي المجاني,facilities quality,hotel,explicit
+ومع ذلك، تم تنفيذ البناء الداخلي بطريقة اقتصادية للغاية، وكان هناك الكثير من أعمال الصيانة المؤجلة في (غرفة 1).,الغرفة,rooms quality,hotel,explicit
+وكان هناك الكثير من ضوضاء الطريق وكنا نستخدم سدادات الأذن.,NULL,rooms comfort,hotel,implicit
+البار جذاب و المطعم رائع.,البار | المطعم,facilities general | facilities general,hotel,explicit | explicit
+لم أستطع أبدًا تحمل تكاليف البقاء هنا بمفردي، لكن الأمر كان ممتعًا لهذه المرة فقط.,NULL,hotel prices,hotel,implicit
+الغرف بحاجة إلى بعض الحب!,الغرف,rooms general,hotel,explicit
+كانت إقامتنا ممتازة بالنسبة لفندق ثلاث نجوم متوسط السعر فندق.,فندق | فندق,hotel prices | hotel quality,hotel,explicit | explicit
+لقد أحببت أيضًا حساء اليقطين و عصير الليمون.,حساء اليقطين | عصير الليمون,food_drinks quality | food_drinks quality,hotel,explicit | explicit
+سوف نعود بالتأكيد .,NULL,hotel general,hotel,implicit
+لطيف مكتب استقبال، قريب من المقاهي والمطاعم الإيطالية، على مسافة قصيرة سيرًا على الأقدام من القطار -,مكتب استقبال | NULL | NULL,service general | facilities design_features | location general,hotel,explicit | implicit | implicit
+ذهبت إلى نيو أورلينز مع خطيبي الجديد وأقمنا في Doubletree في شارع كانال وقضينا وقتًا رائعًا.,Doubletree,hotel general,hotel,explicit
+لا داعي للخروج من السرير في الصباح! الموظفين,الموظفين,service general,hotel,explicit
+أحد أفضل الفنادق فنادق هيلتون,فنادق هيلتون,hotel general,hotel,explicit
+كانت السلبيات الوحيدة التي لاحظناها هي خدمة النقل المكوكية من مطار لوس أنجلوس الدولي عند الطلب، وهو ما لم نكن نعرفه وفقدنا بعض الوقت في الانتظار على جانب الطريق قبل الاتصال، وإذا كنت تستأجر سيارة أو تقودها، فلاحظ أن رسوم موقف السيارات في الفندق تبلغ 15.00 دولارًا في الليلة.,NULL,facilities general,hotel,implicit
+الموقع كان جيدًا، بالقرب من صخب وضجيج ميدان تايمز.,الموقع | الموقع,location general | location general,hotel,explicit | explicit
+يقع في مكان مناسب بالقرب من وسائل النقل العام وقد حصلنا دائمًا على اتجاهات جيدة في مكتب الاستقبال.,NULL | مكتب الاستقبال,service general | service general,hotel,implicit | explicit
+جميل جداً، مثالي الموقع ! !,NULL | الموقع,hotel general | location general,hotel,implicit | explicit
+ممتاز الموقع، ودود الموظفين، رائع السعر.,الموقع | الموظفين | السعر,location general | service general | hotel prices,hotel,explicit | explicit | explicit
+الأفضل سري للغاية في سياتل!,سري للغاية,hotel general,hotel,explicit
+كان الموظفون ودودين للغاية وحتى أحضروا لابننا سمكة ذهبية للاعتناء بها أثناء إقامته.,الموظفون,service general,hotel,explicit
+لقد كان مثاليًا للإقامة لليلة واحدة قبل رحلتنا البحرية.,NULL,hotel general,hotel,implicit
+منطقة بار - ودية.,منطقة بار,facilities general,hotel,explicit
+ومع ذلك، فكر في تخطي وجبة الإفطار -,وجبة الإفطار,food_drinks quality,hotel,explicit
+الطعام رائع، يمكنك الاختيار من بين 5 مطاعم مختلفة.,الطعام,food_drinks quality,hotel,explicit
+لقد قضينا ليلتين رائعتين في منتجع سان خوان ماريوت في كوندادو.,منتجع سان خوان ماريوت,hotel general,hotel,explicit
+الإقامة المثالية في برشلونة,NULL,hotel general,hotel,implicit
+سوبريور فندق يجب على أي شخص يزور باريس الإقامة في هذا فندق، موقع مثالي، فندق نظيف وساحر و,موقع مثالي | فندق | فندق | فندق,location general | hotel miscellaneous | hotel quality | hotel quality,hotel,explicit | explicit | explicit | explicit
+الجودة الفندق بسعر رائع,الفندق | الفندق,hotel quality | hotel prices,hotel,explicit | explicit
+الموظفين كان رائعا - وخاصة غويندالين.,الموظفين,service general,hotel,explicit
+أخطط للعودة إلى فلورنسا في سبتمبر وسأقيم بالتأكيد في نفس الفندق الفندق ومع قليل من الحظ في نفس الغرفة.,الفندق,hotel general,hotel,explicit
+الشيء الوحيد الأفضل هو الفندق الموظفين!,الموظفين,service general,hotel,explicit
+الوصول إلى الطرق السريعة الرئيسية والمركز الأمريكي للحفلات الموسيقية ووسط المدينة.,NULL,location general,hotel,implicit
+اعتقدت أنها كانت ذات قيمة جيدة و الموقع كان رائعًا و الموظفين مفيدون للغاية (حتى أنهم أقرضوني دراجة) وكان المكان هادئًا بعد يوم حافل.,الموقع | الموظفين | NULL,location general | service general | hotel prices,hotel,explicit | explicit | implicit
+فندق رائع فندق مع لمسة شخصية جميلة، وسوف نعود بالتأكيد لزيارة هذا المكان مرة أخرى قريبًا.,فندق | فندق | فندق,hotel general | hotel general | hotel general,hotel,explicit | explicit | explicit
+متوسط حقًا خدمة عادي حقًا خدمة .,خدمة | خدمة,service general | service general,hotel,explicit | explicit
+ليلة سعيدة!! آمل أن أحصل على فرصة الإقامة هنا مرة أخرى!!,NULL,hotel general,hotel,implicit
+اختيار ممتاز لرجال الأعمال والسياح فندق لطيف للغاية.,فندق | فندق,hotel general | hotel general,hotel,explicit | explicit
+كان مثل التابوت,NULL,hotel general,hotel,implicit
+وكان الإفطار ممتازًا أيضًا، مع الكثير من الاختيارات والأطعمة الطازجة المستخدمة.,الإفطار | الإفطار | الإفطار,food_drinks quality | food_drinks style_options | food_drinks quality,hotel,explicit | explicit | explicit
+لقد أقمت في العديد من الفنادق ذات الأربع نجوم فندق في إيطاليا ولكن لا يوجد أي فندق يضاهي هذا فندق.,فندق,hotel general,hotel,explicit
+لن تشعر بخيبة الأمل فندق 4 نجوم فندق لطيف للغاية.,فندق,hotel quality,hotel,explicit
+الموقع مثالي للمشي في المساء بجانب النهر، مع وجود جميع المطاعم القريبة.,الموقع,location general,hotel,explicit
+لقد قمت بحجز هذا فندق بعد قراءة التقييمات ومعرفة أنه حصل على درجة 5 فندق في تورنتو,فندق,hotel quality,hotel,explicit
+لقد كانوا ودودين للغاية .,NULL,service general,hotel,implicit
+كان الموقع ممتازًا، والخدمة رائعة.,الموقع | الخدمة,location general | service general,hotel,explicit | explicit
+Astor Crowne Plaza هو فندق رائع لقد استمتعنا بإقامتنا في Astor Crowne Plaza.,Astor Crowne Plaza | Astor Crowne Plaza,hotel general | hotel general,hotel,explicit | explicit
+كان طاقم التنظيف ودودًا للغاية.,طاقم التنظيف,service general,hotel,explicit
+هذا هو حقا واحد من أفضل فنادق هيلتون التي أقمنا فيها على الإطلاق.,فنادق هيلتون,hotel general,hotel,explicit
+كان نظيفًا وجيد التهوية وشعرت وكأنني في منزل لقضاء العطلة وليس فندقًا غرفة.,غرفة | غرفة,rooms cleanliness | rooms comfort,hotel,explicit | explicit
+كانت الوجبة الإفطار، التي كانت متضمنة، أكثر من مرضية بالنسبة لوجبة  إفطار كونتيننتال.,الإفطار | الإفطار,food_drinks prices | food_drinks quality,hotel,explicit | explicit
+رائع فندق، بلد رائع، رائع أشخاص فندق ممتاز!,فندق | أشخاص | فندق,hotel general | service general | hotel general,hotel,explicit | explicit | explicit
+رائع الموقع,الموقع,location general,hotel,explicit
+قاعدة رائعة لاستكشاف سان فرانسيسكو. لقد مكثت هنا لمدة 3 أيام أثناء استكشاف سان فرانسيسكو لأول مرة - يا له من مكان رائع!,NULL,hotel general,hotel,implicit
+يقع الفندق على مسافة قريبة سيرًا على الأقدام من ألكسندربلاتز حيث يوجد نظام مترو فعال للغاية يخدم معظم مناطق برلين.,الفندق,location general,hotel,explicit
+كان هذا الفندق نظيفًا للغاية، وكان الإفطار رائعًا، وممتازًا الخدمة وكان قريبًا من خط التلفريك.,الفندق | الإفطار | الخدمة | الفندق,hotel cleanliness | food_drinks quality | service general | location general,hotel,explicit | explicit | explicit | explicit
+بعد قراءة المراجعات الإيجابية لـ فندق Magic Castle قررت حجز ليلتين.,فندق Magic Castle,hotel general,hotel,explicit
+هذا الفندق ذو قيمة جيدة مقابل المال، لقد حجزنا غرفة ذات إطلالة جزئية على البحر غرفة كانت نظيفة ومرتبة.,الفندق | غرفة | غرفة,hotel prices | rooms cleanliness | rooms cleanliness,hotel,explicit | explicit | explicit
+لم أحب Chealsea Lodge أولاً وقبل كل شيء، أعتمد على Trip Advisor في سفري.,Chealsea Lodge,hotel general,hotel,explicit
+ولكن هذه كانت مجرد إغفالات صغيرة بالنسبة لإقامة مريحة كهذه.,NULL,hotel comfort,hotel,implicit
+رائع الموقع، نظيف وموظفين متعاونين الموظفين حجزنا لمدة 4 ليالٍ في منتصف سبتمبر حيث سبق لنا أن أقمنا هنا منذ 3 سنوات.,الموظفين | NULL | الموقع,service general | hotel cleanliness | location general,hotel,explicit | implicit | explicit
+لطيف الفندق ولكن فظيع البواب وموظفو الاستقبال,الفندق | البواب | موظفو الاستقبال,hotel general | service general | service general,hotel,explicit | explicit | explicit
+قريب جدًا من الشاطئ والمطاعم.,NULL,location general,hotel,implicit
+ممتاز !  !  !,NULL,hotel general,hotel,implicit
+لن أبقى هنا مرة أخرى .,NULL,hotel general,hotel,implicit
+يقع الموقع على بعد مبنى واحد من محطة المترو وبرج لندن، لذا من السهل التنقل.,الموقع,location general,hotel,explicit
+في الواقع، كانوا لطيفين للغاية لدرجة أنه عندما تعثرت في غطاء الصرف الصحي الذي كان في موقف السيارات، ذهب الحارس على الفور وأحضر مفك براغي وربط الغطاء بالأرض!,NULL,service general,hotel,implicit
+تناولنا الطعام في المطعم وطلبنا خدمة الغرف، وكان كلاهما رائعًا.,المطعم | خدمة الغرف,food_drinks quality | service general,hotel,explicit | explicit
+لقد أقمنا في الطابق الخامس، ويمكنني أن أقول بكل صدق أن غرفتنا  كانت نظيفة للغاية وكان بها تكييف هواء يعمل وصندوق أمانات.,الغرفة | الغرفة | الغرفة,rooms cleanliness | room_amenities general | room_amenities general,hotel,explicit | explicit | explicit
+مدهش حقًا. عدت في 12 يونيو - كان رائعًا.,NULL | NULL,hotel general | hotel general,hotel,implicit | implicit
+لقد أمضيت أنا وزوجتي للتو أربع ليالٍ رائعة في فندق بريسيادوس!,فندق بريسيادوس,hotel general,hotel,explicit
+الريف هو مكان جميل للغاية ومليء بالمناظر الخضراء الخلابة ويستحق القيام برحلة للخارج وتجربة الثقافة المحلية.,NULL,hotel general,hotel,implicit
+كانت (الغرفة 2) صغيرة ولكن لم أقضي فيها الكثير من الوقت - وكانت هادئة.,الغرفة | الغرفة,rooms design_features | rooms comfort,hotel,explicit | explicit
+أود أن أشكر شخصيًا الكونسيرج كاري وكارولينا على العمل بصبر معنا في محاولة تحديد مكان أمتعتنا المفقودة (خطأ شركة الطيران).,NULL,service general,hotel,implicit
+لقد أعجبت بشكل مناسب بإقامتي السابقة في Parkcity وسأكون كذلك مرة أخرى في أوائل يوليو.,Parkcity,hotel general,hotel,explicit
+المطعم جيد جدًا - أسعار معقولة، قائمة طعام ضخمة، مشهور جدًا.,NULL | NULL | NULL | NULL,facilities general | facilities prices | food_drinks style_options | food_drinks quality,hotel,implicit | implicit | implicit | implicit
+يقع على بعد كتلتين فقط من المترو وعلى بعد خمس دقائق سيرًا على الأقدام من برج إيفل.,NULL | NULL,location general | location general,hotel,implicit | implicit
+لقد استمتعنا حقًا بـ الإفطار وبعد الظهر الجبن والنبيذ.,الإفطار | الجبن والنبيذ,food_drinks quality | food_drinks quality,hotel,explicit | explicit
+مكثت ليلة واحدة,NULL,hotel general,hotel,implicit
+Langham Place هو مشروعي الجديد فندق من الآن فصاعدًا في هونج كونج. لم يكن لدي الوقت لاستكشاف المناطق المحيطة ولكن يمكنني أن أستنتج بشكل أفضل عن  الفندق) والمرافق.,Langham Place | فندق | المرافق,hotel general | hotel general | facilities general,hotel,explicit | explicit | explicit
+قريبة من المطاعم اللطيفة ومتجر Whole Foods الكبير في شارع Magazine.,NULL,location general,hotel,implicit
+رائع لقد أقمت مؤخرًا في فندق لونا سيمون بعد دعوة زوجتي للذهاب لرؤية بيلي إليوت في فيكتوريا.,فندق لونا سيمون,hotel general,hotel,explicit
+لقد كان (الفندق 1) أفضل مما توقعت واسترخيت تمامًا.,الفندق,hotel general,hotel,explicit
+كان الفندق الموظفين مهذبين.,الموظفين,service general,hotel,explicit
+ويقع في مكان مناسب بجوار المطار.,NULL,location general,hotel,implicit
+هذا الفندق رائع للغاية وحديث للغاية.,الفندق,hotel design_features,hotel,explicit
+في اليوم التالي، اعتذر الموظفون بشدة ونقلوني إلى غرفة تطل على هايد بارك غرفة.,غرفة | الموظفون,rooms miscellaneous | service general,hotel,explicit | explicit
+مؤذي، غريب فندق في وسط سان فرانسيسكو موقع,فندق | فندق | موقع,hotel general | hotel general | location general,hotel,explicit | explicit | explicit
+الأفضل في لندن,NULL,hotel general,hotel,implicit
+هذا فندق لطيف حقًا فندق، لكنه باهظ الثمن إلى حد ما.,فندق | فندق,hotel general | hotel prices,hotel,explicit | explicit
+قاعدة رائعة لرؤية لوس أنجلوس,NULL,location general,hotel,implicit
+كان المكان نظيفًا ومرتبًا خادمة وكان المكان غير نظيف بعض الشيء فيما يتعلق بالمناشف ولكن لم يكن هناك مشكلة الشاطئ كان لطيفًا للغاية ونظيفًا وكان به الكثير من وسائل الترفيه بغض النظر عما تحبه,NULL | خادمة | الشاطئ,rooms cleanliness | service general | location general,hotel,implicit | explicit | explicit
+لقد قضينا هناك أسبوعًا وقضينا وقتًا رائعًا.,NULL,hotel general,hotel,implicit
+لقد قضينا وقتًا رائعًا في فلورنسا، وكان الفندق جزءًا من تلك التجربة.,الفندق,hotel general,hotel,explicit
+يبدو أن غمر المرحاض باستمرار سيكون سيئًا بدرجة كافية، لكن لا، لقد ذهبوا وتوجوا أنفسهم بالإصابة بالنمل الأبيض.,NULL,rooms cleanliness,hotel,implicit
+كان الموظفين رائعين.,الموظفين,service general,hotel,explicit
+يوجد العديد من المطاعم القريبة، وكان الفندق يقدم وجبة إفطار مجانية جيدة جدًا وجبة إفطار.,وجبة إفطار | وجبة إفطار | NULL,food_drinks quality | food_drinks prices | location general,hotel,explicit | explicit | implicit
+كان الموظفون  رائعين ومستعدين دائمًا لتقديم المشورة الودية حول الأماكن التي يجب الذهاب إليها في الرحلات اليومية والمطاعم التي يجب تناول الطعام فيها.,الموظفون | الموظفون,service general | service general,hotel,explicit | explicit
+* برامج تلفزيونية رديئة. * السرير صعب للغاية,السرير,rooms comfort,hotel,explicit
+وسيكون لديك مجموعة مختارة ذكية للمسافرين ذوي الميزانية المحدودة (ولكن ليس بميزانية كبيرة جدًا!). يوجد الكثير من المواقع السياحية، وعدد كبير من المطاعم ومناطق التسوق على مسافة قريبة سيرًا على الأقدام من هذا الفندق.,NULL,location general,hotel,implicit
+ممتاز الموقع، نظيف لطيف الغرفة، كأس كبير مجاني النبيذ كل ليلة بين الساعة 6 - 7 مساءً كان بمثابة مكافأة.,الموقع | الغرفة | الغرفة | النبيذ,location general | rooms general | rooms cleanliness | food_drinks prices,hotel,explicit | explicit | explicit | explicit
+فندق صغير لطيف فندق في وسط مدينة نيويورك,فندق | فندق | NULL,hotel general | hotel design_features | location general,hotel,explicit | explicit | implicit
+الموظفين كانوا مفيدين للغاية، الموقع مذهل والمترو قريب جدًا - على الرغم من أن كاتدرائية نوتردام والحي اللاتيني كانا على بعد 15 دقيقة فقط سيرًا على الأقدام.,الموظفين | الموقع,service general | location general,hotel,explicit | explicit
+الغرفة الواحدة جناح من غرفة نوم واحدة رائعة وممتازة بالنسبة للمال.,جناح من غرفة نوم واحدة | جناح من غرفة نوم واحدة,rooms general | rooms general,hotel,explicit | explicit
+المطعم  الموجود على السطح ممتاز ويستحق الزيارة.,المطعم,facilities general,hotel,explicit
+قيمة مقابل المال لقد أقمت لمدة 5 ليالي في الفندق، ويجب أن أقول أنها قيمة مقابل المال.,الفندق | الفندق,hotel prices | hotel prices,hotel,explicit | explicit
+فندقنا الصغير المفضل فندق نظيف، مريح، مهتم، سخي.,فندق | فندق | فندق | فندق,hotel cleanliness | hotel comfort | hotel general | hotel general,hotel,explicit | explicit | explicit | explicit
+لقد وجدناها مريحة للغاية وسهلة الوصول إلى وسائل النقل المحلية.,NULL | NULL,hotel comfort | location general,hotel,implicit | implicit
+الشيء السلبي الوحيد هو أن الغرف صغيرة جدًا (الأسرة الضخمة تجعل الأمر أسوأ).,الغرف,rooms design_features,hotel,explicit
+بالتأكيد سأبقى هنا مرة أخرى في المرة القادمة التي أزور فيها بورتوريكو.,NULL,hotel general,hotel,implicit
+رائع الموقع,الموقع,location general,hotel,explicit
+"كما أنها رائعة (استمتعت تمامًا بالوجبات الخفيفة المقدمة للاستمتاع بها مع مشروباتك في البار في الطابق السفلي). الغرف كانت مذهلة ولديها بالتأكيد عامل ""إبهار"".",الغرف,rooms general,hotel,explicit
+محبوب,NULL,hotel general,hotel,implicit
+لقد أقمنا أنا وزوجي هنا بعد اختيار (فندق 1) بناءً على تقييمات أخرى - لم نشعر بخيبة أمل !!,الفندق,hotel general,hotel,explicit
+سأعود إلى هذا الفندق .,الفندق,hotel general,hotel,explicit
+الفندق الموقع جيد مع بعض المعالم السياحية ومراكز التسوق ومحطة المترو القريبة.,الموقع | الموقع,location general | location general,hotel,explicit | explicit
+تم تجديد الفندق مؤخرًا - وتم تأثيث غرفتي بشكل جيد.,غرفتي | الفندق,rooms design_features | hotel general,hotel,explicit | explicit
+كانت الإقامة رائعة خلال عطلة نهاية الأسبوع في فبراير 2008.,NULL,hotel general,hotel,implicit
+مثالية لقضاء إجازة قصيرة في باريس,NULL,hotel miscellaneous,hotel,implicit
+كان الموظفون في الفندق دائمًا متعاونين وودودين للغاية.,الموظفون | الموظفون,service general | service general,hotel,explicit | explicit
+كانت غرفتنا غرفة كبيرة جدًا، وحتى أنها كانت تحتوي على سرير غرفة منفصل عن منطقة المعيشة.,غرفة | غرفة,rooms design_features | rooms design_features,hotel,explicit | explicit
+بشكل عام، كان الفندق رائعًا فندق، وسأعود إليه مرة أخرى في المستقبل.,فندق,hotel general,hotel,explicit
+أنا متأكد من أن هذا الفندق جيد لقضاء العطلات: الغرف جيدة (خاصة المطابخ الصغيرة)، الموقع جيد جدًا، والموظفين مفيدون.,الفندق | الغرف | الموقع | الموظفين,hotel general | rooms general | location general | service general,hotel,explicit | explicit | explicit | explicit
+الموقع كان مثاليًا تمامًا، كل شيء على مسافة قريبة.,الموقع,location general,hotel,explicit
+تم عقد العديد من المؤتمرات هناك، تسجيل الدخول استغرق أكثر من ساعة!,تسجيل الدخول,service general,hotel,explicit
+رائع الموقع، رائع الخدمة، لا يوجد شيء يزعجك.,الموقع | الخدمة,location general | service general,hotel,explicit | explicit
+لقد وجدت أن أسعار Country Inn Suites في Magazine Street معقولة ونظيفة ومريحة في الموقع لمؤتمري وللحي الفرنسي.,Country Inn | الموقع | Country Inn,hotel prices | location general | hotel cleanliness,hotel,explicit | explicit | explicit
+بشكل عام، أعجبني موسر.,موسر,hotel general,hotel,explicit
+الأسرة مريحة والـ غرف جميلة.,غرف | غرف,room_amenities comfort | hotel general,hotel,explicit | explicit
+سنعود بالتأكيد ونوصي به بشدة لأي شخص يسافر إلى لندن!,NULL,hotel general,hotel,implicit
+رائع فندق مع سهولة الوصول إلى المدينة رائع ونظيف ومريح غرف.,فندق | فندق | غرف | غرف,hotel general | location general | rooms cleanliness | rooms comfort,hotel,explicit | explicit | explicit | explicit
+تعتبر كبيرة وفقًا للمعايير الأوروبية ومزينة بشكل جيد.,NULL | NULL,rooms design_features | rooms design_features,hotel,implicit | implicit
+استغرق الأمر 48 ساعة للحصول على رد وحتى الآن لم يتصل بي أحد ليخبرني بما حدث بالفعل في تلك الليلة.,NULL,service general,hotel,implicit
+قيمة رائعة مقابل المال,NULL,hotel quality,hotel,implicit
+مركزي رائع فندق,فندق | فندق,hotel general | location general,hotel,explicit | explicit
+كل شيء في هذا المكان فريد من نوعه .,NULL,hotel general,hotel,implicit
+كان المسبح و منطقة حوض الاستحمام الساخن مذهلين، على الرغم من أننا لم يكن لدينا أي وقت للاسترخاء لأننا كنا مشغولين للغاية بجولة في لوس أنجلوس.,المسبح | منطقة حوض الاستحمام الساخن,facilities general | facilities general,hotel,explicit | explicit
+الإيجابيات - مسموح باصطحاب الحيوانات الأليفة - القهوة والشاي العضويان متوفران في الردهة كل صباح - Aveda مستلزمات الحمام - ناعمة أردية حمام - نبيذ رائع الاستقبال - ناعمة رائعة بياضات السلبيات - حجم الغرفة -,أردية حمام | مستلزمات الحمام | بياضات | الاستقبال,room_amenities quality | room_amenities general | rooms quality | service general,hotel,explicit | explicit | explicit | explicit
+قيمة ممتازة (بأسعار لندن) لإقامة فاخرة.,NULL | NULL,hotel prices | hotel general,hotel,implicit | implicit
+كان الإفطار على مستوى عالٍ وكذلك كان بار السطح الجميل.,الإفطار | بار السطح,food_drinks quality | facilities general,hotel,explicit | explicit
+رائع الموقع الموظفين كانوا ودودين للغاية.,الموقع | الموظفين,location general | service general,hotel,explicit | explicit
+التميز فندق صغير جميل فندق بتصميم داخلي رائع، من الدرجة الأولى خدمة ورائع موقع.,فندق | فندق | خدمة | موقع,hotel general | hotel design_features | service general | location general,hotel,explicit | explicit | explicit | explicit
+الغرف على الجانب الأساسي، ولكنها تحتوي على كل ما قد تحتاجه.,الغرف,rooms quality,hotel,explicit
+أفضل بعشر مرات من التقييمات حتى الآن. قمت بالحجز في Civic Center Ramada من خلال Yahoo travel / Travelocity.,Civic Center Ramada,hotel general,hotel,explicit
+الغرف  صغيرة، لكن المبنى مثير للاهتمام من الناحية المعمارية باعتباره مزيجًا من ثلاثة مبانٍ قديمة تم تجديدها لتصبح فندق.,الغرف | فندق,rooms design_features | hotel design_features,hotel,explicit | explicit
+بشكل عام جيد,NULL,hotel general,hotel,implicit
+سأوصي بالتأكيد بهذا الفندق للأصدقاء وسأبقى فيه مرة أخرى عندما أعود إلى نيو أورلينز.,الفندق,hotel general,hotel,explicit
+أخطط للبقاء هنا مرة أخرى.,NULL,hotel general,hotel,implicit
+ظاهرة واحدة من أفضل الفنادق على الإطلاق.,الفنادق | الفنادق,hotel general | hotel general,hotel,explicit | explicit
+الأسلوب السخيف أهم من الجوهر,NULL,hotel design_features,hotel,implicit
+في الصباح كان الإفطار سيئًا للغاية وعندما طلبت الشوكولاتة لطفلي لم يكن لديهم أي شيء.,NULL,food_drinks quality,hotel,implicit
+يقع هذا الفندق في موقع رائع( قريب من جميع المواقع السياحية في برشلونة، والموظفون متعاونون للغاية منذ دخولك الفندق حتى مغادرتك.,موقع | NULL,location general | service general,hotel,explicit | implicit
+قيمة جيدة وموقع رائع. لقد أقمت في فندق Monticello خلال عطلة نهاية الأسبوع التذكارية عام 2004.,موقع | Monticello,location general | hotel prices,hotel,explicit | explicit
+الحمامات قديمة أيضًا ومتسربة.,الحمامات | الحمامات,rooms design_features | rooms quality,hotel,explicit | explicit
+رائع الموقع موقع رائع، أوصي بهذا الفندق لقضاء عطلة قصيرة في المدينة!,الموقع | الفندق,hotel general | hotel general,hotel,explicit | explicit
+كانت غرفتنا : كبيرة، ذات إطلالة جيدة ومزينة بشكل جيد.,الغرفة | الغرفة | الغرفة,rooms design_features | rooms general | rooms design_features,hotel,explicit | explicit | explicit
+لم نستخدم المطعم، ولكن وجدنا العديد من الأماكن على مسافة قريبة سيرًا على الأقدام لجميع الوجبات.,NULL,location general,hotel,implicit
+يُعد الفندق قاعدة مثالية لاستكشاف بوسطن لعدة أيام، وذلك بفضل إمكانية الوصول المجاني إلى الإنترنت في الردهة ومقهى ستاربكس.,NULL,facilities design_features,hotel,implicit
+جميل حقًا أن يجعلنا نشعر بالترحاب حقًا.,NULL,service general,hotel,implicit
+كان الفناء غريبًا، وكانت الغرف  نظيفة للغاية وكان الموظفون متعاونين للغاية.,الغرف | الموظفون | NULL,rooms cleanliness | service general | hotel design_features,hotel,explicit | explicit | implicit
+تجربة رائعة أخرى قضيت ثلاث ليالٍ هنا في أوائل شهر مايو.,NULL,hotel general,hotel,implicit
+قريب من كل شيء في سان فرانسيسكو.,NULL,location general,hotel,implicit
+يقع بالقرب من حديقة جميلة جدًا.,NULL,location general,hotel,implicit
+كان الموظفون مهذبين وفعالين وكان البار الخدمة ممتازًا.,الخدمة,service general,hotel,explicit
+رائع الموقع,الموقع,location general,hotel,explicit
+بوتيك رائع فندق,فندق,hotel general,hotel,explicit
+كان الفندق غرفة جيدًا، صغيرًا إلى حد ما ولكنه مقبول.,غرفة | غرفة,rooms general | rooms design_features,hotel,explicit | explicit
+لقد شعرنا بالترحيب منذ لحظة وصولنا عبر المصعد الصغير حتى وقت مغادرتنا المبكر.,NULL,service general,hotel,implicit
+لا أستطيع أن أوصي بهذا بما فيه الكفاية !!,NULL,hotel general,hotel,implicit
+حسنًا - أحب الأطفال عطلة نهاية الأسبوع على الرغم من أن هذا هو الهدف بالكامل - مع الأخذ في الاعتبار التكلفة، كان من الممكن بذل جهد أفضل لإطعام الكبار,NULL,service general,hotel,implicit
+استمتعنا أيضًا بـ الأنشطة بجانب حمام السباحة مثل دروس اللغة الإسبانية والتمارين الرياضية المائية - وذلك بفضل فريق الأنشطة الذي قام بعمل رائع.,الأنشطة بجانب حمام السباحة | فريق الأنشطة,facilities miscellaneous | service general,hotel,explicit | explicit
+إنه نظيف ومُعتنى به جيدًا مع ديكور عصري بسيط وموظفين ودودون للغاية ومتعاونون.,NULL | NULL | NULL | موظفين | موظفين,rooms cleanliness | rooms general | rooms design_features | service general | service general,hotel,implicit | implicit | implicit | explicit | explicit
+الموقع رائع، ولكن الفندق كان مخيبا للآمال.,الموقع | الفندق,location general | hotel general,hotel,explicit | explicit
+ليس سيئا,NULL,hotel general,hotel,implicit
+أفضل جزء في كل هذا هو لطف الموظفين والذي من الصعب جدًا العثور عليه في بعض الفنادق.,الموظفين,service general,hotel,explicit
+كان المطعم بوفيه لذيذًا.,بوفيه,food_drinks quality,hotel,explicit
+وكان علي أن أضحك على تكلفة وعاء رقائق الذرة الذي تم توصيله إلى غرفتي مقابل 27 دولارًا.,NULL,food_drinks prices,hotel,implicit
+محبوب الجناح نذهب إلى نيو أورلينز بشكل متكرر للعمل والترفيه.,الجناح,hotel general,hotel,explicit
+نأمل أن يتم حل هذه المشكلة حيث يبدو أنه تم فرض رسوم زائدة بشكل كبير وإذا لم نتمكن من حلها فلن أبقى هنا مرة أخرى.,NULL,hotel general,hotel,implicit
+>باعني.,NULL,hotel general,hotel,implicit
+الشيء الوحيد الذي كان بإمكان (الفندق 1) تحسينه هو الجلوس في الردهة الرئيسية - يوجد زوجان من الكراسي وأريكة والكثير من المساحة الفارغة.,الفندق,facilities comfort,hotel,explicit
+الموقع الموقع الموقع رائع الموقع، بالقرب من المحلات التجارية والمطاعم، منطقة جيدة جدًا فيما يتعلق بمدينة برشلونة.,الموقع | الموقع,location general | location general,hotel,explicit | explicit
+كان الطعام المقدم في (بوفيه الإفطار 3) طازجًا ولذيذًا وبأسعار معقولة.,breakfast buffet | breakfast buffet | breakfast buffet,food_drinks quality | food_drinks quality | food_drinks prices,hotel,explicit | explicit | explicit
+الغرف رائعة.,الغرف,rooms general,hotel,explicit
+كانت لديهم أسرة مريحة للغاية، مثالية للتوقف المؤقت,NULL,room_amenities comfort,hotel,implicit
+العيوب الوحيدة - والتي ليست سرية - هي أن (الغرفتين) صغيرتان (على الرغم من ترتيبها بشكل جيد للغاية) والحمام (الغرفتين) مشترك (أو على الأقل كان حمامي).,غرف | غرف,rooms design_features | rooms general,hotel,explicit | explicit
+عدت للتو من إقامة لمدة خمس ليالٍ في Beacon، ولم أكن أكثر سعادة.,Beacon,hotel general,hotel,explicit
+ما كان ذات يوم فندقًا مقابل 400 دولار لليلة واحدة لرجال الأعمال والمسافرين النخبة أصبح الآن فندقًا رخيصًا من فئة 4 نجوم مقابل 49 - 79 دولارًا لليلة؛ تحقق من أي Experien أو Yahoo أو Priceline، هذا هو الأرخص من بين جميع مالكي Dupuy الأصليين وسوف يشعرون بخيبة أمل كبيرة.,NULL,hotel prices,hotel,implicit
+يبدو أن الغرفتين : قد تم إجراء بعض التعديلات عليهما، وتبدو الآن أكثر نظافة وإشراقًا.,غرف | غرف,rooms cleanliness | rooms general,hotel,explicit | explicit
+ميزانية صادقة فندق والتي من المؤكد أنها ستتجاوز توقعاتك.,فندق | فندق,hotel prices | hotel general,hotel,explicit | explicit
+كان الفندق : ذو إدارة جيدة وساحر مع شعور بالنظافة والهدوء والحداثة.,الفندق | الفندق | الفندق,hotel general | hotel design_features | hotel cleanliness,hotel,explicit | explicit | explicit
+رائع منتجع / خدمة الكونسيرج,منتجع | NULL,hotel general | service general,hotel,explicit | implicit
+أحببت بلفيدير !! !,بلفيدير,hotel general,hotel,explicit
+لم أتمكن من النوم في هذا الفندق.,الفندق,hotel comfort,hotel,explicit
+كان الطعام في المطعم الدوار ممتازًا وكذلك الخدمة، على الرغم من أنها كانت باهظة الثمن بعض الشيء.,الطعام | الخدمة | الطعام,food_drinks quality | service general | food_drinks prices,hotel,explicit | explicit | explicit
+لقد كان من دواعي سروري الإقامة في هذا الفندق مرتين في الأشهر القليلة الماضية وأعجبت به كثيرًا.,الفندق | الفندق,hotel general | hotel general,hotel,explicit | explicit
+ودود الموظفين، نظيف، واسع الغرف، مثالي الموقع وبالتأكيد.,الموظفين | الموقع | الغرف | الغرف,service general | location general | rooms cleanliness | rooms design_features,hotel,explicit | explicit | explicit | explicit
+من الواضح أن الإدارة لا تقوم بوظيفتها في ضمان الاتساق والتواصل بين الموظفين.,NULL,hotel general,hotel,implicit
+موقع الفندق رائع حيث يقع على الطريق المؤدي إلى الشاطئ مع وجود العديد من المطاعم والمحلات التجارية القريبة.,موقع الفندق | موقع الفندق,location general | location general,hotel,explicit | explicit
+لن أعود إلى The Clift ؛ Redwood Bar ممتع وموظفو الكونسيرج / الباب الأمامي جميعهم جيدون ولكن هذا كل شيء.,Redwood Bar | concierge/front door staff,facilities general | service general,hotel,explicit | explicit
+جميل جدا فندق,فندق,hotel general,hotel,explicit
+كان الحمام ضخمًا وفقًا للمعايير الإيطالية ومُحدثًا للغاية.,الحمام | الحمام,rooms design_features | rooms general,hotel,explicit | explicit
+">تحذير بشأن غرفة ""إطلالة على المحيط""",NULL,NULL,hotel,implicit
+لقد أقمت في فنادق ذات موظفين لائقة، وكان هؤلاء موظفين الأفضل.,موظفين | موظفين,service general | service general,hotel,explicit | explicit
+بالتأكيد سأعود إلى Affinia!,Affinia,hotel general,hotel,explicit
+أحب هذا الفندق,الفندق,hotel general,hotel,explicit
+نحيف و جيد الموقع لكنه يستهدف مجتمع المثليين.,الموقع,location general,hotel,explicit
+لقد قمت أنا وصديقي بالإقامة في Cruz Sol في شهر يوليو بعد إجراء حجز عبر الإنترنت قبل أشهر.,Cruz Sol,hotel general,hotel,explicit
+تقع على مسافة قصيرة سيرًا على الأقدام من الشاطئ وأماكن التسوق والطعام الجيد جدًا الطعام.,NULL | الطعام,location general | food_drinks quality,hotel,implicit | explicit
+مركزي رائع الموقع، جيد الغرفة، سرير جيد جدًا، حمام لطيف الغرفة، رائع الإفطار.,الموقع | الغرفة | الغرفة | الغرفة | الإفطار,location general | rooms general | room_amenities design_features | rooms general | food_drinks quality,hotel,explicit | explicit | explicit | explicit | explicit
+بشكل عام، كانت القيمة جيدة بالرغم من ذلك الموقع جعل الأمر يستحق العناء.,NULL | الموقع,hotel general | location general,hotel,implicit | explicit
+كانت الغرفة  نظيفة، وملاءات السرير نظيفة والحمام الغرفة نظيف للغاية.,الغرفة | الغرفة | الغرفة,rooms cleanliness | room_amenities design_features | rooms cleanliness,hotel,explicit | explicit | explicit
+سأبقى بالتأكيد مرة أخرى في الرحلة القادمة إلى نيوزيلندا,NULL,hotel general,hotel,implicit
+مجاني وجبة إفطار .,وجبة إفطار,food_drinks prices,hotel,explicit
+لقد تم تجديد غرفتنا  مؤخرًا وكانت جميلة حتى أنها تحتوي على صنبور مياه شرب.,الغرفة | الغرفة | الغرفة,rooms general | rooms general | room_amenities general,hotel,explicit | explicit | explicit
+إنه قريب جدًا من الحدث، ولكن في المرة القادمة سأنفق بضعة دولارات إضافية للإقامة في مكان ما,NULL,location general,hotel,implicit
+هناك خيارات أفضل من هذا الفندق المتعب والقديم الفندق,الفندق,hotel quality,hotel,explicit
+الغرف : والممرات : قديمة بعض الشيء، ولكنها نظيفة للغاية وتحتوي على العديد من : وسائل الراحة.,غرف | hallways | غرف | hallways | amenities,rooms design_features | rooms design_features | rooms cleanliness | rooms cleanliness | room_amenities general,hotel,explicit | explicit | explicit | explicit | explicit
+المشكلة الوحيدة هي أن الشقة ذات الثلاث غرف نوم لا تحتوي على غرفة معيشة (غرفة واحدة) ولا يوجد بها مطبخ كامل,الغرفة,rooms design_features,hotel,explicit
+موصى به للغاية,NULL,hotel general,hotel,implicit
+ومع ذلك، كان الدش/حوض الاستحمام خطيرًا للغاية وبالتأكيد ليس مناسبًا للأزواج الناضجين أو الأشخاص ذوي الإعاقة.,الدش/حوض | الدش/حوض | الدش/حوض,rooms general | rooms miscellaneous | rooms miscellaneous,hotel,explicit | explicit | explicit
+وبقيت هنا لمدة 4 ليالٍ قبل الذهاب إلى كيب كود. هذا الفندق هو قاعدة رائعة لرؤية جميع المعالم السياحية في بوسطن.,الفندق,location general,hotel,explicit
+إقامة رائعة لقد أمضيت هنا ليلة واحدة قبل أن أغادر من رحلة طويلة وباردة وممطرة.,NULL,hotel general,hotel,implicit
+لقد قضينا وقتًا رائعًا في هذا (الفندق 1).,الفندق,hotel general,hotel,explicit
+غير موصى به,NULL,hotel miscellaneous,hotel,implicit
+سأعود للمرة الثالثة هذا العام لأن هذا الفندق جذاب للغاية.,الفندق,hotel general,hotel,explicit
+بعد العثور على عرض رائع على Travelzoo توجهت زوجتي إلى المدينة لقضاء المساء.,NULL,hotel prices,hotel,implicit
+الخدمة كانت لا تشوبها شائبة، والغرف جميلة جدًا.,الخدمة | الغرف,service general | rooms general,hotel,explicit | explicit
+إقامة جيدة,NULL,hotel general,hotel,implicit
+تجنبه بأي ثمن، كيف يمكن لهذا المكان أن يطلق على نفسه فندقًا من فئة 4.5/5 نجوم؟ هذا أمر لا أفهمه,NULL,hotel general,hotel,implicit
+لقد شعرنا في الواقع بقليل من الاكتئاب في هذا (الفندق 1)، ولم نتمكن من الانتظار للمغادرة - لذلك قمنا بتسجيل الخروج مبكرًا بيوم.,الفندق,hotel general,hotel,explicit
+عند وصولنا كان علينا أن ندفع نقدًا قبل الدخول إلى (الغرفة 1)، ثم وجدنا على أحد الأسرّة أغطية سرير متسخة كان لا بد من تغييرها.,الغرفة | NULL,rooms prices | room_amenities cleanliness,hotel,explicit | implicit
+لقد أحببنا ذلك حقًا !!,NULL,hotel general,hotel,implicit
+كان هذا (الفندق 2) على بعد كتلة واحدة من صف المطاعم وعلى بعد كتلتين من منطقة المسرح بالإضافة إلى أنه بلغ متوسط السعر 159 دولارًا في الليلة.,الفندق | الفندق,location general | hotel prices,hotel,explicit | explicit
+لقد حصلنا على خدمة رائعة  وإطلالة رائعة  وموقع رائع  وعدد قليل من الأشياء الأخرى غير المعتادة بالنسبة لفنادق المدن الكبرى (على سبيل المثال، قائمة الوسائد والتركيز على الأنشطة البدنية / الصحية).,service | موقع | NULL,service general | location general | hotel miscellaneous,hotel,explicit | explicit | implicit
+كان الموظفون  مفيدين وكانت معرفتهم بمدينة سان فرانسيسكو ممتازة.,الموظفون | الموظفون,service general | service general,hotel,explicit | explicit
+كان الفندق الموظفين وقحين ولا أصدق الصور التي يعرضونها على موقعهم على الإنترنت، لا يبدو الأمر كذلك على الإطلاق.,الموظفين,service general,hotel,explicit
+الغرف : رائعة والموقع : رائع.,غرف | موقع,rooms general | location general,hotel,explicit | explicit
+إنه يستحق ذلك,NULL,hotel general,hotel,implicit
+نظرًا لأننا كنا مضطرين للذهاب إلى مانهاتن للعمل، فقد قامت شركتنا بحجز غرفة لنا في هذا فندق.,فندق,hotel general,hotel,explicit
+أسوأ من أي وقت مضى هذا هو أسوأ فندق أقمت فيه خلال عشرين عامًا من السفر.,فندق,hotel general,hotel,explicit
+أوصي بهذا الفندق دون تحفظ.,الفندق,hotel general,hotel,explicit
+قريبة من أماكن التسوق ومعالم الجذب في وسط المدينة.,NULL,location general,hotel,implicit
+الموظفين كان ودودًا.,الموظفين,service general,hotel,explicit
+لقد قضينا إقامة رائعة لمدة 5 أيام - قريبة جدًا من أفضل جزء من المدينة والمعالم السياحية الرئيسية!,NULL | NULL,location general | hotel general,hotel,implicit | implicit
+لقد بقينا ليلة واحدة فقط ولكن الفندق كان ودودًا للغاية.,NULL,hotel general,hotel,implicit
+ممتاز الموقع والإطلالة!,الموقع,location general,hotel,explicit
+يعتبر The 41 جوهرة مطلقة، فهو مريح مع طاقم عمل ودود للغاية موظفين.,موظفين,service general,hotel,explicit
+مفيد للغاية وودود.,NULL | NULL,service general | service general,hotel,implicit | implicit
+المقهى والبار يعطيان الفندق أجواء رائعة.,المقهى والبار يعطيان الفندق,hotel design_features,hotel,explicit
+هادئ جدا -,NULL,rooms comfort,hotel,implicit
+كان الموظفون ودودين للغاية وقد قدموا الكثير من النصائح المفيدة حول الجولات المختلفة وما إلى ذلك.,الموظفون | الموظفون,service general | service general,hotel,explicit | explicit
+ملاذ بين الفنادق الرديئة بعد تجربة مروعة في فندق لافاييت في نهاية الشارع، عدت أنا وزميلي إلى الراحة المألوفة في فندق ماريوت.,the Marriott.,hotel comfort,hotel,explicit
+لطيف فندق فندق لطيف للإقامة أثناء رحلة الفتيات.,فندق,hotel general,hotel,explicit
+أخطط للبقاء في الفندق Le Cirque مرة أخرى ... ولو فقط لأشكر الموظفين على تواجدهم من أجلنا.,Le Cirque,service general,hotel,explicit
+دفعت 535.00 دولارًا لمدة 4 ليالٍ.,NULL,hotel prices,hotel,implicit
+مكان نظيف وجميل للإقامة وبسعر متوسط.,NULL | NULL | NULL,hotel cleanliness | hotel prices | hotel cleanliness,hotel,implicit | implicit | implicit
+معزولة قليلاً للنزول من المنتجع.,المنتجع,location general,hotel,explicit
+عند خروجي من الفندق، اتهمني الموظفين بمحاولة التوفير في مشتريات الميني بار.,الموظفين,service general,hotel,explicit
+ليس سيئا للغاية بعد أن بقيت هنا عدة مرات في الماضي الفندق بدأ يظهر عليه التآكل قليلاً.,الفندق,hotel design_features,hotel,explicit
+الفندق حميمي وبريطاني للغاية.,الفندق,hotel general,hotel,explicit
+كيمبرلي أ - حسنًا لقد مكثنا في فندق كيمبرلي في الأسبوع الأخير من شهر أبريل.,كيمبرلي,hotel general,hotel,explicit
+فندق كاسكي رائع,فندق كاسكي,hotel general,hotel,explicit
+جميل الموقع وجميل جداً الغرف.,الموقع | الغرف,location general | rooms general,hotel,explicit | explicit
+أتمنى أن أعود مرة أخرى، هذه المرة لقضاء شهر العسل.,NULL,hotel miscellaneous,hotel,implicit
+مع وجود فنادق جيدة وسائل الراحة وموظفين ودودين ومتعاونين موظفين، وجدت نفسي قادرًا على إكمال أعمالي والاستمتاع ببعض الحياة الليلية التي اشتهر بها شارع بوربون.,وسائل الراحة | موظفين | موظفين,room_amenities general | service general | service general,hotel,explicit | explicit | explicit
+لقد أعجبت بجميع جوانب Affinia 50.,Affinia 50,hotel general,hotel,explicit
+نظيف للغاية وممتاز الخدمة .,NULL | الخدمة,hotel cleanliness | service general,hotel,implicit | explicit
+يبدو الحي المحيط متهالكًا بعض الشيء ولكن ربما يكون هذا هو الشعور القديم للمكان.,NULL,hotel general,hotel,implicit
+فندق رائع فندق في موقع رائع بجوار نقطة تفتيش تشارلي.,فندق | فندق,hotel general | location general,hotel,explicit | explicit
+الغرف  حديثة وواسعة حسب المعايير اليابانية.,الغرف,rooms design_features,hotel,explicit
+احببته!,NULL,hotel general,hotel,implicit
+الموظفين كاذبون جدًا، وراء ابتسامتهم شخص بائس جدًا.,الموظفين | الموظفين,service general | service general,hotel,explicit | explicit
+لقد كان ذلك خارج نيو أورليانز بقليل,NULL,location general,hotel,implicit
+الغرفة القياسية غرفة ليست كبيرة جدًا، ولكن إذا قمت بتخزين ملابسك في الخزانة ووضع حقائبك تحت السرير، ستشعر وكأنك في منزلك حقًا !!,غرفة | غرفة,rooms design_features | rooms comfort,hotel,explicit | explicit
+قاعدة ذات قيمة جيدة في برلين.,NULL,hotel prices,hotel,implicit
+الموقع إلى DART رائع.,الموقع,location general,hotel,explicit
+لقد أعجبنا أكثر من كل شيء بـ بار السطح، الذي يقدم الشاي والقهوة مجانًا وكان مكانًا رائعًا لمشاهدة غروب الشمس.,بار السطح | بار السطح | بار السطح,facilities general | facilities prices | facilities general,hotel,explicit | explicit | explicit
+منظر رائع حقًا! رائع الموقع، في قلب أمستردام.,الموقع | NULL,location general | hotel miscellaneous,hotel,explicit | implicit
+لقد كانت إقامتي في هذا الفندق رائعة.,NULL,hotel general,hotel,implicit
+ممتاز الموقع الموقع، الموقع، الموقع!,الموقع,location general,hotel,explicit
+وكانت الخدمة المقدمة من موظفي الجرس رائعة بنفس القدر.,موظفي الجرس,service general,hotel,explicit
+جميل جدًا فندق في موقع رائع لقد عدت للتو من عطلة نهاية أسبوع طويلة في باريس حيث مكثت في أغورا.,فندق | موقع رائع,hotel general | location general,hotel,explicit | explicit
+لا يوجد شيء غير عادي في هذا الفندق، صالة الألعاب الرياضية غريبة، غرف صغيرة، الحمام كبير حقًا، كان حوالي 1/2 حجم غرفة النوم...,صالة الألعاب الرياضية | غرف | غرف,facilities general | rooms design_features | rooms design_features,hotel,explicit | explicit | explicit
+لقد قضينا بضعة أيام هنا في نهاية شهر أكتوبر للاحتفال بعيد زواجنا ولم يكن بإمكاننا اختيار مكان أفضل.,NULL,hotel general,hotel,implicit
+كانت الخدمة  مذهلة، حيث تم استخدام اسمك عند تسجيل الوصول، وتزويدك بخادم شخصي وما إلى ذلك.,الخدمة,service general,hotel,explicit
+تحتوي على إضاءة مزاجية وستائر إلكترونية ضخمة تلفزيون بلازما ...,تلفزيون بلازما,room_amenities design_features,hotel,explicit
+الفندق غرفة كما هو متوقع بالنسبة لأجنحة السفارة، مستوى الضوضاء على جانب السرير غرفة من الطريق مرتفع للغاية ومزعج.,غرفة | غرفة,rooms design_features | rooms comfort,hotel,explicit | explicit
+نوصي بشدة بهذا الفندق وسوف نقوم بحجز إقامة أخرى في وقت لاحق من هذا العام! ! ! ! ! !,الفندق,hotel general,hotel,explicit
+أحببت هذا الفندق لقد أقمت هنا مؤخرًا مع ابني (الذين تتراوح أعمارهم بين 9 و 11 عامًا).,الفندق,hotel general,hotel,explicit
+الخدمة جيدة - كافية والسلالم (لا يوجد مصعد) يمكن أن تكون مخيفة إذا كان لديك حقائب كبيرة.,الخدمة | NULL,service general | facilities general,hotel,explicit | implicit
+أعتقد أن الفندق مناسب فقط لراكبي الأمواج والشباب.,الفندق,hotel general,hotel,explicit
+نظيفة للغاية ومصانة جيدا.,NULL,hotel cleanliness,hotel,implicit
+بشكل عام، يعد هذا مكانًا رائعًا للإقامة إذا كنت ترغب في الاستمتاع بالسلام والهدوء ولكن كن قريبًا من المركز الرئيسي (على بعد 5/8 دقائق),NULL | NULL | NULL,hotel general | hotel comfort | location general,hotel,implicit | implicit | implicit
+أحببت الفندق، الموظفين والموقع,الفندق | الموظفين | الموقع,hotel general | service general | location general,hotel,explicit | explicit | explicit
+هذه هي إقامتي الثانية في فندق أنجيلينو في برينتوود.,فندق أنجيلينو,hotel general,hotel,explicit
+يتميز هذا الفندق بالعديد من النقاط الإيجابية - لطيف الموقع، ودود ومتعاون الموظفين، مريح الغرف.,الموقع | الموظفين | الغرف,hotel general | service general | rooms comfort,hotel,explicit | explicit | explicit
+كانت محاولة الحصول على مشروب من الفندق بار تحديًا ولكن إذا لم تكن في عجلة من أمرك فسوف تحصل عليه.,بار | NULL,facilities general | facilities comfort,hotel,explicit | implicit
+رحلة رائعة لقد أقمنا لمدة أربع ليالي في Harbour Plaza North Point، في يونيو 2007.,Harbour Plaza North Point,hotel general,hotel,explicit
+ليس مكانًا سيئًا للإقامة، كنا بحاجة إلى مكان غير مكلف إلى حد ما بالقرب من الحي ووجدناه الفناء.,الفناء,hotel prices,hotel,explicit
+لقد جعل الموظفون موظفين ودودين وفعالين كل شيء يسير بسلاسة وكانت غرفتنا غرفة جميلة.,موظفين ودودين وفعالين | موظفين ودودين وفعالين | موظفين ودودين وفعالين | غرفة,service general | service general | service general | rooms general,hotel,explicit | explicit | explicit | explicit
+لقد استمتعنا كثيرًا بالليلتين اللتين أمضيناهما هنا.,NULL,hotel general,hotel,implicit
+أفضل مما توقعنا!,NULL,hotel general,hotel,implicit
+كما أن الحصول على محطة كمبيوتر مجانًا إنترنت كان أمرًا رائعًا.,محطة كمبيوتر | إنترنت,facilities prices | facilities general,hotel,explicit | explicit
+في قلب الواجهة البحرية السياحية.,NULL,location general,hotel,implicit
+قيمة جيدة مقابل المال، نظيف للغاية وجيد وجبة الإفطار.,NULL | NULL | وجبة الإفطار,hotel prices | hotel cleanliness | food_drinks quality,hotel,implicit | implicit | explicit
+يقع الفندق أيضًا يقع بجوار متنزه فونديل مباشرةً، وهو مكان رائع للتجول ومشاهدة السكان المحليين وهم يركضون ويمارسون رياضة الجري ويمشون مع كلابهم (أحيانًا في نفس الوقت!). سأعود بالتأكيد إلى هنا عند زيارتي القادمة لأمستردام.,يقع,location general,hotel,explicit
+فندق واترتاون - - مذهل!,فندق واترتاون,hotel general,hotel,explicit
+لقد حصلت بالتأكيد على التجربة التي كنت أهدف إليها.,NULL,hotel general,hotel,implicit
+رائع !,NULL,hotel general,hotel,implicit
+باختصار، ربما يكون هذا أفضل فندق  قمت بالإقامة فيه على الإطلاق.,الفندق,hotel general,hotel,explicit
+جميلة وهادئة,NULL | NULL,hotel general | hotel comfort,hotel,implicit | implicit
+نحن نحب القديس فرانسيس,القديس فرانسيس,hotel general,hotel,explicit
+مكان جيد للإقامة في سياتل,NULL,hotel miscellaneous,hotel,implicit
+إن القول بأنني استمتعت بوقتي في جايز هو أقل من الحقيقة!,جايز,hotel general,hotel,explicit
+من المؤكد أن الموقع جيد، ولكن إذا كنت أعرف أن الغرف تبدو بهذا الشكل كنت سأذهب إلى فندق روزفلت.,الموقع,location general,hotel,explicit
+ممتاز الخدمة، ودود الموظفين، جيد الطعام.,الخدمة | الطعام | الموظفين,service general | food_drinks quality | service general,hotel,explicit | explicit | explicit
+ممتاز الموقع . . .,الموقع,location general,hotel,explicit
+لقد أحببته . . .,NULL,hotel general,hotel,implicit
+لطيف وجبة الإفطار مع مجموعة جيدة من العناصر.,وجبة الإفطار | وجبة الإفطار,food_drinks quality | food_drinks style_options,hotel,explicit | explicit
+صفائح البوليستر,NULL,hotel design_features,hotel,implicit
+كان نظيفًا ومريحًا وكان الموظفون ودودين.,NULL | NULL | الموظفون,hotel cleanliness | hotel comfort | service general,hotel,implicit | implicit | explicit
+اختيار هائل في بوفيه إفطار وأفضل حمام سباحة / ساونا / نادي صحي استخدمناه على الإطلاق.,بوفيه إفطار | pool/ sauna/ health club,food_drinks style_options | facilities general,hotel,explicit | explicit
+كان الموظفين ودودين للغاية ومتعاونين.,الموظفين | الموظفين,service general | service general,hotel,explicit | explicit
+كان هناك شخص غير مبتسم وغير متعاون في مكتب الاستقبال مما منعني من الحصول على مراجعة ممتازة.,NULL,service general,hotel,implicit
+لقد أرسلت بريدًا إلكترونيًا إلى الفندق مرتين - ولم أتلق أي رد وفي النهاية اضطررت إلى الاتصال بالفندق للحصول على استرداد المبلغ - وهو ما فعلوه على الفور ولكن دون اعتذار أو تفسير.,NULL,service general,hotel,implicit
+جميل اللوبي، جميل الغرف، لطيف الموظفين.,الغرف | اللوبي | الموظفين,rooms general | hotel general | service general,hotel,explicit | explicit | explicit
+كان الطعام رائعًا، وكانت الغرف جيدة وكان الموظفون مذهلين.,الطعام | الغرف | الموظفون,food_drinks quality | rooms general | service general,hotel,explicit | explicit | explicit
+جلبت إلى المنزل بق الفراش مكان جميل، ولكن واسع الفندق وغير شخصي قليلاً.,الفندق,hotel cleanliness,hotel,explicit
+بالتأكيد سأبقى هنا مرة أخرى.,NULL,hotel general,hotel,implicit
+يمكنك أن تقول أن هذا الفندق جديد وجيد,الفندق,hotel general,hotel,explicit
+لقد أقمنا في ريتز ميلينيا لمدة 5 أيام في سبتمبر 06.,ريتز ميلينيا,hotel general,hotel,explicit
+كان الموظفون مهذبين للغاية وكانت الغرفة واسعة ونظيفة.,الموظفون | الغرفة | الغرفة,service general | rooms design_features | rooms cleanliness,hotel,explicit | explicit | explicit
+مكان عظيم!,NULL,hotel general,hotel,implicit
+كان لديهم مخزون كبير من جميع الصحف المتوفرة في الردهة مجانًا.,NULL,facilities miscellaneous,hotel,implicit
+والخبر السار هو أن هذه منطقة سياحية مريحة ذات معالم مسلية مثل فناني الشوارع.,NULL | NULL,location general | location general,hotel,implicit | implicit
+ملاذ سعيد,NULL,hotel general,hotel,implicit
+كان الموظفين ودودين ومتعاونين.,الموظفين,service general,hotel,explicit
+و، الموقع من الصعب جدًا التغلب عليه - على بعد مبنى واحد فقط من بلازا مايور، وعلى مقربة من الحانات والمطاعم، وليس بعيدًا عن محطة المترو.,الموقع,location general,hotel,explicit
+كان (فندق 3) لطيفًا مع طابع أوروبي وكان مكانًا نظيفًا للغاية وكان الموظفون رائعين للغاية.,الفندق | الفندق | الفندق,hotel design_features | hotel cleanliness | service general,hotel,explicit | explicit | explicit
+لقد أحببت حقًا الموقع والموظفين كانا رائعين مع الأخذ في الاعتبار أنني كنت هناك أثناء مهرجان Essence الموسيقي,الموقع | الموظفين,location general | service general,hotel,explicit | explicit
+هناك عدد كبير من الفنادق وأنا أقول، ابحث في مكان آخر,NULL,hotel miscellaneous,hotel,implicit
+كان السرير واحدًا من أكثر الأسرّة راحة التي نمت عليها أنا وزوجي على الإطلاق.,NULL,room_amenities comfort,hotel,implicit
+سعر الغرفة الفردية : سعر الغرفة المزدوجة.,الغرفة,rooms prices,hotel,explicit
+لقد كانوا رائعين!,NULL,service general,hotel,implicit
+كانت (الغرفة 2) نظيفة للغاية، والحمام (الغرفة 2) لطيف، والإقامة حديثة للغاية.,الغرفة | الغرفة | NULL,rooms cleanliness | rooms quality | facilities design_features,hotel,explicit | explicit | implicit
+لقد أقمت في هذا الفندق في أوائل شهر مارس، وعلى الرغم من أن الموقع ممتاز، فلن نعود إلى هذا الفندق.,الموقع | الفندق,location general | hotel general,hotel,explicit | explicit
+كان الموظفون : متعاونين للغاية، حتى أن المدير عرض علينا السماح لنا بترك أمتعتنا الكبيرة هناك من أجل رحلة صغيرة إلى لندن.,الموظفون,service general,hotel,explicit
+يا إلهي، كان طفلي متحمسًا: كانت الأجنحة الجديدة تمامًا : جميلة بشكل لا يصدق، مع وسائل راحة فاخرة وخدمة لطيفة للغاية.,الأجنحة | الأجنحة | الأجنحة | خدمة,rooms design_features | rooms design_features | room_amenities quality | service general,hotel,explicit | explicit | explicit | explicit
+قيمة جيدة وموقع مركزي للغاية - حوالي 5 دقائق إلى سانتا كروشيه.,NULL | NULL,location general | hotel general,hotel,implicit | implicit
+كان جميع الموظفين  الذين قابلناهم ودودين ولم يدخروا جهدًا لجعل إقامتنا ممتعة.,الموظفون | الموظفون,service general | service general,hotel,explicit | explicit
+الموقع جيد أيضًا، مركزي للغاية وكان لدينا 3 غرف في أجزاء مختلفة من الفندق ولم يعاني أي منا من أي من الضوضاء المشار إليها في المراجعات السابقة.,الموقع | الفندق,location general | hotel comfort,hotel,explicit | explicit
+الفندق = جميل .,الفندق,hotel design_features,hotel,explicit
+أوصي به باعتباره صفقة جيدة مقابل المال,NULL | NULL,hotel general | hotel prices,hotel,implicit | implicit
+كانت الغرف جميلة جدًا و الأسرّة مريحة جدًا.,الغرف | الأسرّة,rooms general | room_amenities comfort,hotel,explicit | explicit
+الغرف ديلوكس واسعة جدًا ومجهزة بشكل فاخر ومريحة.,ديلوكس | ديلوكس | ديلوكس,rooms design_features | rooms design_features | rooms comfort,hotel,explicit | explicit | explicit
+نحن نبقى في كثير من الأحيان في Holiday Inns وكان هذا لطيفًا.,Holiday Inns,hotel general,hotel,explicit
+لقد استمتعت بشكل خاص بالموظفين الودودين الموظفين في صالة البولو.,الموظفين,service general,hotel,explicit
+مكان رائع للإقامة بأسعار معقولة لقد مكثت لمدة ليلتين في نهاية الأسبوع الماضي واستمتعت بإقامة رائعة.,NULL | NULL | NULL,hotel general | hotel general | hotel prices,hotel,implicit | implicit | implicit
+كانت خدمة سيارات الأجرة  المتوفرة عبر الفندق ودودة للغاية ومفيدة.,خدمة سيارات الأجرة | خدمة سيارات الأجرة,service general | service general,hotel,explicit | explicit
+رائع فندق لا يمكننا الثناء على هذا فندق بما فيه الكفاية!,فندق | فندق,hotel general | hotel general,hotel,explicit | explicit
+يقع (الفندق 1) في موقع جيد ومركزي.,الفندق,location general,hotel,explicit
+لقد كانوا مفيدين للغاية في اقتراحات المطاعم.,NULL,service general,hotel,implicit
+فخم جداً فندق .,فندق,hotel design_features,hotel,explicit
+كانت شكواي الوحيدة هي الجدران الرقيقة (يمكنك سماع الثرثرة في الغرفة المجاورة حتى عندما كان الآخرون يستخدمون أصواتًا متحدثة)، وفي إحدى الليالي كان الجيران يحبون الحفلات في وقت متأخر.,NULL,rooms comfort,hotel,implicit
+تم تغيير الملاءات والمناشف يوميًا، غرفة كانت بحجم كافٍ مع مرافق صنع الشاي التي تم تجديدها كل يوم، وكان الإفطار بسيطًا ولكنه صالح للأكل للغاية والموظفين، على الرغم من أننا لم نكن بحاجة إلى الكثير، كانوا مفيدين!,NULL | غرفة | NULL | الموظفين | NULL,room_amenities general | rooms design_features | food_drinks style_options | service general | food_drinks quality,hotel,implicit | explicit | implicit | explicit | implicit
+العقار فريد من نوعه ولطيف وعصري.,NULL | NULL | NULL,hotel general | hotel general | hotel general,hotel,implicit | implicit | implicit
+ممتع!,NULL,hotel general,hotel,implicit
+أحببنا فندق سبالدينج جيد جدًا الموقع، ذو موقع مركزي بالقرب من المسارح ومراكز التسوق.,فندق سبالدينج | الموقع | فندق سبالدينج,hotel general | location general | location general,hotel,explicit | explicit | explicit
+لقد أقمنا لمدة 4 ليالي في هذه الجوهرة الواقعة في الجانب العلوي الشرقي.,NULL,hotel general,hotel,implicit
+الفندق جيد جدًا، الغرف ذات أحجام مناسبة والإفطار رائع.,الفندق | الغرف | الإفطار,hotel general | rooms design_features | food_drinks quality,hotel,explicit | explicit | explicit
+أوصي به بالتأكيد!,NULL,hotel general,hotel,implicit
+مؤذي، رومانسي، غريب، لا شكاوى.,NULL | NULL | NULL,hotel general | hotel general | hotel general,hotel,implicit | implicit | implicit
+خلال رحلتنا عبر المكسيك أقمنا ثلاث ليالٍ في فندق NH مكسيكو سيتي.,فندق NH مكسيكو سيتي,hotel general,hotel,explicit
+مريح للغاية كان من الصعب العثور على أي فندق فندق معقول به غرف شاغرة عند الوصول قبل عطلة في اليابان، لذا قررنا تجربة هذا (بناءً على تقييمات من TripAdvisor، بالطبع). عند الوصول إلى المطار (ناريتا)، طلبنا الذهاب إلى شيناغاوا وحصلنا على تذكرة لقطار يذهب مباشرة إلى هناك، عبر الشارع مباشرة من فندق.,فندق | فندق,hotel general | location general,hotel,explicit | explicit
+رائع الفندق، رائع الموظفين، رائع الموقع,الفندق | الموظفين | الموقع,hotel general | service general | location general,hotel,explicit | explicit | explicit
+كانت الغرفتان : جيدتان ولكنهما صغيرتان.,غرف | غرف,rooms general | rooms design_features,hotel,explicit | explicit
+حسنًا مقابل المال... أقمت في فندق أكاديميا لمدة 3 ليالٍ في منتصف نوفمبر 2004.,فندق أكاديميا,hotel prices,hotel,explicit
+لكن في الواقع اتضح أنه أمر عظيم.,NULL,hotel general,hotel,implicit
+لقد مكثت بضعة أيام في مدينة نيويورك في طريقي إلى المنزل من الساحل الغربي.,NULL,hotel general,hotel,implicit
+بالنسبة للمطار الفندق، كان هادئًا بشكل مدهش، الغرف كانت مريحة للغاية ومجهزة جيدًا، وكان الموظفون جميعًا متعاونين ومهذبين للغاية.,الفندق | الغرف | الغرف | الموظفون | الموظفون,hotel comfort | rooms comfort | rooms general | service general | service general,hotel,explicit | explicit | explicit | explicit | explicit
+الغرف كانت كافية ومزينة بشكل جيد ونظيفة وحديثة الحمامات.,الغرف | الغرف | الحمامات | الحمامات,rooms quality | rooms design_features | rooms cleanliness | rooms design_features,hotel,explicit | explicit | explicit | explicit
+يبدو أن كل شيء كان خارجا عن المألوف بعض الشيء.,NULL,hotel general,hotel,implicit
+ممتاز الموقع هذا رائع الفندق بالنظر إلى السعر، الموقع ومستوى الخدمة.,الموقع | الفندق | الفندق | الموقع | الخدمة,location general | hotel general | hotel prices | location general | service general,hotel,explicit | explicit | explicit | explicit | explicit
+بكل إنصاف، الأسرة قدمت إطلالة جميلة على المحيط والموظفين كانوا صادقين ومفيدين للغاية.,الأسرة | الموظفين | الموظفين,room_amenities general | service general | service general,hotel,explicit | explicit | explicit
+كانت لوسي مفيدة للغاية وكانت (الغرفة 3) نظيفة للغاية - لقد تم تجديدها للتو.,NULL | الغرفة | الغرفة,service general | rooms cleanliness | rooms design_features,hotel,implicit | explicit | explicit
+لقد تناولنا القهوة في غرفتنا ولكن لم يكن هناك غلاية، لذا طلبت الماء الساخن الذي أحضروه، ولكنني طلبت أيضًا الحليب في قهوتي (لا يوجد حليب معقم في الغرفة) 6 يورو! 6 يورو للحليب في قهوتي! ! !,NULL | NULL,room_amenities general | food_drinks prices,hotel,implicit | implicit
+سأبقى هنا بالتأكيد مرة أخرى، ولكن كلمة للحكماء: تأكد من إخراج سيارتك من المرآب خلال فترة زمنية مدتها 24 ساعة أو سوف يفرضون عليك رسوم يوم إضافي، حتى لو تأخرت دقيقة أو دقيقتين فقط!,NULL,hotel general,hotel,implicit
+لم أواجه أي مشكلة مع استقبال الهاتف المحمول في غرفتي : وربما أجريت 50 مكالمة في ذلك الوقت.,الغرفة,rooms miscellaneous,hotel,explicit
+باختصار، قضينا وقتًا رائعًا ونوصي بشدة بزيارته.,NULL,hotel general,hotel,implicit
+يمكن الوصول إلى جميع المعالم السياحية بسهولة عن طريق نظام المترو.,NULL,location general,hotel,implicit
+(البوابون الثلاثة) ودودون للغاية ومضيافون، ولديهم معرفة واسعة للغاية فيما يتعلق بالأماكن التي يجب على السياح رؤيتها.,البوابون | البوابون | doormen,service general | service general | service general,hotel,explicit | explicit | explicit
+كان الموظفون متعاونين للغاية وكان الإفطار جيدًا.,الموظفون | الإفطار,service general | food_drinks quality,hotel,explicit | explicit
+لن أتردد في التوصية به لأي شخص,NULL,hotel general,hotel,implicit
+يقع (الفندق) في موقع مناسب على بعد نصف كتلة من شارع بوربون، ومع ذلك فهو هادئ للغاية.,الفندق,location general,hotel,explicit
+الخدمة في المطعم كانت سيئة للغاية، الطعام متوسط.,الخدمة | الطعام,service general | food_drinks quality,hotel,explicit | explicit
+الاهتمام بالتفاصيل رائع ولم يكن هناك أي مشكلة كبيرة بالنسبة للموظفين، بما في ذلك المغادرة المتأخرة في وقت قصير وبدون أي رسوم إضافية - ولكن الشيء الرئيسي في هذا الفندق هو الموقع!,NULL | الموقع,service general | location general,hotel,implicit | explicit
+نظام الكمبيوتر والإضاءة في (الغرفة 1) رائع.,الغرفة,room_amenities design_features,hotel,explicit
+سأوصي بالتأكيد بهذا الفندق لأصدقائنا!,الفندق,hotel general,hotel,explicit
+لقد تم ترقيتنا عند وصولنا إلى غرفة ممتازة غرفة والتي كانت جميلة!,غرفة,rooms general,hotel,explicit
+شكر خاص لـ كاردا لمساعدته في ترتيب رحلة ركوب الخيل!,كاردا,service general,hotel,explicit
+ودود ومتعاون .,NULL | NULL,service general | service general,hotel,implicit | implicit
+لقد استخدمت الفندق من قبل وسأستمر في القيام بذلك في المستقبل.,الفندق,hotel general,hotel,explicit
+لقد كانت غرفتنا ضخمة غرفة وسرير كبير مريح ودش رائع.,غرفة | NULL | NULL,rooms general | room_amenities comfort | room_amenities quality,hotel,explicit | implicit | implicit
+سأبقى هنا بالتأكيد مرة أخرى وأوصي به للآخرين.,NULL | NULL,hotel general | hotel general,hotel,implicit | implicit
+هذا الفندق يستحق كل قرش.,الفندق,hotel quality,hotel,explicit
+يبدو أننا كنا محظوظين على الرغم من ذلك وحصلنا على غرفة غرفة أفضل بكثير من تلك التي كانت لدينا من قبل (أو قاموا بتزيينها للتو!) ولم يكن الموظفون أكثر ودية ومساعدة.,NULL | غرفة,service general | rooms general,hotel,implicit | explicit
+يقع على مقربة من محطة تاور هيل للقطارات، لذا فإن السفر إلى الأماكن الأكثر حيوية أمر سهل للغاية. موصى به.,NULL,location general,hotel,implicit
+فظيعة فقط,NULL,hotel general,hotel,implicit
+كانت الغرفة نظيفة، مع دش جيد وكان الموظفين ودودين.,الغرفة | دش | الموظفين,rooms cleanliness | room_amenities design_features | service general,hotel,explicit | explicit | explicit
+وفوق كل ذلك كان الموظفين متعاونين ومتعاونين للغاية.,الموظفين | الموظفين,service general | service general,hotel,explicit | explicit
+ممتاز الموقع في المدينة .,الموقع,location general,hotel,explicit
+أود أن أوصي بهذا الفندق لأي شخص يرغب في زيارة سان فرانسيسكو.,الفندق,hotel general,hotel,explicit
+متوسط في أحسن الأحوال,NULL,hotel general,hotel,implicit
+جديد وسائل الراحة مثل الأكبر خزانة والأريكة لمشاهدة التلفزيون حيث كان الأمر غير متوقع تمامًا بالنسبة لي.,وسائل الراحة | خزانة,room_amenities design_features | room_amenities design_features,hotel,explicit | explicit
+جميلة أماكن الإقامة لقد أقمنا في The Legacy في سبتمبر 2006 ووجدنا أن أماكن الإقامة نظيفة للغاية ومزينة بشكل جميل.,أماكن الإقامة | أماكن الإقامة | أماكن الإقامة,rooms general | rooms cleanliness | rooms design_features,hotel,explicit | explicit | explicit
+نظيف، مزين بشكل لطيف، مريح أسرة.,أسرة | أسرة | أسرة | أسرة,rooms cleanliness | rooms design_features | rooms comfort | rooms design_features,hotel,explicit | explicit | explicit | explicit
+تجربة رائعة,NULL,hotel general,hotel,implicit
+بشكل عام، لقد استمتعنا حقًا بتجربتنا هنا.,NULL,hotel general,hotel,implicit
+كان للسريرين  أغطية لحاف لطيفة وكانت مريحة.,سرير | سرير,rooms quality | rooms comfort,hotel,explicit | explicit
+لن أوصي بهذا الفندق لأصدقائي أو عائلتي لأنني أعتقد أن هناك فنادق أكثر حداثة موجودة في المدينة.,الفندق,hotel general,hotel,explicit
+كان أفضل مما توقعنا مقابل المال؛ لطيف، كبير غرفة، بلاط ومصباح حراري في الحمام غرفة، رائع موقع، نظيف للغاية، وأخبرنا الرجل المفيد في مكتب الاستقبال إلى أين نذهب وأين لا نذهب.,NULL | غرفة | غرفة | موقع | غرفة | NULL,hotel prices | rooms design_features | rooms design_features | location general | rooms cleanliness | service general,hotel,implicit | explicit | explicit | explicit | explicit | implicit
+لقد قمنا بالفعل بإلغاء حجز آخر في طريق العودة من شبه جزيرة مونتيري للإقامة هنا مرة أخرى.,NULL,hotel miscellaneous,hotel,implicit
+لم يحظى التلفزيون باستقبال جيد، وظلت درجة حرارة الدش من حارقة إلى متجمدة، وكان هناك أنبوب ضخم في الغرفة ظل يصدر صوت صفير مثل غلاية الشاي.,التلفزيون | الدش | الغرفة,room_amenities quality | rooms quality | rooms comfort,hotel,explicit | explicit | explicit
+الغرف جيدة ونظيفة، الإفطار رائع ولكن,الإفطار,food_drinks quality,hotel,explicit
+ممتازة خدمة في كل مكان .,خدمة,service general,hotel,explicit
+ممتاز الموقع - حرفيًا دقيقتين سيرًا على الأقدام إلى لا رامبلاس.,الموقع | الموقع,location general | location general,hotel,explicit | explicit
+كان الجميع في الموظفين رائعين وجعلونا نشعر وكأننا الضيوف الوحيدين هناك على الرغم من أن الفندق كان ممتلئًا!,الموظفين | الموظفين,service general | service general,hotel,explicit | explicit
+لسوء الحظ كانت الإشارة اللاسلكية ضعيفة جدًا وكنت أفقد الاتصال باستمرار.,الإشارة اللاسلكية,room_amenities quality,hotel,explicit
+على الرغم من أن الخارج ليس مميزًا بشكل خاص إلا أن غرفتي غرفة بسريرين مفردين كانت ممتازة.,غرفة بسريرين مفردين,hotel general,hotel,explicit
+بمجرد تشغيل تكييف الهواء فإنك لا تسمع الضوضاء، وعندما تحتاج فقط إلى خمس دقائق للوصول إلى أي مكان، فإنك تنسى وقاحة موظفي مكتب الاستقبال.,تكييف الهواء | NULL | NULL,facilities quality | location general | service general,hotel,explicit | implicit | implicit
+حديث، ممتاز أسرة، رائع موقع (على الرغم من أنه كان بالقرب من رامبرانت),NULL | أسرة | موقع,hotel design_features | rooms general | location general,hotel,implicit | explicit | explicit
+انتهى بي الأمر في Green Isle inn المجاور والذي كان أفضل بكثير وأرخص ببضعة دولارات فقط,Green Isle inn | Green Isle inn,hotel general | hotel prices,hotel,explicit | explicit
+هذه في الأساس عملية احتيال حيث يمثل الفندق أنهم فندق فاخر الفندق في حين أن هذا ليس صحيحًا على الإطلاق.,الفندق,hotel miscellaneous,hotel,explicit
+"في أيام الشتاء المبكرة القاسية التي تغلف شمال أيرلندا بسرعة، نفكر في ""وقتنا المستقطع"" في هذه القرية الفلورنسية الصغيرة طوال الوقت ونأمل أن نعود إليها يومًا ما.",NULL,hotel general,hotel,implicit
+الموظفين منتبهون وفعالون.,الموظفين | الموظفين,service general | service general,hotel,explicit | explicit
+كانت هناك مقبلات مجانية في المساء بما في ذلك فراولة مغطاة بالشوكولاتة وكانت مذهلة.,مقبلات | فراولة مغطاة بالشوكولاتة,food_drinks prices | food_drinks quality,hotel,explicit | explicit
+سأبقى هنا بالتأكيد مرة أخرى لسهولة الخروج بالمصعد إلى رحلتي التالية.,NULL | NULL,location general | hotel general,hotel,implicit | implicit
+يقع في موقع جيد  وقريب من العديد من المحلات التجارية والمطاعم.,موقع | موقع,location general | location general,hotel,explicit | explicit
+منزلي المفضل بعيدًا عن المنزل لقد مكثت عدة مرات في الفندق الساحر Seven Bridges Hotel ويمكنني أن أوصي به لأي شخص يحب تذوق منزل قناة أمستردام القديم.,Seven Bridges Hotel | Seven Bridges Hotel,hotel general | hotel general,hotel,explicit | explicit
+بالتأكيد سأبقى هناك مرة أخرى.,NULL,hotel miscellaneous,hotel,implicit
+كان لدي رحلة طيران متأخرة جدًا من سياتل في اليوم الذي غادرت فيه، وتم السماح لي بالبقاء لفترة أطول في غرفتي  دون أي رسوم إضافية.,الخدمة,service general,hotel,explicit
+فندق جلوبس يقع بالقرب من محطة القطار وهو مثالي.,فندق جلوبس,location general,hotel,explicit
+الغرفة كانت واسعة ونظيفة، الموظفين كانوا مفيدين للغاية وودودين.,الغرفة | الغرفة | الموظفين | الموظفين,rooms design_features | rooms cleanliness | service general | service general,hotel,explicit | explicit | explicit | explicit
+منطقة الرصيف بها الكثير من المطاعم والأشياء التي يمكن رؤيتها.,منطقة الرصيف,location general,hotel,explicit
+يقع هذا الفندق الجميل فندق في ساحة ديلا ريبوبليكا مع إطلالات رائعة، ويحتوي على غرف رائعة ومطاعم رائعة وبعض من أفضل الموظفين المدربين على الإطلاق، وكانت الخدمة لا مثيل لها ويجب أن يكون المدير فخوراً بنفسه.,فندق | فندق | غرف | على الإطلاق | الخدمة,location general | hotel general | rooms general | service general | service general,hotel,explicit | explicit | explicit | explicit | explicit
+أوصي بهذا فندق لقد عدت للتو من إقامة لمدة 3 ليالٍ في هذا الفندق,فندق,hotel general,hotel,explicit
+لاحظ أنه لم يكن هناك مرافق لممارسة التمارين الرياضية : وكان المطعم الموجود في الموقع باهظ الثمن؛ ومع ذلك، كانت خيارات تناول الطعام متاحة بسهولة في عدد من المطاعم على بعد 1 إلى 3 دقائق سيرًا على الأقدام.,مرافق | مرافق,facilities general | facilities prices,hotel,explicit | explicit
+تتمتع غرفتنا  بإطلالة رائعة على جسر البوابة الذهبية وهو أمر جيد.,الغرفة,rooms general,hotel,explicit
+فندق جميل في وسط طوكيو,فندق جميل,hotel general,hotel,explicit
+أحببت الغرفة بالتأكيد سأعود مرة أخرى . . . . . .,الغرفة,rooms general,hotel,explicit
+الموقع كان رائعًا، وسأبقى هنا مرة أخرى.,الموقع | NULL,location general | hotel general,hotel,explicit | implicit
+لقد فوجئنا بسرور بغرفتنا : كان السقف المرتفع يحتوي على عوارض خشبية جميلة وكانت (الغرفة 3): واسعة.,الغرفة | الغرفة | الغرفة,rooms general | rooms design_features | rooms design_features,hotel,explicit | explicit | explicit
+هناك الكثير من الاختيارات في وجبة الإفطار و الخدمة الرائعة من الموظفين.,الخدمة | وجبة الإفطار,service general | food_drinks style_options,hotel,explicit | explicit
+لقد كان هذا الفندق ذو الأسعار المعقولة فندق بمثابة مفاجأة رحلتنا.,فندق,hotel prices,hotel,explicit
+جيد جدًا إفطار مقابل القيمة - احجز مسبقًا من موقع الفندق على الويب,إفطار,food_drinks quality,hotel,explicit
+الموقع رائع؛ على بعد نصف كتلة من نهر السين، في منتصف الطريق بين متحف اللوفر وكاتدرائية نوتردام.,الموقع | الموقع | الموقع,location general | location general | location general,hotel,explicit | explicit | explicit
+رائع حقًا هذا الفندق في موقع ممتاز لزيارة لندن ويقع الأنبوب على مسافة قصيرة سيرًا على الأقدام في نفس الشارع.,الفندق | موقع,hotel general | location general,hotel,explicit | explicit
+كن مستعدًا لدفع 25 دولارًا يوميًا مقابل مواقف السيارات أيضًا.,NULL,facilities prices,hotel,implicit
+يبدو هذا الفندق رائعًا على الإنترنت.,الفندق,hotel general,hotel,explicit
+يمكنك المشي إلى جميع العروض الشعبية وشعرنا بالأمان في الشوارع.,NULL,location general,hotel,implicit
+يقع الفندق في موقع جيد  وقد أعطانا سانجاي توصية ممتازة لتناول العشاء وكان مفيدًا للغاية طوال الوقت.,موقع | NULL,location general | hotel general,hotel,explicit | implicit
+أوصي بهذا الفندق .,الفندق,hotel general,hotel,explicit
+كان الفندق الموظفين رائعين في تقديم توصيات المطاعم التي يذهب إليها السكان المحليون بالفعل.,الموظفين,service general,hotel,explicit
+كل شيء فاق توقعاتنا .,NULL,hotel general,hotel,implicit
+إذا كنت تريد قيمة كبيرة، ابق هنا.,NULL,hotel prices,hotel,implicit
+إلخ، ولكن بعيدًا بما يكفي ليكون هادئًا إلى حد معقول.,NULL,hotel comfort,hotel,implicit
+الأسرة هي الأكثر راحة على الإطلاق، مثل قطعة مارشميلو ضخمة!,الأسرة,rooms design_features,hotel,explicit
+ولكن لا يوجد شيء خاص .,NULL,hotel general,hotel,implicit
+قمنا بتسجيل الوصول في الساعة 2:30 ظهرًا ولم تكن الغرفة  جاهزة.,الغرفة,service general,hotel,explicit
+الإفطار كان متوسطًا مع تقديم الطعام بواسطة مقاول خارجي!,الإفطار,food_drinks quality,hotel,explicit
+لقد كان هذا موتيل دائمًا مفضلًا نظرًا لموقعه بالقرب من شارع Folsom والحياة الليلية - ولكنه أصبح أفضل الآن بعد أن حصل على تصنيف AAA واحد - ماسي وتم ترقية الغرف.,موتيل | الغرف,location general | rooms general,hotel,explicit | explicit
+لطيف فندق - جيد موقع,فندق | موقع,hotel general | location general,hotel,explicit | explicit
+إذا عدت أنا وزوجي يومًا ما، فسوف نبقى في كارترايت مرة أخرى !!,كارترايت,hotel general,hotel,explicit
+اكتشاف رائع - عائلة فندق في قلب مدينة نيويورك وجدت هذا فندق بالصدفة تمامًا وكان اكتشافًا رائعًا ...,فندق | NULL,hotel general | location general,hotel,explicit | implicit
+اختيار جيد للعمل أو المتعة,NULL,hotel general,hotel,implicit
+فندق بيراك لا يشبه سلاسل الفنادق الكبرى ولكنه ذو قيمة رائعة مقابل المال في سنغافورة.,فندق بيراك,hotel prices,hotel,explicit
+الموقع جيد بالنسبة لمعالم الجذب السياحي في وسط المدينة، كما يتمتع أيضًا بروابط جيدة بالحافلات والمترو إلى سوهو، وقرية جرينتش، وما إلى ذلك.,الموقع,location general,hotel,explicit
+بقيت 3 ليالي ولم أواجه أي مشاكل.,NULL,hotel general,hotel,implicit
+إذا كنت تستخدم الدش، فكن على دراية بأنك قد تصاب بالحروق لأن (نظام الصمام 2) قديم ولا يتم صيانته جيدًا.,نظام الصمام | نظام الصمام,room_amenities general | room_amenities general,hotel,explicit | explicit
+لقد أخذني زوجي إلى مدينة نيويورك لشراء هدية عيد الميلاد، وغني عن القول أنني كنت منبهرة بالمدينة والفندق.,الفندق,hotel general,hotel,explicit
+تقع المنطقة بالقرب من وسط المدينة مما يعني أنها قريبة من كل شيء.,NULL,location general,hotel,implicit
+رائع الإقامة كانت إقامتي رائعة.,الإقامة,hotel general,hotel,explicit
+مواقف السيارات باهظة الثمن ويتم إضافة الضريبة إلى رسوم مواقف السيارات.,مواقف السيارات,facilities prices,hotel,explicit
+المترو قريب أيضًا.,NULL,location general,hotel,implicit
+كان الإفطار متنوعًا ولذيذًا.,الإفطار,food_drinks style_options,hotel,explicit
+بخلاف ذلك ليس لدي سوى الثناء على هذا الفندق المريح للغاية الفندق!,الفندق,hotel comfort,hotel,explicit
+لا يوجد حوض استحمام ساخن، اعتقدت أنه يوجد,NULL,room_amenities design_features,hotel,implicit
+الغرف صغيرة ولكنها نظيفة.,الغرف | الغرف,rooms design_features | rooms cleanliness,hotel,explicit | explicit
+يمكنك رؤية المحيط من كل غرفة، وكان كبير الخدم رائعًا، وفي حين لم يكن الموظفين الأكثر كفاءة في العالم، إلا أن جهودهم ولطفهم يعوضان عن ذلك.,غرفة | كبير الخدم | الموظفين | الموظفين,rooms design_features | polarity positive | service general | service general,hotel,explicit | explicit | explicit | explicit
+نعتقد أنهم يلبيون احتياجات سوق المثليين، في حين أن هذا لا يزعجنا على الإطلاق، فقد وجدنا أن المواد الإباحية الصريحة للمثليين المتروكة في المناطق المشتركة مسيئة وأضفت على الفندق عنصرًا بغيضًا.,الفندق,hotel general,hotel,explicit
+الموظفين يكرهون الأمريكان!,الموظفين,service general,hotel,explicit
+كانت الغرفة البيضاء صغيرة / ضيقة بعض الشيء، وقد تم تجديدها بشكل جيد للغاية، مع إطلالة رائعة تمامًا على الشاطئ.,البيضاء | NULL,rooms design_features | hotel general,hotel,explicit | implicit
+على الرغم من أنها ليست رخيصة الثمن إلا أنها تستحق الزيارة.,NULL,hotel prices,hotel,implicit
+ليس لدي أي شكاوى وأود أن أوصي بشدة بـ بوسطن بارك بلازا.,بوسطن بارك بلازا,hotel general,hotel,explicit
+ساهم سوء الموقع، والإهمال الموظفين، والمطعم الذي يشبه مقهى عسكري أكثر من كونه مطعم فندق، في خلق تجربة فندقية لا تنسى على الإطلاق.,الموقع | الموظفين,location general | service general,hotel,explicit | explicit
+سأعود مرة أخرى فقط إذا تعثرت.,NULL,hotel miscellaneous,hotel,implicit
+لقد ساعدوني في العثور على فندق آخر لقضاء الليلة (كانت العديد من  الفنادق ممتلئة في تلك الليلة) ولكن لا أعتقد أنني سأحجز هذا  الفندق مرة أخرى لإقامتي القادمة في برشلونة.,NULL | فندق,service general | hotel general,hotel,implicit | explicit
+كان الموظفون وقحين، وحاقدين، وبذلوا قصارى جهدهم لجعل إقامتي غير سارة.,الموظفون | الموظفون,service general | service general,hotel,explicit | explicit
+ممتاز الموقع على مسافة قريبة من محطة القطار ومواقف السيارات الخاصة بالفندق (سعر يومي معقول 13.00 دولارًا أمريكيًا).,الموقع | NULL,location general | facilities prices,hotel,explicit | implicit
+من حيث الموقع، يحتوي الفندق على الكثير من المقاهي والمطاعم القريبة بالإضافة إلى بعض الحلويات الممتازة.,من حيث الموقع,location general,hotel,explicit
+رائع لقد استخدمت شركتنا فندق مايكل أنجلو لعقد اجتماع عمل مع 16 مشاركًا.,فندق مايكل أنجلو,hotel general,hotel,explicit
+أخطط للبقاء هنا مرة أخرى في رحلات العودة إلى نيويورك.,NULL,hotel general,hotel,implicit
+وجبات الإفطار رائعة مع مجموعة واسعة من الخيارات من الطعام القاري والإنجليزي.,وجبات الإفطار | NULL,food_drinks quality | food_drinks style_options,hotel,explicit | implicit
+وسيتم تصحيح ذلك، الإفطار كان رائعًا مع الكثير من الاختيارات.,الإفطار | الإفطار,food_drinks quality | food_drinks style_options,hotel,explicit | explicit
+لا تفعل ذلك إلا إذا كان لديك اثنان، ولا تبقى هنا إلا إذا كان عليك ذلك.,NULL,hotel general,hotel,implicit
+جميل حقًا فندق، مع مرافق رائعة إذا لزم الأمر.,فندق | مرافق,hotel general | facilities general,hotel,explicit | explicit
+لقد قضينا ليلتين هنا في نهاية الأسبوع الماضي وكان المكان على مستوى جميع التقييمات الإيجابية لهذا الموقع.,NULL,hotel general,hotel,implicit
+لقد وقعنا في حب فلورنسا وأيضًا في حب هذا الفندق الذي، بالنسبة لنا، جسد قلب هذه المدينة الجميلة بأناقتها المريحة وروحها الدافئة.,الفندق,hotel general,hotel,explicit
+تم ترقية الغرفة  المخصصة لنا في الأصل (مجانًا) بسبب سوء تفاهم حول السرير المتاح للشخص الثالث الذي يقيم معنا.,الغرفة,service general,hotel,explicit
+الفندق صغير لكنه يبدو جديدًا بالنسبة لنا.,الفندق | الفندق,hotel design_features | hotel general,hotel,explicit | explicit
+إقامة بأسعار معقولة جدًا - أوصي بها لأي شخص!,NULL,hotel prices,hotel,implicit
+لكن بشكل عام كان يوم الذكرى رائعًا.,NULL,hotel general,hotel,implicit
+كان الإفطار لطيفًا وكان البار في مقدمة الفندق يتمتع بأجواء لطيفة.,البار,facilities comfort,hotel,explicit
+نود زيارتكم مرة أخرى في أقرب وقت ممكن! شكرًا جزيلاً للفريق بأكمله!,NULL,hotel general,hotel,implicit
+لقد قضينا يومًا على الشاطئ في فندقهم التابع La Concha، والذي كان ممتازًا.,NULL,location general,hotel,implicit
+قيمة جيدة والموقع قضيت 3 ليالٍ (110 دولارًا في الليلة) في Ilima في ديسمبر 2005.,Ilima | الموقع,hotel prices | location general,hotel,explicit | explicit
+كانت الغرف رائعة مع جميع وسائل الراحة.,الغرف | NULL,rooms design_features | room_amenities general,hotel,explicit | implicit
+لقد قضيت أنا وأصدقائي أسبوعًا في ماريوت في سان خوان وأحببنا ذلك المكان !!,ماريوت في سان خوان,hotel general,hotel,explicit
+الفندق مستوحى من شمال إفريقيا ويعمل بشكل كامل، يبدو أن الموظفين الودودين واليقظين الموظفين يهتمون برفاهيتك ولا تشعر وكأنك رقم شركة.,الفندق | الموظفين | الموظفين,hotel design_features | service general | service general,hotel,explicit | explicit | explicit
+بالتأكيد سأبقى هناك مرة أخرى!,NULL,hotel general,hotel,implicit
+تجربة لطيفة وسعر لطيف وإقامة ممتازة، على الرغم من أن الصالة الخدمة كانت فظيعة. . .,NULL | NULL | NULL | الخدمة,hotel comfort | hotel prices | hotel general | service general,hotel,implicit | implicit | implicit | explicit
+قديم وصغير,NULL | NULL,hotel design_features | hotel design_features,hotel,implicit | implicit
+بئر يقع في منطقة Mitte (برلين الشرقية سابقًا)، بالقرب من خطوط U - Bahn والترام.,يقع | يقع,location general | location general,hotel,explicit | explicit

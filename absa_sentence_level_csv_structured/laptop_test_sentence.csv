@@ -1,0 +1,533 @@
+﻿sentence,aspect,category,domain,type
+لم يكن أمامي خيار سوى إيقاف تشغيل الكمبيوتر، وفصله، ثم توصيله مرة أخرى، ثم إعادة التشغيل.,الكمبيوتر,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+استغرق الأمر أسبوعًا أو نحو ذلك للتكيف معه، ولكنني أحبه الآن.,NULL,LAPTOP#GENERAL,laptop,implicit
+البطارية لا تدوم طويلاً كما هو معلن عنها.,البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+جودة سيئة للغاية وغير ممتعة حقًا للاستخدام التطبيقات على playstore.,NULL | التطبيقات,LAPTOP#QUALITY | SOFTWARE#GENERAL,laptop,implicit | explicit
+لقد كان قادرًا على التعامل مع كل ما أحتاجه لعملي.,NULL,LAPTOP#GENERAL,laptop,implicit
+هذه القطعة من القرف لن تحمل إشارة واي فاي أو لديها إشارة ضعيفة حقًا.,القرف,LAPTOP#CONNECTIVITY,laptop,explicit
+تعجبني فكرة أن لوحة المفاتيح تضيء وتحتوي على ميزة `` مهلة زمنية `` لإيقاف تشغيلها.,لوحة المفاتيح,KEYBOARD#DESIGN_FEATURES,laptop,explicit
+لقد اشتريت هذا للكلية للقيام بواجباتي المنزلية وأيضًا لدفع فواتيري.,NULL,LAPTOP#GENERAL,laptop,implicit
+أنا أحب Chromebook الخاص بي.,Chromebook,LAPTOP#GENERAL,laptop,explicit
+رائع شاشة، صغير مظهر جانبي، خفيف الوزن، مدمج قلم، يمكنني الاستمرار في الحديث عن مدى روعة هذا الشيء.,شاشة | مظهر جانبي | مظهر جانبي | قلم,DISPLAY#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES | HARDWARE#DESIGN_FEATURES,laptop,explicit | explicit | explicit | explicit
+- لوحة المفاتيح سيئة للغاية.,لوحة المفاتيح,KEYBOARD#GENERAL,laptop,explicit
+الصوت منخفض جدًا عند استخدام مكبر صوت / سماعة رأس aux.,الصوت | مكبر صوت / سماعة رأس aux,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE | MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit | explicit
+الصوت غني وعالي بما فيه الكفاية، لكنه لن يحل محل نظام الموسيقى الخاص بك.,الصوت | الصوت,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE | MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit | explicit
+القرص الصلب الترقية متاحة,القرص الصلب,MEMORY#OPERATION_PERFORMANCE,laptop,explicit
+بشكل عام، يعمل بشكل جيد بما يكفي لتلبية احتياجاتي اليومية للإنترنت.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+قيمة رائعة لـ كمبيوتر محمول .,كمبيوتر محمول,LAPTOP#GENERAL,laptop,explicit
+- السعر مرتفع بعض الشيء بالنسبة لـ Chromebook,Chromebook,LAPTOP#PRICE,laptop,explicit
+إنه مثالي للمدرسة وتصفح الويب ومشاهدة مقاطع الفيديو.,NULL,LAPTOP#GENERAL,laptop,implicit
+فهو راضٍ جدًا عنها وعن مميزاتها,NULL,LAPTOP#GENERAL,laptop,implicit
+إنه سريع .,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+فهو مثالي لكل ما أحتاجه.,NULL,LAPTOP#GENERAL,laptop,implicit
+هذا الكمبيوتر المحمول لم يصل عمره حتى الآن إلى 30 يومًا.,الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
+كما يمكنك أن ترى من المراجعات، فقد نجح الأمر بشكل جيد بالنسبة لمعظم الناس.,NULL,LAPTOP#GENERAL,laptop,implicit
+أنا في الكلية الآن وأدرس تكنولوجيا المعلومات الجديدة وقد تمكنت من القيام بكل ما أحتاجه.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+لا تشتري هذا الكمبيوتر إذا كانت خطتك هي القيام بمهام متعددة، أو لعب لعبة من حين لآخر و/أو تشغيل الموسيقى أثناء البحث على الويب.,الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+ماسح بصمات الأصابع نصف مكتوب وبالكاد يعمل.,ماسح بصمات الأصابع,HARDWARE#OPERATION_PERFORMANCE,laptop,explicit
+الماوس و إعدادات لوحة التتبع بسيطة للغاية، ولا توجد طريقة لتعديل مفاتيح الاختصار، و خيارات إدارة الطاقة بسيطة للغاية أيضًا.,الماوس | إعدادات لوحة التتبع | خيارات إدارة الطاقة,SOFTWARE#DESIGN_FEATURES | SOFTWARE#DESIGN_FEATURES | SOFTWARE#DESIGN_FEATURES,laptop,explicit | explicit | explicit
+لقد كان قادرًا حتى الآن على التعامل مع كل ما ألقيته عليه.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+لقد اشتريت هذا المنتج المجدد ولم أواجه أي مشاكل.,NULL,LAPTOP#GENERAL,laptop,implicit
+ومتجر Google Play مليء بـالتطبيقات والألعاب الرائعة.,متجر Google Play | التطبيقات,SOFTWARE#DESIGN_FEATURES | SOFTWARE#DESIGN_FEATURES,laptop,explicit | explicit
+يعمل مثل السحر و شاشة شبكية العين رائعة للغاية.,شاشة شبكية العين,DISPLAY#OPERATION_PERFORMANCE,laptop,explicit
+أحد الأشياء التي تسعدني بشكل خاص: جهاز هادئ بدون مروحة لا يسخن كثيرًا!,بدون مروحة | بدون مروحة,FANS&COOLING#QUALITY | FANS&COOLING#QUALITY,laptop,explicit | explicit
+إنه يفعل كل ما أحتاجه وسريع بشكل مدهش.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+يقال أن الشاشة الجميلة الشاشة مطابقة تمامًا لجهاز Pixelbook من حيث الحجم ونسبة العرض إلى الارتفاع والدقة.,الشاشة,DISPLAY#DESIGN_FEATURES,laptop,explicit
+أداء جيد الكمبيوتر .,الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+ثم أحضرته إلى المنزل، وعملت عليه لفترة، وأدركت مدى سهولة حدوث خلل في الإشعال ما لم تهبط الصواميل الميتة في منتصف المفتاح أثناء ضربتك.,NULL,KEYBOARD#GENERAL,laptop,implicit
+مفتاح الضغطات صلبة جدًا بحيث لا يمكن الضغط عليها.,مفتاح,KEYBOARD#USABILITY,laptop,explicit
+ثم في إحدى الليالي قمت بتوصيله واستيقظت على جهاز ميت Chromebook.,Chromebook,LAPTOP#GENERAL,laptop,explicit
+يوم واحد من الاستخدام والشاشة تقوم بإغلاق نفسها وتسجيل خروجك عندما تشعر بالحاجة إلى ذلك.,الشاشة,DISPLAY#OPERATION_PERFORMANCE,laptop,explicit
+لكنني أتجه إلى التصوير الفوتوغرافي الآن، وهو أمر فظيع في تحميل الصور وتخزينها وتحريرها.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+أجد أن العرض حاد و اللمس سريع الاستجابة ممتازان للغاية.,العرض | اللمس | اللمس,DISPLAY#DESIGN_FEATURES | KEYBOARD#OPERATION_PERFORMANCE | KEYBOARD#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit
+لوحة الماوس مريحة جدًا للاستخدام.,لوحة الماوس,MOUSE#USABILITY,laptop,explicit
+اشتريته لحفيدي في الكلية وهو يحبه.,NULL,LAPTOP#GENERAL,laptop,implicit
+رائع بشكل عام Chromebook .,Chromebook,LAPTOP#GENERAL,laptop,explicit
+إنه سريع البطارية ويدوم لفترة طويلة ويفعل بالتأكيد ما أحتاج إليه (وهو تصفح الويب لعدة صفحات في نفس الوقت أثناء فتح عدد قليل من مستندات MS).,NULL | البطارية,LAPTOP#OPERATION_PERFORMANCE | BATTERY#OPERATION_PERFORMANCE,laptop,implicit | explicit
+hdmi لا يعمل بشكل صحيح.,hdmi,PORTS#QUALITY,laptop,explicit
+وصل لي غلاف الشاشة المعدني منحنيًا قليلاً، ويمكنني ثنيه بسهولة للخلف، ولست متأكدًا من متانة هذا الشيء على المدى الطويل.,غلاف الشاشة المعدني,DISPLAY#QUALITY,laptop,explicit
+لا تحتوي هذه الوحدة على غلاف جميل من الألومنيوم (وهو جذاب للغاية) فحسب، بل تحتوي أيضًا على لوحة مفاتيح لائقة ، مع خصائص لمسية أفضل بكثير من أي أجهزة Chromebook نظرت إليها في الماضي.,من الألومنيوم | من الألومنيوم | NULL | NULL,LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,explicit | explicit | implicit | implicit
+لقد حاولت إعادة ضبط المصنع بعد تحديث os، ولا يزال يستنزف 9٪ على مدار 8 ساعات.,os,OS#GENERAL,laptop,explicit
+كنت مترددًا في البداية بسبب السعر، لكن يجب أن أقول إن هذه بصراحة آلة مذهلة آلة.,NULL | آلة,LAPTOP#PRICE | LAPTOP#GENERAL,laptop,implicit | explicit
+الكمبيوتر المحمول سريع جدًا مع 4 وحدات معالجة مركزية و8 وحدات معالجة رسومية على اللوحة.,الكمبيوتر المحمول,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+الشعور الأولي لهذا Chromebook رائع.,Chromebook,LAPTOP#GENERAL,laptop,explicit
+عمر البطارية جيد - أحصل على حوالي 5 - 6 ساعات من الكتابة دون توقف، مع فتح 3 متصفحات وتشغيل wifi دائمًا.,عمر البطارية,BATTERY#GENERAL,laptop,explicit
+كـ كمبيوتر محمول، هذا هو الحجم الذي أحتاجه.,كمبيوتر محمول,LAPTOP#DESIGN_FEATURES,laptop,explicit
+لقد قمت بتوصيل سماعات الرأس العادية (3) وكانت منخفضة بشكل رهيب - من غير الممتع الاستماع إلى الموسيقى بهذه الطريقة.,سماعات الرأس | سماعات الرأس | سماعات الرأس,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE | MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE | MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit
+لا داعي للقول إن الرحلة رقم ثلاثة إلى Best Buy كانت عودة خالصة، حيث أن كونك 0/2 على جهاز باهظ الثمن جهاز يترك طعمًا سيئًا، هل تعلم؟,جهاز,LAPTOP#PRICE,laptop,explicit
+خفيف الوزن، عمر بطارية جيد ، شاشة حادة (3).,NULL | بطارية | شاشة,LAPTOP#DESIGN_FEATURES | BATTERY#GENERAL | DISPLAY#DESIGN_FEATURES,laptop,implicit | explicit | explicit
+"وهذا يقودني إلى النقطة التالية، التعليقات المنتشرة في كل مكان حول ""هذا يبدو وكأنه جهاز كمبيوتر بقيمة 1000 دولار!""",NULL,LAPTOP#PRICE,laptop,implicit
+وهكذا، أدركت أنني أستطيع استخدام سطح مكتب الاستوديو أينما أريد، وفي أي وقت أريد.,سطح مكتب الاستوديو,LAPTOP#GENERAL,laptop,explicit
+أنا لا ألوم البائع، أنا ألوم نظام التشغيل Mac والخلل الذي فيه الخدمات.,البائع | نظام التشغيل Mac | الخدمات,SUPPORT#GENERAL | OS#OPERATION_PERFORMANCE | SUPPORT#GENERAL,laptop,explicit | explicit | explicit
+المشكلة الوحيدة التي أواجهها معه (ومن هنا تصنيف الأربع نجوم) هي عمر البطارية.,عمر البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+أنا أبقيه متصلاً بالكهرباء دائمًا تقريبًا، لذلك لا يمكنني التعليق على عمر البطارية.,عمر البطارية,BATTERY#GENERAL,laptop,explicit
+هذا الكمبيوتر سريع للغاية.,الكمبيوتر,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+بعد استخدام نسبة العرض إلى الارتفاع 3: 2، أعتقد أنني أفضلها على النسبة العادية 16: 9، فيما يتعلق بأجهزة Chromebook.,NULL,DISPLAY#DESIGN_FEATURES,laptop,implicit
+عندما كنت أقارن هذا النموذج مع الشركات المصنعة / النماذج الأخرى، كان الشيء الوحيد الذي جعلني أتوقف هو عدم وجود قارئ / كاتب بطاقة.,قارئ / كاتب بطاقة,PORTS#GENERAL,laptop,explicit
+لقد استخدمته لمدة أربعة أيام، وكان يعمل بشكل جيد.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+كل شيء آخر جيد جدًا وأنا راضٍ,NULL | NULL,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,implicit | implicit
+- أقل من المتوسط شاشة السطوع حوالي 200 شمعة، المتوسط هو 250 - 275.,شاشة,DISPLAY#DESIGN_FEATURES,laptop,explicit
+- الشاشة تتمتع بتباين رائع وهي لامعة وحادة,الشاشة | الشاشة | الشاشة,DISPLAY#OPERATION_PERFORMANCE | DISPLAY#OPERATION_PERFORMANCE | DISPLAY#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit
+إنه بطيئ قليلا .,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+لن يتم الاتصال بـ wifi، والشاشة تومض عند التعديل أثناء التشغيل.,wifi | الشاشة,PORTS#CONNECTIVITY | DISPLAY#OPERATION_PERFORMANCE,laptop,explicit | explicit
+هذا مثالي .,NULL,LAPTOP#GENERAL,laptop,implicit
+mastercam في حد ذاته يعمل بشكل جيد.,mastercam,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit
+إنه خفيف بما يكفي لحمله في أي مكان تقريبًا.,NULL,LAPTOP#PORTABILITY,laptop,implicit
+صفحة الدعم الخاصة بهم مليئة بالأخطاء، وأفراد الدعم غير متعاونين.,صفحة الدعم | أفراد الدعم,SUPPORT#GENERAL | SUPPORT#GENERAL,laptop,explicit | explicit
+هذا جهاز كمبيوتر مذهل كمبيوتر اشتريته من cellelectronics.,كمبيوتر,LAPTOP#GENERAL,laptop,explicit
+لقد كنت أستخدم هذا الكمبيوتر المحمول لمدة عام ولم أواجه أي مشاكل مع التسليم أو الكمبيوتر.,الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+تحديثات Apple سهلة.,تحديثات Apple,SOFTWARE#USABILITY,laptop,explicit
+أحب توزيع المنافذ وأشعر أنه يساعد في بيئة العمل الخاصة بك للاستخدام اليومي.,المنافذ,PORTS#USABILITY,laptop,explicit
+إنه بطيء في فعل كل شيء.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+* جيد جدًا عمر البطارية,عمر البطارية,BATTERY#QUALITY,laptop,explicit
+حظا سعيدا هذا دعم فني للعملاء و MSI ليس لديه أي فكرة على الإطلاق عن كيفية مساعدتك.,دعم فني للعملاء | MSI,SUPPORT#GENERAL | SUPPORT#GENERAL,laptop,explicit | explicit
+نأمل أن يتمكنوا من حل هذه المشكلة خلال عشر سنوات ولن تكون سيئة للغاية.,NULL | NULL,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,implicit | implicit
+الكمبيوتر المحمول وصل متسخًا (قذرًا الشاشة وكان هناك شعر حيوان أليف حقيقي في فتحة التهوية).,الكمبيوتر المحمول | الشاشة | فتحة التهوية,LAPTOP#DESIGN_FEATURES | DISPLAY#DESIGN_FEATURES | FANS&COOLING#GENERAL,laptop,explicit | explicit | explicit
+- واجهات المستخدم التي تتميز بالدقة والاستجابة,واجهات المستخدم | واجهات المستخدم,OS#OPERATION_PERFORMANCE | OS#OPERATION_PERFORMANCE,laptop,explicit | explicit
+أنا مصمم جرافيكي / لاعب وبرمجياتي الإبداعية تعمل دون أي مشاكل وأستطيع تشغيل Sims 4 و World of Warcraft على إعدادات عالية جدًا دون أي مشاكل على الإطلاق.,مصمم جرافيكي,GRAPHICS#OPERATION_PERFORMANCE,laptop,explicit
+نجمة أخرى خارج دعم تطبيقات Android، والتي ليست جاهزة للوقت المناسب.,دعم تطبيقات Android,SOFTWARE#QUALITY,laptop,explicit
+إنه أسرع، والشاشة أجمل بكثير، ويحتوي على ضعف الذاكرة وأربعة أضعاف مساحة القرص.,NULL | الشاشة | الذاكرة | مساحة القرص,LAPTOP#OPERATION_PERFORMANCE | DISPLAY#DESIGN_FEATURES | MEMORY#DESIGN_FEATURES | HARD_DISC#DESIGN_FEATURES,laptop,implicit | explicit | explicit | explicit
+في كل مكان كمبيوتر محمول asus الذي لا يحتوي على لوحة اللمس .,كمبيوتر محمول asus | لوحة اللمس,LAPTOP#GENERAL | HARDWARE#QUALITY,laptop,explicit | explicit
+كان الكمبيوتر المحمول رائعًا، وخفيف الوزن، وسريع التشغيل، وسهل الاستخدام.,الكمبيوتر المحمول | الكمبيوتر المحمول | الكمبيوتر المحمول | الكمبيوتر المحمول,LAPTOP#GENERAL | LAPTOP#DESIGN_FEATURES | LAPTOP#OPERATION_PERFORMANCE | LAPTOP#USABILITY,laptop,explicit | explicit | explicit | explicit
+قوة اللمس لوحة التتبع، رائعة جدًا.,لوحة التتبع,KEYBOARD#GENERAL,laptop,explicit
+لا تضيع وقتك في الاتصال بـ Apple لمعرفة ما إذا كان هناك أي شيء يمكنهم فعله حيال ذلك بعد عام واحد (ما لم تكن بالطبع ترغب في دفع المزيد من المال على 'Apple Care').,Apple,SUPPORT#GENERAL,laptop,explicit
+ثانياً، لوحة التتبع تبدو حساسة بعض الشيء.,لوحة التتبع,KEYBOARD#QUALITY,laptop,explicit
+ما لم يتم تصميم التطبيق  خصيصًا للوصول إلى ملفات Google Drive، فلن يكون لدى التطبيق  طريقة لقراءة الملفات وحفظها مباشرة في السحابة.,NULL | NULL,SOFTWARE#DESIGN_FEATURES | SOFTWARE#DESIGN_FEATURES,laptop,implicit | implicit
+لقد كان التبديل رائعًا.,التبديل,HARDWARE#GENERAL,laptop,explicit
+ولكنه يعمل وهو مفيد.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+* جودة البناء * - أنا سعيد حقًا بالجودة الشاملة.,جودة البناء | NULL,LAPTOP#QUALITY | LAPTOP#QUALITY,laptop,explicit | implicit
+مستندات جوجل تعمل بشكل جيد.,مستندات جوجل,SOFTWARE#OPERATION_PERFORMANCE,laptop,explicit
+في منتصف الاستخدام، أعيد تشغيله، ثم دخل في حلقة تمهيد لا نهاية لها، لذلك حاولت إعادة تعيينه إلى إعدادات المصنع الافتراضية، والآن يقول نظام التشغيل Chrome مفقود أو تالف.,نظام التشغيل Chrome,OS#OPERATION_PERFORMANCE,laptop,explicit
+الشيء الصغير الآخر هو أن مكبر الصوت ليس مرتفعًا.,مكبر الصوت,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit
+لقد كانت لدي آمال كبيرة في هذا الكمبيوتر اللوحي / الكمبيوتر بناءً على آراء العملاء.,الكمبيوتر اللوحي / الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+هذا هو بسهولة أفضل جهاز Chromebook في السوق حاليًا (أقل من 500 دولار).,Chromebook,LAPTOP#GENERAL,laptop,explicit
+- عمر البطارية قوي، تقريبًا كما هو مُعلن - ربما من 7 إلى 10 ساعات اعتمادًا على متغيرات مثل سطوع الشاشة ومدى تطلبك لها.,عمر البطارية,BATTERY#QUALITY,laptop,explicit
+شاشة اللمس تعمل بشكل جيد.,شاشة اللمس,DISPLAY#OPERATION_PERFORMANCE,laptop,explicit
+المنتج رائع، لكن دعم العملاء سيئ للغاية.,المنتج | دعم العملاء,LAPTOP#GENERAL | SUPPORT#GENERAL,laptop,explicit | explicit
+* تعمل المنافذ USB - C بشكل جيد، وقد اشتريت محولًا متعدد المنافذ، مما يمنحني منفذ USB عاديًا بالإضافة إلى منفذ HDMI ومنفذ USB - C آخر للشحن.,USB - C,PORTS#OPERATION_PERFORMANCE,laptop,explicit
+لقد قمت بإصلاح المنتجات لسنوات وكان من الواضح أن هذه كانت مشكلة في مصدر الطاقة.,مشكلة في مصدر الطاقة,POWER_SUPPLY#OPERATION_PERFORMANCE,laptop,explicit
+إنه يصدر صوتًا عاليًا جدًا عند الضغط على الزر.,NULL,KEYBOARD#DESIGN_FEATURES,laptop,implicit
+أنا أحب الوقت السريع بدء التشغيل مع ذاكرة Optane، وهو بديل جيد لـ SSD باهظ الثمن.,بدء التشغيل | ذاكرة Optane,OS#OPERATION_PERFORMANCE | MEMORY#OPERATION_PERFORMANCE,laptop,explicit | explicit
+لقد دفعت 500 دولار مقابل جهاز كمبيوتر محمول مقاس 15 بوصة مزود بذاكرة وصول عشوائي (RAM) سعة 8 جيجابايت وأحدث معالج i5 - 8250u بوزن معقول 1 وقابل للتمديد تمامًا، وأنا سعيد بهذه الصفقة.,1 | NULL | NULL,LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,explicit | implicit | implicit
+الذين يفعلون ذلك، لا يوجد لديهم لوحة الترقيم على الجانب الأيمن من لوحة المفاتيح وأنا بحاجة إلى ذلك.,لوحة المفاتيح,KEYBOARD#DESIGN_FEATURES,laptop,explicit
+إنه باهظ الثمن بعض الشيء بالنسبة لجهاز Chromebook ولكنه يستحق ذلك الآن.,NULL | NULL,LAPTOP#PRICE | LAPTOP#GENERAL,laptop,implicit | implicit
+رائع الكمبيوتر، الإعداد كان سريعًا وسهلاً.,الكمبيوتر | الإعداد | الإعداد,LAPTOP#GENERAL | LAPTOP#USABILITY | LAPTOP#USABILITY,laptop,explicit | explicit | explicit
+رائع كمبيوتر يمكنك لعب ألعاب 2015 وما دون على هذا كمبيوتر.,كمبيوتر,LAPTOP#GENERAL,laptop,explicit
+الدعم الفني لن يساعدك إلا إذا كنت على استعداد للتخلي عن جهاز الكمبيوتر الخاص بك لعدة أشهر دون ضمان العودة.,الدعم الفني,SUPPORT#GENERAL,laptop,explicit
+جيد المتانة، أداء متميز وقابلية النقل.,المتانة | NULL | قابلية النقل,LAPTOP#QUALITY | LAPTOP#OPERATION_PERFORMANCE | LAPTOP#PORTABILITY,laptop,explicit | implicit | explicit
+كان كل شيء على ما يرام وخرجت لمدة ساعة.,NULL,LAPTOP#GENERAL,laptop,implicit
+إنه خفيف جدًا إذا كنت قادمًا من أي كمبيوتر محمول آخر.,NULL,LAPTOP#PORTABILITY,laptop,implicit
+يجب علي أيضًا الضغط على لوحة التتبع بقوة شديدة للنقر بزر الماوس الأيسر (ولكن ليس بشكل سيء كما في الوحدة الأولى)، وفقدت وظيفة النقر بزر الماوس الأيمن على لوحة التتبع بعد يومين من رحلتي مع هذا الشيء.,لوحة التتبع,KEYBOARD#USABILITY,laptop,explicit
+- ddr4 ram قابلة للترقية .,ddr4 ram,MEMORY#GENERAL,laptop,explicit
+مكبر الصوت جيد ولكن ليس مذهلاً، أنا أحب أنه مثبت على الجانبين حتى يعمل بشكل جيد في وضع الكمبيوتر المحمول أو الجهاز اللوحي بنفس القدر من الجودة.,مكبر الصوت | مكبر الصوت,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE | MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit | explicit
+هناك شيء خاطئ مع الكمبيوتر المحمول الخاص بي.,الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
+حتى الآن، قمت بتحميل عدد من الألعاب، وخزنة كلمات المرور الخاصة بي، والعديد من تطبيقات الإنتاجية، وSkype، وSpotify، وبعض عمليات مسح الشبكة تطبيقات Android وقد عملت جميعها بشكل جيد للغاية.,NULL | تطبيقات Android,SOFTWARE#OPERATION_PERFORMANCE | SOFTWARE#OPERATION_PERFORMANCE,laptop,implicit | explicit
+هذا الكمبيوتر المحمول لا يستحق الوقت وبالتأكيد ليس المال.,الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
+وأنا أؤمن حقًا بشركة Acer، ولكن في البداية واجهت الكثير من المشكلات في إعداد الكمبيوتر وبعد ساعات من مساعدة خدمة العملاء، لم تعمل لوحة اللمس حتى.,لوحة اللمس,KEYBOARD#QUALITY,laptop,explicit
+في نهاية اليوم أعتقد أنه يستحق التكلفة الإضافية إذا كنت تبحث عن منتج متميز.,NULL,LAPTOP#GENERAL,laptop,implicit
+Chromebook رائع بشكل عام.,Chromebook,LAPTOP#GENERAL,laptop,explicit
+مشرق بما يكفي لجميع الاستخدامات، و1080 بكسل مثالي - الصور حادة.,1080 بكسل | 1080 بكسل,DISPLAY#QUALITY | DISPLAY#QUALITY,laptop,explicit | explicit
+إنه معطل، وبالكاد يمكن استخدامه.,NULL | NULL,HARDWARE#OPERATION_PERFORMANCE | HARDWARE#OPERATION_PERFORMANCE,laptop,implicit | implicit
+هذا هو جهازي الثاني Chromebook وستكون عملية الشراء التالية لجهاز Chromebase ليحل محل جهاز الكمبيوتر المنزلي الخاص بي.,Chromebook,LAPTOP#GENERAL,laptop,explicit
+لا تشتريه .,NULL,LAPTOP#GENERAL,laptop,implicit
+إنه أنحف وأخف وزنا.,NULL | NULL,LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,implicit | implicit
+عمر البطارية يقال أنه 10 ساعات ولكنني أجد أنه 7.,عمر البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+إعادة التشغيل الصعبة، إعادة الضبط، التحديث + الطاقة، ESC + التحديث + الطاقة، الشحن، تركه يستنزف، لا شيء أعاده إلى الحياة.,NULL,LAPTOP#USABILITY,laptop,implicit
+يحصل رباعي النواة celeron n3160 على درجة أوكتان محترمة تقترب من 8000.,رباعي النواة celeron n3160,CPU#OPERATION_PERFORMANCE,laptop,explicit
+تبلغ تكلفة الوحدة  275 دولارًا في البداية، لذا فهي لا تستحق الإصلاح.,NULL,LAPTOP#PRICE,laptop,implicit
+بسعر 500 دولار لـ Chromebook، كنت مترددًا بعض الشيء في الشراء، ولكن في هذه المرحلة أنا سعيد جدًا بـ الشراء وأعتقد أنه يستحق السعر.,الشراء | Chromebook,LAPTOP#GENERAL | LAPTOP#PRICE,laptop,explicit | explicit
+لقد اضطررت إلى شراء ماوس لأن لوحة اللمس لزجة للغاية.,لوحة اللمس,KEYBOARD#DESIGN_FEATURES,laptop,explicit
+لقد كنت أستخدمه لمدة 4 ساعات على الأقل منذ آخر شحنة، حيث تم استخدام 23% منه.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+سهلة الاستخدام .,NULL,LAPTOP#USABILITY,laptop,implicit
+قم بالركض مثل الجحيم من هذا الجهاز .,الجهاز,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+لكن مهندسي شركة آسوس صمموا العلبة و الكمبيوتر المحمول بحيث لا يمكن فتحهما من قبل المستخدمين.,العلبة | الكمبيوتر المحمول,LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,explicit | explicit
+مظهر جميل للغاية كمبيوتر محمول مقابل المال.,كمبيوتر محمول | كمبيوتر محمول,LAPTOP#DESIGN_FEATURES | LAPTOP#PRICE,laptop,explicit | explicit
+الميكروفون لا يعمل مع مكبر الصوت العادي.,الميكروفون | مكبر الصوت,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE | MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit | explicit
+تومض الشاشة  لمدة ثانية كل 30 ثانية أو نحو ذلك.,NULL,DISPLAY#OPERATION_PERFORMANCE,laptop,implicit
+بشكل عام، فإن الكمبيوتر المحمول يعطي إحساسًا بالصلابة.,الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
+أخيرًا حصلت على الضمان بعد ما يقرب من 6 أشهر.,الضمان,WARRANTY#GENERAL,laptop,explicit
+- سعر رائع لـ شاشة تعمل باللمس Chromebook,شاشة تعمل باللمس Chromebook,LAPTOP#PRICE,laptop,explicit
+مكبرات الصوت الموجودة في الجزء السفلي قد تستغرق بعض الوقت للتكيف معها، ولكن بعد ذلك سيكون كل شيء على ما يرام.,مكبرات الصوت,MULTIMEDIA_DEVICES#GENERAL,laptop,explicit
+- لائق جدًا عمر البطارية .,عمر البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+لكن أعتقد أنه يحتوي على قدر كبير من الطاقة المتجهة إلى ذلك المعالج لذلك لا يمكنك الحصول عليه بالكامل.,المعالج,CPU#OPERATION_PERFORMANCE,laptop,explicit
+الشاحن  معيب وبعد 45 يومًا من الاستخدام، يكون الشاحن  معطلاً.,NULL,POWER_SUPPLY#QUALITY,laptop,implicit
+إضاءة خلفية تسمح حتى للأشخاص ذوي الأيدي الكبيرة باستخدام هذا لوحة المفاتيح بشكل مريح في أي إضاءة.,إضاءة خلفية | لوحة المفاتيح,KEYBOARD#DESIGN_FEATURES | KEYBOARD#DESIGN_FEATURES,laptop,explicit | explicit
+تدوم البطارية بطارية لمدة 8 - 9 ساعات على الأقل عند استخدامها لكتابة الملاحظات وتصفح الويب البسيط، مما يجعلها مثالية للطلاب.,بطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+على سبيل المثال، لا يعمل تطبيق Android YouTube بشكل جيد على الإطلاق لأنه من غير الملائم للغاية عرض مقاطع الفيديو في وضع ملء الشاشة.,Android YouTube | Android YouTube,SOFTWARE#OPERATION_PERFORMANCE | SOFTWARE#OPERATION_PERFORMANCE,laptop,explicit | explicit
+يبدو أن هناك شيء ما في نظام التشغيل OS X الذي يعمل بدقة عالية شاشة يبدو أنيقًا بطريقة لا يمكن لجهاز كمبيوتر يعمل بنظام Windows أن يضاهيها أبدًا.,نظام التشغيل OS X | شاشة,OS#GENERAL | DISPLAY#OPERATION_PERFORMANCE,laptop,explicit | explicit
+نادرًا ما أستخدم لوحة المفاتيح .,NULL,KEYBOARD#GENERAL,laptop,implicit
+بعد البحث عن جهاز كمبيوتر محمول عالي الجودة كمبيوتر محمول لا يكلف الكثير من المال، اخترت هذا الجهاز أخيرًا.,كمبيوتر محمول,LAPTOP#QUALITY,laptop,explicit
+ثانياً، هذه آلة جميلة من الناحية الجمالية حقاً آلة.,آلة,LAPTOP#DESIGN_FEATURES,laptop,explicit
+مع كل هذه المميزات الرائعة المواصفات الأجهزة الموجودة في هذا الكمبيوتر المحمول، لماذا تضع محرك أقراص ثابت بسرعة 5400 دورة في الدقيقة محرك أقراص ثابت في هذه الوحدة؟,المواصفات | الأجهزة | محرك أقراص ثابت,HARDWARE#GENERAL | HARDWARE#GENERAL | HARD_DISC#GENERAL,laptop,explicit | explicit | explicit
+يتصل هذا Chromebook بالإنترنت على الفور.,Chromebook,LAPTOP#CONNECTIVITY,laptop,explicit
+عند الذهاب إلى متجر بقالة أو مركز للياقة البدنية، استغرقت الأجهزة اللوحية التي تعمل بنظام Android وقتًا طويلاً للاتصال لدرجة أنني أنهيت التسوق قبل أن يتم توصيلها بالإنترنت.,الأجهزة اللوحية التي تعمل بنظام Android,LAPTOP#CONNECTIVITY,laptop,explicit
+أنا أحب الإضاءة الخلفية، فهي ليست ساطعة جدًا حتى لا تصيبك بالعمى في الليل.,الإضاءة الخلفية,KEYBOARD#DESIGN_FEATURES,laptop,explicit
+المنتج قوي، وخفيف الوزن، وسريع، ووقت تشغيل البطارية كان كما هو معلن عنه!,المنتج | المنتج | المنتج | وقت تشغيل البطارية,LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES | LAPTOP#OPERATION_PERFORMANCE | BATTERY#QUALITY,laptop,explicit | explicit | explicit | explicit
+اتصلت الدعم للمرة الثانية بعد 10 دقائق من التحقق من بعض أنواع المعلومات، وأخبروني بالاتصال بـ Google دون محاولة المساعدة حتى.,الدعم,SUPPORT#GENERAL,laptop,explicit
+يبدو أن عمر البطارية هنا جيد.,عمر البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+البطارية تدوم لفترة طويلة بشكل لا يصدق.,البطارية | البطارية,BATTERY#OPERATION_PERFORMANCE | BATTERY#OPERATION_PERFORMANCE,laptop,explicit | explicit
+استخدم كما اشتريته، إنه جيد كمبيوتر محمول، ولكن ليس رائعًا (ربما قيمة 3 نجوم).,كمبيوتر محمول | كمبيوتر محمول,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,explicit | explicit
+بالنسبة لـ 99% من الأشخاص الذين يبحثون عن أجهزة Chromebook حاليًا للاستخدام الشخصي، فإن هذا Asus ربما يكون الخيار الأفضل في السوق.,Asus,LAPTOP#GENERAL,laptop,explicit
+إنها تحتوي على شاشة جميلة شاشة ساطعة للغاية وزاوية رؤية مناسبة وتباين جيد.,شاشة | شاشة | شاشة | شاشة,DISPLAY#GENERAL | DISPLAY#GENERAL | DISPLAY#GENERAL | DISPLAY#GENERAL,laptop,explicit | explicit | explicit | explicit
+ممتاز للاستخدام على الإنترنت.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+أنا سعيد جدًا لأنني اشتريت هذا المنتج وسأشتريه مرة أخرى بالتأكيد.,NULL,LAPTOP#GENERAL,laptop,implicit
+لذا أنا سعيد جدًا ومطمئن لرؤية أنه يعمل بشكل ممتاز على c302.,c302 | c302,LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,explicit | explicit
+لقد عمل بشكل جيد باستثناء مشكلة أولية عند تشغيله.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+لقد تم قفله مرة أخرى.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+لقد اضطررت إلى إعادة ضبط المصنع على هذه القطعة من القمامة 4 مرات وأنا أمتلكها منذ 4 أشهر فقط.,NULL,LAPTOP#GENERAL,laptop,implicit
+عندما يعمل فإنه يعمل بشكل رائع.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+أنا أحب مدى خفته وسرعته.,NULL | NULL | NULL | NULL,LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES | LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,implicit | implicit | implicit | implicit
+واي فاي يتباطأ إلى الحد الأقصى ثم يعود إلى سرعته بشكل متقطع.,واي فاي,PORTS#QUALITY,laptop,explicit
+يمكن الترقية بسهولة إلى التخزين وذاكرة الوصول العشوائي.,ذاكرة الوصول العشوائي,MEMORY#USABILITY,laptop,explicit
+بسعر 300 دولار، يعد هذا شراءً رائعًا.,NULL,LAPTOP#PRICE,laptop,implicit
+كل شيء مثالي .,NULL,LAPTOP#GENERAL,laptop,implicit
+الشحن لا يدوم مثل الخمس ساعات المذكورة بل يدوم ثلاث ساعات.,الشحن,POWER_SUPPLY#OPERATION_PERFORMANCE,laptop,explicit
+لقد حققت Google وشركاؤها نجاحًا كبيرًا مع أجهزة Chromebook ولديهم الكثير من الميزات لاستيعابها.,google and partners,COMPANY#GENERAL,laptop,explicit
+هذا الكمبيوتر المحمول واضح جدًا.,الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
+يعمل ألعاب إطلاق النار من منظور الشخص الأول بشكل جيد نسبيًا.,ألعاب إطلاق النار من منظور الشخص الأول,SOFTWARE#OPERATION_PERFORMANCE,laptop,explicit
+أنا أحب هذا الكمبيوتر المحمول حرفيًا، إنه حجم لطيف 15.,الكمبيوتر المحمول,LAPTOP#DESIGN_FEATURES,laptop,explicit
+هذا (نسبة الشاشة) يجعلها تبدو رائعة في وضع سطح المكتب.,نسبة الشاشة,DISPLAY#DESIGN_FEATURES,laptop,explicit
+قم بتوصيل cat5 و الجهاز يصرخ بسرعة عالية وهذا بالضبط ما كنت أتمناه.,الجهاز,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+لقد كانت جديدة تمامًا خارج العلبة، ولم أسقطها أبدًا.,NULL,LAPTOP#GENERAL,laptop,implicit
+لا أزال أحتفظ بهذا كنسخة احتياطية أو إضافية كمبيوتر محمول بسبب سعره الرخيص.,كمبيوتر محمول,LAPTOP#PRICE,laptop,explicit
+بغض النظر عن عدد المرات التي قمت فيها بإعادة إدخال محول الشحن، كنت أستمر في تلقي هذه الرسالة.,محول الشحن,POWER_SUPPLY#OPERATION_PERFORMANCE,laptop,explicit
+"بعد مكالمات عديدة، تلقيت تأكيدًا بأن الضمان  صالح، ولكن باعتباره ""مرة واحدة"" فقط.",NULL,WARRANTY#GENERAL,laptop,implicit
+لقد اعتدت كثيرًا على اختصارات الأصابع المتعددة على لوحة اللمس عند التنقل في Chrome.,لوحة اللمس,KEYBOARD#USABILITY,laptop,explicit
+بشكل عام، جيد جدًا أشياء.,أشياء,LAPTOP#GENERAL,laptop,explicit
+حجم لطيف لوحة مفاتيح، ويعمل بشكل رائع كجهاز لوحي (حتى أنه يقوم بإيقاف تشغيل ( لوحة المفاتيح) في وضع لوحي).,لوحة مفاتيح | لوحي,KEYBOARD#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,explicit | explicit
+سوف تنكسر، حتى لو عملت في البداية.,NULL,LAPTOP#QUALITY,laptop,implicit
+لوحة المفاتيح تحتاج إلى إعادة تصميم بالكامل.,لوحة المفاتيح,KEYBOARD#DESIGN_FEATURES,laptop,explicit
+لا يمكنني أن أكون أكثر سعادة بهذا المنتج!,المنتج,LAPTOP#GENERAL,laptop,explicit
+الإضاءة الخلفية قابلة للمقارنة، ولكن ميجا بايت تصبح أكثر سطوعًا.,الإضاءة الخلفية | ميجا بايت,KEYBOARD#GENERAL | KEYBOARD#DESIGN_FEATURES,laptop,explicit | explicit
+السبب الذي يجعلني أعطي هذا الكمبيوتر المحمول نجمتين هو لأنني أعتقد أن جودته جيدة بشكل عام خاصة بالنسبة للسعر.,الكمبيوتر المحمول | الكمبيوتر المحمول,LAPTOP#QUALITY | LAPTOP#PRICE,laptop,explicit | explicit
+يعمل بشكل جيد ولكن المروحة تعمل بشكل متكرر، وذلك للحفاظ على برودة الكمبيوتر المحمول ولكن الصوت مزعج.,المروحة | الصوت,FANS&COOLING#OPERATION_PERFORMANCE | FANS&COOLING#OPERATION_PERFORMANCE,laptop,explicit | explicit
+اتصال واي فاي قوي ومتسق في تجربتي.,اتصال واي فاي | اتصال واي فاي,PORTS#OPERATION_PERFORMANCE | PORTS#OPERATION_PERFORMANCE,laptop,explicit | explicit
+حتى مكبرات الصوت أفضل بكثير مما كنت أتوقعه من جهاز 2 في 1 في هذه النقطة السعرية.,مكبرات الصوت,MULTIMEDIA_DEVICES#GENERAL,laptop,explicit
+لقد انكسرت الشاشة الخاصة بي عندما وضعت كتابًا مدرسيًا عليها.,الشاشة,DISPLAY#GENERAL,laptop,explicit
+عمر البطارية جيد.,عمر البطارية,BATTERY#GENERAL,laptop,explicit
+وضع الجهاز اللوحي متكامل بشكل فظيع مع نظام التشغيل والتطبيقات.,وضع الجهاز اللوحي | نظام التشغيل | التطبيقات,LAPTOP#GENERAL | OS#GENERAL | SOFTWARE#GENERAL,laptop,explicit | explicit | explicit
+بطاقة gaphics mx150 سيئة جدًا أيضًا.,بطاقة gaphics mx150,GRAPHICS#GENERAL,laptop,explicit
+الكمبيوتر المحمول تعطل وتوقف عن العمل بعد 3 أشهر فقط.,الكمبيوتر المحمول,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+وجدت أن العرض نابض بالحياة للغاية، مع كثافة بكسل ممتازة.,العرض | العرض,DISPLAY#DESIGN_FEATURES | DISPLAY#DESIGN_FEATURES,laptop,explicit | explicit
+لوحة العرض على الجهاز الذي تلقيته مشوهة.,لوحة العرض على,DISPLAY#QUALITY,laptop,explicit
+القرص الصلب يجعل هذا الكمبيوتر المحمول بطيئًا جدًا.,القرص الصلب | الكمبيوتر المحمول,HARD_DISC#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,explicit | explicit
+انظر، لا تشتريه.,NULL,LAPTOP#GENERAL,laptop,implicit
+لقد بذلوا الكثير من التفكير والعمل للتأكد من أن الأجهزة و البرامج يعملان معًا بشكل جيد.,NULL | الأجهزة | البرامج,COMPANY#GENERAL | HARDWARE#GENERAL | SOFTWARE#GENERAL,laptop,implicit | explicit | explicit
+الكمبيوتر المحمول يعمل بشكل مثالي، ولكنني حصلت على شاحن مستعمل لم يستمر سوى أسبوع واحد.,الكمبيوتر المحمول | شاحن,LAPTOP#OPERATION_PERFORMANCE | POWER_SUPPLY#QUALITY,laptop,explicit | explicit
+شاشة اللمس دقيقة حقًا، وميزة (التقليب 360) سهلة حقًا - يمكنني التبديل إلى وضع الكمبيوتر اللوحي في أي وقت، على الرغم من أنني أستخدم هذا الوضع كثيرًا كجهاز كمبيوتر محمول.,360 flip,Out_Of_Scope#DESIGN_FEATURES,laptop,explicit
+أما بالنسبة للبرمجيات، ChromeOS هو نظام تشغيل عميل رفيع المستوى جيد يمكنه القيام بأكثر مما يعتقد معظم الناس.,ChromeOS,OS#USABILITY,laptop,explicit
+لوحة التتبع و شاشة اللمس كلاهما ممتازان.,لوحة التتبع | شاشة اللمس,KEYBOARD#GENERAL | DISPLAY#GENERAL,laptop,explicit | explicit
+لم أقوم بتثبيت أي برنامج عليه حتى الآن، ولكنه يقوم بتحديث شيء ما كل يوم ويريد إعادة التشغيل.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+بحلول الوقت الذي كنت أرجعه فيه، كان النظام  في حالة سيئة للغاية من MSI.,NULL,OS#OPERATION_PERFORMANCE,laptop,implicit
+2 وهذا كمبيوتر محمول هو قوة ملحمية لأقل من 700 دولار.,كمبيوتر محمول,LAPTOP#GENERAL,laptop,explicit
+أنا قريب جدًا من إعادته وعدم شراء منتج آخر منتج Acer مرة أخرى أبدًا.,منتج Acer,LAPTOP#GENERAL,laptop,explicit
+حصلت على الكمبيوتر المحمول الثاني، وتوفي في غضون شهر ونفس الشيء.,الكمبيوتر المحمول الثاني,LAPTOP#GENERAL,laptop,explicit
+الرسومات رائعة .,الرسومات,GRAPHICS#GENERAL,laptop,explicit
+- تبدو الشاشة  جيدة جدًا، إلا عند عرض أي شيء مظلم.,NULL,DISPLAY#GENERAL,laptop,implicit
+شعور رائع بـ لوحة المفاتيح أيضًا.,لوحة المفاتيح,KEYBOARD#USABILITY,laptop,explicit
+لا يدعم الاتصال السلكي.,NULL,LAPTOP#CONNECTIVITY,laptop,implicit
+"هذا جعلني أعتقد أنه على الرغم من أنني اشتريت منتجًا ""جديدًا"" منتج، فقد أرسلوا لي منتجًا مجددًا بدلاً من ذلك.",منتج,LAPTOP#QUALITY,laptop,explicit
+الآن أتركه يشحن فقط حتى يمتلئ بالكامل ولكن الوقت البطارية لا يزال يتناقص.,البطارية,BATTERY#QUALITY,laptop,explicit
+هذا هو جهازي الثالث Samsung Chromebook وسأستمر في استخدام هذا العلامة التجارية.,Samsung Chromebook | العلامة التجارية,LAPTOP#GENERAL | COMPANY#GENERAL,laptop,explicit | explicit
+لا يحتوي على لوحة مفاتيح ذات إضاءة خلفية: (الكتابة في الإضاءة المنخفضة أمر مؤلم للغاية.,لوحة مفاتيح ذات إضاءة خلفية,KEYBOARD#DESIGN_FEATURES,laptop,explicit
+لذا، أود أن أتجنب هذا الأمر، وأنا أتجنب إلى حد كبير محرك Optane الذي ربما كان جزءًا من المشكلة.,محرك Optane,GRAPHICS#GENERAL,laptop,explicit
+لقد كنت متحمسًا حقًا للحصول على هذا الكمبيوتر المحمول!,الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
+يقوم Chromebook بمعظم ما أحتاج إليه، باستثناء اللعب.,Chromebook,LAPTOP#GENERAL,laptop,explicit
+خدمة عملاء آسوس سيئة للغاية.,خدمة عملاء آسوس,SUPPORT#GENERAL,laptop,explicit
+كما قال الآخرون، العيب الوحيد هو بطء سرعة دوران القرص الصلب 5400 دورة في الدقيقة وسعة 1 تيرابايت.,5400 دورة في الدقيقة,HARD_DISC#OPERATION_PERFORMANCE,laptop,explicit
+الشاشة لائقة، ليست رائعة، فهي غير لامعة.,الشاشة | الشاشة,DISPLAY#DESIGN_FEATURES | DISPLAY#DESIGN_FEATURES,laptop,explicit | explicit
+اخترت شراء Samsung Chromebook هذه المرة فقط لتجربة شركة مختلفة ولأنها كانت غير مكلفة (دفعت 189 دولارًا).,Samsung Chromebook,LAPTOP#PRICE,laptop,explicit
+يمكنها بث الموسيقى أو مقاطع الفيديو، أو القيام بواجباتها المدرسية، وما إلى ذلك، لذلك نحن جميعًا سعداء بعملية الشراء التي قمنا بها.,NULL,LAPTOP#GENERAL,laptop,implicit
+أنا أشعر بخيبة أمل كبيرة مع هذا الكمبيوتر المحمول.,الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
+ممتاز لابتوب وبسعر معقول .,لابتوب | لابتوب,LAPTOP#GENERAL | LAPTOP#PRICE,laptop,explicit | explicit
+دقة الشاشة جيدة جدًا أيضًا عند مشاهدة الأفلام أو عرض الصور.,دقة الشاشة,DISPLAY#OPERATION_PERFORMANCE,laptop,explicit
+أنا أحب تمامًا البرامج التي تأتي معه ؛ كيفية عمل جهاز Mac نفسه ، ومظهر وجودة جهاز Mac.,البرامج,SOFTWARE#GENERAL,laptop,explicit
+إنه خفيف الوزن للغاية لكنه يبدو متينًا وقويًا للغاية.,NULL | NULL | NULL,LAPTOP#DESIGN_FEATURES | LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,implicit | implicit | implicit
+وأيضًا، أنا أكره لوحة المفاتيح - أشعر أنها رخيصة حقًا.,لوحة المفاتيح | لوحة المفاتيح,KEYBOARD#GENERAL | KEYBOARD#GENERAL,laptop,explicit | explicit
+أنا حقا أحب كيف أنها ليست ضخمة.,NULL,LAPTOP#DESIGN_FEATURES,laptop,implicit
+لا توجد شكاوى هنا .,NULL,BATTERY#GENERAL,laptop,implicit
+أشعر بخيبة أمل كبيرة بسبب مدى بطئه.,NULL | NULL,LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,implicit | implicit
+هذا أمر مجنون بالنسبة لقسط باهظ الثمن المنتج.,المنتج | المنتج,LAPTOP#OPERATION_PERFORMANCE | LAPTOP#PRICE,laptop,explicit | explicit
+العيب الوحيد في الجهاز حتى الآن هو أنه ليس مريحًا بشكل خاص للاستخدام في وضع الكمبيوتر اللوحي؛ حواف الإطار حادة قليلاً بحيث لا تريح راحة يدك بشكل مريح وبمسافة 2.5 سم.,حواف الإطار,LAPTOP#DESIGN_FEATURES,laptop,explicit
+عمر البطارية قصير، لكن توصيله بالكهرباء يعمل.,عمر البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+إذا كان هذا في الواقع شيئًا متعلقًا بالبرمجيات وتم إصلاحه، فإنني أوصي بشدة بهذا الجهاز.,الجهاز,LAPTOP#GENERAL,laptop,explicit
+لقد تلقيت أسئلة وأجوبة حول هذا Chromebook تسأل عما إذا كان سيتم تنزيل MS Office.,Chromebook,LAPTOP#USABILITY,laptop,explicit
+بحلول يونيو 2018، توقف لوحة المفاتيح عن العمل، واضطررت إلى فصل الجهاز وإعادة تشغيله.,لوحة المفاتيح,KEYBOARD#OPERATION_PERFORMANCE,laptop,explicit
+إدخال متعدد اللمس يعمل بشكل رائع.,إدخال متعدد اللمس,KEYBOARD#OPERATION_PERFORMANCE,laptop,explicit
+إن القدرة على استخدام تطبيقات متجر Play كانت بمثابة ميزة كبيرة وأنا الآن مرتاح جدًا مع مستندات Google، لقد نسيت بالفعل أنني أمتلك جهاز كمبيوتر محمولًا يعمل بنظام Windows.,مستندات Google,SOFTWARE#USABILITY,laptop,explicit
+عندما أعادته إلى acer لإصلاحه، زعموا ببساطة أنه تعرض للتلف بسبب الماء ولم يتمكنوا من إصلاحه.,acer,SUPPORT#QUALITY,laptop,explicit
+استغرقت عملية تحويل الفيديو باستخدام نفس ملف الفيديو 25 دقيقة فقط مع asus vivobook f510ua.,asus vivobook f510ua,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+عمر البطارية مذهل ويتم شحنه من 0٪ إلى 100٪ في حوالي ساعة ونصف أثناء الاستخدام.,عمر البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+إنها آلة نظيفة، متوسطة، نحيفة، آلة.,آلة | آلة | آلة,LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,explicit | explicit | explicit
+هذا الكمبيوتر مذهل!,الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+كما أنه ليس محرك أقراص SSD حقيقيًا SSD ولكنه EMMC، مما يحدث فرقًا.,SSD,HARD_DISC#OPERATION_PERFORMANCE,laptop,explicit
+ورغم كل المنافسة الجديدة التي تضرب السوق بأسعار أعلى، فإن C302 لا يزال يقدم أفضل تجربة متميزة Chrome OS بسعر محترم.,C302 | Chrome OS | Chrome OS,LAPTOP#PRICE | OS#GENERAL | OS#GENERAL,laptop,explicit | explicit | explicit
+سأقدم لهم الدعائم لـ جودة البناء.,جودة البناء,LAPTOP#QUALITY,laptop,explicit
+سعر رائع لكتاب جيد كتاب يستخدمه طلاب الجامعات الذين يحملونه طوال اليوم,كتاب | كتاب,LAPTOP#GENERAL | LAPTOP#PRICE,laptop,explicit | explicit
+لقد طلبت MacBook Pro 13 بوصة 256 جيجابايت من هذا البائع وباستثناء زر الطاقة، لم يكن لوحة المفاتيح ولوحة التتبع يعملان.,MacBook Pro | زر الطاقة | لوحة المفاتيح | لوحة التتبع,LAPTOP#GENERAL | HARDWARE#GENERAL | KEYBOARD#QUALITY | HARDWARE#QUALITY,laptop,explicit | explicit | explicit | explicit
+مفصلة الشاشة تبدو ضعيفة.,مفصلة الشاشة,HARDWARE#DESIGN_FEATURES,laptop,explicit
+أستمتع بسرعة معالجة هذا النموذج.,النموذج,CPU#OPERATION_PERFORMANCE,laptop,explicit
+أنا أحبه !,NULL,LAPTOP#GENERAL,laptop,implicit
+أنا أحب محرك الحالة الصلبة، حيث تقول المراجعات أو الإعلانات أنه يمكنك تشغيل الجهاز والاتصال بالإنترنت في غضون 10 إلى 15 ثانية.,محرك الحالة الصلبة,HARD_DISC#GENERAL,laptop,explicit
+عندما طلبت من ASUS مفتاح بديل، قالوا إنني سأضطر إلى إعادته إليهم، وهو ما كان سيجعلني بدون جهاز كمبيوتر لمدة أسبوعين.,ASUS,SUPPORT#GENERAL,laptop,explicit
+بعد أن كنت على الهاتف مع الدعم الفني ودعم Windows لمدة 10 ساعات مجتمعة، قيل لي أن الأجهزة معيبة ويجب استبدالها.,الأجهزة,HARDWARE#QUALITY,laptop,explicit
+الشاشة تبدو رائعة.,الشاشة,DISPLAY#GENERAL,laptop,explicit
+الشاشة واضحة ومشرقة والنظام لا يتأخر إلا إذا كان لدي عدد كبير من علامات التبويب المفتوحة.,الشاشة | الشاشة | النظام,DISPLAY#DESIGN_FEATURES | DISPLAY#DESIGN_FEATURES | OS#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit
+سأشتريه بالتأكيد مرة أخرى إذا كنت بحاجة إلى ذلك.,NULL,LAPTOP#GENERAL,laptop,implicit
+المتحدث : جيد مكبرات الصوت ولكن ليس الأعلى صوتًا.,مكبرات الصوت | NULL,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE | MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit | implicit
+- جديد معالج i5 للجوال .,معالج i5 للجوال,CPU#GENERAL,laptop,explicit
+بالتأكيد يمكنني القول أن هذا هو أفضل كمبيوتر محمول امتلكته على الإطلاق (ولكن من ناحية أخرى، لم أمتلك سوى 3، وكنت أتوقع أن تتحسن هذه الأشياء بمرور الوقت، أليس كذلك).,كمبيوتر محمول,LAPTOP#GENERAL,laptop,explicit
+لقد اشتريت هذا دفتر ملاحظات في شهر يوليو وكنت سعيدًا في البداية بعملية الشراء.,دفتر ملاحظات,LAPTOP#GENERAL,laptop,explicit
+- لا يوجد منفذ إيثرنت (ليس أنني استخدمت أو احتجت إلى واحد يمكنني تذكره),منفذ إيثرنت,PORTS#DESIGN_FEATURES,laptop,explicit
+دمج هذه العناصر معًا وأصبح هذا العنصر محبطًا للغاية.,NULL,LAPTOP#GENERAL,laptop,implicit
+الشاشة متوسط حسب معايير 2017.,الشاشة,DISPLAY#QUALITY,laptop,explicit
+الشاشة واضحة ومشرقة، الإعداد يستغرق حرفيًا أقل من دقيقة، وهو سريع، ورخيص، ويتم شحنه بسرعة، ويدوم إلى الأبد.,الشاشة | الشاشة | الإعداد | الإعداد | NULL,DISPLAY#QUALITY | DISPLAY#QUALITY | OS#OPERATION_PERFORMANCE | OS#OPERATION_PERFORMANCE | POWER_SUPPLY#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit | explicit | implicit
+سريع الشحن، المنتج تمامًا كما هو موضح، Apple أصلية، جديدة، مغلقة من المصنع في الصندوق.,الشحن | المنتج,SHIPPING#QUALITY | LAPTOP#GENERAL,laptop,explicit | explicit
+لا أعرف ما إذا كان هذا هو الوضع المعتاد في ChromeOS، أو ربما هناك خطأ ما في الأجهزة، ولكن هذا أمر مزعج للغاية.,الأجهزة,HARDWARE#QUALITY,laptop,explicit
+بقدر ما أحب الكمبيوتر، وكل ماك بوك لجميع أصدقائي، بالنسبة لي، يتوقف الأمر هنا والآن.,الكمبيوتر | ماك بوك,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,explicit | explicit
+التعديل  مرت 8 أشهر وكل شيء يعمل بشكل رائع.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+الشيء الوحيد الذي لم يعجبني هو أن الشاشة ليست ساطعة بدرجة كافية و مكبرات الصوت ليست أعلى صوتًا.,الشاشة | الشاشة | مكبرات الصوت,DISPLAY#OPERATION_PERFORMANCE | DISPLAY#OPERATION_PERFORMANCE | MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit
+هذا لا يهم حقًا بالنسبة لي لأن mx150 يكفي لاحتياجاتي.,mx150,GRAPHICS#DESIGN_FEATURES,laptop,explicit
+لقد قمنا بتشغيل World of Tank Blitz (باستخدام وحدة تحكم اللعبة) و Roblocks على إعدادات الدقة المنخفضة وشهدنا مظهرًا رائعًا وقدرة رائعة على اللعب.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+من الواضح أنه رائع الكمبيوتر,الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+يتيح معالج Core M3 لجهاز C302 أن يكون بدون مروحة أيضًا، مما يضيف إلى التصميم الأنيق .,NULL,LAPTOP#DESIGN_FEATURES,laptop,implicit
+لقد طلبت واحدة، لوحة اللمس فشلت في العمل بشكل متسق.,لوحة اللمس,HARDWARE#OPERATION_PERFORMANCE,laptop,explicit
+عمر البطارية رائع وأنا أحب ميزة الشاشة التي تعمل باللمس / التقليب.,عمر البطارية | NULL,BATTERY#GENERAL | DISPLAY#GENERAL,laptop,explicit | implicit
+بعد شهر من الاستخدام، يعمل القرص (c:) بنسبة 100% طوال الوقت.,NULL,HARD_DISC#OPERATION_PERFORMANCE,laptop,implicit
+التحديث: هذا هو الأسوأ على الإطلاق كمبيوتر قمت بشرائه على الإطلاق.,كمبيوتر,LAPTOP#GENERAL,laptop,explicit
+هذا ماك بوك هو نعمة كبيرة وسوف أشعر بالضياع إلى حد ما بدونه.,ماك بوك,LAPTOP#GENERAL,laptop,explicit
+أنا أحب لوحة المفاتيح و لوحة التتبع - وأخيرًا أفهم الآن سبب حصول كل منهما على تقييمات رائعة.,لوحة المفاتيح | لوحة التتبع,KEYBOARD#GENERAL | KEYBOARD#GENERAL,laptop,explicit | explicit
+الصوت فظيع حقًا ورقيق.,الصوت | الصوت,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE | MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit | explicit
+- يمكن أن تدوم البطارية الفردية شحن البطارية لمدة 13 - 9 ساعات حسب الطلب على شبكة wifi / الفيديو / التطبيق,شحن البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+لا أستخدمه كثيرًا في وضع الجهاز اللوحي كما كنت أعتقد لأنه ثقيل بعض الشيء في هذا التكوين.,وضع الجهاز اللوحي,LAPTOP#PORTABILITY,laptop,explicit
+كان هذا المنتج رائعًا - رائعًا جودة التصنيع، دقة الشاشة، لوحة المفاتيح - حتى توقف في أحد الأيام عن التشغيل.,المنتج | جودة التصنيع | دقة الشاشة | لوحة المفاتيح | NULL,LAPTOP#GENERAL | LAPTOP#QUALITY | DISPLAY#GENERAL | KEYBOARD#GENERAL | LAPTOP#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit | explicit | implicit
+لقد عملت لعبة The Sims 4 بسلاسة تامة على النظام العادي الرسومات.,الرسومات,DISPLAY#OPERATION_PERFORMANCE,laptop,explicit
+ssd مشكلة في الأجهزة,ssd,HARD_DISC#QUALITY,laptop,explicit
++ جيد جدًا لوحة IPS غير لامعة FHD، انعكاسات صفرية، تسرب الضوء يكاد يكون معدومًا، سطوع متوسط.,لوحة IPS غير لامعة FHD,DISPLAY#DESIGN_FEATURES,laptop,explicit
+لا تهتم حتى بالاتصال دعم العملاء، في تجربتي، فإنهم لن يقدموا لك أي فائدة.,دعم العملاء,SUPPORT#GENERAL,laptop,explicit
+لطيف كمبيوتر لطفل المدرسة الابتدائية المسؤول.,كمبيوتر,LAPTOP#GENERAL,laptop,explicit
+لوحة المفاتيح جميلة جدًا وسريعة الاستجابة.,لوحة المفاتيح | لوحة المفاتيح,KEYBOARD#OPERATION_PERFORMANCE | KEYBOARD#OPERATION_PERFORMANCE,laptop,explicit | explicit
+إجراء الإرجاع معقد للغاية لدرجة أنني قد أقرر كتابة هذا الشراء كخطأ كبير.,إجراء الإرجاع,SUPPORT#GENERAL,laptop,explicit
+ومع ذلك، فإنه يأتي مع 100 جيجابايت من التخزين المجاني جوجل درايف على الإنترنت.,جوجل درايف على الإنترنت,HARD_DISC#DESIGN_FEATURES,laptop,explicit
+مفتاح المسافة لا يقبل الإدخال دائمًا,مفتاح المسافة,KEYBOARD#OPERATION_PERFORMANCE,laptop,explicit
+لا أعتقد أنك ستجد جهازًا أفضل كمبيوتر محمول بهذا السعر.,كمبيوتر محمول,LAPTOP#PRICE,laptop,explicit
+أعجبني إضافة زر تعزيز التبريد، ولكن في معظم الأحيان لا أضطر إلى استخدامه لأن لدي لوحة تبريد الكمبيوتر المحمول الأوتوماتيكية Thermaltake التي تراقب السطح السفلي للكمبيوتر المحمول الخاص بي.,لوحة تبريد الكمبيوتر المحمول الأوتوماتيكية Thermaltake,FANS&COOLING#GENERAL,laptop,explicit
+مصنوع من البلاستيك الرخيص ولكن الأداء يستحق المقايضة بجهاز كمبيوتر محمول بقيمة 500 دولار.,NULL | NULL | NULL,LAPTOP#QUALITY | LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,implicit | implicit | implicit
+هذه أول مرة أستخدم فيها Chromebook، وهذا هو جهازي المفضل الكمبيوتر المحمول على الإطلاق.,الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
+لقد بدأت للتو، لذا قد تتطور هذه المراجعة بمرور الوقت، ولكن بعد عدة أيام، أشعر بالرضا الشديد عن هذا المنتج الشراء وسأعرضه على أصدقائي في المستقبل المنظور.,الشراء,LAPTOP#GENERAL,laptop,explicit
+رائع كمبيوتر محمول!,كمبيوتر محمول,LAPTOP#GENERAL,laptop,explicit
+سعر رائع وأداء رائع ولكن سيئ البطارية.,NULL | NULL | البطارية,LAPTOP#PRICE | LAPTOP#OPERATION_PERFORMANCE | BATTERY#GENERAL,laptop,implicit | implicit | explicit
+هذا جميل جدًا كمبيوتر محمول.,كمبيوتر محمول,LAPTOP#GENERAL,laptop,explicit
+تعمل الشاشة التي تعمل باللمس بشكل جيد للغاية، وتطبيقات Android تعمل بشكل صحيح الآن إذا كنت تستخدم القناة التجريبية لنظام التشغيل Chrome OS.,تطبيقات Android,SOFTWARE#OPERATION_PERFORMANCE,laptop,explicit
+لوحة المفاتيح و لوحة الماوس تبدو جيدة، ولكن بشكل عام تبدو بطيئة بشكل غريب.,لوحة المفاتيح | لوحة الماوس | NULL,KEYBOARD#DESIGN_FEATURES | KEYBOARD#DESIGN_FEATURES | LAPTOP#GENERAL,laptop,explicit | explicit | implicit
+كنت أفكر في شراء منتج من شركة Apple ولكنني أكثر سعادة بهذا المنتج!,NULL,LAPTOP#GENERAL,laptop,implicit
+- مجموعة مختارة سخية من المنافذ (هذا في إشارة إلى الطراز الأحدث),المنافذ,PORTS#DESIGN_FEATURES,laptop,explicit
+الصوت من المستحيل تقريبا سماعه.,الصوت,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit
+لوحة المفاتيح نفسها ربما تكون هي النقطة الضعيفة المادية الوحيدة.,لوحة المفاتيح,KEYBOARD#DESIGN_FEATURES,laptop,explicit
+إن العديد من ملحقاتي ملحقات Chrome لا تعمل بشكل جيد ويجب تعطيلها تمامًا مما يؤدي إلى تدهور تجربة إنتاج العمل الخاصة بي.,ملحقات Chrome,SOFTWARE#OPERATION_PERFORMANCE,laptop,explicit
+مثل هذا تمامًا الكمبيوتر المحمول حتى الآن، لقد كتبت هذه المراجعة في وقت مبكر جدًا من امتلاكه حتى تلقي ذلك الجميل سماعة رأس MSI.,الكمبيوتر المحمول | سماعة رأس MSI,LAPTOP#GENERAL | MULTIMEDIA_DEVICES#GENERAL,laptop,explicit | explicit
+خفيف الوزن .,NULL,LAPTOP#DESIGN_FEATURES,laptop,implicit
+التحديث: يبدو أن الكمبيوتر المحمول الذي تم بيعه لي كان يفتقد 5 براغي من الداخل والتي تعمل في الواقع على تثبيت كل شيء معًا.,الكمبيوتر المحمول,LAPTOP#QUALITY,laptop,explicit
+لقد أرسلته إلى ضمان ASUS والآن بعد أسبوع يرسلونه مرة أخرى قائلين أنه لم يتم العثور على أي مشكلة.,ضمان ASUS,SUPPORT#GENERAL,laptop,explicit
+أنا حقًا أستمتع بمظهر الجهاز 2 - 1 وأحب حقًا كيف أنه عند طيه في وضع الكمبيوتر اللوحي، لا توجد أي أخاديد غريبة على الجانبين.,وضع الكمبيوتر اللوحي,LAPTOP#GENERAL,laptop,explicit
+هذا الشيء سريع وفعال .,NULL | NULL,LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,implicit | implicit
+يتم تحميل صفحات الويب بسرعة.,NULL,SOFTWARE#OPERATION_PERFORMANCE,laptop,implicit
+الرسومات جيدة لمستوى هذا الكمبيوتر المحمول.,الرسومات,GRAPHICS#GENERAL,laptop,explicit
+يعمل chormebook كما هو موضح من قبل البائع.,chormebook,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+"هذا ليس جهازًا قويًا، لم أضغط عليه مطلقًا، it ربما لن يتعامل مع أكثر من 20 علامة تبويب عبر نوافذ / أسطح مكتب متعددة اعتدت عليها في Chrome على سطح المكتب، ولكن بالنسبة لـ 99٪ من ""الأشخاص العاديين""، فهذا جهاز كمبيوتر محمول جيد بشكل لا يصدق.",it,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+هذا هو الانطباع الأول، اليوم الأول لاستخدامه,NULL,LAPTOP#GENERAL,laptop,implicit
+لن أشتري أبدًا منتجًا آخر منتج asus.,منتج asus,COMPANY#GENERAL,laptop,explicit
+هذا Chromebook هو أحد أفضل أجهزة الكمبيوتر التي استخدمتها على الإطلاق.,Chromebook | أجهزة الكمبيوتر,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,explicit | explicit
+إنه بعيد كل البعد عن تلبية توقعاتي.,NULL,LAPTOP#GENERAL,laptop,implicit
+إنه حقًا سلس وسهل التحرك ذهابًا وإيابًا ويجعل التجربة باستخدام تكوينات Linux و البيئات المختلفة أمرًا سهلاً.,تكوينات Linux | تكوينات Linux | تكوينات Linux | البيئات | البيئات | البيئات,OS#OPERATION_PERFORMANCE | OS#OPERATION_PERFORMANCE | OS#OPERATION_PERFORMANCE | OS#OPERATION_PERFORMANCE | OS#OPERATION_PERFORMANCE | OS#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit | explicit | explicit | explicit
+يتم اكتشاف Audio Quest Dragonfly تلقائيًا ويعمل بشكل مثالي عند توصيله بأحد المنافذ USB - C.,USB - C,PORTS#OPERATION_PERFORMANCE,laptop,explicit
+ومع ذلك، لا يزال 5 نجوم لأنك تحصل على ما تدفعه مقابله: رخيص الثمن، وقوي إلى حد ما، وخفيف الوزن كمبيوتر محمول للتنقل به والعبث به.,كمبيوتر محمول | كمبيوتر محمول | كمبيوتر محمول,LAPTOP#PRICE | LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,explicit | explicit | explicit
+لن تشعر بخيبة أمل مع هذا الجهاز الصغير الرائع آلة بغض النظر عن الطريقة التي ستستخدمه بها، وهذا التنوع هو ما يجعل هذا آلة ممتعًا وقيمًا كمبيوتر.,آلة | آلة | NULL | NULL | كمبيوتر | كمبيوتر,LAPTOP#GENERAL | LAPTOP#GENERAL | LAPTOP#GENERAL | LAPTOP#GENERAL | LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,explicit | explicit | implicit | implicit | explicit | explicit
+في نصف الوقت لا يريد التشغيل ويومض فقط.,NULL,LAPTOP#OPERATION_PERFORMANCE,laptop,implicit
+إنه لا يزال جهازًا وظيفيًا بشكل أساسي كمبيوتر، ولكن استخدامه ليس الأفضل على الإطلاق.,كمبيوتر | كمبيوتر,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,explicit | explicit
+هذا مذهل Chromebook .,Chromebook,LAPTOP#GENERAL,laptop,explicit
+أنا خارج منا، أنا أعيش في كولومبيا، وربما لا أستطيع إرجاع هذه الكمبيوتر المحمول.,الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
++ كمية مناسبة من المنافذ المتاحة (2),المنافذ | المنافذ,PORTS#QUALITY | PORTS#QUALITY,laptop,explicit | explicit
+من الرائع حقًا أن يكون لديك شاشة تعمل باللمس عند استخدام التطبيقات ويمكنني الانتقال بسلاسة إلى استخدام لوحة التتبع / لوحة المفاتيح اعتمادًا على ما أفعله.,شاشة تعمل باللمس,DISPLAY#USABILITY,laptop,explicit
+الكمبيوتر في حد ذاته ليس سيئًا، والدوران 360 وشاشة اللمس تبدو جيدة.,الكمبيوتر | الدوران 360 | شاشة اللمس,LAPTOP#GENERAL | HARDWARE#DESIGN_FEATURES | DISPLAY#GENERAL,laptop,explicit | explicit | explicit
+أعلم أن الأمر لا يستغرق سوى بضع ثوانٍ، ولكن لا ينبغي لجهاز جديد جهاز أن يفعل هذا الأمر، مما يجعلني أتساءل عما إذا كان الأمر سيصبح أسوأ في المستقبل.,جهاز,LAPTOP#GENERAL,laptop,explicit
+جيد بشكل عام كمبيوتر محمول .,كمبيوتر محمول,LAPTOP#GENERAL,laptop,explicit
+في الواقع كان الأمر أقرب إلى 1h45m وكان هذا أيضًا بعد تحسين البطارية.,البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+لذا ذهبت لتثبيت تطبيقي المفضل تطبيق كتابة السيناريو، Trelby، فقط لأكتشف أنه غير متاح.,تطبيق كتابة السيناريو,SOFTWARE#GENERAL,laptop,explicit
+سأوصي بهذا بشدة!,NULL | NULL,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,implicit | implicit
+اشتريت هذا العام الماضي في يوليو.,NULL,LAPTOP#GENERAL,laptop,implicit
+ممتاز الأجهزة، ومع ذلك واجهت بعض المشاكل السيئة بعد التحديث Windows 10.,الأجهزة | Windows 10,HARDWARE#GENERAL | OS#GENERAL,laptop,explicit | explicit
+لوحة اللمس تعمل بشكل جيد.,لوحة اللمس,KEYBOARD#DESIGN_FEATURES,laptop,explicit
+الشاشة تبقى في أي وضع تضعها فيه بثبات كافٍ لاستخدام اللمس الشاشة.,الشاشة,DISPLAY#DESIGN_FEATURES,laptop,explicit
+بخلاف ذلك، فهو أمر رائع.,NULL,LAPTOP#GENERAL,laptop,implicit
+ماك رائع بالإضافة إلى شريحة أسفل لوحة الماوس.,ماك | شريحة,LAPTOP#GENERAL | KEYBOARD#DESIGN_FEATURES,laptop,explicit | explicit
+مرحبًا، هذا الجهاز قابل للاستخدام للغاية وعملي.,الجهاز | الجهاز,LAPTOP#USABILITY | LAPTOP#OPERATION_PERFORMANCE,laptop,explicit | explicit
+حكمي النهائي - إنه قوي إلى حد ما باعتباره (جهازًا واحدًا) الآن بعد مرور 6 أشهر من التحديثات والتأخيرات.,جهازًا,LAPTOP#GENERAL,laptop,explicit
+- مكبرات الصوت صغيرة بعض الشيء (على الرغم من أن مستوى الصوت رائع) ومن غير الممكن تخصيص المعادل على Chrome OS الآن: (,مكبرات الصوت | مكبرات الصوت | Chrome OS,MULTIMEDIA_DEVICES#DESIGN_FEATURES | MULTIMEDIA_DEVICES#QUALITY | OS#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit
+- شاشة اللمس ليست دقيقة كما أتمنى، في حالات مثل النقر على أشياء صغيرة حول الحواف.,شاشة اللمس,DISPLAY#GENERAL,laptop,explicit
+Chromebook يبدو وكأنه نوع الجهاز الذي تراجعه بعد بضعة أسابيع، وبحلول الوقت الذي يحدث فيه أي شيء يؤثر على الاستخدام، سيكون البديل بنفس القدر أو أرخص، وأقوى مرتين، ويأتي مع لعبة `` angry birds `` مثبتة بشكل افتراضي.,Chromebook,LAPTOP#GENERAL,laptop,explicit
+لم يتم ذكر ذلك في أي مكان.,NULL,LAPTOP#GENERAL,laptop,implicit
+أنا أحب هذا Chromebook .,Chromebook | Chromebook | Chromebook,LAPTOP#GENERAL | LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,explicit | explicit | explicit
+ومع ذلك،  مكبرات الصوت على هذا الشيء فظيعة.,مكبرات الصوت,MULTIMEDIA_DEVICES#GENERAL,laptop,explicit
+أعتقد أنه ليس من الصحي استخدام هذا لوحة المفاتيح لفترة طويلة.,لوحة المفاتيح,KEYBOARD#MISCELLANEOUS,laptop,explicit
+محرك الأقراص الصلبة ss لديه تأخير قريب من الصفر مقارنة بمحركات الأقراص التقليدية.,محرك الأقراص الصلبة ss,HARD_DISC#OPERATION_PERFORMANCE,laptop,explicit
+أنا أحب الشاشة على هذا الجهاز، الصور نظيفة ونقية، وأستمتع بـ 4 غيغابايت من ذاكرة الوصول العشوائي التي تسمح لي بفتح بضعة علامات تبويب إضافية.,الشاشة | الشاشة | الشاشة | ذاكرة الوصول العشوائي,DISPLAY#GENERAL | DISPLAY#GENERAL | DISPLAY#GENERAL | MEMORY#GENERAL,laptop,explicit | explicit | explicit | explicit
+لا يمكن إزالة البطارية .,البطارية,BATTERY#DESIGN_FEATURES,laptop,explicit
+الآن يجب أن أتعامل مع أشياء الضمان وإرسالها مرة أخرى وما إلى ذلك.,أشياء الضمان,WARRANTY#GENERAL,laptop,explicit
+كان جهاز الكمبيوتر المحمول الموثوق لدي يعمل بنظام التشغيل Windows 7 على وشك الانتهاء واخترت تجربة شيء جديد.,يعمل بنظام التشغيل Windows 7,LAPTOP#GENERAL,laptop,explicit
+ما يفتقرون إليه في الحجم، يعوضونه بالسرعة الخام، والمتانة، وكفاءة الطاقة.,NULL | NULL,LAPTOP#DESIGN_FEATURES | LAPTOP#OPERATION_PERFORMANCE,laptop,implicit | implicit
+العرض يتوقف عن العمل خلال شهرين.,العرض,DISPLAY#GENERAL,laptop,explicit
+أحب ذلك حقا .,NULL,LAPTOP#GENERAL,laptop,implicit
+أعجبني الحجم والمميزات .,NULL,LAPTOP#DESIGN_FEATURES,laptop,implicit
+6 `` الشاشة كبيرة بما يكفي للقراءة بسهولة، ومع ذلك فإن العنصر نفسه خفيف بما يكفي لحمله في الاجتماعات.,NULL | NULL | العنصر,DISPLAY#DESIGN_FEATURES | DISPLAY#DESIGN_FEATURES | LAPTOP#PORTABILITY,laptop,implicit | implicit | explicit
+ماسح بصمة الإصبع لا يعمل على الإطلاق.,ماسح بصمة الإصبع,HARDWARE#QUALITY,laptop,explicit
+بالنسبة لنا، كان مثاليا.,NULL,LAPTOP#GENERAL,laptop,implicit
+فظيع المنتج .,المنتج,LAPTOP#GENERAL,laptop,explicit
+دقة الشاشة رائعة.,دقة الشاشة,DISPLAY#GENERAL,laptop,explicit
+سريع المعالج .,المعالج,CPU#OPERATION_PERFORMANCE,laptop,explicit
+لقد أعجبت كثيرًا بجهازي الأول Chromebook.,Chromebook,LAPTOP#GENERAL,laptop,explicit
+إنها ليست فاخرة، ولكنها ذات قيمة جيدة وسريعة وخالية من المتاعب.,NULL | NULL | NULL | NULL,LAPTOP#DESIGN_FEATURES | LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,implicit | implicit | implicit | implicit
+على ما يبدو أن التفاحة لم تعد تحاول بعد الآن.,التفاحة,COMPANY#GENERAL,laptop,explicit
+الآن أشعر بالسوء لشراء هذا لطفلي، حيث يبدو أن هذا الكمبيوتر المحمول يتمتع بتقييم قوي في أماكن أخرى.,الكمبيوتر المحمول | الكمبيوتر المحمول,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,explicit | explicit
+ومع ذلك، كانت لدي بعض المشكلات البسيطة معه، ولكن مقابل السعر الذي تم إطلاقه به وهو 250 دولارًا، فقد كان يستحق ذلك تمامًا.,NULL,LAPTOP#PRICE,laptop,implicit
+بسبب سياسة الإرجاع الممتازة على Prime قررت شراء هذا.,سياسة الإرجاع,SUPPORT#GENERAL,laptop,explicit
+ممتاز لـ الرسومات، ليس معقدًا للغاية ولكنه قادر على إنجاز المهمة,الرسومات,GRAPHICS#GENERAL,laptop,explicit
+أمنيتي الوحيدة هي أن يكون أسرع قليلاً / أقل تأخيرًا نظرًا لأنه جهاز Chromebook - ولكن بالنسبة لنقطة السعر فهو شراء رائع.,NULL,LAPTOP#PRICE,laptop,implicit
+بشكل عام فإن الكمبيوتر المحمول رخيص وهش.,الكمبيوتر المحمول | الكمبيوتر المحمول,LAPTOP#PRICE | LAPTOP#QUALITY,laptop,explicit | explicit
+كانت سرعات النقل (LAN إلى NAS) بطيئة للغاية (10 - 30 ميجابايت في الثانية).,NULL,PORTS#OPERATION_PERFORMANCE,laptop,implicit
+أداء رائع وهادئ وبارد معالج.,معالج | معالج | معالج,LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE | CPU#GENERAL,laptop,explicit | explicit | explicit
+- شاشة تعمل باللمس تستجيب بشكل كافي للألعاب.,شاشة تعمل باللمس,DISPLAY#DESIGN_FEATURES,laptop,explicit
+إنه لا يستحق ذلك .,NULL,LAPTOP#GENERAL,laptop,implicit
+احب لوحة المفاتيح .,لوحة المفاتيح,KEYBOARD#GENERAL,laptop,explicit
+قد يتم رفض هذه المراجعة لأنني أفتقد الطابع ` ` عملية شراء تم التحقق منها ` ` ، وهو أمر عادل.,عملية شراء تم التحقق منها,SUPPORT#GENERAL,laptop,explicit
+الكمبيوتر المحمول تم تشغيله مباشرة وكان الإعداد سهلاً للغاية.,الكمبيوتر المحمول | الكمبيوتر المحمول,LAPTOP#OPERATION_PERFORMANCE | LAPTOP#USABILITY,laptop,explicit | explicit
+خفيف بالنسبة لحجمه، ولا يحتوي على الكثير من المرونة في الجسم.,NULL,LAPTOP#DESIGN_FEATURES,laptop,implicit
+أحب أن يكون حجمه كبيرًا فقط بقدر ما يجب أن يكون به حجم كامل لوحة مفاتيح (ليس مع لوحة أرقام، ولكن مفاتيح بالحجم الكامل).,NULL | لوحة مفاتيح,LAPTOP#DESIGN_FEATURES | KEYBOARD#DESIGN_FEATURES,laptop,implicit | explicit
+كما هو الحال دائمًا أمازون كان رائعًا بشأن إرجاعه.,أمازون,SUPPORT#QUALITY,laptop,explicit
+• رائع عمر البطارية .,عمر البطارية,BATTERY#QUALITY,laptop,explicit
+2/28/18 - قبل يومين قمت بتحديث Chrome OS.,Chrome OS,OS#GENERAL,laptop,explicit
+في شكل الكمبيوتر المحمول، فهو متوسط في أفضل الأحوال.,شكل الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
+شاشة حافة النانو جميلة .,شاشة حافة النانو,DISPLAY#OPERATION_PERFORMANCE,laptop,explicit
+لقد عمل جهاز acer aspire e 15 الخاص بي بشكل رائع لمدة يوم، ثم توقف عن العمل تلقائيًا.,acer aspire | acer aspire,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,explicit | explicit
+مثالية الحجم للاستخدام في السرير وجميلة ومشرقة.,الحجم | الحجم | الحجم,LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,explicit | explicit | explicit
+أعتقد أنه إذا قمت بإلغاء تثبيت / تثبيت برامج التشغيل بالترتيب الصحيح تمامًا و / أو قمت بتثبيت Windows 10 نظيف بنفسك، فيجب أن يعمل هذا الكمبيوتر المحمول جيدًا مقابل السعر.,الكمبيوتر المحمول,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+لا يوجد شيء `` احترافي `` في هذا الكمبيوتر اللوحي.,الكمبيوتر اللوحي,LAPTOP#GENERAL,laptop,explicit
+مشغل DVD هو لمسة لطيفة حقًا، لم أكن أعتقد أنني سأستخدمه ولكنني بالتأكيد سأفعله في المستقبل!,مشغل DVD,OPTICAL_DRIVES#GENERAL,laptop,explicit
+يجب أن أقول، كنت مترددًا إلى حد ما في شراء هذا Chromebook بشكل أساسي بسبب بعض المراجعات.,Chromebook,LAPTOP#QUALITY,laptop,explicit
+2 منافذ USB و 2 منافذ Thunderbolt على كمبيوتر محمول بقيمة 4500 دولار نيوزيلندي؟,منافذ USB | منافذ Thunderbolt,PORTS#GENERAL | PORTS#GENERAL,laptop,explicit | explicit
+إذا كنت تفكر في الحصول على هذا macbook، فاستمر بثقة.,macbook,LAPTOP#GENERAL,laptop,explicit
+العيب الوحيد هو أنه لا يقوم بتشغيل إصدارات Android الأصلية Microsoft Office، ويجب عليهم تحذيرك بشأن ذلك.,Microsoft Office,SOFTWARE#OPERATION_PERFORMANCE,laptop,explicit
+ومع ذلك، إذا كنت تريد جهازًا سريعًا حقًا Chromebook، فهو رائع.,Chromebook | Chromebook,LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,explicit | explicit
+لا يمكن للمستخدم استبدال ` ` محرك أقراص SSD ` `.,محرك أقراص SSD ` `,HARD_DISC#GENERAL,laptop,explicit
+أنا أحب هذا Chromebook!,Chromebook,LAPTOP#GENERAL,laptop,explicit
+عظيم الكمبيوتر!,الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+بعد عام واحد بالضبط من الاستخدام توقف هذا الكمبيوتر عن العمل تمامًا.,الكمبيوتر,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+هذا Chromebook هو حقًا أحد أفضل الأجهزة التي يمكنك امتلاكها، وفي رأيي أحد أفضل أجهزة الكمبيوتر المحمولة بشكل عام!,Chromebook | أجهزة الكمبيوتر المحمولة,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,explicit | explicit
+الرد ممتاز .,الرد,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+بعد قضاء بعض الوقت معها، يمكن أن تكون الميزة  مفيدة حقًا.,NULL,KEYBOARD#DESIGN_FEATURES,laptop,implicit
+إنه محمول للغاية والبطارية يجب أن تدوم يومًا كاملاً من الاستخدام العادي.,NULL | البطارية,LAPTOP#PORTABILITY | BATTERY#OPERATION_PERFORMANCE,laptop,implicit | explicit
+رائع الكمبيوتر .,الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+أوقف ما تفعله الآن وأحصل على هذا الكمبيوتر!,الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+- عمر البطارية يبدو ممتازًا,عمر البطارية,BATTERY#GENERAL,laptop,explicit
+الكمبيوتر المحمول لن يتم تشغيله أبدًا، حتى بعد شحنه لمدة 24 ساعة.,الكمبيوتر المحمول,POWER_SUPPLY#GENERAL,laptop,explicit
+لم أشتري من أمازون ولكن لا أستطيع أن أصدق أن هذه أجهزة الكمبيوتر المحمولة حصلت على 5 نجوم.,أمازون | أجهزة الكمبيوتر المحمولة,COMPANY#GENERAL | LAPTOP#GENERAL,laptop,explicit | explicit
+أولاً، حالة الاستخدام: أكتب كثيرًا من أجل العمل وأستخدم Chromebook كجهازي اليومي للملاحظات ومعالجة الكلمات وجداول البيانات وما إلى ذلك.,Chromebook,LAPTOP#GENERAL,laptop,explicit
+النقطة الضعيفة الوحيدة في الكمبيوتر المحمول هي القرص الصلب الذي يأتي معه، ولكن لحسن الحظ هذا الكمبيوتر المحمول قابل للتوسعة - فتحتان لذاكرة الوصول العشوائي وفتحة واحدة م.,NULL | NULL,LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,implicit | implicit
+جودة رائعة كمبيوتر .,كمبيوتر,LAPTOP#QUALITY,laptop,explicit
+لوحة اللمس دقيقة.,لوحة اللمس,HARDWARE#OPERATION_PERFORMANCE,laptop,explicit
+أول وحدة تلقيتها ماتت بعد ساعات قليلة من الاستخدام.,وحدة,LAPTOP#QUALITY,laptop,explicit
+- شعور استثنائي لوحة المفاتيح ولوحة اللمس,لوحة المفاتيح | لوحة اللمس,KEYBOARD#GENERAL | HARDWARE#OPERATION_PERFORMANCE,laptop,explicit | explicit
+المقابس جيدة وسيئة.,المقابس,PORTS#GENERAL,laptop,explicit
+الحجم مثالي، فمن السهل وضعه في حقيبتي المدرسية أو حقيبة الظهر مع كتابي المدرسي ودفاتر الملاحظات والحصول على مساحة كبيرة.,size | NULL,LAPTOP#DESIGN_FEATURES | LAPTOP#PORTABILITY,laptop,explicit | implicit
+ram الترقية متاحة,ram,HARDWARE#GENERAL,laptop,explicit
+اتصلت بخدمة العملاء ، في البداية جادلوني وقالوا إن هناك ضررًا للعميل، ثم حاولوا تهدئتي فقالوا إن لديهم خطة حماية من الأضرار العرضية من ADP لمرة واحدة لمدة عام.,خدمة العملاء,SUPPORT#OPERATION_PERFORMANCE,laptop,explicit
+تم تصميم وهندسة هذا الكمبيوتر المحمول بشكل جيد.,الكمبيوتر المحمول,LAPTOP#DESIGN_FEATURES,laptop,explicit
+توقف لوحة التتبع عن العمل بعد أربعة أسابيع من استخدامه.,لوحة التتبع,HARDWARE#OPERATION_PERFORMANCE,laptop,explicit
+لوحة المفاتيح و لوحة التتبع تم دفعهما إلى اليسار.,لوحة المفاتيح | لوحة التتبع,KEYBOARD#OPERATION_PERFORMANCE | KEYBOARD#OPERATION_PERFORMANCE,laptop,explicit | explicit
+* البطارية * - عمر البطارية رائع.,بطارية | عمر البطارية,BATTERY#GENERAL | BATTERY#GENERAL,laptop,explicit | explicit
+في كل الأحوال، ابتعد .,NULL,LAPTOP#GENERAL,laptop,implicit
+مع (4: os، فإن (4: os راقية وأنيقة للغاية.,(4: os | (4: os | os | os,OS#OPERATION_PERFORMANCE | OS#OPERATION_PERFORMANCE | OS#OPERATION_PERFORMANCE | OS#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit | explicit
+البطارية جيدة .,البطارية,BATTERY#GENERAL,laptop,explicit
+منافذ HDMI و USB على الجانب الأيسر، والجزء الخلفي لا يحتوي على أي منافذ على الإطلاق، وبؤس!,منافذ HDMI و USB,PORTS#DESIGN_FEATURES,laptop,explicit
+ولا تشتري أي منتج asus مرة أخرى,asus,COMPANY#GENERAL,laptop,explicit
+الثالث جيد ولكن به بكسل ميت.,NULL,LAPTOP#GENERAL,laptop,implicit
+- لطيفة ومشرقة الشاشة ( تعمل باللمس الشاشة، أيضًا! ),الشاشة | الشاشة | تعمل باللمس الشاشة | تعمل باللمس الشاشة,DISPLAY#DESIGN_FEATURES | DISPLAY#DESIGN_FEATURES | DISPLAY#DESIGN_FEATURES | DISPLAY#DESIGN_FEATURES,laptop,explicit | explicit | explicit | explicit
+لوحة المفاتيح كانت مربكة بعض الشيء.,لوحة المفاتيح,KEYBOARD#GENERAL,laptop,explicit
+رائع كمبيوتر، خاصة بالنسبة للسعر.,كمبيوتر | كمبيوتر,LAPTOP#GENERAL | LAPTOP#PRICE,laptop,explicit | explicit
+جهاز رائع Chromebook، لكنه توقف عن الشحن في 3 أشهر.,Chromebook | Chromebook,LAPTOP#GENERAL | LAPTOP#OPERATION_PERFORMANCE,laptop,explicit | explicit
+إنه لائق .,NULL,LAPTOP#GENERAL,laptop,implicit
+الأحدث معالج Core i5 من الجيل الثامن,معالج Core i5 من الجيل الثامن,CPU#GENERAL,laptop,explicit
+موظفي خدمة عملاء آسوس وقحون وليس لديهم إجابات.,موظفي خدمة عملاء آسوس,SUPPORT#QUALITY,laptop,explicit
+لقد اشتريت هذا الكمبيوتر لأنه جاء بتقييم عالي من قبل تقارير المستهلك ومجلة الكمبيوتر وغيرها من التقييمات.,الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+هذا هو أخيرًا Chromebook الذي كنت أنتظره، وهو ليس بكسل بقيمة 1300 دولار.,Chromebook,LAPTOP#GENERAL,laptop,explicit
+لاحظت أن البطارية انخفضت إلى 67٪ بدون سبب.,البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+أعني، إذا كنت تريد جهازًا لوحيًا حقيقيًا، فاشترِ جهازًا لوحيًا حقيقيًا - هذا في الحقيقة منعني من الاستثمار في جهاز Kindle كما كنت أخطط.,NULL,LAPTOP#DESIGN_FEATURES,laptop,implicit
+ثم في يوم من الأيام، توقف عن التشغيل.,NULL,OS#OPERATION_PERFORMANCE,laptop,implicit
+لوحة المفاتيح تهتز بصوت عالٍ عند الكتابة على الجانب الأيسر.,لوحة المفاتيح,KEYBOARD#OPERATION_PERFORMANCE,laptop,explicit
+يعمل بشكل لا تشوبه شائبة وعمر بطارية لائق بطارية.,بطارية | NULL,BATTERY#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,explicit | implicit
+الكمبيوتر جيد ولكن مكبرات الصوت انكسرت بعد أسبوع واحد من الاستخدام.,الكمبيوتر | مكبرات الصوت,LAPTOP#GENERAL | MULTIMEDIA_DEVICES#QUALITY,laptop,explicit | explicit
+لقد تم إيقاف تشغيله للتو ولن يتم تشغيله مرة أخرى.,NULL,LAPTOP#QUALITY,laptop,implicit
+لوحة المفاتيح كانت سريعة الاستجابة وكان حجمها جيدًا.,لوحة المفاتيح | لوحة المفاتيح,KEYBOARD#OPERATION_PERFORMANCE | KEYBOARD#DESIGN_FEATURES,laptop,explicit | explicit
+أحب الشاشة الحادة العرض ولوحة التتبع .,العرض | NULL,DISPLAY#QUALITY | KEYBOARD#GENERAL,laptop,explicit | implicit
+ملاحظة: دعم أمازون يجعل الأمر جيدًا وأرسل لي على الفور ملصق الإرجاع، اشتريت من خلال طرف ثالث ولكنني سأستعيد أموالي، الحمد لله خدمة عملاء أمازون,دعم أمازون | خدمة عملاء أمازون,SUPPORT#QUALITY | SUPPORT#QUALITY,laptop,explicit | explicit
+هذا هو جهاز الكمبيوتر المفضل لدي الكمبيوتر من بين كل الأجهزة التي امتلكتها على الإطلاق.,الكمبيوتر,LAPTOP#GENERAL,laptop,explicit
+الصوت جيد بالنسبة لي ولكن ليس جيدًا مثل مكبرات الصوت الخارجية.,الصوت | مكبرات الصوت الخارجية,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE | MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,laptop,explicit | explicit
+لقد كنت أستخدم هذا لمدة 3 أشهر فقط.,NULL,LAPTOP#GENERAL,laptop,implicit
+لقد امتلكنا الكمبيوتر لمدة 5 أسابيع، واستخدمناه لمدة إجمالية تقل عن 20 ساعة، وسوف يختفي الآن لمدة 3 أسابيع.,الكمبيوتر | NULL,LAPTOP#GENERAL | LAPTOP#GENERAL,laptop,explicit | implicit
+أفهم أن هذا من المفترض أن يخزن كل شيء في السحابة، لذا لا ينبغي أن يكون الأمر مشكلة كبيرة، ولكن عندما تحاول إنجاز العمل حيث لا يوجد وصول إلى الإنترنت (نظرًا لأن مستندات Google تعمل في وضع عدم الاتصال بالإنترنت)، فإنه يكون عديم الفائدة عمليًا عندما يتعين عليه إعادة ضبط نفسه إلى إعدادات المصنع بعد تشغيله مباشرةً.,NULL,OS#DESIGN_FEATURES,laptop,implicit
+1080 شاشة يجعل الخطوط صغيرة جدًا لهذا الحجم شاشة.,شاشة,DISPLAY#DESIGN_FEATURES,laptop,explicit
+شاشة اللمس تعمل بشكل رائع.,شاشة اللمس,DISPLAY#OPERATION_PERFORMANCE,laptop,explicit
+البطارية يمكن أن تدوم معي لمدة 5 أو 6 ساعات تقريبًا عند استخدام الإنترنت فقط مع علامات تبويب متعددة.,البطارية,BATTERY#OPERATION_PERFORMANCE,laptop,explicit
+إنه يوفر الوقت حقًا، بصراحة.,NULL,DISPLAY#USABILITY,laptop,implicit
+جودة الصورة جيدة جدًا والكتاب نفسه سريع الاستجابة.,جودة الصورة | الكتاب | الكتاب,DISPLAY#QUALITY | LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,explicit | explicit | explicit
+أنا أتخيل تمامًا أن تطبيقات Chrome تتزايد بشكل كبير من حيث الجودة والكمية الآن، حيث يبدو أن نظام التشغيل Chrome OS أصبح قادرًا حقًا على تحقيق نجاحه هذا العام.,تطبيقات Chrome,SOFTWARE#QUALITY,laptop,explicit
+منافذ Thunderbolt هي شيء لطيف أن يكون على mbp.,منافذ Thunderbolt,PORTS#DESIGN_FEATURES,laptop,explicit
+بعد 3 أشهر من الاستخدام، لن يتم شحن (الوحدة).,الوحدة,POWER_SUPPLY#OPERATION_PERFORMANCE,laptop,explicit
+الكمبيوتر المحمول يعمل بشكل رائع وتم تسليم الحزمة في الوقت المحدد.,الكمبيوتر المحمول | الحزمة,LAPTOP#OPERATION_PERFORMANCE | SHIPPING#GENERAL,laptop,explicit | explicit
+أنا معجب جدًا بهذا النظام.,النظام,OS#OPERATION_PERFORMANCE,laptop,explicit
+معالج amd a12 سريع جدًا عند تحميل كل شيء من SSD.,معالج amd a12,CPU#OPERATION_PERFORMANCE,laptop,explicit
+الشاشة مناسبة تمامًا.,الشاشة,DISPLAY#OPERATION_PERFORMANCE,laptop,explicit
+عندما تجمع كل هذه القوى وتقدمها بسعر 299 دولارًا، فإنك تحصل على عرض قيمة مثير للإعجاب إلى حد ما هنا مع هذا Chromebook.,Chromebook,LAPTOP#PRICE,laptop,explicit
+يعمل بشكل جيد كـ جهاز لوحي .,جهاز لوحي,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+والآن، يقول الكمبيوتر أنه متصل ولكنه لا يشحن.,الكمبيوتر,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+الكمبيوتر جيد بالنسبة للسعر، ولكن منفذ HDMI مكسور بالفعل.,الكمبيوتر | منفذ HDMI,LAPTOP#PRICE | PORTS#OPERATION_PERFORMANCE,laptop,explicit | explicit
+من الواضح أن الأشخاص الذين يشكون من أن أجهزة Chromebook عديمة الفائدة بدون الوصول إلى الإنترنت ضيقو الأفق ولا يفكرون خارج الصندوق.,الوصول إلى الإنترنت,PORTS#GENERAL,laptop,explicit
+كان الانتقال من acer 15 إلى acer 11 صعبًا، حيث يبدو أن 11 بوصة صغير جدًا بالنسبة لي.,acer 11 | acer 11,LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,explicit | explicit
+لقد أحببت هذا حقًا الكمبيوتر المحمول .,الكمبيوتر المحمول,LAPTOP#GENERAL,laptop,explicit
+مع المعالج البطيء سيليرون، لا يبدو التصفح سريعًا.,سيليرون,CPU#OPERATION_PERFORMANCE,laptop,explicit
+asus chromebook flip 302ca سلس وسريع ومصمم بشكل جيد بشكل لا يصدق.,asus chromebook flip 302ca | asus chromebook flip 302ca | asus chromebook flip 302ca | asus chromebook flip 302ca,LAPTOP#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE | LAPTOP#DESIGN_FEATURES | LAPTOP#DESIGN_FEATURES,laptop,explicit | explicit | explicit | explicit
+ربما يكون هذا الشيء سيئًا بدون اتصال بالإنترنت.,NULL,LAPTOP#CONNECTIVITY,laptop,implicit
+فتحته ابنتي في عيد الميلاد ولم يبقى عليه.,NULL,LAPTOP#GENERAL,laptop,implicit
+البطارية يبدو أنها جيدة جدًا.,البطارية,BATTERY#GENERAL,laptop,explicit
+فظيع كمبيوتر محمول!,كمبيوتر محمول,LAPTOP#GENERAL,laptop,explicit
+لوحة المفاتيح ذات الإضاءة الخلفية رائعة في الليل.,لوحة المفاتيح ذات الإضاءة الخلفية,KEYBOARD#DESIGN_FEATURES,laptop,explicit
+هذا الكمبيوتر هو أفضل شيء يمكنك الحصول عليه بأقل من 400 دولار.,الكمبيوتر,LAPTOP#PRICE,laptop,explicit
+أحب السرعة، المعالج ووحدات التخزين الهجينة (128SSD و1 تيرا)، ولكن كاميرا الويب سيئة للغاية، الدقة ضعيفة حقًا ولوحة المفاتيح لا تحتوي على الجزء الرقمي وCaps Lock أو Num Lock لا يحتويان على أي ضوء أو دليل لمساعدتك.,المعالج | وحدات التخزين الهجينة | كاميرا الويب | كاميرا الويب | لوحة المفاتيح | Caps Lock | Num Lock,CPU#OPERATION_PERFORMANCE | MEMORY#GENERAL | HARDWARE#OPERATION_PERFORMANCE | HARDWARE#OPERATION_PERFORMANCE | KEYBOARD#DESIGN_FEATURES | KEYBOARD#DESIGN_FEATURES | KEYBOARD#DESIGN_FEATURES,laptop,explicit | explicit | explicit | explicit | explicit | explicit | explicit
+يبدأ التشغيل، ويعمل دون مشاكل.,يبدأ التشغيل,OS#OPERATION_PERFORMANCE,laptop,explicit
+كان الشحن سريعًا وكان البائع رائعًا,الشحن | البائع,SHIPPING#OPERATION_PERFORMANCE | SUPPORT#GENERAL,laptop,explicit | explicit
+لا يوجد إضاءة خلفية لوحة المفاتيح .,لوحة المفاتيح,KEYBOARD#DESIGN_FEATURES,laptop,explicit
+هذا ليس أكثر من مجرد جهاز كمبيوتر محمول كمبيوتر محمول مناسب لمساعدتك في أداء أنشطة العمل الأساسية.,كمبيوتر محمول,LAPTOP#GENERAL,laptop,explicit
+أنا أحب هذا الجهاز كثيرًا.,الجهاز,LAPTOP#GENERAL,laptop,explicit
+حادة جدًا شاشة وزوايا رؤية جيدة.,شاشة | شاشة,DISPLAY#GENERAL | DISPLAY#GENERAL,laptop,explicit | explicit
+أفضل كمبيوتر محمول امتلكته .,كمبيوتر محمول,LAPTOP#GENERAL,laptop,explicit
+عمر البطارية مذهل.,عمر البطارية,BATTERY#GENERAL,laptop,explicit
+إذا كنت تبحث عن كمبيوتر محمول للتحقق من رسائل البريد الإلكتروني ومشاهدة الأفلام والتسوق والوثائق الأساسية، فهذا هو الجهاز المثالي.,كمبيوتر محمول,LAPTOP#OPERATION_PERFORMANCE,laptop,explicit
+الشحن كان سريعًا و المنتج جاء كما هو موضح.,الشحن | المنتج,SHIPPING#OPERATION_PERFORMANCE | LAPTOP#GENERAL,laptop,explicit | explicit
+الآن نظرًا لأنه بدون هذه المشكلة فهي جميلة كمبيوتر محمول.,كمبيوتر محمول,LAPTOP#GENERAL,laptop,explicit
+- جديد مدمج مكبرات صوت.,مكبرات صوت,MULTIMEDIA_DEVICES#DESIGN_FEATURES,laptop,explicit
+لذا، أعتقد أنني في ورطة، لأنه بعد مرور 6 أشهر الآن لم يعد جهاز TPM يعمل وأصبح جهاز الكمبيوتر بأكمله عديم الفائدة.,TPM | الكمبيوتر,HARD_DISC#OPERATION_PERFORMANCE | LAPTOP#OPERATION_PERFORMANCE,laptop,explicit | explicit
+لقد أحببت دائمًا MSI لأدائها وسعرها المناسب إلى حد ما.,MSI | MSI,LAPTOP#OPERATION_PERFORMANCE | LAPTOP#PRICE,laptop,explicit | explicit
+يمكنك الشعور بانحناء البلاستيك إذا قمت بحمل الكمبيوتر المحمول بيد واحدة.,الكمبيوتر المحمول,LAPTOP#DESIGN_FEATURES,laptop,explicit
+"وصف البائع هو أنه تم ""اختباره"" وكان يعمل بشكل كامل "" ولم يكن كذلك.",وصف البائع,SUPPORT#GENERAL,laptop,explicit
+لا أزال مندهشًا تمامًا من كيفية امتلاك Apple، الشركة المفترض أنها رائدة في الصناعة، مثل هذه الوظائف الرهيبة.,Apple,COMPANY#GENERAL,laptop,explicit
+أحبها,NULL,LAPTOP#GENERAL,laptop,implicit
+كنت في البداية متوترًا بعض الشيء لأن النظام كان به بعض الخلل خلال الأسبوعين الأولين، ويبدو أن المشكلة كانت في نظام التشغيل Chrome OS وتم إصلاحها في التحديث التالي.,النظام | نظام التشغيل Chrome OS,OS#USABILITY | OS#QUALITY,laptop,explicit | explicit
+استمر هذا في إزعاج الكمبيوتر المحمول مع تراكم المزيد من المشكلات بما في ذلك أخطاء الشاشة الزرقاء المختلفة التي تنطوي في الغالب على الأجهزة.,الأجهزة | الكمبيوتر المحمول,HARDWARE#QUALITY | LAPTOP#QUALITY,laptop,explicit | explicit
+لقد لاحظت بعد ذلك بكسلًا ميتًا على الشاشة .,NULL,DISPLAY#QUALITY,laptop,implicit
+-إنه ساخن!,NULL,LAPTOP#QUALITY,laptop,implicit
+أنيق تصميم.,تصميم,LAPTOP#DESIGN_FEATURES,laptop,explicit
+- كما ذكر آخرون، يتم إيقاف تشغيل الإضاءة الخلفية للوحة المفاتيح بعد ثوانٍ قليلة من عدم الكتابة، وهو أمر مزعج ولا يبدو أن هناك طريقة لتغيير ذلك.,الإضاءة الخلفية للوحة المفاتيح,KEYBOARD#OPERATION_PERFORMANCE,laptop,explicit
+asus لها سمعة سيئة.,asus,COMPANY#GENERAL,laptop,explicit
+سأوصي به لأي شخص .,NULL,LAPTOP#GENERAL,laptop,implicit
+شاشة عرض ساطعة ولها رسومات ممتازة.,شاشة عرض | رسومات,DISPLAY#OPERATION_PERFORMANCE | GRAPHICS#GENERAL,laptop,explicit | explicit
+لكن هذه الشاشة جيدة حقًا و لوحة المفاتيح و عامل الشكل أفضل بكثير.,الشاشة | لوحة المفاتيح | عامل الشكل,DISPLAY#GENERAL | KEYBOARD#GENERAL | LAPTOP#DESIGN_FEATURES,laptop,explicit | explicit | explicit

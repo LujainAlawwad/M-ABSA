@@ -1,0 +1,8767 @@
+﻿[
+  {
+    "sentence": "أوصي بشدة بـ Residence Foch، كانت (المنطقة 2) مثالية، حرفيًا على بعد عشر دقائق سيرًا على الأقدام من Arc de Troimph، آمنة وجميلة (المنطقة 2).",
+    "aspect": [
+      "المنطقة",
+      "المنطقة",
+      "Residence Foch"
+    ],
+    "category": [
+      "location general",
+      "location general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفين رائعين.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفين ممتازين - ودودين للغاية ومتعاونين.",
+    "aspect": [
+      "الموظفين",
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "facilities general",
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرفة : مزينة بشكل جيد، على الرغم من كونها صاخبة وصغيرة الحجم.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms comfort",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مطاعم جيدة قريبة (",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أيضًا، الدش يمكن تحسينه بالتأكيد.",
+    "aspect": [
+      "الدش"
+    ],
+    "category": [
+      "room_amenities quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان لطيفا حقا .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "اثنان من الإبهامين لأعلى للأسعار المعقولة أماكن الإقامة.",
+    "aspect": [
+      "أماكن الإقامة"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموظفين ودودون للغاية ومفيدون.",
+    "aspect": [
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "USS Constallation على مسافة قريبة سيرًا على الأقدام",
+    "aspect": [
+      "USS Constallation"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع الموقع وسط المدينة، مكان عصري مكان رائع للإقامة في وسط مدينة مانهاتن.",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عندما اضطررت إلى تغيير التواريخ في اللحظة الأخيرة بسبب مشاكل في الطائرة، كان (الفندق 1) متعاونًا للغاية.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "اللوبي كبير بما يكفي لاستيعاب مائة شخص.",
+    "aspect": [
+      "اللوبي"
+    ],
+    "category": [
+      "facilities design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سأعود بالتأكيد للإقامة هنا مرة أخرى إذا اضطررت إلى العودة إلى سنغافورة للعمل.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الموظفين هو رائع، الغرف ذات حجم لطيف، وموقعه رائع، وهو نظيف، نظيف، نظيف.",
+    "aspect": [
+      "الموظفين",
+      "الغرف",
+      "رائع",
+      "الغرف"
+    ],
+    "category": [
+      "service general",
+      "rooms design_features",
+      "location general",
+      "rooms cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان العيب الوحيد هو أن بعض الموظفين كان من الممكن أن يكونوا أكثر انتباهاً وودية.",
+    "aspect": [
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ديكورات جميلة وحديثة في حرارة باريس .",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel design_features",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "على الرغم من تصنيفه بنجمتين، إلا أن ذلك يرجع إلى عدم وجود أشياء مثل المصاعد أو ردهة كبيرة أو مكواة للضيوف، ولكن كل شيء آخر فيه كان 4 نجوم!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "facilities design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ودود ومتعاون مكتب الاستقبال أيضًا.",
+    "aspect": [
+      "مكتب الاستقبال"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقع (الفندق 2) في موقع مثالي بالقرب من المتاحف وساحة Leidisplein.",
+    "aspect": [
+      "الفندق",
+      "الفندق"
+    ],
+    "category": [
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كل شيء رائع: المسبح، الشاطئ، الطعام، الكوكتيلات ولكن هناك مشكلة واحدة فقط مع الغرفة ذات الرائحة الكريهة وبالتأكيد ليست 5 نجوم ولكن 3.",
+    "aspect": [
+      "المسبح",
+      "الشاطئ",
+      "الطعام",
+      "الكوكتيلات",
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "facilities general",
+      "facilities general",
+      "food_drinks quality",
+      "food_drinks quality",
+      "rooms general",
+      "rooms quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "من الجانب الجيد أنهم سمحوا لنا بإجراء تسجيل الوصول المبكر وكانت (الغرفة 1) نظيفة.",
+    "aspect": [
+      "الغرفة",
+      "NULL"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذا هو بالتأكيد المكان المثالي للإقامة في أمستردام لقضاء إجازة قصيرة في المدينة!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بدأ الفندق  يظهر عليه علامات التقدم في السن، والأسعار القياسية أعلى بعدة مرات مما ينبغي أن تكون.",
+    "aspect": [
+      "الفندق",
+      "الفندق"
+    ],
+    "category": [
+      "hotel design_features",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تجربة رائعة هناك .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الموظفون كانوا مفيدين للغاية في جميع حجوزات السفر والمطاعم والرحلات النهرية - كما قيل الموقع مثالي، كانت المباني نظيفة للغاية وسأوصي بها بالتأكيد لأي أصدقاء / عائلة في المستقبل.",
+    "aspect": [
+      "الموظفون",
+      "الموقع",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "service general",
+      "location general",
+      "hotel cleanliness",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الجميع، بما في ذلك موظف الاستقبال، والبواب، ورجل الباب، وموظفي التدبير المنزلي ودودين ومفيدين.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام، لم أحصل على قدر كبير من النوم بسبب هذا",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "قذرة وخانقة الفندق",
+    "aspect": [
+      "الفندق",
+      "الفندق"
+    ],
+    "category": [
+      "hotel cleanliness",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يوجد بالقرب من الفندق تاجر صرافة قدم لنا صفقة جيدة مقابل دولاراتنا الأمريكية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "واو، هذا المكان كان سيئا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أكثر من مناسب لفئته لقد بقينا في الموناليزا لمدة 4 ليالٍ في أوائل ديسمبر وكانت تجربتنا إيجابية.",
+    "aspect": [
+      "الموناليزا",
+      "الموناليزا"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموظفين بصرف النظر عن الصعوبات الأولية كانوا لطيفين ومفيدين، والفندق بدا نظيفًا.",
+    "aspect": [
+      "الموظفين",
+      "الفندق"
+    ],
+    "category": [
+      "service general",
+      "hotel cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ليس 5 نجوم - يحتاج إلى تجديد لا يمكن اعتبار هذا فندق فندق 5 نجوم فندق.",
+    "aspect": [
+      "فندق",
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "فندق ميدتاون هو ما ينبغي أن يكون.",
+    "aspect": [
+      "فندق ميدتاون"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كنا في غرفة من الجسر إلى الجسر  - باهظة الثمن - لكننا لم نشعر بالدلال أو التميز أثناء إقامتنا في الفندق بأي شكل من الأشكال.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة",
+      "الفندق"
+    ],
+    "category": [
+      "rooms miscellaneous",
+      "rooms prices",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد نقلونا إلى جناحين بغرفة نوم واحدة على الجانب الآخر من القاعة - أسرة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت (الغرفة 1) نظيفة للغاية.",
+    "aspect": [
+      "الغرفة"
+    ],
+    "category": [
+      "rooms cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تفاصيل صغيرة مذهلة تجعلك تشعر وكأنك ملكة (أو ملك) في العطلة. الموظفين مفيدون للغاية ويعرفون الكثير من النصائح التي لن تجدها في دليل سياحي.",
+    "aspect": [
+      "NULL",
+      "الموظفين"
+    ],
+    "category": [
+      "hotel general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وهي ودودة للغاية، وهي إضافة رائعة لهذا الفندق.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون رائعين للغاية ومفيدين للغاية.",
+    "aspect": [
+      "الموظفون",
+      "الموظفون"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إذا كنت تبحث عن عقار في سان فرانسيسكو، فلن تخطئ أبدًا باختيار هذا فندق.",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "العروض في الليل ترفيهية للغاية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كل شيء 5 نجوم، الغرف، الطعام، الخدمة وما إلى ذلك.",
+    "aspect": [
+      "الغرف",
+      "الطعام",
+      "الخدمة"
+    ],
+    "category": [
+      "rooms quality",
+      "food_drinks quality",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ذهبت إلى فندق ميلينيوم مع زوجي ووقعت في حب منطقة السبا / حمام السباحة!",
+    "aspect": [
+      "the spa/pool area",
+      "فندق ميلينيوم"
+    ],
+    "category": [
+      "facilities general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أعجبت كثيرًا بهذا الفندق، رائع الموقع للمعالم السياحية، واسع الغرف، رائع الموظفين.",
+    "aspect": [
+      "الفندق",
+      "الموقع",
+      "الغرف",
+      "الموظفين"
+    ],
+    "category": [
+      "hotel general",
+      "location general",
+      "rooms design_features",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الفندق رائع، رائع الموقع، أسرة مريحة حقًا، خاصة بعد الرحلة من المملكة المتحدة.",
+    "aspect": [
+      "الفندق",
+      "الموقع",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "location general",
+      "room_amenities comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد فوجئت بسرور كبير بإطلالة الفندق الجديدة الموقع من غرفتنا في المستوى الحادي والعشرين والإفطار المجاني وجبة الإفطار في الصباح الباكر قبل جولتنا.",
+    "aspect": [
+      "الموقع",
+      "وجبة الإفطار"
+    ],
+    "category": [
+      "location general",
+      "food_drinks prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إقامة ممتعة للغاية موظفين.",
+    "aspect": [
+      "موظفين",
+      "موظفين"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرفة كانت معاصرة ونظيفة وعاليه المستوى.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms cleanliness",
+      "rooms quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت الغرفتان : مريحتين للغاية وحظينا بنوم هانئ ليلاً، ولم نتناول الطعام في الفندق حيث كان باهظ الثمن بعض الشيء بالنسبة لنا، وقد أوصوا بأماكن تناول الطعام الجيدة جدًا القريبة والتي تناسب متطلباتنا تمامًا.",
+    "aspect": [
+      "غرف",
+      "غرف",
+      "NULL"
+    ],
+    "category": [
+      "rooms comfort",
+      "rooms comfort",
+      "food_drinks prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفين ودودين ومتعاونين.",
+    "aspect": [
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يعد ميناء دارلينج مكانًا رائعًا للمطاعم والحانات ويقع الفندق على بعد دقيقتين سيرًا على الأقدام.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تمت الإجابة على طلبات الوسائد الرغوية والسرير القابل للطي على الفور وأحب أطفالي حزمة الترحيب بالأطفال عند تسجيل الوصول.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت الشكوى الوحيدة هي أن التلفزيون في الغرفة كان صغيرًا جدًا.",
+    "aspect": [
+      "التلفزيون"
+    ],
+    "category": [
+      "room_amenities design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموظفين رائعين، ودودين وسيساعدونك قدر الإمكان.",
+    "aspect": [
+      "الموظفين",
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد الموقع، سلبي - عدواني الخدمة",
+    "aspect": [
+      "الموقع",
+      "الخدمة"
+    ],
+    "category": [
+      "location general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مايك في مكتب الاستقبال مفيد بشكل استثنائي مع المطاعم والجولات السياحية.",
+    "aspect": [
+      "مايك في مكتب الاستقبال"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قضينا وقتا رائعا هناك .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جميل جدًا غرف، نظيف وهادئ، ودود موظفين وخدمة جيدة.",
+    "aspect": [
+      "غرف",
+      "غرف",
+      "غرف",
+      "موظفين",
+      "موظفين"
+    ],
+    "category": [
+      "rooms general",
+      "rooms cleanliness",
+      "rooms comfort",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نفدت المناشف عند حمام السباحة، ولم تكن كافية النوادل عند حمام السباحة، شريحة لحم الضلع لـ العشاء سيئة، انتظرنا 45 دقيقة.",
+    "aspect": [
+      "النوادل",
+      "العشاء"
+    ],
+    "category": [
+      "service general",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الشكوى الوحيدة هي أن الواي فاي المجاني بطيء للغاية.",
+    "aspect": [
+      "الواي فاي المجاني"
+    ],
+    "category": [
+      "facilities quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك، تم تنفيذ البناء الداخلي بطريقة اقتصادية للغاية، وكان هناك الكثير من أعمال الصيانة المؤجلة في (غرفة 1).",
+    "aspect": [
+      "الغرفة"
+    ],
+    "category": [
+      "rooms quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وكان هناك الكثير من ضوضاء الطريق وكنا نستخدم سدادات الأذن.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "البار جذاب و المطعم رائع.",
+    "aspect": [
+      "البار",
+      "المطعم"
+    ],
+    "category": [
+      "facilities general",
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم أستطع أبدًا تحمل تكاليف البقاء هنا بمفردي، لكن الأمر كان ممتعًا لهذه المرة فقط.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الغرف بحاجة إلى بعض الحب!",
+    "aspect": [
+      "الغرف"
+    ],
+    "category": [
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت إقامتنا ممتازة بالنسبة لفندق ثلاث نجوم متوسط السعر فندق.",
+    "aspect": [
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel prices",
+      "hotel quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أحببت أيضًا حساء اليقطين و عصير الليمون.",
+    "aspect": [
+      "حساء اليقطين",
+      "عصير الليمون"
+    ],
+    "category": [
+      "food_drinks quality",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سوف نعود بالتأكيد .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لطيف مكتب استقبال، قريب من المقاهي والمطاعم الإيطالية، على مسافة قصيرة سيرًا على الأقدام من القطار -",
+    "aspect": [
+      "مكتب استقبال",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "service general",
+      "facilities design_features",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ذهبت إلى نيو أورلينز مع خطيبي الجديد وأقمنا في Doubletree في شارع كانال وقضينا وقتًا رائعًا.",
+    "aspect": [
+      "Doubletree"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا داعي للخروج من السرير في الصباح! الموظفين",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أحد أفضل الفنادق فنادق هيلتون",
+    "aspect": [
+      "فنادق هيلتون"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت السلبيات الوحيدة التي لاحظناها هي خدمة النقل المكوكية من مطار لوس أنجلوس الدولي عند الطلب، وهو ما لم نكن نعرفه وفقدنا بعض الوقت في الانتظار على جانب الطريق قبل الاتصال، وإذا كنت تستأجر سيارة أو تقودها، فلاحظ أن رسوم موقف السيارات في الفندق تبلغ 15.00 دولارًا في الليلة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الموقع كان جيدًا، بالقرب من صخب وضجيج ميدان تايمز.",
+    "aspect": [
+      "الموقع",
+      "الموقع"
+    ],
+    "category": [
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقع في مكان مناسب بالقرب من وسائل النقل العام وقد حصلنا دائمًا على اتجاهات جيدة في مكتب الاستقبال.",
+    "aspect": [
+      "NULL",
+      "مكتب الاستقبال"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جميل جداً، مثالي الموقع ! !",
+    "aspect": [
+      "NULL",
+      "الموقع"
+    ],
+    "category": [
+      "hotel general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الموقع، ودود الموظفين، رائع السعر.",
+    "aspect": [
+      "الموقع",
+      "الموظفين",
+      "السعر"
+    ],
+    "category": [
+      "location general",
+      "service general",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الأفضل سري للغاية في سياتل!",
+    "aspect": [
+      "سري للغاية"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون ودودين للغاية وحتى أحضروا لابننا سمكة ذهبية للاعتناء بها أثناء إقامته.",
+    "aspect": [
+      "الموظفون"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان مثاليًا للإقامة لليلة واحدة قبل رحلتنا البحرية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "منطقة بار - ودية.",
+    "aspect": [
+      "منطقة بار"
+    ],
+    "category": [
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك، فكر في تخطي وجبة الإفطار -",
+    "aspect": [
+      "وجبة الإفطار"
+    ],
+    "category": [
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الطعام رائع، يمكنك الاختيار من بين 5 مطاعم مختلفة.",
+    "aspect": [
+      "الطعام"
+    ],
+    "category": [
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قضينا ليلتين رائعتين في منتجع سان خوان ماريوت في كوندادو.",
+    "aspect": [
+      "منتجع سان خوان ماريوت"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الإقامة المثالية في برشلونة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سوبريور فندق يجب على أي شخص يزور باريس الإقامة في هذا فندق، موقع مثالي، فندق نظيف وساحر و",
+    "aspect": [
+      "موقع مثالي",
+      "فندق",
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "location general",
+      "hotel miscellaneous",
+      "hotel quality",
+      "hotel quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الجودة الفندق بسعر رائع",
+    "aspect": [
+      "الفندق",
+      "الفندق"
+    ],
+    "category": [
+      "hotel quality",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموظفين كان رائعا - وخاصة غويندالين.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أخطط للعودة إلى فلورنسا في سبتمبر وسأقيم بالتأكيد في نفس الفندق الفندق ومع قليل من الحظ في نفس الغرفة.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الشيء الوحيد الأفضل هو الفندق الموظفين!",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الوصول إلى الطرق السريعة الرئيسية والمركز الأمريكي للحفلات الموسيقية ووسط المدينة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "اعتقدت أنها كانت ذات قيمة جيدة و الموقع كان رائعًا و الموظفين مفيدون للغاية (حتى أنهم أقرضوني دراجة) وكان المكان هادئًا بعد يوم حافل.",
+    "aspect": [
+      "الموقع",
+      "الموظفين",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "service general",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "فندق رائع فندق مع لمسة شخصية جميلة، وسوف نعود بالتأكيد لزيارة هذا المكان مرة أخرى قريبًا.",
+    "aspect": [
+      "فندق",
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "متوسط حقًا خدمة عادي حقًا خدمة .",
+    "aspect": [
+      "خدمة",
+      "خدمة"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ليلة سعيدة!! آمل أن أحصل على فرصة الإقامة هنا مرة أخرى!!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "اختيار ممتاز لرجال الأعمال والسياح فندق لطيف للغاية.",
+    "aspect": [
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان مثل التابوت",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "وكان الإفطار ممتازًا أيضًا، مع الكثير من الاختيارات والأطعمة الطازجة المستخدمة.",
+    "aspect": [
+      "الإفطار",
+      "الإفطار",
+      "الإفطار"
+    ],
+    "category": [
+      "food_drinks quality",
+      "food_drinks style_options",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أقمت في العديد من الفنادق ذات الأربع نجوم فندق في إيطاليا ولكن لا يوجد أي فندق يضاهي هذا فندق.",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لن تشعر بخيبة الأمل فندق 4 نجوم فندق لطيف للغاية.",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموقع مثالي للمشي في المساء بجانب النهر، مع وجود جميع المطاعم القريبة.",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قمت بحجز هذا فندق بعد قراءة التقييمات ومعرفة أنه حصل على درجة 5 فندق في تورنتو",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كانوا ودودين للغاية .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الموقع ممتازًا، والخدمة رائعة.",
+    "aspect": [
+      "الموقع",
+      "الخدمة"
+    ],
+    "category": [
+      "location general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "Astor Crowne Plaza هو فندق رائع لقد استمتعنا بإقامتنا في Astor Crowne Plaza.",
+    "aspect": [
+      "Astor Crowne Plaza",
+      "Astor Crowne Plaza"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان طاقم التنظيف ودودًا للغاية.",
+    "aspect": [
+      "طاقم التنظيف"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذا هو حقا واحد من أفضل فنادق هيلتون التي أقمنا فيها على الإطلاق.",
+    "aspect": [
+      "فنادق هيلتون"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان نظيفًا وجيد التهوية وشعرت وكأنني في منزل لقضاء العطلة وليس فندقًا غرفة.",
+    "aspect": [
+      "غرفة",
+      "غرفة"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت الوجبة الإفطار، التي كانت متضمنة، أكثر من مرضية بالنسبة لوجبة  إفطار كونتيننتال.",
+    "aspect": [
+      "الإفطار",
+      "الإفطار"
+    ],
+    "category": [
+      "food_drinks prices",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع فندق، بلد رائع، رائع أشخاص فندق ممتاز!",
+    "aspect": [
+      "فندق",
+      "أشخاص",
+      "فندق"
+    ],
+    "category": [
+      "hotel general",
+      "service general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع الموقع",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قاعدة رائعة لاستكشاف سان فرانسيسكو. لقد مكثت هنا لمدة 3 أيام أثناء استكشاف سان فرانسيسكو لأول مرة - يا له من مكان رائع!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يقع الفندق على مسافة قريبة سيرًا على الأقدام من ألكسندربلاتز حيث يوجد نظام مترو فعال للغاية يخدم معظم مناطق برلين.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان هذا الفندق نظيفًا للغاية، وكان الإفطار رائعًا، وممتازًا الخدمة وكان قريبًا من خط التلفريك.",
+    "aspect": [
+      "الفندق",
+      "الإفطار",
+      "الخدمة",
+      "الفندق"
+    ],
+    "category": [
+      "hotel cleanliness",
+      "food_drinks quality",
+      "service general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بعد قراءة المراجعات الإيجابية لـ فندق Magic Castle قررت حجز ليلتين.",
+    "aspect": [
+      "فندق Magic Castle"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذا الفندق ذو قيمة جيدة مقابل المال، لقد حجزنا غرفة ذات إطلالة جزئية على البحر غرفة كانت نظيفة ومرتبة.",
+    "aspect": [
+      "الفندق",
+      "غرفة",
+      "غرفة"
+    ],
+    "category": [
+      "hotel prices",
+      "rooms cleanliness",
+      "rooms cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم أحب Chealsea Lodge أولاً وقبل كل شيء، أعتمد على Trip Advisor في سفري.",
+    "aspect": [
+      "Chealsea Lodge"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ولكن هذه كانت مجرد إغفالات صغيرة بالنسبة لإقامة مريحة كهذه.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع الموقع، نظيف وموظفين متعاونين الموظفين حجزنا لمدة 4 ليالٍ في منتصف سبتمبر حيث سبق لنا أن أقمنا هنا منذ 3 سنوات.",
+    "aspect": [
+      "الموظفين",
+      "NULL",
+      "الموقع"
+    ],
+    "category": [
+      "service general",
+      "hotel cleanliness",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لطيف الفندق ولكن فظيع البواب وموظفو الاستقبال",
+    "aspect": [
+      "الفندق",
+      "البواب",
+      "موظفو الاستقبال"
+    ],
+    "category": [
+      "hotel general",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قريب جدًا من الشاطئ والمطاعم.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز !  !  !",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لن أبقى هنا مرة أخرى .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يقع الموقع على بعد مبنى واحد من محطة المترو وبرج لندن، لذا من السهل التنقل.",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "في الواقع، كانوا لطيفين للغاية لدرجة أنه عندما تعثرت في غطاء الصرف الصحي الذي كان في موقف السيارات، ذهب الحارس على الفور وأحضر مفك براغي وربط الغطاء بالأرض!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تناولنا الطعام في المطعم وطلبنا خدمة الغرف، وكان كلاهما رائعًا.",
+    "aspect": [
+      "المطعم",
+      "خدمة الغرف"
+    ],
+    "category": [
+      "food_drinks quality",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أقمنا في الطابق الخامس، ويمكنني أن أقول بكل صدق أن غرفتنا  كانت نظيفة للغاية وكان بها تكييف هواء يعمل وصندوق أمانات.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "room_amenities general",
+      "room_amenities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مدهش حقًا. عدت في 12 يونيو - كان رائعًا.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أمضيت أنا وزوجتي للتو أربع ليالٍ رائعة في فندق بريسيادوس!",
+    "aspect": [
+      "فندق بريسيادوس"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الريف هو مكان جميل للغاية ومليء بالمناظر الخضراء الخلابة ويستحق القيام برحلة للخارج وتجربة الثقافة المحلية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت (الغرفة 2) صغيرة ولكن لم أقضي فيها الكثير من الوقت - وكانت هادئة.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أود أن أشكر شخصيًا الكونسيرج كاري وكارولينا على العمل بصبر معنا في محاولة تحديد مكان أمتعتنا المفقودة (خطأ شركة الطيران).",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أعجبت بشكل مناسب بإقامتي السابقة في Parkcity وسأكون كذلك مرة أخرى في أوائل يوليو.",
+    "aspect": [
+      "Parkcity"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المطعم جيد جدًا - أسعار معقولة، قائمة طعام ضخمة، مشهور جدًا.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "facilities general",
+      "facilities prices",
+      "food_drinks style_options",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يقع على بعد كتلتين فقط من المترو وعلى بعد خمس دقائق سيرًا على الأقدام من برج إيفل.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعنا حقًا بـ الإفطار وبعد الظهر الجبن والنبيذ.",
+    "aspect": [
+      "الإفطار",
+      "الجبن والنبيذ"
+    ],
+    "category": [
+      "food_drinks quality",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مكثت ليلة واحدة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "Langham Place هو مشروعي الجديد فندق من الآن فصاعدًا في هونج كونج. لم يكن لدي الوقت لاستكشاف المناطق المحيطة ولكن يمكنني أن أستنتج بشكل أفضل عن  الفندق) والمرافق.",
+    "aspect": [
+      "Langham Place",
+      "فندق",
+      "المرافق"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general",
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قريبة من المطاعم اللطيفة ومتجر Whole Foods الكبير في شارع Magazine.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع لقد أقمت مؤخرًا في فندق لونا سيمون بعد دعوة زوجتي للذهاب لرؤية بيلي إليوت في فيكتوريا.",
+    "aspect": [
+      "فندق لونا سيمون"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان (الفندق 1) أفضل مما توقعت واسترخيت تمامًا.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الفندق الموظفين مهذبين.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ويقع في مكان مناسب بجوار المطار.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذا الفندق رائع للغاية وحديث للغاية.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "في اليوم التالي، اعتذر الموظفون بشدة ونقلوني إلى غرفة تطل على هايد بارك غرفة.",
+    "aspect": [
+      "غرفة",
+      "الموظفون"
+    ],
+    "category": [
+      "rooms miscellaneous",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مؤذي، غريب فندق في وسط سان فرانسيسكو موقع",
+    "aspect": [
+      "فندق",
+      "فندق",
+      "موقع"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الأفضل في لندن",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذا فندق لطيف حقًا فندق، لكنه باهظ الثمن إلى حد ما.",
+    "aspect": [
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel general",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قاعدة رائعة لرؤية لوس أنجلوس",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان المكان نظيفًا ومرتبًا خادمة وكان المكان غير نظيف بعض الشيء فيما يتعلق بالمناشف ولكن لم يكن هناك مشكلة الشاطئ كان لطيفًا للغاية ونظيفًا وكان به الكثير من وسائل الترفيه بغض النظر عما تحبه",
+    "aspect": [
+      "NULL",
+      "خادمة",
+      "الشاطئ"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "service general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قضينا هناك أسبوعًا وقضينا وقتًا رائعًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد قضينا وقتًا رائعًا في فلورنسا، وكان الفندق جزءًا من تلك التجربة.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يبدو أن غمر المرحاض باستمرار سيكون سيئًا بدرجة كافية، لكن لا، لقد ذهبوا وتوجوا أنفسهم بالإصابة بالنمل الأبيض.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "rooms cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفين رائعين.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يوجد العديد من المطاعم القريبة، وكان الفندق يقدم وجبة إفطار مجانية جيدة جدًا وجبة إفطار.",
+    "aspect": [
+      "وجبة إفطار",
+      "وجبة إفطار",
+      "NULL"
+    ],
+    "category": [
+      "food_drinks quality",
+      "food_drinks prices",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون  رائعين ومستعدين دائمًا لتقديم المشورة الودية حول الأماكن التي يجب الذهاب إليها في الرحلات اليومية والمطاعم التي يجب تناول الطعام فيها.",
+    "aspect": [
+      "الموظفون",
+      "الموظفون"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "* برامج تلفزيونية رديئة. * السرير صعب للغاية",
+    "aspect": [
+      "السرير"
+    ],
+    "category": [
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وسيكون لديك مجموعة مختارة ذكية للمسافرين ذوي الميزانية المحدودة (ولكن ليس بميزانية كبيرة جدًا!). يوجد الكثير من المواقع السياحية، وعدد كبير من المطاعم ومناطق التسوق على مسافة قريبة سيرًا على الأقدام من هذا الفندق.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الموقع، نظيف لطيف الغرفة، كأس كبير مجاني النبيذ كل ليلة بين الساعة 6 - 7 مساءً كان بمثابة مكافأة.",
+    "aspect": [
+      "الموقع",
+      "الغرفة",
+      "الغرفة",
+      "النبيذ"
+    ],
+    "category": [
+      "location general",
+      "rooms general",
+      "rooms cleanliness",
+      "food_drinks prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "فندق صغير لطيف فندق في وسط مدينة نيويورك",
+    "aspect": [
+      "فندق",
+      "فندق",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "hotel design_features",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الموظفين كانوا مفيدين للغاية، الموقع مذهل والمترو قريب جدًا - على الرغم من أن كاتدرائية نوتردام والحي اللاتيني كانا على بعد 15 دقيقة فقط سيرًا على الأقدام.",
+    "aspect": [
+      "الموظفين",
+      "الموقع"
+    ],
+    "category": [
+      "service general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرفة الواحدة جناح من غرفة نوم واحدة رائعة وممتازة بالنسبة للمال.",
+    "aspect": [
+      "جناح من غرفة نوم واحدة",
+      "جناح من غرفة نوم واحدة"
+    ],
+    "category": [
+      "rooms general",
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المطعم  الموجود على السطح ممتاز ويستحق الزيارة.",
+    "aspect": [
+      "المطعم"
+    ],
+    "category": [
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قيمة مقابل المال لقد أقمت لمدة 5 ليالي في الفندق، ويجب أن أقول أنها قيمة مقابل المال.",
+    "aspect": [
+      "الفندق",
+      "الفندق"
+    ],
+    "category": [
+      "hotel prices",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "فندقنا الصغير المفضل فندق نظيف، مريح، مهتم، سخي.",
+    "aspect": [
+      "فندق",
+      "فندق",
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel cleanliness",
+      "hotel comfort",
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد وجدناها مريحة للغاية وسهلة الوصول إلى وسائل النقل المحلية.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel comfort",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الشيء السلبي الوحيد هو أن الغرف صغيرة جدًا (الأسرة الضخمة تجعل الأمر أسوأ).",
+    "aspect": [
+      "الغرف"
+    ],
+    "category": [
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالتأكيد سأبقى هنا مرة أخرى في المرة القادمة التي أزور فيها بورتوريكو.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع الموقع",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كما أنها رائعة (استمتعت تمامًا بالوجبات الخفيفة المقدمة للاستمتاع بها مع مشروباتك في البار في الطابق السفلي). الغرف كانت مذهلة ولديها بالتأكيد عامل \"إبهار\".",
+    "aspect": [
+      "الغرف"
+    ],
+    "category": [
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "محبوب",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أقمنا أنا وزوجي هنا بعد اختيار (فندق 1) بناءً على تقييمات أخرى - لم نشعر بخيبة أمل !!",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سأعود إلى هذا الفندق .",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الفندق الموقع جيد مع بعض المعالم السياحية ومراكز التسوق ومحطة المترو القريبة.",
+    "aspect": [
+      "الموقع",
+      "الموقع"
+    ],
+    "category": [
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم تجديد الفندق مؤخرًا - وتم تأثيث غرفتي بشكل جيد.",
+    "aspect": [
+      "غرفتي",
+      "الفندق"
+    ],
+    "category": [
+      "rooms design_features",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت الإقامة رائعة خلال عطلة نهاية الأسبوع في فبراير 2008.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مثالية لقضاء إجازة قصيرة في باريس",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون في الفندق دائمًا متعاونين وودودين للغاية.",
+    "aspect": [
+      "الموظفون",
+      "الموظفون"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت غرفتنا غرفة كبيرة جدًا، وحتى أنها كانت تحتوي على سرير غرفة منفصل عن منطقة المعيشة.",
+    "aspect": [
+      "غرفة",
+      "غرفة"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام، كان الفندق رائعًا فندق، وسأعود إليه مرة أخرى في المستقبل.",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أنا متأكد من أن هذا الفندق جيد لقضاء العطلات: الغرف جيدة (خاصة المطابخ الصغيرة)، الموقع جيد جدًا، والموظفين مفيدون.",
+    "aspect": [
+      "الفندق",
+      "الغرف",
+      "الموقع",
+      "الموظفين"
+    ],
+    "category": [
+      "hotel general",
+      "rooms general",
+      "location general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموقع كان مثاليًا تمامًا، كل شيء على مسافة قريبة.",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم عقد العديد من المؤتمرات هناك، تسجيل الدخول استغرق أكثر من ساعة!",
+    "aspect": [
+      "تسجيل الدخول"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع الموقع، رائع الخدمة، لا يوجد شيء يزعجك.",
+    "aspect": [
+      "الموقع",
+      "الخدمة"
+    ],
+    "category": [
+      "location general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد وجدت أن أسعار Country Inn Suites في Magazine Street معقولة ونظيفة ومريحة في الموقع لمؤتمري وللحي الفرنسي.",
+    "aspect": [
+      "Country Inn",
+      "الموقع",
+      "Country Inn"
+    ],
+    "category": [
+      "hotel prices",
+      "location general",
+      "hotel cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام، أعجبني موسر.",
+    "aspect": [
+      "موسر"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الأسرة مريحة والـ غرف جميلة.",
+    "aspect": [
+      "غرف",
+      "غرف"
+    ],
+    "category": [
+      "room_amenities comfort",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سنعود بالتأكيد ونوصي به بشدة لأي شخص يسافر إلى لندن!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع فندق مع سهولة الوصول إلى المدينة رائع ونظيف ومريح غرف.",
+    "aspect": [
+      "فندق",
+      "فندق",
+      "غرف",
+      "غرف"
+    ],
+    "category": [
+      "hotel general",
+      "location general",
+      "rooms cleanliness",
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تعتبر كبيرة وفقًا للمعايير الأوروبية ومزينة بشكل جيد.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "استغرق الأمر 48 ساعة للحصول على رد وحتى الآن لم يتصل بي أحد ليخبرني بما حدث بالفعل في تلك الليلة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "قيمة رائعة مقابل المال",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مركزي رائع فندق",
+    "aspect": [
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كل شيء في هذا المكان فريد من نوعه .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان المسبح و منطقة حوض الاستحمام الساخن مذهلين، على الرغم من أننا لم يكن لدينا أي وقت للاسترخاء لأننا كنا مشغولين للغاية بجولة في لوس أنجلوس.",
+    "aspect": [
+      "المسبح",
+      "منطقة حوض الاستحمام الساخن"
+    ],
+    "category": [
+      "facilities general",
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الإيجابيات - مسموح باصطحاب الحيوانات الأليفة - القهوة والشاي العضويان متوفران في الردهة كل صباح - Aveda مستلزمات الحمام - ناعمة أردية حمام - نبيذ رائع الاستقبال - ناعمة رائعة بياضات السلبيات - حجم الغرفة -",
+    "aspect": [
+      "أردية حمام",
+      "مستلزمات الحمام",
+      "بياضات",
+      "الاستقبال"
+    ],
+    "category": [
+      "room_amenities quality",
+      "room_amenities general",
+      "rooms quality",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قيمة ممتازة (بأسعار لندن) لإقامة فاخرة.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel prices",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الإفطار على مستوى عالٍ وكذلك كان بار السطح الجميل.",
+    "aspect": [
+      "الإفطار",
+      "بار السطح"
+    ],
+    "category": [
+      "food_drinks quality",
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع الموقع الموظفين كانوا ودودين للغاية.",
+    "aspect": [
+      "الموقع",
+      "الموظفين"
+    ],
+    "category": [
+      "location general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "التميز فندق صغير جميل فندق بتصميم داخلي رائع، من الدرجة الأولى خدمة ورائع موقع.",
+    "aspect": [
+      "فندق",
+      "فندق",
+      "خدمة",
+      "موقع"
+    ],
+    "category": [
+      "hotel general",
+      "hotel design_features",
+      "service general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرف على الجانب الأساسي، ولكنها تحتوي على كل ما قد تحتاجه.",
+    "aspect": [
+      "الغرف"
+    ],
+    "category": [
+      "rooms quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أفضل بعشر مرات من التقييمات حتى الآن. قمت بالحجز في Civic Center Ramada من خلال Yahoo travel / Travelocity.",
+    "aspect": [
+      "Civic Center Ramada"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرف  صغيرة، لكن المبنى مثير للاهتمام من الناحية المعمارية باعتباره مزيجًا من ثلاثة مبانٍ قديمة تم تجديدها لتصبح فندق.",
+    "aspect": [
+      "الغرف",
+      "فندق"
+    ],
+    "category": [
+      "rooms design_features",
+      "hotel design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام جيد",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سأوصي بالتأكيد بهذا الفندق للأصدقاء وسأبقى فيه مرة أخرى عندما أعود إلى نيو أورلينز.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أخطط للبقاء هنا مرة أخرى.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ظاهرة واحدة من أفضل الفنادق على الإطلاق.",
+    "aspect": [
+      "الفنادق",
+      "الفنادق"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الأسلوب السخيف أهم من الجوهر",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "في الصباح كان الإفطار سيئًا للغاية وعندما طلبت الشوكولاتة لطفلي لم يكن لديهم أي شيء.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يقع هذا الفندق في موقع رائع( قريب من جميع المواقع السياحية في برشلونة، والموظفون متعاونون للغاية منذ دخولك الفندق حتى مغادرتك.",
+    "aspect": [
+      "موقع",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "قيمة جيدة وموقع رائع. لقد أقمت في فندق Monticello خلال عطلة نهاية الأسبوع التذكارية عام 2004.",
+    "aspect": [
+      "موقع",
+      "Monticello"
+    ],
+    "category": [
+      "location general",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الحمامات قديمة أيضًا ومتسربة.",
+    "aspect": [
+      "الحمامات",
+      "الحمامات"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع الموقع موقع رائع، أوصي بهذا الفندق لقضاء عطلة قصيرة في المدينة!",
+    "aspect": [
+      "الموقع",
+      "الفندق"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت غرفتنا : كبيرة، ذات إطلالة جيدة ومزينة بشكل جيد.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms general",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم نستخدم المطعم، ولكن وجدنا العديد من الأماكن على مسافة قريبة سيرًا على الأقدام لجميع الوجبات.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يُعد الفندق قاعدة مثالية لاستكشاف بوسطن لعدة أيام، وذلك بفضل إمكانية الوصول المجاني إلى الإنترنت في الردهة ومقهى ستاربكس.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "facilities design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جميل حقًا أن يجعلنا نشعر بالترحاب حقًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الفناء غريبًا، وكانت الغرف  نظيفة للغاية وكان الموظفون متعاونين للغاية.",
+    "aspect": [
+      "الغرف",
+      "الموظفون",
+      "NULL"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "service general",
+      "hotel design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تجربة رائعة أخرى قضيت ثلاث ليالٍ هنا في أوائل شهر مايو.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "قريب من كل شيء في سان فرانسيسكو.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يقع بالقرب من حديقة جميلة جدًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون مهذبين وفعالين وكان البار الخدمة ممتازًا.",
+    "aspect": [
+      "الخدمة"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع الموقع",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بوتيك رائع فندق",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الفندق غرفة جيدًا، صغيرًا إلى حد ما ولكنه مقبول.",
+    "aspect": [
+      "غرفة",
+      "غرفة"
+    ],
+    "category": [
+      "rooms general",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد شعرنا بالترحيب منذ لحظة وصولنا عبر المصعد الصغير حتى وقت مغادرتنا المبكر.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لا أستطيع أن أوصي بهذا بما فيه الكفاية !!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "حسنًا - أحب الأطفال عطلة نهاية الأسبوع على الرغم من أن هذا هو الهدف بالكامل - مع الأخذ في الاعتبار التكلفة، كان من الممكن بذل جهد أفضل لإطعام الكبار",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "استمتعنا أيضًا بـ الأنشطة بجانب حمام السباحة مثل دروس اللغة الإسبانية والتمارين الرياضية المائية - وذلك بفضل فريق الأنشطة الذي قام بعمل رائع.",
+    "aspect": [
+      "الأنشطة بجانب حمام السباحة",
+      "فريق الأنشطة"
+    ],
+    "category": [
+      "facilities miscellaneous",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه نظيف ومُعتنى به جيدًا مع ديكور عصري بسيط وموظفين ودودون للغاية ومتعاونون.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL",
+      "موظفين",
+      "موظفين"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "rooms general",
+      "rooms design_features",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموقع رائع، ولكن الفندق كان مخيبا للآمال.",
+    "aspect": [
+      "الموقع",
+      "الفندق"
+    ],
+    "category": [
+      "location general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ليس سيئا",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أفضل جزء في كل هذا هو لطف الموظفين والذي من الصعب جدًا العثور عليه في بعض الفنادق.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان المطعم بوفيه لذيذًا.",
+    "aspect": [
+      "بوفيه"
+    ],
+    "category": [
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وكان علي أن أضحك على تكلفة وعاء رقائق الذرة الذي تم توصيله إلى غرفتي مقابل 27 دولارًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "food_drinks prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "محبوب الجناح نذهب إلى نيو أورلينز بشكل متكرر للعمل والترفيه.",
+    "aspect": [
+      "الجناح"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نأمل أن يتم حل هذه المشكلة حيث يبدو أنه تم فرض رسوم زائدة بشكل كبير وإذا لم نتمكن من حلها فلن أبقى هنا مرة أخرى.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": ">باعني.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الشيء الوحيد الذي كان بإمكان (الفندق 1) تحسينه هو الجلوس في الردهة الرئيسية - يوجد زوجان من الكراسي وأريكة والكثير من المساحة الفارغة.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "facilities comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموقع الموقع الموقع رائع الموقع، بالقرب من المحلات التجارية والمطاعم، منطقة جيدة جدًا فيما يتعلق بمدينة برشلونة.",
+    "aspect": [
+      "الموقع",
+      "الموقع"
+    ],
+    "category": [
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الطعام المقدم في (بوفيه الإفطار 3) طازجًا ولذيذًا وبأسعار معقولة.",
+    "aspect": [
+      "breakfast buffet",
+      "breakfast buffet",
+      "breakfast buffet"
+    ],
+    "category": [
+      "food_drinks quality",
+      "food_drinks quality",
+      "food_drinks prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرف رائعة.",
+    "aspect": [
+      "الغرف"
+    ],
+    "category": [
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت لديهم أسرة مريحة للغاية، مثالية للتوقف المؤقت",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "room_amenities comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "العيوب الوحيدة - والتي ليست سرية - هي أن (الغرفتين) صغيرتان (على الرغم من ترتيبها بشكل جيد للغاية) والحمام (الغرفتين) مشترك (أو على الأقل كان حمامي).",
+    "aspect": [
+      "غرف",
+      "غرف"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عدت للتو من إقامة لمدة خمس ليالٍ في Beacon، ولم أكن أكثر سعادة.",
+    "aspect": [
+      "Beacon"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ما كان ذات يوم فندقًا مقابل 400 دولار لليلة واحدة لرجال الأعمال والمسافرين النخبة أصبح الآن فندقًا رخيصًا من فئة 4 نجوم مقابل 49 - 79 دولارًا لليلة؛ تحقق من أي Experien أو Yahoo أو Priceline، هذا هو الأرخص من بين جميع مالكي Dupuy الأصليين وسوف يشعرون بخيبة أمل كبيرة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يبدو أن الغرفتين : قد تم إجراء بعض التعديلات عليهما، وتبدو الآن أكثر نظافة وإشراقًا.",
+    "aspect": [
+      "غرف",
+      "غرف"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ميزانية صادقة فندق والتي من المؤكد أنها ستتجاوز توقعاتك.",
+    "aspect": [
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel prices",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الفندق : ذو إدارة جيدة وساحر مع شعور بالنظافة والهدوء والحداثة.",
+    "aspect": [
+      "الفندق",
+      "الفندق",
+      "الفندق"
+    ],
+    "category": [
+      "hotel general",
+      "hotel design_features",
+      "hotel cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع منتجع / خدمة الكونسيرج",
+    "aspect": [
+      "منتجع",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أحببت بلفيدير !! !",
+    "aspect": [
+      "بلفيدير"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لم أتمكن من النوم في هذا الفندق.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الطعام في المطعم الدوار ممتازًا وكذلك الخدمة، على الرغم من أنها كانت باهظة الثمن بعض الشيء.",
+    "aspect": [
+      "الطعام",
+      "الخدمة",
+      "الطعام"
+    ],
+    "category": [
+      "food_drinks quality",
+      "service general",
+      "food_drinks prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان من دواعي سروري الإقامة في هذا الفندق مرتين في الأشهر القليلة الماضية وأعجبت به كثيرًا.",
+    "aspect": [
+      "الفندق",
+      "الفندق"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ودود الموظفين، نظيف، واسع الغرف، مثالي الموقع وبالتأكيد.",
+    "aspect": [
+      "الموظفين",
+      "الموقع",
+      "الغرف",
+      "الغرف"
+    ],
+    "category": [
+      "service general",
+      "location general",
+      "rooms cleanliness",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "من الواضح أن الإدارة لا تقوم بوظيفتها في ضمان الاتساق والتواصل بين الموظفين.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "موقع الفندق رائع حيث يقع على الطريق المؤدي إلى الشاطئ مع وجود العديد من المطاعم والمحلات التجارية القريبة.",
+    "aspect": [
+      "موقع الفندق",
+      "موقع الفندق"
+    ],
+    "category": [
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لن أعود إلى The Clift ؛ Redwood Bar ممتع وموظفو الكونسيرج / الباب الأمامي جميعهم جيدون ولكن هذا كل شيء.",
+    "aspect": [
+      "Redwood Bar",
+      "concierge/front door staff"
+    ],
+    "category": [
+      "facilities general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جميل جدا فندق",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الحمام ضخمًا وفقًا للمعايير الإيطالية ومُحدثًا للغاية.",
+    "aspect": [
+      "الحمام",
+      "الحمام"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": ">تحذير بشأن غرفة \"إطلالة على المحيط\"",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "NULL"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أقمت في فنادق ذات موظفين لائقة، وكان هؤلاء موظفين الأفضل.",
+    "aspect": [
+      "موظفين",
+      "موظفين"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالتأكيد سأعود إلى Affinia!",
+    "aspect": [
+      "Affinia"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أحب هذا الفندق",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نحيف و جيد الموقع لكنه يستهدف مجتمع المثليين.",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قمت أنا وصديقي بالإقامة في Cruz Sol في شهر يوليو بعد إجراء حجز عبر الإنترنت قبل أشهر.",
+    "aspect": [
+      "Cruz Sol"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تقع على مسافة قصيرة سيرًا على الأقدام من الشاطئ وأماكن التسوق والطعام الجيد جدًا الطعام.",
+    "aspect": [
+      "NULL",
+      "الطعام"
+    ],
+    "category": [
+      "location general",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مركزي رائع الموقع، جيد الغرفة، سرير جيد جدًا، حمام لطيف الغرفة، رائع الإفطار.",
+    "aspect": [
+      "الموقع",
+      "الغرفة",
+      "الغرفة",
+      "الغرفة",
+      "الإفطار"
+    ],
+    "category": [
+      "location general",
+      "rooms general",
+      "room_amenities design_features",
+      "rooms general",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام، كانت القيمة جيدة بالرغم من ذلك الموقع جعل الأمر يستحق العناء.",
+    "aspect": [
+      "NULL",
+      "الموقع"
+    ],
+    "category": [
+      "hotel general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت الغرفة  نظيفة، وملاءات السرير نظيفة والحمام الغرفة نظيف للغاية.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "room_amenities design_features",
+      "rooms cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سأبقى بالتأكيد مرة أخرى في الرحلة القادمة إلى نيوزيلندا",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مجاني وجبة إفطار .",
+    "aspect": [
+      "وجبة إفطار"
+    ],
+    "category": [
+      "food_drinks prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد تم تجديد غرفتنا  مؤخرًا وكانت جميلة حتى أنها تحتوي على صنبور مياه شرب.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "rooms general",
+      "rooms general",
+      "room_amenities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه قريب جدًا من الحدث، ولكن في المرة القادمة سأنفق بضعة دولارات إضافية للإقامة في مكان ما",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هناك خيارات أفضل من هذا الفندق المتعب والقديم الفندق",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرف : والممرات : قديمة بعض الشيء، ولكنها نظيفة للغاية وتحتوي على العديد من : وسائل الراحة.",
+    "aspect": [
+      "غرف",
+      "hallways",
+      "غرف",
+      "hallways",
+      "amenities"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms design_features",
+      "rooms cleanliness",
+      "rooms cleanliness",
+      "room_amenities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المشكلة الوحيدة هي أن الشقة ذات الثلاث غرف نوم لا تحتوي على غرفة معيشة (غرفة واحدة) ولا يوجد بها مطبخ كامل",
+    "aspect": [
+      "الغرفة"
+    ],
+    "category": [
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "موصى به للغاية",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ومع ذلك، كان الدش/حوض الاستحمام خطيرًا للغاية وبالتأكيد ليس مناسبًا للأزواج الناضجين أو الأشخاص ذوي الإعاقة.",
+    "aspect": [
+      "الدش/حوض",
+      "الدش/حوض",
+      "الدش/حوض"
+    ],
+    "category": [
+      "rooms general",
+      "rooms miscellaneous",
+      "rooms miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وبقيت هنا لمدة 4 ليالٍ قبل الذهاب إلى كيب كود. هذا الفندق هو قاعدة رائعة لرؤية جميع المعالم السياحية في بوسطن.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إقامة رائعة لقد أمضيت هنا ليلة واحدة قبل أن أغادر من رحلة طويلة وباردة وممطرة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد قضينا وقتًا رائعًا في هذا (الفندق 1).",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "غير موصى به",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سأعود للمرة الثالثة هذا العام لأن هذا الفندق جذاب للغاية.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بعد العثور على عرض رائع على Travelzoo توجهت زوجتي إلى المدينة لقضاء المساء.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الخدمة كانت لا تشوبها شائبة، والغرف جميلة جدًا.",
+    "aspect": [
+      "الخدمة",
+      "الغرف"
+    ],
+    "category": [
+      "service general",
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إقامة جيدة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تجنبه بأي ثمن، كيف يمكن لهذا المكان أن يطلق على نفسه فندقًا من فئة 4.5/5 نجوم؟ هذا أمر لا أفهمه",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد شعرنا في الواقع بقليل من الاكتئاب في هذا (الفندق 1)، ولم نتمكن من الانتظار للمغادرة - لذلك قمنا بتسجيل الخروج مبكرًا بيوم.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عند وصولنا كان علينا أن ندفع نقدًا قبل الدخول إلى (الغرفة 1)، ثم وجدنا على أحد الأسرّة أغطية سرير متسخة كان لا بد من تغييرها.",
+    "aspect": [
+      "الغرفة",
+      "NULL"
+    ],
+    "category": [
+      "rooms prices",
+      "room_amenities cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أحببنا ذلك حقًا !!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان هذا (الفندق 2) على بعد كتلة واحدة من صف المطاعم وعلى بعد كتلتين من منطقة المسرح بالإضافة إلى أنه بلغ متوسط السعر 159 دولارًا في الليلة.",
+    "aspect": [
+      "الفندق",
+      "الفندق"
+    ],
+    "category": [
+      "location general",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد حصلنا على خدمة رائعة  وإطلالة رائعة  وموقع رائع  وعدد قليل من الأشياء الأخرى غير المعتادة بالنسبة لفنادق المدن الكبرى (على سبيل المثال، قائمة الوسائد والتركيز على الأنشطة البدنية / الصحية).",
+    "aspect": [
+      "service",
+      "موقع",
+      "NULL"
+    ],
+    "category": [
+      "service general",
+      "location general",
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون  مفيدين وكانت معرفتهم بمدينة سان فرانسيسكو ممتازة.",
+    "aspect": [
+      "الموظفون",
+      "الموظفون"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الفندق الموظفين وقحين ولا أصدق الصور التي يعرضونها على موقعهم على الإنترنت، لا يبدو الأمر كذلك على الإطلاق.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرف : رائعة والموقع : رائع.",
+    "aspect": [
+      "غرف",
+      "موقع"
+    ],
+    "category": [
+      "rooms general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إنه يستحق ذلك",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "نظرًا لأننا كنا مضطرين للذهاب إلى مانهاتن للعمل، فقد قامت شركتنا بحجز غرفة لنا في هذا فندق.",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أسوأ من أي وقت مضى هذا هو أسوأ فندق أقمت فيه خلال عشرين عامًا من السفر.",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أوصي بهذا الفندق دون تحفظ.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قريبة من أماكن التسوق ومعالم الجذب في وسط المدينة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الموظفين كان ودودًا.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قضينا إقامة رائعة لمدة 5 أيام - قريبة جدًا من أفضل جزء من المدينة والمعالم السياحية الرئيسية!",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد بقينا ليلة واحدة فقط ولكن الفندق كان ودودًا للغاية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الموقع والإطلالة!",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يعتبر The 41 جوهرة مطلقة، فهو مريح مع طاقم عمل ودود للغاية موظفين.",
+    "aspect": [
+      "موظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مفيد للغاية وودود.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "المقهى والبار يعطيان الفندق أجواء رائعة.",
+    "aspect": [
+      "المقهى والبار يعطيان الفندق"
+    ],
+    "category": [
+      "hotel design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هادئ جدا -",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون ودودين للغاية وقد قدموا الكثير من النصائح المفيدة حول الجولات المختلفة وما إلى ذلك.",
+    "aspect": [
+      "الموظفون",
+      "الموظفون"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ملاذ بين الفنادق الرديئة بعد تجربة مروعة في فندق لافاييت في نهاية الشارع، عدت أنا وزميلي إلى الراحة المألوفة في فندق ماريوت.",
+    "aspect": [
+      "the Marriott."
+    ],
+    "category": [
+      "hotel comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لطيف فندق فندق لطيف للإقامة أثناء رحلة الفتيات.",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أخطط للبقاء في الفندق Le Cirque مرة أخرى ... ولو فقط لأشكر الموظفين على تواجدهم من أجلنا.",
+    "aspect": [
+      "Le Cirque"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "دفعت 535.00 دولارًا لمدة 4 ليالٍ.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مكان نظيف وجميل للإقامة وبسعر متوسط.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel cleanliness",
+      "hotel prices",
+      "hotel cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "معزولة قليلاً للنزول من المنتجع.",
+    "aspect": [
+      "المنتجع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "عند خروجي من الفندق، اتهمني الموظفين بمحاولة التوفير في مشتريات الميني بار.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ليس سيئا للغاية بعد أن بقيت هنا عدة مرات في الماضي الفندق بدأ يظهر عليه التآكل قليلاً.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الفندق حميمي وبريطاني للغاية.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كيمبرلي أ - حسنًا لقد مكثنا في فندق كيمبرلي في الأسبوع الأخير من شهر أبريل.",
+    "aspect": [
+      "كيمبرلي"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "فندق كاسكي رائع",
+    "aspect": [
+      "فندق كاسكي"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جميل الموقع وجميل جداً الغرف.",
+    "aspect": [
+      "الموقع",
+      "الغرف"
+    ],
+    "category": [
+      "location general",
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أتمنى أن أعود مرة أخرى، هذه المرة لقضاء شهر العسل.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مع وجود فنادق جيدة وسائل الراحة وموظفين ودودين ومتعاونين موظفين، وجدت نفسي قادرًا على إكمال أعمالي والاستمتاع ببعض الحياة الليلية التي اشتهر بها شارع بوربون.",
+    "aspect": [
+      "وسائل الراحة",
+      "موظفين",
+      "موظفين"
+    ],
+    "category": [
+      "room_amenities general",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أعجبت بجميع جوانب Affinia 50.",
+    "aspect": [
+      "Affinia 50"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نظيف للغاية وممتاز الخدمة .",
+    "aspect": [
+      "NULL",
+      "الخدمة"
+    ],
+    "category": [
+      "hotel cleanliness",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يبدو الحي المحيط متهالكًا بعض الشيء ولكن ربما يكون هذا هو الشعور القديم للمكان.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "فندق رائع فندق في موقع رائع بجوار نقطة تفتيش تشارلي.",
+    "aspect": [
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرف  حديثة وواسعة حسب المعايير اليابانية.",
+    "aspect": [
+      "الغرف"
+    ],
+    "category": [
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "احببته!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الموظفين كاذبون جدًا، وراء ابتسامتهم شخص بائس جدًا.",
+    "aspect": [
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان ذلك خارج نيو أورليانز بقليل",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الغرفة القياسية غرفة ليست كبيرة جدًا، ولكن إذا قمت بتخزين ملابسك في الخزانة ووضع حقائبك تحت السرير، ستشعر وكأنك في منزلك حقًا !!",
+    "aspect": [
+      "غرفة",
+      "غرفة"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قاعدة ذات قيمة جيدة في برلين.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الموقع إلى DART رائع.",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أعجبنا أكثر من كل شيء بـ بار السطح، الذي يقدم الشاي والقهوة مجانًا وكان مكانًا رائعًا لمشاهدة غروب الشمس.",
+    "aspect": [
+      "بار السطح",
+      "بار السطح",
+      "بار السطح"
+    ],
+    "category": [
+      "facilities general",
+      "facilities prices",
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "منظر رائع حقًا! رائع الموقع، في قلب أمستردام.",
+    "aspect": [
+      "الموقع",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد كانت إقامتي في هذا الفندق رائعة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الموقع الموقع، الموقع، الموقع!",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وكانت الخدمة المقدمة من موظفي الجرس رائعة بنفس القدر.",
+    "aspect": [
+      "موظفي الجرس"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جميل جدًا فندق في موقع رائع لقد عدت للتو من عطلة نهاية أسبوع طويلة في باريس حيث مكثت في أغورا.",
+    "aspect": [
+      "فندق",
+      "موقع رائع"
+    ],
+    "category": [
+      "hotel general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا يوجد شيء غير عادي في هذا الفندق، صالة الألعاب الرياضية غريبة، غرف صغيرة، الحمام كبير حقًا، كان حوالي 1/2 حجم غرفة النوم...",
+    "aspect": [
+      "صالة الألعاب الرياضية",
+      "غرف",
+      "غرف"
+    ],
+    "category": [
+      "facilities general",
+      "rooms design_features",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قضينا بضعة أيام هنا في نهاية شهر أكتوبر للاحتفال بعيد زواجنا ولم يكن بإمكاننا اختيار مكان أفضل.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت الخدمة  مذهلة، حيث تم استخدام اسمك عند تسجيل الوصول، وتزويدك بخادم شخصي وما إلى ذلك.",
+    "aspect": [
+      "الخدمة"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تحتوي على إضاءة مزاجية وستائر إلكترونية ضخمة تلفزيون بلازما ...",
+    "aspect": [
+      "تلفزيون بلازما"
+    ],
+    "category": [
+      "room_amenities design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الفندق غرفة كما هو متوقع بالنسبة لأجنحة السفارة، مستوى الضوضاء على جانب السرير غرفة من الطريق مرتفع للغاية ومزعج.",
+    "aspect": [
+      "غرفة",
+      "غرفة"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نوصي بشدة بهذا الفندق وسوف نقوم بحجز إقامة أخرى في وقت لاحق من هذا العام! ! ! ! ! !",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أحببت هذا الفندق لقد أقمت هنا مؤخرًا مع ابني (الذين تتراوح أعمارهم بين 9 و 11 عامًا).",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الخدمة جيدة - كافية والسلالم (لا يوجد مصعد) يمكن أن تكون مخيفة إذا كان لديك حقائب كبيرة.",
+    "aspect": [
+      "الخدمة",
+      "NULL"
+    ],
+    "category": [
+      "service general",
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أعتقد أن الفندق مناسب فقط لراكبي الأمواج والشباب.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نظيفة للغاية ومصانة جيدا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام، يعد هذا مكانًا رائعًا للإقامة إذا كنت ترغب في الاستمتاع بالسلام والهدوء ولكن كن قريبًا من المركز الرئيسي (على بعد 5/8 دقائق)",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "hotel comfort",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أحببت الفندق، الموظفين والموقع",
+    "aspect": [
+      "الفندق",
+      "الموظفين",
+      "الموقع"
+    ],
+    "category": [
+      "hotel general",
+      "service general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه هي إقامتي الثانية في فندق أنجيلينو في برينتوود.",
+    "aspect": [
+      "فندق أنجيلينو"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يتميز هذا الفندق بالعديد من النقاط الإيجابية - لطيف الموقع، ودود ومتعاون الموظفين، مريح الغرف.",
+    "aspect": [
+      "الموقع",
+      "الموظفين",
+      "الغرف"
+    ],
+    "category": [
+      "hotel general",
+      "service general",
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت محاولة الحصول على مشروب من الفندق بار تحديًا ولكن إذا لم تكن في عجلة من أمرك فسوف تحصل عليه.",
+    "aspect": [
+      "بار",
+      "NULL"
+    ],
+    "category": [
+      "facilities general",
+      "facilities comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رحلة رائعة لقد أقمنا لمدة أربع ليالي في Harbour Plaza North Point، في يونيو 2007.",
+    "aspect": [
+      "Harbour Plaza North Point"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ليس مكانًا سيئًا للإقامة، كنا بحاجة إلى مكان غير مكلف إلى حد ما بالقرب من الحي ووجدناه الفناء.",
+    "aspect": [
+      "الفناء"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد جعل الموظفون موظفين ودودين وفعالين كل شيء يسير بسلاسة وكانت غرفتنا غرفة جميلة.",
+    "aspect": [
+      "موظفين ودودين وفعالين",
+      "موظفين ودودين وفعالين",
+      "موظفين ودودين وفعالين",
+      "غرفة"
+    ],
+    "category": [
+      "service general",
+      "service general",
+      "service general",
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعنا كثيرًا بالليلتين اللتين أمضيناهما هنا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أفضل مما توقعنا!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كما أن الحصول على محطة كمبيوتر مجانًا إنترنت كان أمرًا رائعًا.",
+    "aspect": [
+      "محطة كمبيوتر",
+      "إنترنت"
+    ],
+    "category": [
+      "facilities prices",
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "في قلب الواجهة البحرية السياحية.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "قيمة جيدة مقابل المال، نظيف للغاية وجيد وجبة الإفطار.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "وجبة الإفطار"
+    ],
+    "category": [
+      "hotel prices",
+      "hotel cleanliness",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقع الفندق أيضًا يقع بجوار متنزه فونديل مباشرةً، وهو مكان رائع للتجول ومشاهدة السكان المحليين وهم يركضون ويمارسون رياضة الجري ويمشون مع كلابهم (أحيانًا في نفس الوقت!). سأعود بالتأكيد إلى هنا عند زيارتي القادمة لأمستردام.",
+    "aspect": [
+      "يقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "فندق واترتاون - - مذهل!",
+    "aspect": [
+      "فندق واترتاون"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد حصلت بالتأكيد على التجربة التي كنت أهدف إليها.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع !",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "باختصار، ربما يكون هذا أفضل فندق  قمت بالإقامة فيه على الإطلاق.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جميلة وهادئة",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "hotel comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "نحن نحب القديس فرانسيس",
+    "aspect": [
+      "القديس فرانسيس"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مكان جيد للإقامة في سياتل",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إن القول بأنني استمتعت بوقتي في جايز هو أقل من الحقيقة!",
+    "aspect": [
+      "جايز"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "من المؤكد أن الموقع جيد، ولكن إذا كنت أعرف أن الغرف تبدو بهذا الشكل كنت سأذهب إلى فندق روزفلت.",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الخدمة، ودود الموظفين، جيد الطعام.",
+    "aspect": [
+      "الخدمة",
+      "الطعام",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "food_drinks quality",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الموقع . . .",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أحببته . . .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لطيف وجبة الإفطار مع مجموعة جيدة من العناصر.",
+    "aspect": [
+      "وجبة الإفطار",
+      "وجبة الإفطار"
+    ],
+    "category": [
+      "food_drinks quality",
+      "food_drinks style_options"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "صفائح البوليستر",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان نظيفًا ومريحًا وكان الموظفون ودودين.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "الموظفون"
+    ],
+    "category": [
+      "hotel cleanliness",
+      "hotel comfort",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "اختيار هائل في بوفيه إفطار وأفضل حمام سباحة / ساونا / نادي صحي استخدمناه على الإطلاق.",
+    "aspect": [
+      "بوفيه إفطار",
+      "pool/ sauna/ health club"
+    ],
+    "category": [
+      "food_drinks style_options",
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفين ودودين للغاية ومتعاونين.",
+    "aspect": [
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان هناك شخص غير مبتسم وغير متعاون في مكتب الاستقبال مما منعني من الحصول على مراجعة ممتازة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أرسلت بريدًا إلكترونيًا إلى الفندق مرتين - ولم أتلق أي رد وفي النهاية اضطررت إلى الاتصال بالفندق للحصول على استرداد المبلغ - وهو ما فعلوه على الفور ولكن دون اعتذار أو تفسير.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جميل اللوبي، جميل الغرف، لطيف الموظفين.",
+    "aspect": [
+      "الغرف",
+      "اللوبي",
+      "الموظفين"
+    ],
+    "category": [
+      "rooms general",
+      "hotel general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الطعام رائعًا، وكانت الغرف جيدة وكان الموظفون مذهلين.",
+    "aspect": [
+      "الطعام",
+      "الغرف",
+      "الموظفون"
+    ],
+    "category": [
+      "food_drinks quality",
+      "rooms general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جلبت إلى المنزل بق الفراش مكان جميل، ولكن واسع الفندق وغير شخصي قليلاً.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالتأكيد سأبقى هنا مرة أخرى.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يمكنك أن تقول أن هذا الفندق جديد وجيد",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أقمنا في ريتز ميلينيا لمدة 5 أيام في سبتمبر 06.",
+    "aspect": [
+      "ريتز ميلينيا"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون مهذبين للغاية وكانت الغرفة واسعة ونظيفة.",
+    "aspect": [
+      "الموظفون",
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "service general",
+      "rooms design_features",
+      "rooms cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مكان عظيم!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان لديهم مخزون كبير من جميع الصحف المتوفرة في الردهة مجانًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "facilities miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "والخبر السار هو أن هذه منطقة سياحية مريحة ذات معالم مسلية مثل فناني الشوارع.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ملاذ سعيد",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفين ودودين ومتعاونين.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "و، الموقع من الصعب جدًا التغلب عليه - على بعد مبنى واحد فقط من بلازا مايور، وعلى مقربة من الحانات والمطاعم، وليس بعيدًا عن محطة المترو.",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان (فندق 3) لطيفًا مع طابع أوروبي وكان مكانًا نظيفًا للغاية وكان الموظفون رائعين للغاية.",
+    "aspect": [
+      "الفندق",
+      "الفندق",
+      "الفندق"
+    ],
+    "category": [
+      "hotel design_features",
+      "hotel cleanliness",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أحببت حقًا الموقع والموظفين كانا رائعين مع الأخذ في الاعتبار أنني كنت هناك أثناء مهرجان Essence الموسيقي",
+    "aspect": [
+      "الموقع",
+      "الموظفين"
+    ],
+    "category": [
+      "location general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هناك عدد كبير من الفنادق وأنا أقول، ابحث في مكان آخر",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان السرير واحدًا من أكثر الأسرّة راحة التي نمت عليها أنا وزوجي على الإطلاق.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "room_amenities comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سعر الغرفة الفردية : سعر الغرفة المزدوجة.",
+    "aspect": [
+      "الغرفة"
+    ],
+    "category": [
+      "rooms prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كانوا رائعين!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت (الغرفة 2) نظيفة للغاية، والحمام (الغرفة 2) لطيف، والإقامة حديثة للغاية.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة",
+      "NULL"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "rooms quality",
+      "facilities design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد أقمت في هذا الفندق في أوائل شهر مارس، وعلى الرغم من أن الموقع ممتاز، فلن نعود إلى هذا الفندق.",
+    "aspect": [
+      "الموقع",
+      "الفندق"
+    ],
+    "category": [
+      "location general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون : متعاونين للغاية، حتى أن المدير عرض علينا السماح لنا بترك أمتعتنا الكبيرة هناك من أجل رحلة صغيرة إلى لندن.",
+    "aspect": [
+      "الموظفون"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يا إلهي، كان طفلي متحمسًا: كانت الأجنحة الجديدة تمامًا : جميلة بشكل لا يصدق، مع وسائل راحة فاخرة وخدمة لطيفة للغاية.",
+    "aspect": [
+      "الأجنحة",
+      "الأجنحة",
+      "الأجنحة",
+      "خدمة"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms design_features",
+      "room_amenities quality",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قيمة جيدة وموقع مركزي للغاية - حوالي 5 دقائق إلى سانتا كروشيه.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان جميع الموظفين  الذين قابلناهم ودودين ولم يدخروا جهدًا لجعل إقامتنا ممتعة.",
+    "aspect": [
+      "الموظفون",
+      "الموظفون"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموقع جيد أيضًا، مركزي للغاية وكان لدينا 3 غرف في أجزاء مختلفة من الفندق ولم يعاني أي منا من أي من الضوضاء المشار إليها في المراجعات السابقة.",
+    "aspect": [
+      "الموقع",
+      "الفندق"
+    ],
+    "category": [
+      "location general",
+      "hotel comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الفندق = جميل .",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أوصي به باعتباره صفقة جيدة مقابل المال",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت الغرف جميلة جدًا و الأسرّة مريحة جدًا.",
+    "aspect": [
+      "الغرف",
+      "الأسرّة"
+    ],
+    "category": [
+      "rooms general",
+      "room_amenities comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرف ديلوكس واسعة جدًا ومجهزة بشكل فاخر ومريحة.",
+    "aspect": [
+      "ديلوكس",
+      "ديلوكس",
+      "ديلوكس"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms design_features",
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نحن نبقى في كثير من الأحيان في Holiday Inns وكان هذا لطيفًا.",
+    "aspect": [
+      "Holiday Inns"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد استمتعت بشكل خاص بالموظفين الودودين الموظفين في صالة البولو.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مكان رائع للإقامة بأسعار معقولة لقد مكثت لمدة ليلتين في نهاية الأسبوع الماضي واستمتعت بإقامة رائعة.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت خدمة سيارات الأجرة  المتوفرة عبر الفندق ودودة للغاية ومفيدة.",
+    "aspect": [
+      "خدمة سيارات الأجرة",
+      "خدمة سيارات الأجرة"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع فندق لا يمكننا الثناء على هذا فندق بما فيه الكفاية!",
+    "aspect": [
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقع (الفندق 1) في موقع جيد ومركزي.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كانوا مفيدين للغاية في اقتراحات المطاعم.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "فخم جداً فندق .",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت شكواي الوحيدة هي الجدران الرقيقة (يمكنك سماع الثرثرة في الغرفة المجاورة حتى عندما كان الآخرون يستخدمون أصواتًا متحدثة)، وفي إحدى الليالي كان الجيران يحبون الحفلات في وقت متأخر.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تم تغيير الملاءات والمناشف يوميًا، غرفة كانت بحجم كافٍ مع مرافق صنع الشاي التي تم تجديدها كل يوم، وكان الإفطار بسيطًا ولكنه صالح للأكل للغاية والموظفين، على الرغم من أننا لم نكن بحاجة إلى الكثير، كانوا مفيدين!",
+    "aspect": [
+      "NULL",
+      "غرفة",
+      "NULL",
+      "الموظفين",
+      "NULL"
+    ],
+    "category": [
+      "room_amenities general",
+      "rooms design_features",
+      "food_drinks style_options",
+      "service general",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit",
+      "implicit",
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "العقار فريد من نوعه ولطيف وعصري.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ممتع!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أحببنا فندق سبالدينج جيد جدًا الموقع، ذو موقع مركزي بالقرب من المسارح ومراكز التسوق.",
+    "aspect": [
+      "فندق سبالدينج",
+      "الموقع",
+      "فندق سبالدينج"
+    ],
+    "category": [
+      "hotel general",
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أقمنا لمدة 4 ليالي في هذه الجوهرة الواقعة في الجانب العلوي الشرقي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الفندق جيد جدًا، الغرف ذات أحجام مناسبة والإفطار رائع.",
+    "aspect": [
+      "الفندق",
+      "الغرف",
+      "الإفطار"
+    ],
+    "category": [
+      "hotel general",
+      "rooms design_features",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أوصي به بالتأكيد!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "مؤذي، رومانسي، غريب، لا شكاوى.",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "خلال رحلتنا عبر المكسيك أقمنا ثلاث ليالٍ في فندق NH مكسيكو سيتي.",
+    "aspect": [
+      "فندق NH مكسيكو سيتي"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مريح للغاية كان من الصعب العثور على أي فندق فندق معقول به غرف شاغرة عند الوصول قبل عطلة في اليابان، لذا قررنا تجربة هذا (بناءً على تقييمات من TripAdvisor، بالطبع). عند الوصول إلى المطار (ناريتا)، طلبنا الذهاب إلى شيناغاوا وحصلنا على تذكرة لقطار يذهب مباشرة إلى هناك، عبر الشارع مباشرة من فندق.",
+    "aspect": [
+      "فندق",
+      "فندق"
+    ],
+    "category": [
+      "hotel general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع الفندق، رائع الموظفين، رائع الموقع",
+    "aspect": [
+      "الفندق",
+      "الموظفين",
+      "الموقع"
+    ],
+    "category": [
+      "hotel general",
+      "service general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت الغرفتان : جيدتان ولكنهما صغيرتان.",
+    "aspect": [
+      "غرف",
+      "غرف"
+    ],
+    "category": [
+      "rooms general",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "حسنًا مقابل المال... أقمت في فندق أكاديميا لمدة 3 ليالٍ في منتصف نوفمبر 2004.",
+    "aspect": [
+      "فندق أكاديميا"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لكن في الواقع اتضح أنه أمر عظيم.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد مكثت بضعة أيام في مدينة نيويورك في طريقي إلى المنزل من الساحل الغربي.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بالنسبة للمطار الفندق، كان هادئًا بشكل مدهش، الغرف كانت مريحة للغاية ومجهزة جيدًا، وكان الموظفون جميعًا متعاونين ومهذبين للغاية.",
+    "aspect": [
+      "الفندق",
+      "الغرف",
+      "الغرف",
+      "الموظفون",
+      "الموظفون"
+    ],
+    "category": [
+      "hotel comfort",
+      "rooms comfort",
+      "rooms general",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرف كانت كافية ومزينة بشكل جيد ونظيفة وحديثة الحمامات.",
+    "aspect": [
+      "الغرف",
+      "الغرف",
+      "الحمامات",
+      "الحمامات"
+    ],
+    "category": [
+      "rooms quality",
+      "rooms design_features",
+      "rooms cleanliness",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يبدو أن كل شيء كان خارجا عن المألوف بعض الشيء.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الموقع هذا رائع الفندق بالنظر إلى السعر، الموقع ومستوى الخدمة.",
+    "aspect": [
+      "الموقع",
+      "الفندق",
+      "الفندق",
+      "الموقع",
+      "الخدمة"
+    ],
+    "category": [
+      "location general",
+      "hotel general",
+      "hotel prices",
+      "location general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بكل إنصاف، الأسرة قدمت إطلالة جميلة على المحيط والموظفين كانوا صادقين ومفيدين للغاية.",
+    "aspect": [
+      "الأسرة",
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "room_amenities general",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت لوسي مفيدة للغاية وكانت (الغرفة 3) نظيفة للغاية - لقد تم تجديدها للتو.",
+    "aspect": [
+      "NULL",
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "service general",
+      "rooms cleanliness",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد تناولنا القهوة في غرفتنا ولكن لم يكن هناك غلاية، لذا طلبت الماء الساخن الذي أحضروه، ولكنني طلبت أيضًا الحليب في قهوتي (لا يوجد حليب معقم في الغرفة) 6 يورو! 6 يورو للحليب في قهوتي! ! !",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "room_amenities general",
+      "food_drinks prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سأبقى هنا بالتأكيد مرة أخرى، ولكن كلمة للحكماء: تأكد من إخراج سيارتك من المرآب خلال فترة زمنية مدتها 24 ساعة أو سوف يفرضون عليك رسوم يوم إضافي، حتى لو تأخرت دقيقة أو دقيقتين فقط!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لم أواجه أي مشكلة مع استقبال الهاتف المحمول في غرفتي : وربما أجريت 50 مكالمة في ذلك الوقت.",
+    "aspect": [
+      "الغرفة"
+    ],
+    "category": [
+      "rooms miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "باختصار، قضينا وقتًا رائعًا ونوصي بشدة بزيارته.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يمكن الوصول إلى جميع المعالم السياحية بسهولة عن طريق نظام المترو.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "(البوابون الثلاثة) ودودون للغاية ومضيافون، ولديهم معرفة واسعة للغاية فيما يتعلق بالأماكن التي يجب على السياح رؤيتها.",
+    "aspect": [
+      "البوابون",
+      "البوابون",
+      "doormen"
+    ],
+    "category": [
+      "service general",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون متعاونين للغاية وكان الإفطار جيدًا.",
+    "aspect": [
+      "الموظفون",
+      "الإفطار"
+    ],
+    "category": [
+      "service general",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لن أتردد في التوصية به لأي شخص",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يقع (الفندق) في موقع مناسب على بعد نصف كتلة من شارع بوربون، ومع ذلك فهو هادئ للغاية.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الخدمة في المطعم كانت سيئة للغاية، الطعام متوسط.",
+    "aspect": [
+      "الخدمة",
+      "الطعام"
+    ],
+    "category": [
+      "service general",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الاهتمام بالتفاصيل رائع ولم يكن هناك أي مشكلة كبيرة بالنسبة للموظفين، بما في ذلك المغادرة المتأخرة في وقت قصير وبدون أي رسوم إضافية - ولكن الشيء الرئيسي في هذا الفندق هو الموقع!",
+    "aspect": [
+      "NULL",
+      "الموقع"
+    ],
+    "category": [
+      "service general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نظام الكمبيوتر والإضاءة في (الغرفة 1) رائع.",
+    "aspect": [
+      "الغرفة"
+    ],
+    "category": [
+      "room_amenities design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سأوصي بالتأكيد بهذا الفندق لأصدقائنا!",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد تم ترقيتنا عند وصولنا إلى غرفة ممتازة غرفة والتي كانت جميلة!",
+    "aspect": [
+      "غرفة"
+    ],
+    "category": [
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "شكر خاص لـ كاردا لمساعدته في ترتيب رحلة ركوب الخيل!",
+    "aspect": [
+      "كاردا"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ودود ومتعاون .",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد استخدمت الفندق من قبل وسأستمر في القيام بذلك في المستقبل.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كانت غرفتنا ضخمة غرفة وسرير كبير مريح ودش رائع.",
+    "aspect": [
+      "غرفة",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "rooms general",
+      "room_amenities comfort",
+      "room_amenities quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "سأبقى هنا بالتأكيد مرة أخرى وأوصي به للآخرين.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "هذا الفندق يستحق كل قرش.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يبدو أننا كنا محظوظين على الرغم من ذلك وحصلنا على غرفة غرفة أفضل بكثير من تلك التي كانت لدينا من قبل (أو قاموا بتزيينها للتو!) ولم يكن الموظفون أكثر ودية ومساعدة.",
+    "aspect": [
+      "NULL",
+      "غرفة"
+    ],
+    "category": [
+      "service general",
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقع على مقربة من محطة تاور هيل للقطارات، لذا فإن السفر إلى الأماكن الأكثر حيوية أمر سهل للغاية. موصى به.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "فظيعة فقط",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كانت الغرفة نظيفة، مع دش جيد وكان الموظفين ودودين.",
+    "aspect": [
+      "الغرفة",
+      "دش",
+      "الموظفين"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "room_amenities design_features",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "وفوق كل ذلك كان الموظفين متعاونين ومتعاونين للغاية.",
+    "aspect": [
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الموقع في المدينة .",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أود أن أوصي بهذا الفندق لأي شخص يرغب في زيارة سان فرانسيسكو.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "متوسط في أحسن الأحوال",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جديد وسائل الراحة مثل الأكبر خزانة والأريكة لمشاهدة التلفزيون حيث كان الأمر غير متوقع تمامًا بالنسبة لي.",
+    "aspect": [
+      "وسائل الراحة",
+      "خزانة"
+    ],
+    "category": [
+      "room_amenities design_features",
+      "room_amenities design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جميلة أماكن الإقامة لقد أقمنا في The Legacy في سبتمبر 2006 ووجدنا أن أماكن الإقامة نظيفة للغاية ومزينة بشكل جميل.",
+    "aspect": [
+      "أماكن الإقامة",
+      "أماكن الإقامة",
+      "أماكن الإقامة"
+    ],
+    "category": [
+      "rooms general",
+      "rooms cleanliness",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نظيف، مزين بشكل لطيف، مريح أسرة.",
+    "aspect": [
+      "أسرة",
+      "أسرة",
+      "أسرة",
+      "أسرة"
+    ],
+    "category": [
+      "rooms cleanliness",
+      "rooms design_features",
+      "rooms comfort",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تجربة رائعة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بشكل عام، لقد استمتعنا حقًا بتجربتنا هنا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان للسريرين  أغطية لحاف لطيفة وكانت مريحة.",
+    "aspect": [
+      "سرير",
+      "سرير"
+    ],
+    "category": [
+      "rooms quality",
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لن أوصي بهذا الفندق لأصدقائي أو عائلتي لأنني أعتقد أن هناك فنادق أكثر حداثة موجودة في المدينة.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان أفضل مما توقعنا مقابل المال؛ لطيف، كبير غرفة، بلاط ومصباح حراري في الحمام غرفة، رائع موقع، نظيف للغاية، وأخبرنا الرجل المفيد في مكتب الاستقبال إلى أين نذهب وأين لا نذهب.",
+    "aspect": [
+      "NULL",
+      "غرفة",
+      "غرفة",
+      "موقع",
+      "غرفة",
+      "NULL"
+    ],
+    "category": [
+      "hotel prices",
+      "rooms design_features",
+      "rooms design_features",
+      "location general",
+      "rooms cleanliness",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد قمنا بالفعل بإلغاء حجز آخر في طريق العودة من شبه جزيرة مونتيري للإقامة هنا مرة أخرى.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لم يحظى التلفزيون باستقبال جيد، وظلت درجة حرارة الدش من حارقة إلى متجمدة، وكان هناك أنبوب ضخم في الغرفة ظل يصدر صوت صفير مثل غلاية الشاي.",
+    "aspect": [
+      "التلفزيون",
+      "الدش",
+      "الغرفة"
+    ],
+    "category": [
+      "room_amenities quality",
+      "rooms quality",
+      "rooms comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرف جيدة ونظيفة، الإفطار رائع ولكن",
+    "aspect": [
+      "الإفطار"
+    ],
+    "category": [
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتازة خدمة في كل مكان .",
+    "aspect": [
+      "خدمة"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الموقع - حرفيًا دقيقتين سيرًا على الأقدام إلى لا رامبلاس.",
+    "aspect": [
+      "الموقع",
+      "الموقع"
+    ],
+    "category": [
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الجميع في الموظفين رائعين وجعلونا نشعر وكأننا الضيوف الوحيدين هناك على الرغم من أن الفندق كان ممتلئًا!",
+    "aspect": [
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لسوء الحظ كانت الإشارة اللاسلكية ضعيفة جدًا وكنت أفقد الاتصال باستمرار.",
+    "aspect": [
+      "الإشارة اللاسلكية"
+    ],
+    "category": [
+      "room_amenities quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "على الرغم من أن الخارج ليس مميزًا بشكل خاص إلا أن غرفتي غرفة بسريرين مفردين كانت ممتازة.",
+    "aspect": [
+      "غرفة بسريرين مفردين"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بمجرد تشغيل تكييف الهواء فإنك لا تسمع الضوضاء، وعندما تحتاج فقط إلى خمس دقائق للوصول إلى أي مكان، فإنك تنسى وقاحة موظفي مكتب الاستقبال.",
+    "aspect": [
+      "تكييف الهواء",
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "facilities quality",
+      "location general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "حديث، ممتاز أسرة، رائع موقع (على الرغم من أنه كان بالقرب من رامبرانت)",
+    "aspect": [
+      "NULL",
+      "أسرة",
+      "موقع"
+    ],
+    "category": [
+      "hotel design_features",
+      "rooms general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "انتهى بي الأمر في Green Isle inn المجاور والذي كان أفضل بكثير وأرخص ببضعة دولارات فقط",
+    "aspect": [
+      "Green Isle inn",
+      "Green Isle inn"
+    ],
+    "category": [
+      "hotel general",
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هذه في الأساس عملية احتيال حيث يمثل الفندق أنهم فندق فاخر الفندق في حين أن هذا ليس صحيحًا على الإطلاق.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "في أيام الشتاء المبكرة القاسية التي تغلف شمال أيرلندا بسرعة، نفكر في \"وقتنا المستقطع\" في هذه القرية الفلورنسية الصغيرة طوال الوقت ونأمل أن نعود إليها يومًا ما.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الموظفين منتبهون وفعالون.",
+    "aspect": [
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت هناك مقبلات مجانية في المساء بما في ذلك فراولة مغطاة بالشوكولاتة وكانت مذهلة.",
+    "aspect": [
+      "مقبلات",
+      "فراولة مغطاة بالشوكولاتة"
+    ],
+    "category": [
+      "food_drinks prices",
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سأبقى هنا بالتأكيد مرة أخرى لسهولة الخروج بالمصعد إلى رحلتي التالية.",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يقع في موقع جيد  وقريب من العديد من المحلات التجارية والمطاعم.",
+    "aspect": [
+      "موقع",
+      "موقع"
+    ],
+    "category": [
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "منزلي المفضل بعيدًا عن المنزل لقد مكثت عدة مرات في الفندق الساحر Seven Bridges Hotel ويمكنني أن أوصي به لأي شخص يحب تذوق منزل قناة أمستردام القديم.",
+    "aspect": [
+      "Seven Bridges Hotel",
+      "Seven Bridges Hotel"
+    ],
+    "category": [
+      "hotel general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالتأكيد سأبقى هناك مرة أخرى.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان لدي رحلة طيران متأخرة جدًا من سياتل في اليوم الذي غادرت فيه، وتم السماح لي بالبقاء لفترة أطول في غرفتي  دون أي رسوم إضافية.",
+    "aspect": [
+      "الخدمة"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "فندق جلوبس يقع بالقرب من محطة القطار وهو مثالي.",
+    "aspect": [
+      "فندق جلوبس"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الغرفة كانت واسعة ونظيفة، الموظفين كانوا مفيدين للغاية وودودين.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة",
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms cleanliness",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "منطقة الرصيف بها الكثير من المطاعم والأشياء التي يمكن رؤيتها.",
+    "aspect": [
+      "منطقة الرصيف"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يقع هذا الفندق الجميل فندق في ساحة ديلا ريبوبليكا مع إطلالات رائعة، ويحتوي على غرف رائعة ومطاعم رائعة وبعض من أفضل الموظفين المدربين على الإطلاق، وكانت الخدمة لا مثيل لها ويجب أن يكون المدير فخوراً بنفسه.",
+    "aspect": [
+      "فندق",
+      "فندق",
+      "غرف",
+      "على الإطلاق",
+      "الخدمة"
+    ],
+    "category": [
+      "location general",
+      "hotel general",
+      "rooms general",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أوصي بهذا فندق لقد عدت للتو من إقامة لمدة 3 ليالٍ في هذا الفندق",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لاحظ أنه لم يكن هناك مرافق لممارسة التمارين الرياضية : وكان المطعم الموجود في الموقع باهظ الثمن؛ ومع ذلك، كانت خيارات تناول الطعام متاحة بسهولة في عدد من المطاعم على بعد 1 إلى 3 دقائق سيرًا على الأقدام.",
+    "aspect": [
+      "مرافق",
+      "مرافق"
+    ],
+    "category": [
+      "facilities general",
+      "facilities prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تتمتع غرفتنا  بإطلالة رائعة على جسر البوابة الذهبية وهو أمر جيد.",
+    "aspect": [
+      "الغرفة"
+    ],
+    "category": [
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "فندق جميل في وسط طوكيو",
+    "aspect": [
+      "فندق جميل"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أحببت الغرفة بالتأكيد سأعود مرة أخرى . . . . . .",
+    "aspect": [
+      "الغرفة"
+    ],
+    "category": [
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموقع كان رائعًا، وسأبقى هنا مرة أخرى.",
+    "aspect": [
+      "الموقع",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد فوجئنا بسرور بغرفتنا : كان السقف المرتفع يحتوي على عوارض خشبية جميلة وكانت (الغرفة 3): واسعة.",
+    "aspect": [
+      "الغرفة",
+      "الغرفة",
+      "الغرفة"
+    ],
+    "category": [
+      "rooms general",
+      "rooms design_features",
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "هناك الكثير من الاختيارات في وجبة الإفطار و الخدمة الرائعة من الموظفين.",
+    "aspect": [
+      "الخدمة",
+      "وجبة الإفطار"
+    ],
+    "category": [
+      "service general",
+      "food_drinks style_options"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان هذا الفندق ذو الأسعار المعقولة فندق بمثابة مفاجأة رحلتنا.",
+    "aspect": [
+      "فندق"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "جيد جدًا إفطار مقابل القيمة - احجز مسبقًا من موقع الفندق على الويب",
+    "aspect": [
+      "إفطار"
+    ],
+    "category": [
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموقع رائع؛ على بعد نصف كتلة من نهر السين، في منتصف الطريق بين متحف اللوفر وكاتدرائية نوتردام.",
+    "aspect": [
+      "الموقع",
+      "الموقع",
+      "الموقع"
+    ],
+    "category": [
+      "location general",
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع حقًا هذا الفندق في موقع ممتاز لزيارة لندن ويقع الأنبوب على مسافة قصيرة سيرًا على الأقدام في نفس الشارع.",
+    "aspect": [
+      "الفندق",
+      "موقع"
+    ],
+    "category": [
+      "hotel general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كن مستعدًا لدفع 25 دولارًا يوميًا مقابل مواقف السيارات أيضًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "facilities prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يبدو هذا الفندق رائعًا على الإنترنت.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يمكنك المشي إلى جميع العروض الشعبية وشعرنا بالأمان في الشوارع.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "يقع الفندق في موقع جيد  وقد أعطانا سانجاي توصية ممتازة لتناول العشاء وكان مفيدًا للغاية طوال الوقت.",
+    "aspect": [
+      "موقع",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "أوصي بهذا الفندق .",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الفندق الموظفين رائعين في تقديم توصيات المطاعم التي يذهب إليها السكان المحليون بالفعل.",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كل شيء فاق توقعاتنا .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إذا كنت تريد قيمة كبيرة، ابق هنا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إلخ، ولكن بعيدًا بما يكفي ليكون هادئًا إلى حد معقول.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الأسرة هي الأكثر راحة على الإطلاق، مثل قطعة مارشميلو ضخمة!",
+    "aspect": [
+      "الأسرة"
+    ],
+    "category": [
+      "rooms design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ولكن لا يوجد شيء خاص .",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "قمنا بتسجيل الوصول في الساعة 2:30 ظهرًا ولم تكن الغرفة  جاهزة.",
+    "aspect": [
+      "الغرفة"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الإفطار كان متوسطًا مع تقديم الطعام بواسطة مقاول خارجي!",
+    "aspect": [
+      "الإفطار"
+    ],
+    "category": [
+      "food_drinks quality"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد كان هذا موتيل دائمًا مفضلًا نظرًا لموقعه بالقرب من شارع Folsom والحياة الليلية - ولكنه أصبح أفضل الآن بعد أن حصل على تصنيف AAA واحد - ماسي وتم ترقية الغرف.",
+    "aspect": [
+      "موتيل",
+      "الغرف"
+    ],
+    "category": [
+      "location general",
+      "rooms general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لطيف فندق - جيد موقع",
+    "aspect": [
+      "فندق",
+      "موقع"
+    ],
+    "category": [
+      "hotel general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إذا عدت أنا وزوجي يومًا ما، فسوف نبقى في كارترايت مرة أخرى !!",
+    "aspect": [
+      "كارترايت"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "اكتشاف رائع - عائلة فندق في قلب مدينة نيويورك وجدت هذا فندق بالصدفة تمامًا وكان اكتشافًا رائعًا ...",
+    "aspect": [
+      "فندق",
+      "NULL"
+    ],
+    "category": [
+      "hotel general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "اختيار جيد للعمل أو المتعة",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "فندق بيراك لا يشبه سلاسل الفنادق الكبرى ولكنه ذو قيمة رائعة مقابل المال في سنغافورة.",
+    "aspect": [
+      "فندق بيراك"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموقع جيد بالنسبة لمعالم الجذب السياحي في وسط المدينة، كما يتمتع أيضًا بروابط جيدة بالحافلات والمترو إلى سوهو، وقرية جرينتش، وما إلى ذلك.",
+    "aspect": [
+      "الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بقيت 3 ليالي ولم أواجه أي مشاكل.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "إذا كنت تستخدم الدش، فكن على دراية بأنك قد تصاب بالحروق لأن (نظام الصمام 2) قديم ولا يتم صيانته جيدًا.",
+    "aspect": [
+      "نظام الصمام",
+      "نظام الصمام"
+    ],
+    "category": [
+      "room_amenities general",
+      "room_amenities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد أخذني زوجي إلى مدينة نيويورك لشراء هدية عيد الميلاد، وغني عن القول أنني كنت منبهرة بالمدينة والفندق.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تقع المنطقة بالقرب من وسط المدينة مما يعني أنها قريبة من كل شيء.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "رائع الإقامة كانت إقامتي رائعة.",
+    "aspect": [
+      "الإقامة"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "مواقف السيارات باهظة الثمن ويتم إضافة الضريبة إلى رسوم مواقف السيارات.",
+    "aspect": [
+      "مواقف السيارات"
+    ],
+    "category": [
+      "facilities prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "المترو قريب أيضًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الإفطار متنوعًا ولذيذًا.",
+    "aspect": [
+      "الإفطار"
+    ],
+    "category": [
+      "food_drinks style_options"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بخلاف ذلك ليس لدي سوى الثناء على هذا الفندق المريح للغاية الفندق!",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا يوجد حوض استحمام ساخن، اعتقدت أنه يوجد",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "room_amenities design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "الغرف صغيرة ولكنها نظيفة.",
+    "aspect": [
+      "الغرف",
+      "الغرف"
+    ],
+    "category": [
+      "rooms design_features",
+      "rooms cleanliness"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "يمكنك رؤية المحيط من كل غرفة، وكان كبير الخدم رائعًا، وفي حين لم يكن الموظفين الأكثر كفاءة في العالم، إلا أن جهودهم ولطفهم يعوضان عن ذلك.",
+    "aspect": [
+      "غرفة",
+      "كبير الخدم",
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "rooms design_features",
+      "polarity positive",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نعتقد أنهم يلبيون احتياجات سوق المثليين، في حين أن هذا لا يزعجنا على الإطلاق، فقد وجدنا أن المواد الإباحية الصريحة للمثليين المتروكة في المناطق المشتركة مسيئة وأضفت على الفندق عنصرًا بغيضًا.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الموظفين يكرهون الأمريكان!",
+    "aspect": [
+      "الموظفين"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت الغرفة البيضاء صغيرة / ضيقة بعض الشيء، وقد تم تجديدها بشكل جيد للغاية، مع إطلالة رائعة تمامًا على الشاطئ.",
+    "aspect": [
+      "البيضاء",
+      "NULL"
+    ],
+    "category": [
+      "rooms design_features",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "على الرغم من أنها ليست رخيصة الثمن إلا أنها تستحق الزيارة.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "ليس لدي أي شكاوى وأود أن أوصي بشدة بـ بوسطن بارك بلازا.",
+    "aspect": [
+      "بوسطن بارك بلازا"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ساهم سوء الموقع، والإهمال الموظفين، والمطعم الذي يشبه مقهى عسكري أكثر من كونه مطعم فندق، في خلق تجربة فندقية لا تنسى على الإطلاق.",
+    "aspect": [
+      "الموقع",
+      "الموظفين"
+    ],
+    "category": [
+      "location general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "سأعود مرة أخرى فقط إذا تعثرت.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel miscellaneous"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد ساعدوني في العثور على فندق آخر لقضاء الليلة (كانت العديد من  الفنادق ممتلئة في تلك الليلة) ولكن لا أعتقد أنني سأحجز هذا  الفندق مرة أخرى لإقامتي القادمة في برشلونة.",
+    "aspect": [
+      "NULL",
+      "فندق"
+    ],
+    "category": [
+      "service general",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كان الموظفون وقحين، وحاقدين، وبذلوا قصارى جهدهم لجعل إقامتي غير سارة.",
+    "aspect": [
+      "الموظفون",
+      "الموظفون"
+    ],
+    "category": [
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "ممتاز الموقع على مسافة قريبة من محطة القطار ومواقف السيارات الخاصة بالفندق (سعر يومي معقول 13.00 دولارًا أمريكيًا).",
+    "aspect": [
+      "الموقع",
+      "NULL"
+    ],
+    "category": [
+      "location general",
+      "facilities prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "من حيث الموقع، يحتوي الفندق على الكثير من المقاهي والمطاعم القريبة بالإضافة إلى بعض الحلويات الممتازة.",
+    "aspect": [
+      "من حيث الموقع"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "رائع لقد استخدمت شركتنا فندق مايكل أنجلو لعقد اجتماع عمل مع 16 مشاركًا.",
+    "aspect": [
+      "فندق مايكل أنجلو"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "أخطط للبقاء هنا مرة أخرى في رحلات العودة إلى نيويورك.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "وجبات الإفطار رائعة مع مجموعة واسعة من الخيارات من الطعام القاري والإنجليزي.",
+    "aspect": [
+      "وجبات الإفطار",
+      "NULL"
+    ],
+    "category": [
+      "food_drinks quality",
+      "food_drinks style_options"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "وسيتم تصحيح ذلك، الإفطار كان رائعًا مع الكثير من الاختيارات.",
+    "aspect": [
+      "الإفطار",
+      "الإفطار"
+    ],
+    "category": [
+      "food_drinks quality",
+      "food_drinks style_options"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لا تفعل ذلك إلا إذا كان لديك اثنان، ولا تبقى هنا إلا إذا كان عليك ذلك.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "جميل حقًا فندق، مع مرافق رائعة إذا لزم الأمر.",
+    "aspect": [
+      "فندق",
+      "مرافق"
+    ],
+    "category": [
+      "hotel general",
+      "facilities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "لقد قضينا ليلتين هنا في نهاية الأسبوع الماضي وكان المكان على مستوى جميع التقييمات الإيجابية لهذا الموقع.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد وقعنا في حب فلورنسا وأيضًا في حب هذا الفندق الذي، بالنسبة لنا، جسد قلب هذه المدينة الجميلة بأناقتها المريحة وروحها الدافئة.",
+    "aspect": [
+      "الفندق"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "تم ترقية الغرفة  المخصصة لنا في الأصل (مجانًا) بسبب سوء تفاهم حول السرير المتاح للشخص الثالث الذي يقيم معنا.",
+    "aspect": [
+      "الغرفة"
+    ],
+    "category": [
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الفندق صغير لكنه يبدو جديدًا بالنسبة لنا.",
+    "aspect": [
+      "الفندق",
+      "الفندق"
+    ],
+    "category": [
+      "hotel design_features",
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "إقامة بأسعار معقولة جدًا - أوصي بها لأي شخص!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel prices"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لكن بشكل عام كان يوم الذكرى رائعًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "كان الإفطار لطيفًا وكان البار في مقدمة الفندق يتمتع بأجواء لطيفة.",
+    "aspect": [
+      "البار"
+    ],
+    "category": [
+      "facilities comfort"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "نود زيارتكم مرة أخرى في أقرب وقت ممكن! شكرًا جزيلاً للفريق بأكمله!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد قضينا يومًا على الشاطئ في فندقهم التابع La Concha، والذي كان ممتازًا.",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "قيمة جيدة والموقع قضيت 3 ليالٍ (110 دولارًا في الليلة) في Ilima في ديسمبر 2005.",
+    "aspect": [
+      "Ilima",
+      "الموقع"
+    ],
+    "category": [
+      "hotel prices",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "كانت الغرف رائعة مع جميع وسائل الراحة.",
+    "aspect": [
+      "الغرف",
+      "NULL"
+    ],
+    "category": [
+      "rooms design_features",
+      "room_amenities general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "لقد قضيت أنا وأصدقائي أسبوعًا في ماريوت في سان خوان وأحببنا ذلك المكان !!",
+    "aspect": [
+      "ماريوت في سان خوان"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "الفندق مستوحى من شمال إفريقيا ويعمل بشكل كامل، يبدو أن الموظفين الودودين واليقظين الموظفين يهتمون برفاهيتك ولا تشعر وكأنك رقم شركة.",
+    "aspect": [
+      "الفندق",
+      "الموظفين",
+      "الموظفين"
+    ],
+    "category": [
+      "hotel design_features",
+      "service general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "بالتأكيد سأبقى هناك مرة أخرى!",
+    "aspect": [
+      "NULL"
+    ],
+    "category": [
+      "hotel general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "تجربة لطيفة وسعر لطيف وإقامة ممتازة، على الرغم من أن الصالة الخدمة كانت فظيعة. . .",
+    "aspect": [
+      "NULL",
+      "NULL",
+      "NULL",
+      "الخدمة"
+    ],
+    "category": [
+      "hotel comfort",
+      "hotel prices",
+      "hotel general",
+      "service general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit",
+      "implicit",
+      "explicit"
+    ]
+  },
+  {
+    "sentence": "قديم وصغير",
+    "aspect": [
+      "NULL",
+      "NULL"
+    ],
+    "category": [
+      "hotel design_features",
+      "hotel design_features"
+    ],
+    "domain": "hotel",
+    "type": [
+      "implicit",
+      "implicit"
+    ]
+  },
+  {
+    "sentence": "بئر يقع في منطقة Mitte (برلين الشرقية سابقًا)، بالقرب من خطوط U - Bahn والترام.",
+    "aspect": [
+      "يقع",
+      "يقع"
+    ],
+    "category": [
+      "location general",
+      "location general"
+    ],
+    "domain": "hotel",
+    "type": [
+      "explicit",
+      "explicit"
+    ]
+  }
+]

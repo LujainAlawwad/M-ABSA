@@ -1,0 +1,337 @@
+﻿sentence,aspect,category,domain,type
+‎إنه يغطي جميع الأساسيات لمساعدتك على البدء في تطوير الويب بأساس متين.,NULL,course quality,coursera,implicit
+‎لدي تعليم سابق في البرمجة.,NULL,NULL,coursera,implicit
+‎أناممتنلـالبروفيسورراجوكورسيرا،لتوفيرهذهالتجربةالرائعة.,البروفيسور راج,faculty general,coursera,explicit
+‎يقومالمعلمغالبًابمناقشةالصيغةالإحصائيةشفهيًامنخلالبضعنقاطعلىشريحةمعالتركيزعلىنفسه.,المعلم | شريحة,faculty general | presentation quality,coursera,explicit | explicit
+‎وبالإضافةإلىذلك،تمكنتمنمتابعةالمحتوىفيالدورةبسهولة.,المحتوى,material comprehensiveness,coursera,explicit
+‎جيدالدورةفيالمجمل،تعلمتالكثيرواستمتعتبه،لكنهيحتاجإلىالتحديثوالتصحيح(بعضأجزاءالكودلاتعملكماكانتعندماتمإنتاجالدورة،وهوماقديكونمربكًاللغاية).,الدورة | الدورة | الدورة | الدورة | الدورة,course general | course quality | course general | course quality | course quality,coursera,explicit | explicit | explicit | explicit | explicit
+‎كانمنالمفيدتصحيحالأخطاءفيتصحيحالاختباراتالقصيرةحيثتمالإشارةإليهاوالاعترافبهامنذأشهر.,الاختبارات القصيرة,faculty response,coursera,explicit
+‎مُصمم بشكل جيد للغاية، ومُنفذ بشكل رائع.,NULL,NULL,coursera,implicit
+‎باختصارجيددورةمعأمثلةمثيرةللاهتماممنالأستاذ.,دورة | الأستاذ,course general | faculty relatability,coursera,explicit | explicit
+‎إنها تبدو متحمسة لتقديم فكرتها وحكمتها.,NULL,faculty general,coursera,implicit
+‎منالصعبالفشلفيالدورةحيثأنالمطلوبهوالحدالأدنىفقط.,الدورة,course general,coursera,explicit
+‎أوصي بهذا حقًا لأي شخص يريد أن يتعلم المزيد بالتفصيل عن نظام الأبجدية، والمفردات الجديدة، والوقت، وبنية الجملة، والعد، والوقت، والمزيد!,NULL,course general,coursera,implicit
+‎موضعتقديركبيرالدكتورةباربراأوكلي،الدكتورتيرينسسيجنوفسكي،وكلالفريق.,الدكتور تيرينس سيجنوفسكي | الدكتورة باربرا أوكلي,faculty general | faculty general,coursera,explicit | explicit
+‎ممتاز دورة مفيد جداً وخطواته واضحة جداً.,دورة | NULL | NULL,course general | material quality | material quality,coursera,explicit | implicit | implicit
+‎مهنية، مبنية على الأدلة.,NULL | NULL,course quality | course quality,coursera,implicit | implicit
+‎أجبرني على الجلوس والتفكير .,NULL,assignments quality,coursera,implicit
+‎مدهشللغايةدورة.,دورة,course general,coursera,explicit
+‎لقد استمتعت بها تمامًا.,NULL,course general,coursera,implicit
+‎شكرًا,NULL,NULL,coursera,implicit
+‎يقدمالأساتذةدروسًامفيدةللغايةوموجزةمحاضراتفيديو،كماأنطرحالأسئلةوالاختباراتمباشرةبعدالمحاضراتمفيدجدًافيالبقاءمنخرطًادونإهدارالكثيرمنوقتك.,محاضرات فيديو | محاضرات فيديو | NULL | NULL,presentation quality | presentation quality | assignments quality | assignments workload,coursera,explicit | explicit | implicit | implicit
+"‎علىالرغممنأنطريقةالتدريستبدو""غيررسمية""إلىحدكبير،إلاأنالمحتوىيبقيالطالببالتأكيدعلىأهبةالاستعداد.",المحتوى | المحتوى,presentation quality | presentation quality,coursera,explicit | explicit
+‎تم إنشاؤه بشكل احترافي للغاية!,NULL,course quality,coursera,implicit
+‎الموادالداعمةتبدومختارةبشكلجيدومفيدة.,المواد الداعمة | المواد الداعمة,material quality | material quality,coursera,explicit | explicit
+‎إن إقناع الشركات بزيادة الاستثمار في التسويق، والذي يمكن أن يكون بمثابة استراتيجية طويلة الأمد، قد لا يكون دائماً أمراً سهلاً.,NULL,NULL,coursera,implicit
+‎لقد رأيت هذه الدورة التدريبية موصى بها من قبل أحد المعلقين على أخبار الهاكر.,NULL,NULL,coursera,implicit
+‎أناممتنلـالأستاذعلىإنشاءوتقديمهذهالدورة.,الأستاذ | الأستاذ,faculty general | faculty comprehensiveness,coursera,explicit | explicit
+‎شكرا لكم يا شباب .,NULL,NULL,coursera,implicit
+‎تعتبر الدورة بمثابة مقدمة جيدة جدًا للعديد من المجالات المرتبطة بإنترنت الأشياء من منظور IBM. nodeRED، وPython على Raspberry Pi، وSenseHat، وnode.js، وما إلى ذلك، هي أدوات قوية جدًا.,الدورة,course general,coursera,explicit
+‎أناآسفأنأقولأنهذاالدورةمملحقًا،وقليلالمواردو,الدورة | الدورة,course general | course quality,coursera,explicit | explicit
+‎أنا آسف,NULL,NULL,coursera,implicit
+‎واحدةمنأفضلدوراتالتييمكنكأخذها.,دورات,course general,coursera,explicit
+‎المحتوىهوبالتأكيد5من5.,المحتوى,material quality,coursera,explicit
+‎أنا محترف وهدفي الوحيد هو كيفية تصميم موقع ويب يمكن الوصول إليه ولكنني ذهبت بعيدًا عن هدفي!,NULL,course general,coursera,implicit
+‎أنا سعيد جدًا لأنني قررت الانضمام إلى هذا وأكملته.,NULL,course general,coursera,implicit
+‎ولكنني لست متأكدًا من أن الأمر سهل للغاية أم لا.,NULL,assignments quality,coursera,implicit
+‎رائعدورةحولأساسياتالقانونالبيئيوالسياسة،سهلالمتابعةللغايةوممتعللجمهور.,دورة | دورة | دورة,course general | course comprehensiveness | course quality,coursera,explicit | explicit | explicit
+‎ممتازمحاضرة.,محاضرة,presentation quality,coursera,explicit
+‎نأمل أن يكون لدينا العديد من الدورات الأخرى مثل هذه الدورة على كورسيرا!,NULL,NULL,coursera,implicit
+‎فيها يشرحون المهن في مجال تحسين محركات البحث، والمشهد الحالي لتحسين محركات البحث، وبعض أساسيات تحسين محركات البحث.,NULL,course general,coursera,implicit
+"‎معهذه الدورة والكتاب""بايثونللمعلوماتية""تعلمتأساسياتبايثونبسرعةكبيرةودونالكثيرمنالألم.","الدور | الدور | ""بايثون للمعلوماتية"" | ""بايثون للمعلوماتية""",course general | course general | material quality | material quality,coursera,explicit | explicit | explicit | explicit
+‎تمتنظيمهابشكلجميل،معقدةولكنبسيطةفيالتنفيذ،نظرةثاقبةمذهلةإلىالتصويرالفوتوغرافيالأمريكي.,التصوير الفوتوغرافي الأمريكي | التصوير الفوتوغرافي الأمريكي | التصوير الفوتوغرافي الأمريكي | التصوير الفوتوغرافي الأمريكي,course quality | course quality | course general | course quality,coursera,explicit | explicit | explicit | explicit
+‎شكرا لمشاركتك معرفتك مع العالم.,NULL,faculty general,coursera,implicit
+‎هذا قادم من شخص واجه صعوبة في الذهاب إلى المدرسة، لذلك النتيجة جيدة جدًا.,NULL,course general,coursera,implicit
+‎الوصفات المقدمة سهلة الاستخدام أو التكيف، ولذيذة أيضًا!,NULL,course comprehensiveness,coursera,implicit
+‎إنه يسلم ما وعد به.,NULL,course general,coursera,implicit
+‎مقدمةجيدةدورةإلىحرفةرسمالحبكة.,دورة,course general,coursera,explicit
+‎شكرًا لك !,NULL,NULL,coursera,implicit
+‎فيمايتعلقبنظريةالهندسةالمعماريةالعامةللبرمجيات،فإنهذهالدورةدورةتعدبمثابةتجديدجيدللمعلوماتللشخصالذييعملبالفعلفيمجالالهندسةالمعماريةللبرمجيات.,دورة,course general,coursera,explicit
+‎هناكخياراتمنالدورةكلأسبوعحسباهتمامك.,دورة,course general,coursera,explicit
+‎منالرائعأنالدورةذاتيةالتعلم،حيثيمكننيالبدءفيالدورةعلىالفورلتعلمالأشياءالتيأحتاجهاعلىالفورفيعمليودروسي.,دورة | دورة | دورة | دورة,course general | course quality | course general | course relatability,coursera,explicit | explicit | explicit | explicit
+‎تعلم سعيد :),NULL,course general,coursera,implicit
+‎سيكونالتسليمأفضلبكثيرإذاوضعالمدربنفسهفيالخلفيةوتمإعادةتوجيهالتركيزعلىشرحالمعادلةالمطروحةعلىالسبورةالبيضاء.,المدرب,faculty general,coursera,explicit
+‎ويعمل جهاز التسوية التلقائي بشكل سيء حقًا,جهاز التسوية التلقائي,grades general,coursera,explicit
+‎بشكل عام كانت طريقة جيدة وأسرع للحصول على مقدمة حول HTML وJavascript.,NULL | NULL,course general | course general,coursera,implicit | implicit
+‎وضع بعض الأرقام على الشريحة دون أي توضيح لكيفية عملها.,الشريحة,presentation comprehensiveness,coursera,explicit
+‎أتمنى أن أقرأ لكم قريبًا الجزء الثاني من هذه الدورة، لأنني أود أن أفحص بعمق جوانب أخرى من المهام المختلفة.,NULL,NULL,coursera,implicit
+‎لا أعلم أين فشلت ولكنني فشلت في جميع الأسئلة.,NULL,NULL,coursera,implicit
+‎نظريات عظيمة .,NULL,course general,coursera,implicit
+‎فيبعضالأحيانكانتالكوميدياالخاصةبكفوقكلالتوقعات،ولكنفينهايةاليوم،كانتجيدةبالطبعوتعلمتمنهاالكثير.,بالطبع | بالطبع | NULL,course general | course general | faculty general,coursera,explicit | explicit | implicit
+‎لقد فتح عيني على كمية الأبحاث التي يتم إجراؤها لحماية جبالنا ونظمها البيئية.,NULL,course general,coursera,implicit
+‎مع تحياتي، إدواردو,NULL,NULL,coursera,implicit
+‎رائعدورة!,دورة,course general,coursera,explicit
+‎لقد بذلت الكثير من الجهد، ثم تعلمت الكثير.,NULL,course general,coursera,implicit
+‎لقد ساعدني أيضًا في تطوير نظرة عامة أساسية لتعلم المزيد.,NULL,course general,coursera,implicit
+‎كانينبغيتلخيصنصفهذادورةأواستبعاده.,دورة,course quality,coursera,explicit
+‎مفيدةللغايةومثيرةللاهتمامالدورة!,الدورة | الدورة,course general | course quality,coursera,explicit | explicit
+‎شكرًالفريقكورسيراوالتدريسهيئةالتدريس.,هيئة التدريس,faculty general,coursera,explicit
+‎لقد استمتعت بها حقا .,NULL,course general,coursera,implicit
+‎لأننيقرأتالكثيرعنالموضوعسابقًا،فإنمعظمالأفكارلمتكنجديدةبالنسبةلي،ولكنبعضهاكانجديدًابالتأكيد،والعرضالتقديميشرحكلشيءبشكلموجزللغايةوربطكلشيءمعًاببراعة.,العرض التقديمي | العرض التقديمي,presentation comprehensiveness | presentation quality,coursera,explicit | explicit
+‎لم تكن أوصاف التطبيقات رقم 1 ورقم 2 واضحة جدًا بالنسبة لي في البداية (ربما لأن اللغة الإنجليزية ليست لغتي الأولى).,NULL,course comprehensiveness,coursera,implicit
+‎المدربةتتمتعبمعرفةفائقةوتشرحالمفاهيمبوضوحشديد،وفيأغلبالأحيان،تكونمليئةبالمرح.,المدربة | المدربة | المدربة,faculty general | faculty comprehensiveness | faculty general,coursera,explicit | explicit | explicit
+‎أنا أحب كورسيرا!,NULL,course general,coursera,implicit
+‎وجدت هذه الدورة ممتازة.,الدورة,course general,coursera,explicit
+‎لكن أعتقد أنه عندما نحصل عليه ونتمكن من تطبيقه في أعمالي في الطبيعة سيكون أفضل من .,NULL,NULL,coursera,implicit
+‎د.أوكليتجعلمنالسهلمتابعةجميعالمعلوماتوطريقتهاتشجععلىإنهاءالدورة.,د. أوكلي | د. أوكلي,faculty comprehensiveness | faculty general,coursera,explicit | explicit
+‎إذا كنت مهتمًا بمشاهدة الكسوف، فأنت بحاجة إلى هذه الفئة.,NULL,NULL,coursera,implicit
+‎نظاممراجعةالأقرانيمكّنكمنمعرفةمايبحثعنهالمصححونبالضبط.,نظام مراجعة الأقران,course general,coursera,explicit
+‎شكرًا لك .,NULL,NULL,coursera,implicit
+‎غازات الاحتباس الحراري كما تم التصديق على اتفاقية باريس مؤخرًا.,NULL,NULL,coursera,implicit
+‎حسنًا، أنت تعرف كيفية التقاط بعض الصور الجيدة، ولكن سيكون من المثير للاهتمام إذا تمكنت من تحرير بعض الصور للتأكيد على محتواها أو تغييره.,NULL,NULL,coursera,implicit
+‎مقدمة ممتازة للموضوع من أحد أهم الباحثين في هذا المجال.,NULL,course general,coursera,implicit
+‎دكتورتشاكهومدرسودودللغايةولطيف.,دكتور تشاك,faculty general,coursera,explicit
+‎تحتويالدورةعلىأمثلةرائعةولغةسهلةللغاية.,دورة | دورة,course quality | course quality,coursera,explicit | explicit
+‎انتقاديالصغير:فيبعضالأحيانكنتأتمنىوجودالمزيدمنالخياراتمقاطعالفيديوالتيتحتويعلىإثباتاتالصيغ.,مقاطع الفيديو,presentation quantity,coursera,explicit
+‎لاأوصيبهذاالدورةللمبرمجالمبتدئ،حيثأنالمفاهيمالتييغطيهاOderskiمعقدةإلىحدماوالواجباتالمنزليةليستبسيطة.,الدورة | المفاهيم | الواجبات المنزلية,course general | material quality | assignments quality,coursera,explicit | explicit | explicit
+‎لقدتعلمتبعضالأشياءالجديدة،ولكنبشكلعاملاأعتقدأننيحصلتعلىفهمالمفاهيمالأساسية.,NULL | المفاهيم الأساسية,course general | material comprehensiveness,coursera,implicit | explicit
+‎. ؟ الآن أنا أتعلم حقًا - لأول مرة في حياتي (وعمري 29 عامًا).,NULL,NULL,coursera,implicit
+‎شكرا لك على هذه الفرصة!,NULL,NULL,coursera,implicit
+‎رائع، سهل جدًا للمبتدئين.,NULL | NULL,course general | course general,coursera,implicit | implicit
+‎أنا أحب جامعة ديوك!,NULL,course general,coursera,implicit
+‎بشكلعام،الدورةذاتجودةأقلمنالدوراتالسابقةمنجريجورينورثكرافت.,دورة,course quality,coursera,explicit
+‎أنامختلطفيهذاالطبقة.,الطبقة,course general,coursera,explicit
+‎هذه الدورة ليست مخصصة للطلاب الذين يتغذون على الزجاجة.,الدورة,course general,coursera,explicit
+‎لقداستمتعتحقًابـالفصل.,الفصل,course general,coursera,explicit
+‎تعطيهذهالدورةدورةمقدمةجيدةحولكيفيةتطويرالتطبيق.,دورة,course general,coursera,explicit
+‎الإيجابيات:المعلمونمستعدونجيدًاللدورة!,المعلمون,faculty general,coursera,explicit
+‎أناراضٍجدًابشكلعامعنالدورة.,الدورة,course general,coursera,explicit
+‎يقدم هذا الدورة حول التغذية، بما في ذلك الخيارات العضوية / الشاملة، أفكارًا عملية وسهلة الاستخدام حول خيارات الأكل الصحية والممتعة ليس فقط للأطفال ولكن أيضًا للبالغين.,الدورة,course quality,coursera,explicit
+‎إنه مقدمة رائعة ونظرة عامة على التعلم الآلي.,NULL,course general,coursera,implicit
+‎بايثون هي لغة البرمجة الأولى بالنسبة لي.,NULL,NULL,coursera,implicit
+‎شكرًالكدكتورتشاك،أنتالأفضل!:),دكتور تشاك,faculty general,coursera,explicit
+‎لقد استمتعت بها حقا، حقا.,NULL,course general,coursera,implicit
+‎إنها أشياء صلبة مع خبرة عملية.,NULL,course general,coursera,implicit
+‎واضحة جدًا ومفيدة.,NULL | NULL,presentation comprehensiveness | presentation quality,coursera,implicit | implicit
+‎ليست مشكلة بالنسبة لشخص لا يعمل على الرغم من ذلك.,NULL,NULL,coursera,implicit
+‎شكرًا لك : ),NULL,NULL,coursera,implicit
+‎النهجالموضوعييعملبشكلجيدويتماختيارالفنانينبعنايةلإعطاءنظرةعامةواسعةللموضوع.,للموضوع | للموضوع,material quality | material quality,coursera,explicit | explicit
+‎يجب على الشخص المسؤول عن الدورة أن يتخذ الإجراءات التالية: 1) مواءمة معايير التصنيف مع تعليمات المهمة 2),NULL,NULL,coursera,implicit
+‎اقتراحي الوحيد هو استخدام لون مختلف بدلاً من الأبيض على النيون لرسومات السبورة لجعلها أسهل في الرؤية.,NULL,presentation quality,coursera,implicit
+‎أعتقدأنمتحفالفنالحديثاستخدموامواردهمبشكلجيد.,متحف الفن الحديث,course general,coursera,explicit
+‎وإلا فإنها مفيدة حقا.,NULL,course quality,coursera,implicit
+‎ستحصلالدورةعلىتقييمأعلىإذاركزتأكثرعلىالتطبيقاتالعملية،ولمتركزبشكلكبيرعلىالجبر.,دورة,material quality,coursera,explicit
+‎جميلجدًادورة!,دورة,course general,coursera,explicit
+‎إنه جهد رائع حقًا.,NULL,faculty general,coursera,implicit
+‎لقدأعجبنيهذاحقًاالدورة.,الدورة,course general,coursera,explicit
+‎أحب حضور الدورات التي يوجد فيها المتعة والشغف وهذا أمر معتاد جدًا معه.,NULL,faculty general,coursera,implicit
+‎لا تقتصر التغطية على قواعد البيانات وواجهات برمجة التطبيقات فحسب، بل تتطرق أيضًا إلى مصادقة المستخدم وما إلى ذلك.,NULL,NULL,coursera,implicit
+‎شكرا لك على الدورة .,NULL,NULL,coursera,implicit
+‎ساعدني في إعادة هيكلة تعلمي للغة.,NULL,course general,coursera,implicit
+‎الأستاذيعقوبتشايكينمنأفضلالمعلمين.,الأستاذ يعقوب تشايكين,faculty general,coursera,explicit
+‎شكرًا .,NULL,NULL,coursera,implicit
+‎شكر خاص لـ Coursera .,NULL,NULL,coursera,implicit
+‎أتوقعأنهبالنسبةلدورةتدريبيةشخصية،يقدمهذاالمدربملاحظاتفرديةتوفرهذاالمحتوى.,المدرب,faculty response,coursera,explicit
+‎دكتورسكونوسكيمتحمسجدًاأثناءتقديمالمعلوماتالتيجعلتنيمهتمًابالاستمرار,دكتور سكونوسكي,faculty general,coursera,explicit
+‎تحتاج إلى خلفية هندسية لمعرفة كيفية تفسير المعادلات بشكل كافٍ لإكمال مهام الترميز في Matlab.,NULL,course general,coursera,implicit
+‎تهاني !,NULL,NULL,coursera,implicit
+‎أستمتع حقًا بالدروس لأنها تُظهر لي الهيكل المهني لصناعة الأزياء واللاعبين الرئيسيين في مجال الرفاهية.,NULL | NULL,course general | course quality,coursera,implicit | implicit
+‎عظيمالدورةوعظيمالمعلم.,الدورة | المعلم,course general | faculty general,coursera,explicit | explicit
+‎ممتازدورة!!!,دورة,course general,coursera,explicit
+‎كنتأقضيوقتيكلهفيمشاهدةمقاطعالفيديومتسائلاًعنكيفيةحلبعضالمشكلاتفقطلأجدصيغةبدونأيتفسيرلمصدرها.,مقاطع الفيديو,presentation comprehensiveness,coursera,explicit
+‎ملحوظة :,NULL,NULL,coursera,implicit
+‎دكتورنجحريصجدًاعلىاستخداملغةبسيطةلشرحجميعالمفاهيم،ممايجعلهذهالفئةسهلةالمتابعةحقًا.,دكتور نج | دكتور نج,faculty comprehensiveness | faculty comprehensiveness,coursera,explicit | explicit
+‎يتمتع !,NULL,NULL,coursera,implicit
+‎المادةذاتجودةعالية.,المادة,material quality,coursera,explicit
+‎لقدوجدتالعرضالتقديميموجزًاوممتعًا.,العرض التقديمي | العرض التقديمي,presentation quality | presentation quality,coursera,explicit | explicit
+‎قديكونالأمرأكثرتحديًا،لكنهلايزالدورةممتعةومقدمةبشكلجيدومتوازنةدورةتفيدالمبتدئينوكذلكالمبتدئين.,دورة | دورة | دورة | دورة,course quality | course general | presentation quality | course general,coursera,explicit | explicit | explicit | explicit
+‎آمل أن أجد واحدة قريبا.,NULL,NULL,coursera,implicit
+‎لقداكتسبتأيضًاخبرةعمليةفيهذهالمفاهيمالصعبةمنخلالمهامبرمجةJava.,مهام برمجة Java,assignments quality,coursera,explicit
+‎بداية مذهلة، ولكن في النهاية كنت أواجه صعوبة في تركيز انتباهي في بعض الأحيان :),NULL | NULL,course general | course general,coursera,implicit | implicit
+‎أنا خريج كلية الطب ولدي اهتمام كبير بمرض السكري.,NULL,NULL,coursera,implicit
+‎لقد زاد اهتمامي بالدبلوماسية العالمية.,NULL,course general,coursera,implicit
+‎شكراجزيلالكعلىوضعهذهالدورةعلىالإنترنتوإنشاءكورسيرا!,الدورة,course general,coursera,explicit
+‎بالإضافة إلى ذلك، تعرفت على بعض الحقائق المهمة مثل قراءة ملصقات المعلومات الغذائية والتأثير الهائل للأطعمة المصنعة على صحتنا وبيئتنا.,NULL,NULL,coursera,implicit
+‎تستخدمالدورةOctave/Matlabلـتمارينالبرمجة،ولكننأملأنيغيروهاإلىPythonلأنهاأكثرملاءمةللمبتدئين.,تمارين البرمجة,assignments quality,coursera,explicit
+‎موصى به بشدة .,NULL,course general,coursera,implicit
+‎بالنسبةلي،مزيجلطيفحقًامن1.نظرةعامةنظريةعلىمفاهيمقاعدةالبياناتومعالجةالبيانات،وMapReduceوأهمالتطبيقاتللمفاهيمالمختلفة(قواعدبياناتSQLوNoSQL)،2.التطبيقالعمليلهذهالمفاهيمفيالعالمالحقيقيتمارينالبرمجة.,NULL | تمارين البرمجة,course general | assignments relatability,coursera,implicit | explicit
+‎ممتازدورة:غيرممل.,دورة | دورة,course general | course general,coursera,explicit | explicit
+‎مشروعالدورةالنهائيةيشعرالمرءمرةأخرىأنهتمإنجازهعلىعجلوبدونمراجعةأخرى:يجبالتحققمنمجموعةالبياناتالمرسلةتلقائيًا.,مشروع الدورة النهائية,assignments quality,coursera,explicit
+‎لقداستمتعتبمدىشراسةالإيطاليينالذينيحملونعلامةصنعفيإيطالياوفهمتالمزيدعنهذاالمفهومبفضلالتوضيحاتالواردةفيمقاطعالفيديو.,مقاطع الفيديو | NULL,presentation comprehensiveness | course general,coursera,explicit | implicit
+‎إن أدوات المعلوماتية الحيوية التي تمت مناقشتها في هذه الدورة مفيدة للغاية وموضحة بطريقة واضحة.,الدورة | الدورة,course general | presentation comprehensiveness,coursera,explicit | explicit
+‎الاختباريثيرقلقيدائمًا،لكنالنصيحةهنامنطقيةللغاية،مثلالحصولعلىنومجيدفيالليلةالسابقة!!,الاختبار,assignments quality,coursera,explicit
+‎كانتبعضالأنشطةمتكررةولكنأعتقدأنمهارةالكتابةهينفسهاولكنكانهناكشعوربأنالدورةتتلاشىفيالنهايةمعخطاباقتراحإلىناشرمعتوفيرالقليلجدًامنالموادالنموذجيةللمساعدة.,كانت بعض الأنشطة | الدورة,assignments quality | course general,coursera,explicit | explicit
+‎كانمنالمفيدوجودالمزيدمنالأمثلةفيمحاضراتالفيديو.,محاضرات الفيديو,material quantity,coursera,explicit
+‎محاضراتسريعةوسهلةالفهمولكنهامعذلكمثيرةللاهتمام.,محاضرات | محاضرات | محاضرات,presentation quality | presentation comprehensiveness | presentation quality,coursera,explicit | explicit | explicit
+‎لقدأعجبتنيبشكلخاصمهامالبرمجة،وعملالتصحيحالتلقائيبشكلجيدللغاية.,مهام البرمجة | التصحيح التلقائي,assignments quality | grades general,coursera,explicit | explicit
+‎قديكونهذارائعًادورةلأولئكالذينليسلديهمأيخلفيةسابقةفيمجالالتمويل/الأعمال.,دورة,course general,coursera,explicit
+‎حسنًا،بعددورةالانحدار،والتيوجدتهامثيرةللاهتمامبالفعل،فإندورةالتصنيفلاتبدوجيدةجدًا.,التصنيف,course general,coursera,explicit
+‎والآن، بعد مرور 15 عامًا، أعتقد أنه حان الوقت لإظهار ذلك للعالم,NULL,NULL,coursera,implicit
+‎إذا كنت من كبار المسؤولين في وكالة المخابرات المركزية، فاخترها.,NULL,NULL,coursera,implicit
+‎شكرًا لك !,NULL,NULL,coursera,implicit
+‎لكنني لا أشعر أن هذا يساعدني على أن أصبح فعالاً في استخدامها.,NULL,course general,coursera,implicit
+‎إنهحقًامنهجيومتكاملدورةيقدمكيفيةالتعلمبشكلأكثرفعاليةوكفاءة.,دورة,course quality,coursera,explicit
+‎رائعدورةأنصحبهلكلمنيريدتعلمكيفيةعملالدروع،وكيفيةالاتصالبالإنترنتباستخدامArduinoوحتىأساسياتArduino.,دورة | دورة,course general | course general,coursera,explicit | explicit
+‎إذا استطاع المقدمون تقديم المزيد من الأمثلة العملية التي ستساعد في تذكر كيف وأين يمكننا تطبيق هذه السيناريوهات.,NULL,NULL,coursera,implicit
+‎لقدكانمندواعيسروريالتعلممنأندرونج.,أندرو نج,faculty general,coursera,explicit
+‎مشكلتي الوحيدة كانت مع التمرين الأخير لأنني لم أفهم بشكل واضح كيفية جعل البرنامج يكتشف الأرقام الدنيا والقصوى.,التمرين,assignments comprehensiveness,coursera,explicit
+"‎في بعض الأحيان، كانت الأمور تسير بسرعة كبيرة وكنت أنتقل بسرعة من Unity إلى Coursera للضغط على زر ""الإيقاف المؤقت"" لإعطائي الوقت الكافي للحاق بالركب.",NULL,course quality,coursera,implicit
+‎مفيد جدًا، شكرًا للسيدة.,NULL,faculty general,coursera,implicit
+‎يبدوأنالأسبوعالرابعيحتويعلىموادأكثرمادةبشكلغيرمتناسبمنالأسابيعالسابقة،كمالوأنالمؤلفينحاولوا,مادة,material quantity,coursera,explicit
+‎لكن الأشياء التي تعلمتها مفيدة وأنا متأكد تمامًا من أن ما تعلمته هنا يمكنني استخدامه في عملي كمهندس برمجيات.,NULL,course general,coursera,implicit
+‎هذا هراء بالنسبة لدورة التمويل، ولكن لا يزال.,NULL,NULL,coursera,implicit
+‎أتمنى أن تواصل الأستاذة بروك عملها.,NULL,NULL,coursera,implicit
+‎جميعالوحداتالأخرىوحداتISBأفضلبكثيرفيدورةERA،باستثناءهذهالوحدة.,وحدات ISB,course general,coursera,explicit
+‎أنا في الدورة الثالثة في السلسلة.,NULL,NULL,coursera,implicit
+‎لمأتوقعهذهالقفزةفيالصعوبةواستمتعتكثيرًابالدورةولكنالمشروعالنهائيكانمجردصراع.,دورة | المشروع النهائي | دورة,course general | polarity negative | course quality,coursera,explicit | explicit | explicit
+"‎سأقوم بمراجعة هذه الدورة بقدر استطاعتي على مدار الأشهر حتى أتمكن من استيعاب تلك ""الأجزاء"" في ذهني.",NULL,NULL,coursera,implicit
+‎إنه لا يجيب على كل سؤال أو يتناول كل مفهوم تحتاج إلى معرفته لإدارة شركة كبيرة، ولكنه نظرة عامة رائعة على أساليب استراتيجية الأعمال الماضية والحالية، وهو ذو قيمة لأي فرد لديه عقلية تجارية.,NULL | NULL | NULL,course general | course general | course general,coursera,implicit | implicit | implicit
+‎الجانب الوحيد الذي أود تغييره هو المستوى الفني لبعض المحاضرات  في بعض الأحيان تكون سهلة للغاية، ويتم استخدام الكثير من الوقت لشرح أشياء أساسية للغاية.,المحاضرات | المحاضرات,presentation comprehensiveness | presentation quality,coursera,explicit | explicit
+‎شكرا لك على إنشائه!,NULL,NULL,coursera,implicit
+‎بشكلعام،تتناولهذهالدورةدورةكلالمجالاتالرئيسيةفيعلمالمعلوماتالحيويةالتييجبعلىأيطالبيدخلهذاالمجالأنيعرفها.,دورة,course general,coursera,explicit
+‎في حالتي كان هدفي هو مواكبة آخر التطورات في هذا المجال بعد دراستي الأخيرة لهذا المجال في أوائل التسعينيات.,NULL,NULL,coursera,implicit
+‎عظيمدورة.,دورة,course general,coursera,explicit
+‎أشعر الآن بثقة أكبر في التعامل مع اضطراب فرط الحركة ونقص الانتباه في الفصل الدراسي.,NULL,course general,coursera,implicit
+‎لقد عرفت بالفعل معظم الأشياء!,NULL,NULL,coursera,implicit
+‎الأستاذيشرحالمفاهيموراءسببحاجتكإلىاستخداممكوناتمعينةبدلاًمنمجردإعطاءقائمةبالأشياءالتييجبمطابقتهالتكرارالمشاريع.,الأستاذ,faculty general,coursera,explicit
+‎حجرالأساسرائع.,حجر الأساس,assignments quality,coursera,explicit
+‎من فضلك، عرض تكملة.,NULL,NULL,coursera,implicit
+‎إن تفسيراته على مقاطع الفيديو رائعة وقد علمتني حقًا ليس فقط كيفية البرمجة، بل كيفية القيام بذلك بأكبر قدر ممكن من الكفاءة.,NULL | NULL,faculty comprehensiveness | faculty comprehensiveness,coursera,implicit | implicit
+‎شرح رائع .,NULL,course comprehensiveness,coursera,implicit
+‎إذاكنتجديدًاتمامًافيمجالالتعلمالآلي،فقدتجدبعضالقيمةفيهذهالدورةالدورةالتدريبية.,الدورة التدريبية,course value,coursera,explicit
+‎من الأفضل استخدام تحميل الملف مع المقطع المطلوب.,NULL,NULL,coursera,implicit
+‎إذا كنت لا تعرف R studio أو برمجة R، فإن هذه الدورة ستكون صعبة جدًا عليك,الدورة,course general,coursera,explicit
+‎اختبارسهلللغايةبالرغممنذلك.,اختبار,assignments quality,coursera,explicit
+"‎أي أنه في JSON بالنسبة لي كان من المربك سماع ""قائمة القواميس"".",NULL,course comprehensiveness,coursera,implicit
+‎ربمايمكنإضافةبعضالمحاضراتاختيارية,اختيارية,material quantity,coursera,explicit
+‎يشرح الأمور بشكل جيد وبطريقة موجزة، وفي بعض الأحيان باستخدام الرسوم البيانية البسيطة.,NULL | NULL,faculty comprehensiveness | faculty comprehensiveness,coursera,implicit | implicit
+‎لطيف وتحدي!,NULL | NULL,course general | course quality,coursera,implicit | implicit
+‎مرةأخرىجيدةأخرىدورةمنقبلأحدمدرسيك،السيدسيفرانس.,دورة | السيد سيفرانس,course general | faculty general,coursera,explicit | explicit
+‎يحتوي على معلومات ممتازة وموجزة للغاية عن الكسوف والشمس.,NULL | NULL,course quality | course quality,coursera,implicit | implicit
+‎لقدقدمتمايكفيأمثلةحتىأتمكنمنالرجوعإليهالاحقًاإذاكنتفيحاجةإليها،ولكنليسكثيرًاحتىلايبطئوتيرةالفصل.,أمثلة | أمثلة | NULL,material quantity | material quantity | material quality,coursera,explicit | explicit | implicit
+‎مقدمةجيدةجدًالـبايثون.,بايثون,course general,coursera,explicit
+‎لقد وجدت الأمر مثيرًا للاهتمام للغاية وأنا أتطلع إلى مواصلة رحلة البيانات الضخمة.,NULL,course general,coursera,implicit
+‎إضافة مفيدة جدًا لقاعدة المعرفة التسويقية وصندوق الأدوات الخاص بي.,NULL,course general,coursera,implicit
+‎مدخلجيدللمستوىدورةفيالفنالحديثوالمعاصر.,دورة,course general,coursera,explicit
+‎ربما بالنسبة للمبتدئين، لا يمكن أن يكون المشروع صعبًا للغاية.,NULL,NULL,coursera,implicit
+‎تعتبررسومهاالدراسيةباهظةالثمنقليلاًمقارنةبالدوراتالأخرىالدوراتمثلعلمالبيانات(جونزهوبكنز)وحياةالبيانات(HarvardX_edx).,الدورات,course value,coursera,explicit
+‎ممتازمحاضراتوالبروفيسورراجرائعبنفسالقدر.,محاضرات | البروفيسور راج,presentation quality | faculty general,coursera,explicit | explicit
+‎كماأنهاتشجعكعلىالتفكيربشكلمتكررطوالالدورةحتىتفكرفيطرقلتطبيقالمفاهيمعلىتجاربكالخاصة.,دورة,course quality,coursera,explicit
+‎الجدول الزمني صعب، ولكن يمكنك التبديل بسهولة إلى الجلسة التالية للحصول على مزيد من الوقت.,NULL | NULL,course workload | course workload,coursera,implicit | implicit
+‎أوصي به 100٪!,NULL,course general,coursera,implicit
+‎ممتازدورة!,دورة,course general,coursera,explicit
+‎إذالمتتمكنمنإدارةهذهالدورةالدورة،فلاتشعربأنكلستذكيًابمايكفيلإكمالها؛بلعلىالعكس،ليسلديكالمتطلباتالأساسيةالمناسبة.,الدورة,course general,coursera,explicit
+‎إذا كنت تريد التعرف على نظرية الخرائط ولماذا تعتبر الخرائط مثيرة للاهتمام ومهمة، فأنت بحاجة إلى التحقق من هذه الدورة.,الدورة,course general,coursera,explicit
+‎كانت الاختبارات صعبة وتم اختبارها جيدًا في مادة الدورة.,الاختبارات | الاختبارات,assignments quality | assignments quality,coursera,explicit | explicit
+‎علىالرغممنأننيشخصياًلديخلفيةكميةمتقدمة،إلاأننيلاأزالأجدأنهناكبعضالدروسالمستفادةمنهذاالفصل.,الفصل,course quality,coursera,explicit
+‎يركز بشكل أساسي على تحليل البيانات في Excel بدلاً من تعليمك جميع وظائف Excel.,NULL,course general,coursera,implicit
+‎أقدرذلك،ولكنيبدوأنهناكرسومًايتمفرضهاللحصولعلىالشهادةبعدإكمالالدورة:(.,دورة,course general,coursera,explicit
+‎عندما يكون الهيكل والدلالات ضروريين، فإن النص داخل العلامة ليس كذلك، كما أن التخمين بوجود مسافة بين العناصر غير مقبول أيضًا.,NULL,NULL,coursera,implicit
+‎لقد أشار لي هذا الدورة إلى مدى أهمية الأكل الصحي ومدى عدم إمكانية الاستغناء عنه أثناء نمو الأطفال وتطورهم.,الدورة,course general,coursera,explicit
+‎لقدقمتبهذهالدورةدورةالعامالماضي،وأعتبرهامنبينأفضلالدوراتالتيرأيتها.,دورة,course general,coursera,explicit
+‎لا أستطيع الانتظار لاستخدامه في عملي! : ),NULL,NULL,coursera,implicit
+‎هذههيالدورةالأولىدورةعبرالإنترنتالتيأتناولهافيالموسيقىويجبأنأقولأنهاكانترائعةحقًا.,دورة عبر الإنترنت,course general,coursera,explicit
+‎لقدكانتدورةجميلةجدًا.,دورة,course general,coursera,explicit
+‎وكانالمدرسالبروفيسورأندرونجرائعًا.,البروفيسور أندرو نج,faculty general,coursera,explicit
+‎أندرويشرحكلشيءبوضوحوبتفاصيلكافيةلكييفهمهاأيشخص.,أندرو | أندرو,faculty general | faculty general,coursera,explicit | explicit
+‎لقد أحببت كل لحظة فيه والآن أنا متأثر لأنه انتهى.,NULL,course general,coursera,implicit
+‎لقدأكملالعديدمنالأبطالالجددهذهالدورة.,دورة,course general,coursera,explicit
+‎يعتبر,NULL,NULL,coursera,implicit
+‎مدروسة جيدًا وتم تقديمها خطوة بخطوة.,NULL,course general,coursera,implicit
+‎نصائحعامةجدًاعلىالرغممنأنالمقابلاتمعكتابالأطفالكانتمفيدةومفيدة.,المقابلات | المقابلات | NULL,material quality | material quality | material quality,coursera,explicit | explicit | implicit
+‎لم أتمكن من شراء الدورة التدريبية ولكنني قمت بكل الواجبات واتبعت المحاضرات والتعليمات.,NULL,NULL,coursera,implicit
+‎رائعدورةللحصولعلىصورةأساسيةعنماهيةالبرمجة.,دورة,course general,coursera,explicit
+‎لقداستمتعتحقًابالدورة.,دورة,course general,coursera,explicit
+‎أعتقد أنني سأفعل ذلك مرة أخرى وأستخرج المزيد الآن بعد أن مررت به مرة واحدة.,NULL,NULL,coursera,implicit
+‎كان بإمكاني تعلم المفاهيم بشكل جيد للغاية وبالطبع كان عليّ البحث على جوجل لتجديد معلوماتي، ولكنها منظمة بشكل جيد وتم تجميعها بطريقة يمكننا من خلالها التعلم بشكل أسهل وأسرع.,NULL,NULL,coursera,implicit
+‎لايزاللديالعديدمنالأسئلةالتيلمتتمالإجابةعليهاوالمنتدىغيرنشطللغاية.,المنتدى | المنتدى,faculty response | faculty response,coursera,explicit | explicit
+‎بالإضافة إلى ذلك، فقد قاموا بعمل جيد جدًا في اختيار الموضوعات الأساسية في OOP.,NULL,course general,coursera,implicit
+‎لم يكن هذا ما كنت أتوقعه عندما التحقت، ولكنني استمتعت به تمامًا.,NULL,course general,coursera,implicit
+‎كانتالمقابلاتمعالباحثينوالمحترفينمنجامعاتمختلفة،وحديقةكنداوماإلىذلك،أدواتتعليميةرائعة.,المقابلات,presentation relatability,coursera,explicit
+‎واحدةمنأفضلالدوراتالتيأخذتهاعلىالإطلاق.,الدورات,course general,coursera,explicit
+‎أعرف هذا ولكن المثال المحدد يجسد الرؤية لاستخدامه بشكل أفضل في مواقف أخرى.,NULL,NULL,coursera,implicit
+‎بسيطة بشكل مدهش ولكنها مليئة بالمعلومات!,NULL,course general,coursera,implicit
+‎لماذا لم يعلموني ذلك في المدرسة .,NULL,NULL,coursera,implicit
+‎يتم تقديم الدورة بطريقة بسيطة وسهلة المتابعة وبتعليمات واضحة.,الدورة | الدورة,course quality | course comprehensiveness,coursera,explicit | explicit
+‎دكتورتشاكرائعوممتعللغاية.,دكتور تشاك | دكتور تشاك,faculty general | faculty response,coursera,explicit | explicit
+‎أتمنى أن يقوم Coursera بتحسين موقفه أكثر في المستقبل.,NULL,NULL,coursera,implicit
+‎لقد ساعدني هذا الدورة على معرفة نفسي بشكل أفضل، وفهم الآخرين، والحالة الإنسانية بشكل عام.,الدورة,course general,coursera,explicit
+‎ممتازدورة،تدريسجيدمنقبلالمدربين.,دورة | المدربين,course general | faculty general,coursera,explicit | explicit
+‎ربماسأقومبأخذالدورةمرةأخرى.,دورة,course general,coursera,explicit
+‎حسنًا، لأنه يمنحك مستوى عميقًا من الفهم وراء الأسس العددية لخوارزميات التعلم الآلي الأساسية.,NULL,course comprehensiveness,coursera,implicit
+‎دورةممتعةللغايةدورة،استمتعتبهاطوالالوقت،وهيتحفزالفكروتخلقالكثيرمنالوعيالذاتي.,دورة | دورة | دورة | دورة,course quality | course general | course quality | course quality,coursera,explicit | explicit | explicit | explicit
+‎رائعالموقع!,الموقع,material quality,coursera,explicit
+‎أنا متحمسة جدًا ونشيطة!,NULL,course general,coursera,implicit
+‎دورةكاملةتمامًادورةتدرسكلمايتعلقبشركاتالفخامة،ولكنبشكلأساسيعنالموضة.,دورة,course general,coursera,explicit
+‎هناك أيضًا تناقض طفيف في التعليمات بين وصف المهمة ووصف المراجعة.,NULL,course quality,coursera,implicit
+‎لقد استمتعت حقًا بالمحتوى وتعلمت الكثير.,المحتوى | المحتوى,material quality | material comprehensiveness,coursera,explicit | explicit
+‎نظرة عامة واضحة وعملية ومقدمة بشكل جيد لمجال التسويق الرقمي، مع التركيز على تكافؤ الفرص: يبذل كيفن جهدًا لتوفير الموارد والأدوات المجانية حتى يتمكن أي مسوق من استخدام قوة التحليلات الرقمية دون عوائق بسبب قيود الموارد.,NULL | NULL | NULL | كيفن,presentation comprehensiveness | presentation relatability | presentation quality | faculty general,coursera,implicit | implicit | implicit | explicit
+‎مزيد من الأمثلة على الرسوم البيانية من النوع المالي - - مرتفع / منخفض / مفتوح / مغلق وما إلى ذلك.,NULL,material quantity,coursera,implicit
+‎أتمنى أن تقدم كورسيرا المزيد من الدورات عالية الجودة مثل هذه.,NULL,NULL,coursera,implicit
+‎سيكونالأمرأفضلمع:-المزيدمنالتحليلمقاطعالفيديو(مثلوجودمقطعفيديوفيالأسبوعالماضي)أقساممتاحةبتنسيقاتذكية(علىسبيلالمثال،مقطوعةموسيقية)بحيثيمكنللآلاتالمنقولةتجنبترميزالأقسام,مقاطع الفيديو,presentation quantity,coursera,explicit
+‎عبءالعملفيهذهالدورةأكثركثافةمنالدورةالسابقةفيالتخصص،وخاصةفيالأسبوعالثالث.,عبء العمل في هذه الدورة,material quality,coursera,explicit
+‎أناأشعربخيبةأملكبيرةفيهذاالفئةوربمالنأتمكنمنالنجاحلأننيلاأملكالوقتالكافيلمعرفةكيفيةالبرمجةفيR.,الفئة | الفئة,course general | course general,coursera,explicit | explicit
+‎يغطيالدورةالمفاهيمالأساسيةوالأخلاقوالتاريخبالإضافةإلىالأساليبالعملية.,الدورة,course general,coursera,explicit
+‎أنا أمزح، حتى لو كان ذلك صحيحًا بنسبة 100٪.,NULL,NULL,coursera,implicit
+‎المدربلقدصنعهذهالدورةحقًا.,المدرب,faculty general,coursera,explicit
+‎باربأوكليرائعةوأشركتنيطوالالوقت.,بارب أوكلي | بارب أوكلي,faculty general | faculty general,coursera,explicit | explicit
+‎لقداستمتعتبهذاالدورةوأشعربالإثارةفيكلمرةأنقرفيهاعلىدرسجديد.,الدورة | درس جديد,course general | course general,coursera,explicit | explicit
+‎هناكالكثيرممايستحقالتأملفيهذاالكتابالغنيالكثيفبالطبع.,بالطبع | بالطبع,course general | course general,coursera,explicit | explicit
+‎لايوجدشرحمضيعةللوقتفيالمحاضرات.,المحاضرات,presentation quality,coursera,explicit
+‎سلبيات :,NULL,NULL,coursera,implicit
+‎لقد أعجبني بشكل خاص الدرس حول الاحتمال المنطقي للسفر عبر الزمن.,الدرس,material quality,coursera,explicit
+‎الدورةجيدةجدًا.,الدورة,course general,coursera,explicit
+‎1. منظم بشكل جيد 2. سهل الفهم 3. أمثلة مقنعة 4. محفز لإحداث تأثير في بلدك النامي,NULL | NULL | NULL,course quality | course comprehensiveness | course relatability,coursera,implicit | implicit | implicit
+‎كانتمقاطعالفيديوالقديمةمعالشروحاترائعة!,مقاطع الفيديو القديمة,presentation comprehensiveness,coursera,explicit
+‎أعتقد أن الدورة كان يجب أن تغطي بعض المفاهيم بشكل أكثر تفصيلاً والتي تتعلق بأجهزة إنترنت الأشياء - على سبيل المثال، المقاطعات واستخداماتها، ومناقشة تفصيلية لبروتوكول SPI.,الدورة,course relatability,coursera,explicit
+‎أفضل بكثير من ذي قبل .,NULL,NULL,coursera,implicit
+‎المحتوىموجهجدًانحوالتعلمعبرالإنترنت.,المحتوى,material quality,coursera,explicit
+‎لا أستطيع إلا أن أتمنى أن يقيم المزيد من الدورات في المستقبل.,NULL,faculty general,coursera,implicit
+‎منالسهلجدًافهمه،يتمتقديمجميعالمواضيعالتيتمتمناقشتهابطريقةسهلةوغيرمؤلمة.,المواضيع | المواضيع | NULL,material quality | material quality | course comprehensiveness,coursera,explicit | explicit | implicit
+‎أوصيبشدةبهذهالدورةدورةلأيشخصيرغبفيالحصولعلىفهمشاملللتغذيةالحقيقيةوالتقليدية(العضوية،نوعالطبخالخاصبالجدة).,دورة,course general,coursera,explicit
+‎أنصح الجميع بشدة بالتسجيل فيه!,NULL,course general,coursera,implicit
+‎أفضلجزءفيالواجباتكانيتمثلفيالقدرةعلىعرضإرسالياتزملاءالدراسةوالتعلممنهامنخلالمراجعةتقنياتالترميزالتياستخدموها.,الواجبات,grades general,coursera,explicit
+‎كانمقدمانرئيسيانعلىدرايةكبيرةوتمتقديمالعرضلجمهوردولي.,مقدمان رئيسيان | مقدمان رئيسيان,faculty general | faculty general,coursera,explicit | explicit
+‎لقد كانت رحلة رائعة عبر الزمن والمعرفة وداخل نفسي وفي الكون!,NULL,NULL,coursera,implicit
+‎أتمنى أن يكون هناك جزء ثاني لهذه الدورة!,NULL,NULL,coursera,implicit
+‎طريقة جيدة لتعلم كليهما.,NULL,course general,coursera,implicit
+‎لقد استمتعت كثيرًا بـ الدرس وأحببت التحدي المتمثل في معرفة كيفية إكمال المهام.,الدرس | المهام,course general | assignments quality,coursera,explicit | explicit
+‎أحبهذاالدورة،ولكنبالنسبةليكانمنالصعبقليلاًفهمبعضالأشياءالأساسية.,الدورة | الأشياء الأساسية,course quality | course comprehensiveness,coursera,explicit | explicit
+‎أعتقدأنهذهالمرحلةمنالدورةيمكنتلخيصهافيأسبوعواحدفقطمنالعمل.,دورة,course general,coursera,explicit
+"‎يجب عليك استخدام التنسيق الدقيق للحصول على الإجابة الصحيحة على المشكلات، وإلا فسيتم وضع علامة خطأ على الدورة التدريبية ""كما هي""، مما يعني أنه عندما تكون هناك أخطاء في الدورة التدريبية، لا يتوفر لا مستضيف الويب ولا أعضاء هيئة التدريس لتصحيح الأخطاء، لا يُسمح للمشرفين بتصحيح محتوى الدورة التدريبية، لذا فإن ما ينتهي بهم الأمر به هو تعديل مشاركتك في المنتدى. اعتد على هذا: ""حذف أحد المشرفين مشاركتك في Calculus One بسبب البريد العشوائي"" ""راجع مدونة قواعد السلوك الخاصة بالمنتدى لمعرفة المزيد حول الإرشادات الخاصة بالمشاركة في مناقشات الدورة التدريبية""، لكنني وغيري ننشر فقط مناطق المشكلات، وبالتالي جعل مناقشات المنتدى عديمة الفائدة، نظرًا لأن المشرفين لديهم فقط سلطة حذف وتحرير مشاركتك، فهناك قائمة بأخطاء المحتوى الخاصة بالدورة التدريبية التي ستحتاج إلى إلقاء نظرة عليها. ذكي حقًا. لقد طلبت تعديل درجتي، لكنهم حذفوا هذا المنشور أيضًا",NULL,NULL,coursera,implicit
+‎نظرة عامة سريعة على منصة Arduino .,NULL,course general,coursera,implicit
+‎محتوىالمقررغيرمدعمبالبحث.,محتوى المقرر,material quality,coursera,explicit
+"‎ربما ينبغي أن يكون هناك المزيد في ""القراءات المقترحة"" حتى يتمكن الأشخاص المهتمون من الإضافة إلى معرفتهم.",القراءات,material quantity,coursera,explicit
+‎سهل جداً .,NULL,NULL,coursera,implicit
+‎دورةقصيرةلطيفةدورة.,دورة,course general,coursera,explicit
+‎ولكننيوجدتأيضًاأنهالمتمنحنيالثراءفيالمبادئوالتقنياتالتيوجدتهافيدوراتأخرىبهذاالتسلسل.,دورات,course quality,coursera,explicit
+‎هناك الكثير من المعلومات الرائعة في هذه الدورة ويتم تقديمها بطريقة جيدة جدًا.,الدورة | الدورة,course general | presentation quality,coursera,explicit | explicit
+‎محاضر رائع يستخدم أمثلة ملموسة لتوصيل المفاهيم المعقدة.,NULL,faculty general,coursera,implicit
+‎أنصح بـ الدورة لأي شخص مهتم بالتطوير المهني.,الدورة,course general,coursera,explicit
+‎أقرب ما يكون إلى دورة حول معنى الحياة.,NULL,NULL,coursera,implicit
+‎أعتقد أن معظم ما يتم تدريسه هنا ينبغي أن يكون معروفًا لغالبية جميع الناس، من أجل اتخاذ خيارات أكثر استنارة وتفكيرًا حول الحياة، بالإضافة إلى فهم ما سيحدث في العقود القادمة.,NULL,course general,coursera,implicit
+‎ليسمبتدئًادورة.,دورة,course general,coursera,explicit
+‎ممتازالدورة،ممتازالمدرب.,الدورة | المدرب,course general | faculty general,coursera,explicit | explicit
+‎في رأيي المتواضع، فإن ربط مدير منتج البرمجيات بمدير سكرم ليس صحيحًا.,NULL,NULL,coursera,implicit
+‎شكرًالكلؤي،سكوتوجوعلىالدورةالتدريبيةالممتازةالدورة.,لؤي، سكوت وجو | الدورة,faculty general | course general,coursera,explicit | explicit
+‎مليئةبالمعلوماتالمفيدةوالمقنعةوالجديدةمعلومات.,معلومات | معلومات | معلومات,material quality | material quality | material quality,coursera,explicit | explicit | explicit
+‎لقدأعطتناهذهالدورةدورةفرصةرائعةلاستكشافإبداعنا،منخلالمهاملمتتطلبمناأننمتلكمهاراتفيأنواعمعينةمنالتعبيرالرسومي.,دورة | مهام,course general | assignments relatability,coursera,explicit | explicit
+‎لقد كانت تفاعلية، جديرة بالاهتمام ورائعة.,NULL,course quality,coursera,implicit
+‎المدربيقدمالكثيرمنالنصائحالمفيدة.,المدرب,faculty general,coursera,explicit
+‎بشكل عام، أعتقد أن هذه بداية رائعة للمبتدئين في Java، وخاصة المبتدئين في البرمجة.,NULL,course general,coursera,implicit
+‎كما أن الطبخ لطفلك يعد طريقة جميلة لقضاء الوقت معًا والتعبير عن الحب وتحفيز طفلك على تطوير عادات جيدة.,NULL,NULL,coursera,implicit
+"‎نهج سليم حول كيفية عيش ""حياة سعيدة ومرضية"".",NULL,course general,coursera,implicit
+‎على الرغم من أن بعضها يعتمد بشكل كبير على البرامج النصية المعدة مسبقًا، إلا أنه كان على مستوى الألعاب التي تبدو منطقية للمبتدئين دون أن تكون معقدة للغاية (مثل جميع دروس Unity الخاصة).,NULL,course quality,coursera,implicit
+"‎يدورهذاالبرنامجبشكلأساسيحولZMOTوأفضلتحليلاتالتسويقوتقنياتجمعالبياناتوبشكلخامحوالي30دقيقةمنالمحتوى،وكانالأسبوعالماضيأكثرمن""دعونانلخص"".",المحتوى,material quantity,coursera,explicit
+‎كنت أتمنى أن يكون الأمر أكثر عمقًا.,NULL,course quality,coursera,implicit
+‎آمل أن تكون الدورات الأخرى أكثر كثافة وتتطلب المزيد من العمل.,NULL,NULL,coursera,implicit
+‎احصلعلىالكثيرمنالمعرفةمنهذاالفصل.,الفصل,course quality,coursera,explicit
+‎من السهل متابعتها مع تفسيرات جيدة وأمثلة متنوعة.,NULL | NULL,course quality | course quality,coursera,implicit | implicit
+‎يجذبنيأنآخذهذهالدورةعلىالرغممنأنهاباهظةالثمننسبيًا.,دورة,course general,coursera,explicit
+‎ومع ذلك فقد استمتعت .,NULL,course general,coursera,implicit
+‎شكرا لك دكتور تشاك!,NULL,NULL,coursera,implicit
+‎لقدوجدتالدورةمفيدةجدًا(إعادة)مقدمةلتعلمالآلة.,دورة,course general,coursera,explicit
+‎بعدإكمالدورةالتعلمالآليدورةالتياستمرتلمدة10أسابيعبواسطةAndrewNg،شعرتأنهذهالدورةدورةكانتقصيرةجدًا.,دورة,course general,coursera,explicit
+‎ستكونهذهدورة5نجومإذالميكنهناكالمشروعالنهائي.,المشروع النهائي,assignments quality,coursera,explicit
+‎نتطلع إلى حجر الأساس.,NULL,NULL,coursera,implicit
+‎ملهمة بشكل مدهش.,NULL,course general,coursera,implicit
+‎مع ذلك، أود أن أقترح تحديث بعض القضايا مثل:,NULL,NULL,coursera,implicit
+‎الآن تطورت مفاهيمي حول البيئة الآمنة وأصبحت أكثر حذرا.,NULL,NULL,coursera,implicit
+‎شكرًالـكولينفانلينتوجامعةميشيغانعلىإنشاءالبرنامجالمتخصص-تصميمالويبللجميعوخاصةلـCourseraلتحقيقذلك.,كولين فان لينت,faculty general,coursera,explicit
+‎قليلجدًاالمحتوىالمعروضبخلافبعضالمقاطعالقصيرةوالمثيرةللاهتمامإلىحدماالقراءات.,المحتوى | القراءات,material quality | course general,coursera,explicit | explicit
+‎كانتالدورةالمادةمفيدةللغايةحيثقدمتلمحاتعماكانيُنظرإليهعلىأنهسحرخلالالعصورالوسطى.,المادة,material quality,coursera,explicit
+‎بشكلعامهذهدورةرائعةحقًادورة.,دورة,course general,coursera,explicit
+‎3 أسابيع فقط وقد تعلمت الكثير بالفعل!,NULL,course general,coursera,implicit
+‎إن السبب وراء اختيار شركة فاشلة في صناعتها للتركيز عليها أمر لا أفهمه.,NULL,NULL,coursera,implicit
+‎أنا أتطلع إلى الدورة القادمة التي ستنتجها.,NULL,NULL,coursera,implicit
+‎أشعر أن المقرر كان ينبغي أن يكون عنوانه تاريخ البيتلز.,NULL,NULL,coursera,implicit
